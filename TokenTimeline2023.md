@@ -1,3 +1,9 @@
+This is still a public draft. 
+
+The process of contacting asset issuers, gathering blockchain information, organizing the data correctly and getting critiques is still underway.
+
+---
+
 # Counterparty Historical Token/Project Timeline 2023
 
 ---
