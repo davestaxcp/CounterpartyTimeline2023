@@ -230,6 +230,19 @@ Issuer: Robert Ross
 
 ---
 
+Date: **Jul 7, 2014**
+
+Timeline Asset/Project: **BEEP**
+
+Significance: Each unit of this unique Counterparty token, named [BEEP](https://xchain.io/asset/BEEP), was made to be a token that could always be redeemed for a unique sound. This token was minted by Theo Goodman and the original directions to redeem your 'unique sound' was to send the BEEP to [a specific address](https://xchain.io/address/1CxNRJ8SANWxoAxyRaovBX8HD5159TSEYM), in which you would receive an "echo". In the original [bitcoin talk forum post](https://bitcointalk.org/index.php?topic=729719.msg8248468#msg8248468) the directions gave [an example transaction](https://blockchain.info/de/tx/16e6a4ab91bcae64e6320a5202160c8bb678affe5ca3fe8d80f7db8a6796fad1) which contained a sample transaction for the echo effect to show interested users. The user was then to take the base64 included in that echo and play the file in a program that converted that specific information into a unique sound. This is a very interesting and early use of 'token controlled access' while also integrating a unique base64 code on-chain for the 'echo' of this BEEP token. It definitely was a unique chord struck in Counterparty asset history and one of the first to use base64 and musical integration on the Counterparty platform.
+
+Related Links: https://bitcointalk.org/index.php?topic=729719.msg8248468#msg8248468
+https://xchain.io/asset/BEEP
+
+Issuer: Theo Goodman
+
+---
+
 Date: **Jul 11, 2014**
 
 Timeline Asset/Project: **SJCX**
@@ -284,6 +297,18 @@ Issuer: 1NLLTaxJRTSMi9JAemNSZxpCmcKGY4uJ4G
 
 ---
 
+Date: **Jul 29, 2014**
+
+Timeline Asset/Project: **HOURCONSULT**
+
+Significance: This token seems to be one of the first tokens representing buying 'time to speak to an individual'. As per the description, the token represented "1hr of Adam B Levines Consulting Time", though it is unclear if this token is still redeemable for consulting time with Adam.
+
+Related Links: https://xchain.io/asset/HOURCONSULT
+
+Issuer: Adam B Levine
+
+---
+
 Date: **Aug 4, 2014**
 
 Timeline Asset/Project: **BOOKBAG**
@@ -294,6 +319,20 @@ Related Links: https://web.archive.org/web/20141006184421/http://www.zigler.us/B
 https://xchain.io/asset/BOOKBAG
 
 Issuer: Michael G Zigler Jr.
+
+---
+
+Date: **Aug 11, 2014**
+
+Timeline Asset/Project: **SPONSORLTB**
+
+Significance: SPONSORLTB was used for an advertising spot (sponsored segment) during a future show of the [Let's Talk Bitcoin Podcast](https://web.archive.org/web/20220820033109/https://anchor.fm/originalltb) which was the main podcast related to the [Let's Talk Bitcoin website](https://web.archive.org/web/20230131224146/https://letstalkbitcoin.com/). This is a very early use of 'token gated access' for reserving advertisements related to a Counterparty token, though this token seems to have been less used than LTBDISPLAY due to its blockchain data. The description simply stated: "krystal@letstalkbitcoin.com to redeem".
+
+Related Links: https://xchain.io/asset/SPONSORLTB
+https://web.archive.org/web/20220820033109/https://anchor.fm/originalltb
+https://web.archive.org/web/20230131224146/https://letstalkbitcoin.com/
+
+Issuer: 1Hso4cqKAyx9bsan8b5nbPqMTNNce8ZDto
 
 ---
 
@@ -309,6 +348,20 @@ https://xchain.io/asset/BKEYCHAINUSA
 https://web.archive.org/web/20150808000217/http://auction.letstalkbitcoin.com/auction/5-bitcoin-keychain-tokens-us-intl-shipping-incl-2
 
 Issuer: Rob Mitchell
+
+---
+
+Date: **Aug 13, 2014**
+
+Timeline Asset/Project: **LTBDISPLAY**
+
+Significance: This asset was used to reserve one week of display advertisements on the [Let's Talk Bitcoin website](https://web.archive.org/web/20230131224146/https://letstalkbitcoin.com/). It is a very early use of 'token gated access' for accessing features on the LTB website and may be one of the first assets for reserving advertisements related to a Counterparty token.
+
+Related Links: https://xchain.io/asset/LTBDISPLAY
+https://web.archive.org/web/20230131224146/https://letstalkbitcoin.com/
+
+Issuer: 12717MBviQxttaBVhFGRP1LxD8X6CaW452
+
 
 ---
 
@@ -427,6 +480,21 @@ Related Links: https://spellsofgenesis.com/
 https://xchain.io/asset/FDCARD
 
 Issuer: 1PWqaoM6xhfmbHWFMqcLGMeAXcx8DvT3iK
+
+---
+
+Date: **Mar 16, 2015**
+
+Timeline Asset/Project: **SCARAB**
+
+Significance: According to [the official website](https://www.thescarabexperiment.org/): "[SCARAB](https://xchain.io/asset/SCARAB) is a mass multi-user persona linked to a decentralized artist collective through a cryptocurrency token. In order for the process to work members must hold a Scarab Token in a linked account so that they can vote. SCARAB creates a work of art through an algorithmic imaging method process for every 1,000 artworks submitted. Using this process each artwork is integrated with the artwork submitted before it and every thousandth submission ends the cycle by sending the image out for fabrication producing a single artwork of SCARAB." This process was originally intended to produce a quantity of 50 unique, community made works of art. Those 50 tokens are represented by the [SCARABART](https://xchain.io/asset/SCARABART) token. This project, like other Counterparty projects [was originally published](https://bitcointalk.org/index.php?topic=1822809.0) on the Bitcointalk forums.
+
+Related Links: https://xchain.io/asset/SCARAB
+https://www.thescarabexperiment.org/scarab-tokens.html
+https://xchain.io/asset/SCARABART
+https://bitcointalk.org/index.php?topic=1822809.0
+
+Issuer: 1KRq1LvA1HHd3uuqStwAPV2MqJNfPRiNv9
 
 ---
 
@@ -561,6 +629,23 @@ http://rarepepedirectory.com/
 https://web.archive.org/web/20191105144553/https://bitcointalk.org/index.php?topic=1617264.0
 
 Issuer: Mike
+
+---
+
+Date: **Sep 17, 2016**
+
+Timeline Asset/Project: **PEPECASH**
+
+Significance: Early on, in the first series of the [Rare Pepe Directory](http://rarepepedirectory.com/), it was theorized to have a project centered currency to trade against all the cards from all the artists in the directory. Since many tokens were already being sold against XCP and since the Counterparty Decentralized Exchange supported 'asset-for-asset' trading pairs, [PEPECASH](https://xchain.io/asset/PEPECASH) became the currency of exchange for trading Rare Pepe's in the community. It was also a card in the directory itself with minted art by Mike. PEPECASH was originally distributed to holders of RAREPEPE, GOXPEPE, AND SHITCOINCARD. A portion of PEPECASH was also donated to FoldingCoin miners. After some giveaways on Twitter and in [the Rare Pepe Telegram chat](https://t.me/+RHJ6MDMME545MDk5), the rest was burned, which ended up being about 300 Million units. This card was also used to submit cards into the directory from that point on, though you were required to send it to [a specific burn address](https://xchain.io/address/1BurnPepexxxxxxxxxxxxxxxxxxxAK33R) to do so. These trading theories were done because this project predates the 'destroy' function as well as the 'dispenser' function. This asset also historically became one of the 12 cryptocurrencies officially [approved of by the Japanese government in 2017](https://www.techinasia.com/japan-approved-crypto-exchanges). It is not uncommon for more recent projects to still use PEPECASH, for instance the [Fake Rares 'Commons'](https://fakeraredirectory.com/fake-commons/) section requires a 'destruction' of PEPECASH for submission.
+
+Related Links: https://xchain.io/asset/PEPECASH
+http://rarepepedirectory.com/
+https://www.techinasia.com/japan-approved-crypto-exchanges
+https://xchain.io/address/1BurnPepexxxxxxxxxxxxxxxxxxxAK33R
+https://t.me/+RHJ6MDMME545MDk5
+
+Issuer: Mike
+
 
 ---
 
@@ -703,6 +788,21 @@ Issuer: The DieCast Club
 
 ---
 
+Date: **Feb 14, 2017**
+
+Timeline Project/Asset: **BADHAIRDAY**
+
+Significance: On December 2nd, 2016, a user made an invalid counterparty transaction of [HAIRPEPE](https://xchain.io/asset/HAIRPEPE) and because of an unforeseen bug in the code, this transaction caused counterparty nodes to crash. [Aya](https://twitter.com/ayaLAN), the artist of HAIRPEPE stated, "As people began to troubleshot what was wrong, it became known that HAIRPEPE was the cause of it, and the absurdity of it made it sort of a meme". Bitcointalk forum poster 'xnova' stated in [this post](https://bitcointalk.org/index.php?topic=1777955.msg17968298#msg17968298) that the more technical explanation of this issue was: "the parameters chosen for a HAIRPEPE order hit up on an obscure bug where the calculated integer value chosen for the order quantity was higher than the max integer value for sqllite, but equal to the max int value used in the python validation code (they differed by 1). Thus, the value was not further limited in the sanity check code, and when the daemon was attempting to store the record in sqllite it caused an exception." The user, novax, went on to say that because of this mishap "we now handle this situation in a way that should avoid this kind of issue in the future anywhere in the code." The asset that references this day was minted by Joe Looney and is named: [BADHAIRDAY](https://xchain.io/asset/BADHAIRDAY). This artwork, which resembles a HAIRPEPE as a 'cog in the XCP machine' is also an official card in the [Rare Pepe Directory](http://rarepepedirectory.com/).
+
+Related Links: https://xchain.io/asset/BADHAIRDAY
+https://bitcointalk.org/index.php?topic=1777955.msg17968298#msg17968298
+https://twitter.com/ayaLAN
+http://rarepepedirectory.com/
+
+Issuer: Joe Looney
+
+---
+
 Date: **Apr 8, 2017**
 
 Timeline Asset/Project: **WACKNAKAMOTO**
@@ -738,6 +838,19 @@ Related Links: https://xchain.io/asset/COINDADDY.FIRST.SUBASSET
 https://coindaddy.io/
 
 Issuer: 1Lfm6jXgCQi8LvjpgFHa2F4hdr1uJVa5t4
+
+---
+
+Date: **May 31, 2017**
+
+Timeline Project: **Monaparty**
+
+Significance: [Monaparty](https://twitter.com/MonapartyXMP) was launched on top of [Monacoin](https://monacoin.org/), which was considered Japan's first cryptocurrency. It is modeled from the Counterparty protocol and is similar to 2014 Dogecoin token asset platform [Dogeparty](https://dogeparty.net/). Monacoin is a Proof-of-Work Blockchain that operates off of the Lyra2RE(v2) algorithm with a 1.5 Minute Block Time and a reward of 12.5 MONA. This platform is considered historical in the Counterparty Community as it was one of the first to use Counterparty's open source code to create an entirely separate platform. [This platform](https://github.com/monacoinproject/monacoin) allows the Monaparty community to issue unique tokens inclusive of Art, Music, Trading Cards, Community Tokens, Unlock Tokens, and much more.
+
+Related Links: https://twitter.com/MonapartyXMP
+https://monacoin.org/
+https://github.com/monaparty
+https://github.com/monacoinproject/monacoin
 
 ---
 
@@ -796,128 +909,30 @@ Issuer: nathansonic
 
 ---
 
-Date: **Jul 29, 2014**
+Date: **Mar 27, 2018**
 
-Timeline Asset/Project: **HOURCONSULT**
+Timeline Asset/Project: **CANTSMOKEBTC**
 
-Significance: This token seems to be one of the first tokens representing buying 'time to speak to an individual'. As per the description, the token represented "1hr of Adam B Levines Consulting Time", though it is unclear if this token is still redeemable for consulting time with Adam.
+Significance: The asset named [CANTSMOKEBTC](https://xchain.io/asset/CANTSMOKEBTC) is considered the first "proof of share" token on Counterparty. Scrilla made 1000 total of CANTSMOKEBTC and anyone who shared the song or video of [CANT SMOKE A BITCOIN](https://www.youtube.com/watch?v=hPimmS0TyPs) on Twitter or Instagram, Scrilla sent them a CANTSMOKEBTC as proof that they participated. He ended up burning 900+, which was the unused remainder, but about 60 people participated at the time. His theory was that this token was a proof of concept that people would participate in an artists success (social media promotion) and get rewarded a time stamped proof that they did in fact do so. Scrilla mentioned, "I ran an ad campaign on Twitter for $50 at same time to compare how the two different strategies would work - I ended up getting a significant amount more of traction from the token share and it cost almost 10x less... with the exception of paying $5 or so to send out the 60ish tokens." It gained enough traction that Art Rozenbaum, a writer for bitsonline, [wrote an article about it](https://web.archive.org/web/20221205050154/https://bitsonline.com/dj-crilla-tokens-promote-music-video/). It was also instructed to the users to use the hashtag #CANTSMOKEBTC which is still very visible and searchable [on twitter](https://twitter.com/hashtag/CANTSMOKEBTC) to this day. This song was also one of the first to be promoted on all the possible blockchain solutions, which at the time included: Ujo, Counterparty, Bitcorns, SuperRare and ERC-888.
 
-Related Links: https://xchain.io/asset/HOURCONSULT
+Related Links: https://xchain.io/asset/CANTSMOKEBTC
+https://web.archive.org/web/20221205050154/https://bitsonline.com/dj-crilla-tokens-promote-music-video/
+https://twitter.com/hashtag/CANTSMOKEBTC
 
-Issuer: Adam B Levine
-
----
-
-Date: **Sep 28, 2021**
-
-Timeline Asset/Project: **CCSATOSHI**
-
-Significance: This was the first token to use base64 specifically in the description of the asset to represent an image on the Counterparty Protocol. In "theory" [this transaction](https://xchain.io/tx/1711458) could be considered the first 'stamp' on Counterparty, though the Stamps project that exists today has different requirements than what was done here. [This transaction](https://mempool.space/tx/4c19b8f1b4dcefa27490d2a8d4b5afea2350d0b75640e402519e8aa2a628397a) to publish the description (and base64 code) was also intermingled at the time with the multi-sig output on a dispense for some divisible units of SATOSHICARD. The art along with the token was designed in MS Paint and was originally intended for the Bitcorns project as a card submission. [Cornholio](https://twitter.com/C0rnh0li0) mentioned, "It was a test transaction for [CRYPTOCORNS](https://xchain.io/asset/CRYPTOCORNS), where I was creating 100 little cryptopunk style images within a card". CRYPTOCORNS would eventually become a card in the [Barnyard Club](https://barnyard.club/). The subsequent 99 images were also eventually minted using [Ordinals](https://github.com/ordinals/ord), in which Cornholio mentioned trying to hit the ordinal number 69420, but 'missed'.
-
-Related Links: https://twitter.com/C0rnh0li0
-https://xchain.io/asset/CCSATOSHI
-https://xchain.io/asset/CRYPTOCORNS
-
-Issuer: Cornholio the Great
+Issuer: Scrilla
 
 ---
 
-Date: **Sep 17, 2016**
+Date: **Apr 6, 2018**
 
-Timeline Asset/Project: **PEPECASH**
+Timeline Asset/Project: **MAFIACASH**
 
-Significance: Early on, in the first series of the [Rare Pepe Directory](http://rarepepedirectory.com/), it was theorized to have a project centered currency to trade against all the cards from all the artists in the directory. Since many tokens were already being sold against XCP and since the Counterparty Decentralized Exchange supported 'asset-for-asset' trading pairs, [PEPECASH](https://xchain.io/asset/PEPECASH) became the currency of exchange for trading Rare Pepe's in the community. It was also a card in the directory itself with minted art by Mike. PEPECASH was originally distributed to holders of RAREPEPE, GOXPEPE, AND SHITCOINCARD. A portion of PEPECASH was also donated to FoldingCoin miners. After some giveaways on Twitter and in [the Rare Pepe Telegram chat](https://t.me/+RHJ6MDMME545MDk5), the rest was burned, which ended up being about 300 Million units. This card was also used to submit cards into the directory from that point on, though you were required to send it to [a specific burn address](https://xchain.io/address/1BurnPepexxxxxxxxxxxxxxxxxxxAK33R) to do so. These trading theories were done because this project predates the 'destroy' function as well as the 'dispenser' function. This asset also historically became one of the 12 cryptocurrencies officially [approved of by the Japanese government in 2017](https://www.techinasia.com/japan-approved-crypto-exchanges). It is not uncommon for more recent projects to still use PEPECASH, for instance the [Fake Rares 'Commons'](https://fakeraredirectory.com/fake-commons/) section requires a 'destruction' of PEPECASH for submission.
+Significance: [Mafia Wars](https://mafiawars.io/) is a decentralized blockchain based mafia themed idle game of accumulation which utilizes the Counterparty platform. The only objective of the game is to accumulate the [MAFIACASH](https://xchain.io/asset/MAFIACASH) reward token. MAFIACASH is distributed each month to players proportional to their share of total Mafia Wars family tokens and their families in-game performance.
 
-Related Links: https://xchain.io/asset/PEPECASH
-http://rarepepedirectory.com/
-https://www.techinasia.com/japan-approved-crypto-exchanges
-https://xchain.io/address/1BurnPepexxxxxxxxxxxxxxxxxxxAK33R
-https://t.me/+RHJ6MDMME545MDk5
+Related Links: https://mafiawars.io/
+https://xchain.io/asset/MAFIACASH
 
-Issuer: Mike
-
----
-
-
-Date: **May 19, 2022**
-
-Timeline Asset/Project: **HODLPET**
-
-Significance: HODLPET is the first dynamic interactive pet hosted on the Bitcoin blockchain via Counterparty. The official website states to "think of HODLPET as an online Tamagotchi who is nurtured democratically by our community of HODLERs, or as a community-led choose-your-own adventure story." HODLPET tokens are made available in batches of 50 via Counterparty Dispensers each time HODLPET reaches a new milestone. To see if any are currently for sale, check the Dispenser tab or the token Markets at [xchain.io/asset/HODLPET](https://xchain.io/asset/HODLPET).
-
-Related Links: https://hodlpet.io/
-https://xchain.io/asset/HODLPET
-
-Issuer: 1H81H1De6mi8hu3nUTfJ2TunxHEgCga3iu
-
----
-
-Date: **Oct 17, 2018**
-
-Timeline Asset/Project: **NPCS**
-
-Significance: This is possibly the first [artistic collection](https://wojak7.wixsite.com/npcs) on Counterparty that used the 'subasset' feature as a curated way to incorporate artist submissions. The main theme of the pieces incorporated the 'Non Player Character' meme, though each asset in the series also represented a real Twitter profile as well. For example the first subasset in the series, [NPCS.npc4815162342](https://xchain.io/asset/NPCS.npc4815162342) had a Twitter handle "@npc4815162342". Though unfortunately, almost all profiles in this collection were censored from the Twitter platform.
-
-Related Links: https://xchain.io/asset/NPCS
-https://wojak7.wixsite.com/npcs
-
-Issuer: Dan Anderson
-
----
-
-Date: **Mar 7, 2023**
-
-Timeline Asset/Project: **A7337447728884561000**
-
-Significance: This is the first stamp in the Bitcoin Stamps project originally theorized by MikeinSpace and implemented by Kevin and Arwyn. It was inspired by the creation of Ordinals that it was possible to create "on-chain" art by leveraging Counterparty based on the bare-multisig quirk that bypasses OP_RETURN. This stamp in particular in considered quite simple and experimental compared to the art that would be developed in later stamps. Since the size of the image is limited to 24x24 pixels, most of the stamps are considered true 'pixel' art.
-
-Related Links: https://github.com/mikeinspace/stamps/blob/main/BitcoinStamps.md
-https://www.rarestamp.xyz/stamp/A7337447728884561000
-https://twitter.com/mikeinspace
-https://twitter.com/reinamora_137
-https://twitter.com/mrarwyn
-
-Issuer: 1GotRejB6XsGgMsM79TvcypeanDJRJbMtg
-
----
-
-Date: **Aug 13, 2014**
-
-Timeline Asset/Project: **LTBDISPLAY**
-
-Significance: This asset was used to reserve one week of display advertisements on the [Let's Talk Bitcoin website](https://web.archive.org/web/20230131224146/https://letstalkbitcoin.com/). It is a very early use of 'token gated access' for accessing features on the LTB website and may be one of the first assets for reserving advertisements related to a Counterparty token.
-
-Related Links: https://xchain.io/asset/LTBDISPLAY
-https://web.archive.org/web/20230131224146/https://letstalkbitcoin.com/
-
-Issuer: 12717MBviQxttaBVhFGRP1LxD8X6CaW452
-
----
-
-Date: **Aug 11, 2014**
-
-Timeline Asset/Project: **SPONSORLTB**
-
-Significance: SPONSORLTB was used for an advertising spot (sponsored segment) during a future show of the [Let's Talk Bitcoin Podcast](https://web.archive.org/web/20220820033109/https://anchor.fm/originalltb) which was the main podcast related to the [Let's Talk Bitcoin website](https://web.archive.org/web/20230131224146/https://letstalkbitcoin.com/). This is a very early use of 'token gated access' for reserving advertisements related to a Counterparty token, though this token seems to have been less used than LTBDISPLAY due to its blockchain data. The description simply stated: "krystal@letstalkbitcoin.com to redeem".
-
-Related Links: https://xchain.io/asset/SPONSORLTB
-https://web.archive.org/web/20220820033109/https://anchor.fm/originalltb
-https://web.archive.org/web/20230131224146/https://letstalkbitcoin.com/
-
-Issuer: 1Hso4cqKAyx9bsan8b5nbPqMTNNce8ZDto
-
----
-
-Date: **Jul 7, 2014**
-
-Timeline Asset/Project: **BEEP**
-
-Significance: Each unit of this unique Counterparty token, named [BEEP](https://xchain.io/asset/BEEP), was made to be a token that could always be redeemed for a unique sound. This token was minted by Theo Goodman and the original directions to redeem your 'unique sound' was to send the BEEP to [a specific address](https://xchain.io/address/1CxNRJ8SANWxoAxyRaovBX8HD5159TSEYM), in which you would receive an "echo". In the original [bitcoin talk forum post](https://bitcointalk.org/index.php?topic=729719.msg8248468#msg8248468) the directions gave [an example transaction](https://blockchain.info/de/tx/16e6a4ab91bcae64e6320a5202160c8bb678affe5ca3fe8d80f7db8a6796fad1) which contained a sample transaction for the echo effect to show interested users. The user was then to take the base64 included in that echo and play the file in a program that converted that specific information into a unique sound. This is a very interesting and early use of 'token controlled access' while also integrating a unique base64 code on-chain for the 'echo' of this BEEP token. It definitely was a unique chord struck in Counterparty asset history and one of the first to use base64 and musical integration on the Counterparty platform.
-
-Related Links: https://bitcointalk.org/index.php?topic=729719.msg8248468#msg8248468
-https://xchain.io/asset/BEEP
-
-Issuer: Theo Goodman
+Issuer: 1MafiamRRxzhUH5errEEJK2G4Q1ZjXoEgE
 
 ---
 
@@ -934,70 +949,42 @@ Issuer: 1GthHWThv44QrrXRySeqke5r3GhJT75qtm
 
 ---
 
-Date: **Dec, 2013**
+Date: **Oct 17, 2018**
 
-Timeline Project: **Monaparty**
+Timeline Asset/Project: **NPCS**
 
-Significance: [Monaparty](https://twitter.com/MonapartyXMP) was launched on top of [Monacoin](https://monacoin.org/), which was considered Japan's first cryptocurrency. It is modeled from the Counterparty protocol and is similar to 2014 Dogecoin token asset platform [Dogeparty](https://dogeparty.net/). Monacoin is a Proof-of-Work Blockchain that operates off of the Lyra2RE(v2) algorithm with a 1.5 Minute Block Time and a reward of 12.5 MONA. This platform is considered historical in the Counterparty Community as it was one of the first to use Counterparty's open source code to create an entirely separate platform. [This platform](https://github.com/monacoinproject/monacoin) allows the Monaparty community to issue unique tokens inclusive of Art, Music, Trading Cards, Community Tokens, Unlock Tokens, and much more.
+Significance: This is possibly the first [artistic collection](https://wojak7.wixsite.com/npcs) on Counterparty that used the 'subasset' feature as a curated way to incorporate artist submissions. The main theme of the pieces incorporated the 'Non Player Character' meme, though each asset in the series also represented a real Twitter profile as well. For example the first subasset in the series, [NPCS.npc4815162342](https://xchain.io/asset/NPCS.npc4815162342) had a Twitter handle "@npc4815162342". Though unfortunately, almost all profiles in this collection were censored from the Twitter platform.
 
-Related Links: https://twitter.com/MonapartyXMP
-https://monacoin.org/
-https://github.com/monaparty
-https://github.com/monacoinproject/monacoin
+Related Links: https://xchain.io/asset/NPCS
+https://wojak7.wixsite.com/npcs
 
----
-
-Date: **Feb 14, 2017**
-
-Timeline Project/Asset: **BADHAIRDAY**
-
-Significance: On December 2nd, 2016, a user made an invalid counterparty transaction of [HAIRPEPE](https://xchain.io/asset/HAIRPEPE) and because of an unforeseen bug in the code, this transaction caused counterparty nodes to crash. [Aya](https://twitter.com/ayaLAN), the artist of HAIRPEPE stated, "As people began to troubleshot what was wrong, it became known that HAIRPEPE was the cause of it, and the absurdity of it made it sort of a meme". Bitcointalk forum poster 'xnova' stated in [this post](https://bitcointalk.org/index.php?topic=1777955.msg17968298#msg17968298) that the more technical explanation of this issue was: "the parameters chosen for a HAIRPEPE order hit up on an obscure bug where the calculated integer value chosen for the order quantity was higher than the max integer value for sqllite, but equal to the max int value used in the python validation code (they differed by 1). Thus, the value was not further limited in the sanity check code, and when the daemon was attempting to store the record in sqllite it caused an exception." The user, novax, went on to say that because of this mishap "we now handle this situation in a way that should avoid this kind of issue in the future anywhere in the code." The asset that references this day was minted by Joe Looney and is named: [BADHAIRDAY](https://xchain.io/asset/BADHAIRDAY). This artwork, which resembles a HAIRPEPE as a 'cog in the XCP machine' is also an official card in the [Rare Pepe Directory](http://rarepepedirectory.com/).
-
-Related Links: https://xchain.io/asset/BADHAIRDAY
-https://bitcointalk.org/index.php?topic=1777955.msg17968298#msg17968298
-https://twitter.com/ayaLAN
-http://rarepepedirectory.com/
-
-Issuer: Joe Looney
+Issuer: Dan Anderson
 
 ---
 
-Date: **Mar 16, 2015**
+Date: **Mar 23, 2020**
 
-Timeline Asset/Project: **SCARAB**
+Timeline Asset/Project: **A11136359864833872787**
 
-Significance: According to [the official website](https://www.thescarabexperiment.org/): "[SCARAB](https://xchain.io/asset/SCARAB) is a mass multi-user persona linked to a decentralized artist collective through a cryptocurrency token. In order for the process to work members must hold a Scarab Token in a linked account so that they can vote. SCARAB creates a work of art through an algorithmic imaging method process for every 1,000 artworks submitted. Using this process each artwork is integrated with the artwork submitted before it and every thousandth submission ends the cycle by sending the image out for fabrication producing a single artwork of SCARAB." This process was originally intended to produce a quantity of 50 unique, community made works of art. Those 50 tokens are represented by the [SCARABART](https://xchain.io/asset/SCARABART) token. This project, like other Counterparty projects [was originally published](https://bitcointalk.org/index.php?topic=1822809.0) on the Bitcointalk forums.
+Significance: [This numeric asset](https://xchain.io/asset/A11136359864833872787) was a token Scrilla gave away to people who pre ordered the album: Sound Money. As with GORILLAFLUE this was integrated into [the album's bandcamp page](https://rarescrilla.bandcamp.com/album/sound-money). Only two users total claimed this token within the pre-order window from the redeemable token key. Scrilla also held on to two units of this token and saved one for the artist ankhlejohn who was featured on the single cover art. The cover art was also minted to the description using the JSON format at the time of issuance. Scrilla mentioned he was "was trying to get people a free 'proof of early support' token that showed they were early in supporting the album."
 
-Related Links: https://xchain.io/asset/SCARAB
-https://www.thescarabexperiment.org/scarab-tokens.html
-https://xchain.io/asset/SCARABART
-https://bitcointalk.org/index.php?topic=1822809.0
+Related Links: https://rarescrilla.bandcamp.com/album/sound-money
+https://xchain.io/asset/A11136359864833872787
 
-Issuer: 1KRq1LvA1HHd3uuqStwAPV2MqJNfPRiNv9
-
----
-
-Date: **Jun 6, 2022**
-
-Timeline Asset/Project: **BASSMINT**
-
-Significance: Bassmint is a crypto music directory on Counterparty that invites musical artists to "create tokens and NFTs. Draw your audience with your music, get paid in BTC [and] start earning royalties today." The Bassmint collection was created to "to disrupt the music industry to give ownership and power back to the artist by removing the greedy business middle man companies." Musicians can mint their music and have them curated on the Bassmint platform and get paid in Bitcoin directly by the fans buying their tracks. BASSMINT is the original token associated with the project.
-
-Related Links: https://xchain.io/asset/BASSMINT
-https://bassmint.wtf/about/
-
-Issuer: 17hhaQLGEBNMBxruLYEA2aeW473n8YNEZ5
+Issuer: Scrilla
 
 ---
 
 Date: **Mar 6, 2021**
 
 Timeline Asset/Project: **SATOSHINFT**
+
 Significance: This is the first time on the Counterparty Protocol that a named asset was locked at 0.00000001 tokens total. This is the smallest unit possible that a divisible asset can theoretically be on Counterparty. Since it is also the same decimal place as the smallest unit Bitcoin can be (called a 'satoshi'), it was named SATOSHINFT because it is truly the most 'Non-Fungible' a divisible asset can be. The description includes a reference to an artwork of Satoshi Nakamoto holding a bitcoin and the description read "First single satoshi NFT".
 
 Related Links: https://xchain.io/asset/SATOSHINFT
 
 Issuer: 1KZHG6aUQEHkGn3ArXSf5RTp56SsjfL6Wy
+
 
 ---
 
@@ -1023,6 +1010,21 @@ Related Links: https://fakeraredirectory.com/
 https://xchain.io/asset/FAKEASF
 
 Issuer: 165RSk13jh4hTaJCYj93GFS3c4nQdimRr9
+
+---
+
+Date: **Sep 28, 2021**
+
+Timeline Asset/Project: **CCSATOSHI**
+
+Significance: This was the first token to use base64 specifically in the description of the asset to represent an image on the Counterparty Protocol. In "theory" [this transaction](https://xchain.io/tx/1711458) could be considered the first 'stamp' on Counterparty, though the Stamps project that exists today has different requirements than what was done here. [This transaction](https://mempool.space/tx/4c19b8f1b4dcefa27490d2a8d4b5afea2350d0b75640e402519e8aa2a628397a) to publish the description (and base64 code) was also intermingled at the time with the multi-sig output on a dispense for some divisible units of SATOSHICARD. The art along with the token was designed in MS Paint and was originally intended for the Bitcorns project as a card submission. [Cornholio](https://twitter.com/C0rnh0li0) mentioned, "It was a test transaction for [CRYPTOCORNS](https://xchain.io/asset/CRYPTOCORNS), where I was creating 100 little cryptopunk style images within a card". CRYPTOCORNS would eventually become a card in the [Barnyard Club](https://barnyard.club/). The subsequent 99 images were also eventually minted using [Ordinals](https://github.com/ordinals/ord), in which Cornholio mentioned trying to hit the ordinal number 69420, but 'missed'.
+
+Related Links: https://twitter.com/C0rnh0li0
+https://xchain.io/asset/CCSATOSHI
+https://xchain.io/asset/CRYPTOCORNS
+
+Issuer: Cornholio the Great
+
 
 ---
 
@@ -1052,43 +1054,45 @@ Issuer: 1GotRejB6XsGgMsM79TvcypeanDJRJbMtg
 
 ---
 
-Date: **Mar 27, 2018**
+Date: **May 19, 2022**
 
-Timeline Asset/Project: **CANTSMOKEBTC**
+Timeline Asset/Project: **HODLPET**
 
-Significance: The asset named [CANTSMOKEBTC](https://xchain.io/asset/CANTSMOKEBTC) is considered the first "proof of share" token on Counterparty. Scrilla made 1000 total of CANTSMOKEBTC and anyone who shared the song or video of [CANT SMOKE A BITCOIN](https://www.youtube.com/watch?v=hPimmS0TyPs) on Twitter or Instagram, Scrilla sent them a CANTSMOKEBTC as proof that they participated. He ended up burning 900+, which was the unused remainder, but about 60 people participated at the time. His theory was that this token was a proof of concept that people would participate in an artists success (social media promotion) and get rewarded a time stamped proof that they did in fact do so. Scrilla mentioned, "I ran an ad campaign on Twitter for $50 at same time to compare how the two different strategies would work - I ended up getting a significant amount more of traction from the token share and it cost almost 10x less... with the exception of paying $5 or so to send out the 60ish tokens." It gained enough traction that Art Rozenbaum, a writer for bitsonline, [wrote an article about it](https://web.archive.org/web/20221205050154/https://bitsonline.com/dj-crilla-tokens-promote-music-video/). It was also instructed to the users to use the hashtag #CANTSMOKEBTC which is still very visible and searchable [on twitter](https://twitter.com/hashtag/CANTSMOKEBTC) to this day. This song was also one of the first to be promoted on all the possible blockchain solutions, which at the time included: Ujo, Counterparty, Bitcorns, SuperRare and ERC-888.
+Significance: HODLPET is the first dynamic interactive pet hosted on the Bitcoin blockchain via Counterparty. The official website states to "think of HODLPET as an online Tamagotchi who is nurtured democratically by our community of HODLERs, or as a community-led choose-your-own adventure story." HODLPET tokens are made available in batches of 50 via Counterparty Dispensers each time HODLPET reaches a new milestone. To see if any are currently for sale, check the Dispenser tab or the token Markets at [xchain.io/asset/HODLPET](https://xchain.io/asset/HODLPET).
 
-Related Links: https://xchain.io/asset/CANTSMOKEBTC
-https://web.archive.org/web/20221205050154/https://bitsonline.com/dj-crilla-tokens-promote-music-video/
-https://twitter.com/hashtag/CANTSMOKEBTC
+Related Links: https://hodlpet.io/
+https://xchain.io/asset/HODLPET
 
-Issuer: Scrilla
-
----
-
-Date: **Apr 6, 2018**
-
-Timeline Asset/Project: **MAFIACASH**
-
-Significance: [Mafia Wars](https://mafiawars.io/) is a decentralized blockchain based mafia themed idle game of accumulation which utilizes the Counterparty platform. The only objective of the game is to accumulate the [MAFIACASH](https://xchain.io/asset/MAFIACASH) reward token. MAFIACASH is distributed each month to players proportional to their share of total Mafia Wars family tokens and their families in-game performance.
-
-Related Links: https://mafiawars.io/
-https://xchain.io/asset/MAFIACASH
-
-Issuer: 1MafiamRRxzhUH5errEEJK2G4Q1ZjXoEgE
+Issuer: 1H81H1De6mi8hu3nUTfJ2TunxHEgCga3iu
 
 ---
 
-Date: **Mar 23, 2020**
+Date: **Jun 6, 2022**
 
-Timeline Asset/Project: **A11136359864833872787**
+Timeline Asset/Project: **BASSMINT**
 
-Significance: [This numeric asset](https://xchain.io/asset/A11136359864833872787) was a token Scrilla gave away to people who pre ordered the album: Sound Money. As with GORILLAFLUE this was integrated into [the album's bandcamp page](https://rarescrilla.bandcamp.com/album/sound-money). Only two users total claimed this token within the pre-order window from the redeemable token key. Scrilla also held on to two units of this token and saved one for the artist ankhlejohn who was featured on the single cover art. The cover art was also minted to the description using the JSON format at the time of issuance. Scrilla mentioned he was "was trying to get people a free 'proof of early support' token that showed they were early in supporting the album."
+Significance: Bassmint is a crypto music directory on Counterparty that invites musical artists to "create tokens and NFTs. Draw your audience with your music, get paid in BTC [and] start earning royalties today." The Bassmint collection was created to "to disrupt the music industry to give ownership and power back to the artist by removing the greedy business middle man companies." Musicians can mint their music and have them curated on the Bassmint platform and get paid in Bitcoin directly by the fans buying their tracks. BASSMINT is the original token associated with the project.
 
-Related Links: https://rarescrilla.bandcamp.com/album/sound-money
-https://xchain.io/asset/A11136359864833872787
+Related Links: https://xchain.io/asset/BASSMINT
+https://bassmint.wtf/about/
 
-Issuer: Scrilla
+Issuer: 17hhaQLGEBNMBxruLYEA2aeW473n8YNEZ5
+
+---
+
+Date: **Mar 7, 2023**
+
+Timeline Asset/Project: **A7337447728884561000**
+
+Significance: This is the first stamp in the Bitcoin Stamps project originally theorized by MikeinSpace and implemented by Kevin and Arwyn. It was inspired by the creation of Ordinals that it was possible to create "on-chain" art by leveraging Counterparty based on the bare-multisig quirk that bypasses OP_RETURN. This stamp in particular in considered quite simple and experimental compared to the art that would be developed in later stamps. Since the size of the image is limited to 24x24 pixels, most of the stamps are considered true 'pixel' art.
+
+Related Links: https://github.com/mikeinspace/stamps/blob/main/BitcoinStamps.md
+https://www.rarestamp.xyz/stamp/A7337447728884561000
+https://twitter.com/mikeinspace
+https://twitter.com/reinamora_137
+https://twitter.com/mrarwyn
+
+Issuer: 1GotRejB6XsGgMsM79TvcypeanDJRJbMtg
 
 ---
 ---
