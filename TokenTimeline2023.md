@@ -1133,8 +1133,6 @@ Again, if you have some useful information or critique on these below or the one
 * "BLACKBOX" - xcp donation funds
 * "PENISIUM" - https://web.archive.org/web/20230610104637/https://penisium.org/
 
-- * “COVALC” - origins on Counterparty? - https://bitcointalk.org/index.php?topic=1652345.0 - https://xchain.io/asset/COVALC - https://xchain.io/tx/524186
-left because Bittrex delisted XCP - exchangeless for 6-18 months after project
 Edit NILI coins - include more info
 
 ---
