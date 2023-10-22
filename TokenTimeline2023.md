@@ -1115,7 +1115,6 @@ Again, if you have some useful information or critique on these below or the one
 
 * “Blockfreight” - https://web.archive.org/web/20220626175446/https://blockfreight.com/company/
 * “Coffee Party”
-* “Coval” - origins on Counterparty?
 * “Rarepepe.party” - https://www.rt.com/shows/keiser-report/383416-episode-max-keiser-1053/
 * “Takara”
 * “Token.FM” https://venturebeat.com/business/token-fm-first-blockchain-based-direct-to-fan-music-platform-to-launch-initial-trial-in-may-opens-series-a-round/ 
