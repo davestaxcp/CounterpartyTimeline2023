@@ -868,6 +868,7 @@ Issuer: 15mWQFbcioTdgaEzD8xqbJwk3bdq49hish
 Date: **May 22, 2017**
 
 Timeline Asset/Project: **COINDADDY.FIRST.SUBASSET**
+
 Significance: This token is the first recorded subasset after CIP4 was introduced to add the subasset feature to the Counterparty Protocol. Despite it's deceiving name 'COINDADDY' is the main asset and "FIRST.SUBASSET" is the subasset itself. The name is also in reference to the historic minting and asset service named CoinDaddy. The asset description was "First Subasset" and the supply was set at 420.
 
 Related Links: https://xchain.io/asset/COINDADDY.FIRST.SUBASSET
