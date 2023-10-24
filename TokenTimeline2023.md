@@ -510,6 +510,18 @@ Issuer: 1KRq1LvA1HHd3uuqStwAPV2MqJNfPRiNv9
 
 ---
 
+Date: **Mar 20, 2015**
+
+Timeline Asset/Project: **BLACKBOX**
+
+Significance: Blackbox is a unique art project established in 2021 by Jdog with the goal of helping promote donations to Counterparty and the developer community. The goal was also to bring Counterparty token awareness and usefulness while bringing it to a larger audience through a unique blend of grassroots efforts and guerrilla marketing. Owning a [BLACKBOX](https://xchain.io/asset/BLACKBOX) token or its subasset derivitaves shows on the blockchain user participation in the project and support for the community. These tokens are usually for things like [The Counterparty General Fund](https://xchain.io/asset/BLACKBOX.Counterparty_General_Fund), [Funding for Xchain servers](https://xchain.io/asset/BLACKBOX.Xchain_Server_Hosting), specific [Counterparty Improvement Proposal](https://github.com/CounterpartyXCP/cips) [Funding](https://xchain.io/asset/BLACKBOX.CIP03), funding for the [Counterparty Community Manager](https://xchain.io/asset/BLACKBOX.2021.Community_Outreach_Manager), and other token initiatives that enable users to donate to specific improvements or running sub-structures of the Counterparty Community. Holding these tokes also incentivizes token rewards and other special access to new features down the road in the Counterparty Community which only BLACKBOX token holders will get to fully participate in and appreciate.
+
+Related Links: https://xchain.io/asset/BLACKBOX https://xchain.io/asset/BLACKBOX.Counterparty_General_Fund https://xchain.io/asset/BLACKBOX.2021.Community_Outreach_Manager
+
+Issuer: Jdog
+
+---
+
 Date: **Mar 31, 2015**
 
 Timeline Asset/Project: **RIGA**
@@ -1148,9 +1160,7 @@ Again, if you have some useful information or critique on these below or the one
 * "TRIGGERS" - https://web.archive.org/web/20180106173743/http://www.blocksafefoundation.com/index.html#what_we_do
 * "CUPCAKE" - https://www.xcpinata.com/
 * "KEEPSAKE" - https://proofofvisit.com/
-* "BLACKBOX" - xcp donation funds
-
-Edit NILI coins - include more info
+* Edit NILI coins - include more info
 
 ---
 ---
