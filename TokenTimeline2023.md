@@ -470,6 +470,18 @@ Issuer: 1MSu9tdgzo4eNLFUYAEQEEwppMNimqHGFC
 
 ---
 
+Date: **Mar 9, 2015**
+
+Timeline Asset/Project: **GRUMPYCAT**
+
+Significance: This Counterparty asset was minted as 'a fun asset that [was] used to demonstrate the [coindaddy.io](https://coindaddy.io/) asset services'. At the time this was issued, the Coindaddy service offered an "asset vending machine service" similar to the same basic functionality as dispensers (which are active currently on the Counterparty Protocol). Except in this situation you could pay with any XCP or XDP asset/token. This service not in operation today, but was at that time. The vending machine service was a service where people deposited their tokens into a main vending machine hot-wallet. Then the user would setup rules to listen for payments to addresses they configured, and then dispense a token using the Coindaddy 3rd-party service.
+
+Related Links: https://xchain.io/asset/GRUMPYCAT https://coindaddy.io/ 
+
+Issuer: Jdog
+
+---
+
 Date: **Mar 11, 2015**
 
 Timeline Asset/Project: **FDCARD**
@@ -856,7 +868,7 @@ https://github.com/monacoinproject/monacoin
 
 Date: **Jun 25, 2017**
 
-Timeline Asset/Project: PENISIUM
+Timeline Asset/Project: **PENISIUM**
 
 Significance: [This asset](https://xchain.io/asset/PENISIUM) is the back-bone of the [Penisium meme project](https://web.archive.org/web/20230203225112/https://penisium.org/) which started on a system created by their team called 'Proof-of-LOL'. This project includes many singular assets in [the directory](https://web.archive.org/web/20230203221556/https://penisium.org/cards/) submitted by the community and are rewarded in PENISIUM by submitting and collecting the cards in this directory. The more PENISIUM you have, the more benefits you get.
 
@@ -1137,7 +1149,6 @@ Again, if you have some useful information or critique on these below or the one
 * "BOMB" & Adeally http://adeally.com/
 * "EGOLD" minted 2014-04-20 :exploding_head:
 * "BADBURGERDAY" - https://xchain.io/asset/badburgerday
-* "GRUMPYCAT" - Coindaddy "asset vending machine service" same basic functionality as dispensers, except you could pay with any XCP or XDP asset/token. (not in operation today, but was then) - the vending machine service was a service where ppl deposited their tokens into the main Vending machine hot-wallet... then setup rules to listen for payments to addresses they configured, and then dispense a token
 * "TRIGGERS" - https://web.archive.org/web/20180106173743/http://www.blocksafefoundation.com/index.html#what_we_do
 * "CUPCAKE" - https://www.xcpinata.com/
 * "KEEPSAKE" - https://proofofvisit.com/
