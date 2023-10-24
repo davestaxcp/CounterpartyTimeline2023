@@ -854,6 +854,18 @@ https://github.com/monacoinproject/monacoin
 
 ---
 
+Date: **Jun 25, 2017**
+
+Timeline Asset/Project: PENISIUM
+
+Significance: [This asset](https://xchain.io/asset/PENISIUM) is the back-bone of the [Penisium meme project](https://web.archive.org/web/20230203225112/https://penisium.org/) which started on a system created by their team called 'Proof-of-LOL'. This project includes many singular assets in [the directory](https://web.archive.org/web/20230203221556/https://penisium.org/cards/) submitted by the community and are rewarded in PENISIUM by submitting and collecting the cards in this directory. The more PENISIUM you have, the more benefits you get.
+
+Related Links: https://xchain.io/asset/PENISIUM https://web.archive.org/web/20230203225112/https://penisium.org/ https://web.archive.org/web/20230203221556/https://penisium.org/cards/
+
+Issuer: 1KqQFVERKXLW1Nd2TBKLodp9Z3JgTFTjMH
+
+---
+
 Date: **Aug 7, 2017**
 
 Timeline Asset/Project: COVALC
@@ -1130,7 +1142,6 @@ Again, if you have some useful information or critique on these below or the one
 * "CUPCAKE" - https://www.xcpinata.com/
 * "KEEPSAKE" - https://proofofvisit.com/
 * "BLACKBOX" - xcp donation funds
-* "PENISIUM" - https://web.archive.org/web/20230610104637/https://penisium.org/
 
 Edit NILI coins - include more info
 
