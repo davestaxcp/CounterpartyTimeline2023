@@ -1137,7 +1137,6 @@ I’m noticing new topics while clicking around old Counterparty links (and with
 
 Again, if you have some useful information or critique on these below or the ones above feel free to message me on Telegram or Twitter, or just post them below as a comment.
 
-* “Blockfreight” - https://web.archive.org/web/20220626175446/https://blockfreight.com/company/
 * “Coffee Party”
 * “Rarepepe.party” - https://www.rt.com/shows/keiser-report/383416-episode-max-keiser-1053/
 * “Takara”
