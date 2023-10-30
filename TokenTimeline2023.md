@@ -1222,7 +1222,6 @@ I’m noticing new topics while clicking around old Counterparty links (and with
 Again, if you have some useful information or critique on these below or the ones above feel free to message me on Telegram or Twitter, or just post them below as a comment.
 
 * “Takara”
-* “Token.FM” https://venturebeat.com/business/token-fm-first-blockchain-based-direct-to-fan-music-platform-to-launch-initial-trial-in-may-opens-series-a-round/ 
 * "Overstock" - historical assets/history with website and founder
 * "BADBURGERDAY" - https://xchain.io/asset/badburgerday
 
