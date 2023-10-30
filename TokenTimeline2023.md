@@ -1219,7 +1219,7 @@ Issuer: 1GotRejB6XsGgMsM79TvcypeanDJRJbMtg
 
 I’m noticing new topics while clicking around old Counterparty links (and with feedback from the community) and found a few other areas/assets/projects that will need further research.
 
-Again, if you have some useful information or critique on these below or the ones above feel free to message me on Telegram or Twitter, or just post them below as a comment.
+Again, if you have some useful information or critique on these below or the ones above feel free to message me on Telegram or Twitter.
 
 * “Takara”
 * "Overstock" - historical assets/history with website and founder
