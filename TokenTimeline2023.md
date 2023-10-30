@@ -383,10 +383,9 @@ Date: **Sep 27, 2014**
 
 Timeline Asset/Project: **NILI**
 
-Significance: Artist, Nili Lerner released her NILI Coin tokens which represent proportional ownership of her artwork. These coins included [NILI](https://xchain.io/asset/NILI), ICOKE, IDISNEY, ITOYOTA, IEBAY, ITWITTER, IAPPLE, IBEATLES and IUSA. She stated on [the debut Bitcointalk post](https://bitcointalk.org/index.php?topic=782161.0) that NILIcoins were created to "promote a competitive credit-provides ecosystem".
+Significance: Artist, Nili Lerner released her NILI Coin tokens which represent proportional ownership of her artwork. These coins included [NILI](https://xchain.io/asset/NILI), ICOKE, IDISNEY, ITOYOTA, IEBAY, ITWITTER, IAPPLE, IBEATLES and IUSA. She stated on [the debut Bitcointalk post](https://bitcointalk.org/index.php?topic=782161.0) that NILIcoins were created to "promote a competitive credit-provides ecosystem". Nili went on to [explain on her Twitter](https://twitter.com/NILIcoins/status/1646200552278171648) that these tokens "are created and sold as crypto art objects, not a as a financial asset. 80% of most tokens will not be available to own privately (only as holding and as part of a DAO)." For more information about these tokens, their intent and their history, check out [this informative video](https://twitter.com/i/status/1444722573359599617). 
 
-Related Links: https://bitcointalk.org/index.php?topic=782161.0
-https://xchain.io/asset/NILI
+Related Links: https://bitcointalk.org/index.php?topic=782161.0 https://xchain.io/asset/NILI https://twitter.com/NILIcoins/status/1646200552278171648
 
 Issuer: Nili Lerner
 
@@ -1205,7 +1204,6 @@ Again, if you have some useful information or critique on these below or the one
 * "Overstock" - historical assets/history with website and founder
 * "BOMB" & Adeally http://adeally.com/
 * "BADBURGERDAY" - https://xchain.io/asset/badburgerday
-* Edit NILI coins - include more info
 
 ---
 ---
