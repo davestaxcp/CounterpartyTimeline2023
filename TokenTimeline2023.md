@@ -1223,7 +1223,6 @@ Again, if you have some useful information or critique on these below or the one
 
 * “Takara”
 * “Token.FM” https://venturebeat.com/business/token-fm-first-blockchain-based-direct-to-fan-music-platform-to-launch-initial-trial-in-may-opens-series-a-round/ 
-* "Tokenly" https://web.archive.org/web/20220331093026/https://token.fm/
 * "Overstock" - historical assets/history with website and founder
 * "BADBURGERDAY" - https://xchain.io/asset/badburgerday
 
