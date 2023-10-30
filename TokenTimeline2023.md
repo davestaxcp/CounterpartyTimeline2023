@@ -839,6 +839,18 @@ Issuer: Joe Looney
 
 ---
 
+Date: **Mar 3, 2017**
+
+Timeline Project/Asset: **KEEPSAKE**
+
+Significance: This '[Proof of Visit](https://proofofvisit.com/)' project invited users to mint Counterparty tokens to represent being at a specific location in the world. Instead of postcards or souveniers, this idea aimed to timestamp and 'geostamp' a location of an individual digitally on a cryptographic token to prove the user actually was at a specific location. These tokens, like [KEEPSAKE](https://xchain.io/asset/KEEPSAKE) and [PROOFOFVISIT](https://proofofvisit.com/) could be collected, sent and even traded. 
+
+Related Links: https://xchain.io/asset/KEEPSAKE https://proofofvisit.com/
+
+Issuer: 1MLSQ8K9UAUiRgkjqkze2PtgsYREog8nyF
+
+---
+
 Date: **Apr 8, 2017**
 
 Timeline Asset/Project: **WACKNAKAMOTO**
