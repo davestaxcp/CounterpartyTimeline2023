@@ -122,7 +122,7 @@ Issuer: 1BGSqmCnkdyB7W2T15rSBS4qXBdY3LZn1t
 
 ---
 
-Date: **Apr 22, 2014**
+Date: **Apr 9, 2014**
 
 Timeline Asset/Project: **ROCKMINER**
 
@@ -131,6 +131,18 @@ Significance: [ROCKMINER](https://xchain.io/asset/ROCKMINER) is the first asset 
 Related Links: https://xchain.io/asset/ROCKMINER
 
 Issuer: 1ABBDuY1CJuPNtZR8r3qPGzRYkqpcCPGr1
+
+---
+
+Date: **Apr 22, 2014**
+
+Timeline Asset/Project: **BOMB**
+
+Significance: This asset, [BOMB](https://xchain.io/asset/BOMB), simply has the description 'Adeally Equity Shares' which appears to be the asset used for equity in a company named [Adeally](http://adeally.com/). This company looks like it sought to be a shopping website that included entertainment, products and possibly other products using the Counterparty protocol for company share ownership.
+
+Related Links: https://xchain.io/asset/BOMB http://adeally.com/
+
+Issuer: 187TT5PpAKGHRBGjdaKDZsgBH1s8yNCtS4
 
 ---
 
@@ -1202,7 +1214,6 @@ Again, if you have some useful information or critique on these below or the one
 * “Token.FM” https://venturebeat.com/business/token-fm-first-blockchain-based-direct-to-fan-music-platform-to-launch-initial-trial-in-may-opens-series-a-round/ 
 * "Tokenly" https://web.archive.org/web/20220331093026/https://token.fm/
 * "Overstock" - historical assets/history with website and founder
-* "BOMB" & Adeally http://adeally.com/
 * "BADBURGERDAY" - https://xchain.io/asset/badburgerday
 
 ---
