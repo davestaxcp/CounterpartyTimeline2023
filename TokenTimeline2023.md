@@ -641,6 +641,18 @@ Issuer: Christian Moss
 
 ---
 
+Date: **Jul 13, 2016**
+
+Timeline Asset/Project: **TRIGGERS**
+
+Significance: This [blockchain based project](https://web.archive.org/web/20180106173743/http://www.blocksafefoundation.com/index.html#what_we_do ) titled 'Blocksafe' aimed at cryptographic tracking and token representation of firearms. The original token on Counterparty, [TRIGGERS](https://xchain.io/asset/TRIGGERS), was the start of a inventory process of an individual ownership or state ownership of guns. The project stated this process "can anonymously reduce gang activity, locate stolen firearms, prevent malignant gun use and more". TRIGGERS was also publicly traded on Bittrex for a short time, though as [stated in the whitepaper](https://web.archive.org/web/20180127200858/http://www.blocksafefoundation.com/assets/blocksafe_whitepaper_v.1.pdf) this project would eventually convert to using ERC20 tokens later.
+
+Related Links: https://xchain.io/asset/TRIGGERS https://web.archive.org/web/20180106173743/http://www.blocksafefoundation.com/index.html#what_we_do https://web.archive.org/web/20180127200858/http://www.blocksafefoundation.com/assets/blocksafe_whitepaper_v.1.pdf
+
+Issuer: 1AssetiB9oec9pmbTThvCLFqBPcLSaQGjB
+
+---
+
 Date: **Aug 9, 2016**
 
 Timeline Asset/Project: **WILLCOIN**
@@ -1194,7 +1206,6 @@ Again, if you have some useful information or critique on these below or the one
 * "BOMB" & Adeally http://adeally.com/
 * "EGOLD" minted 2014-04-20 :exploding_head:
 * "BADBURGERDAY" - https://xchain.io/asset/badburgerday
-* "TRIGGERS" - https://web.archive.org/web/20180106173743/http://www.blocksafefoundation.com/index.html#what_we_do
 * Edit NILI coins - include more info
 
 ---
