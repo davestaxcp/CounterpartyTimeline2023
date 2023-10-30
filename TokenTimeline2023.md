@@ -735,6 +735,18 @@ Issuer: Mike
 
 ---
 
+Date: **Oct 4, 2016**
+
+Timeline Asset/Project: **RAREPEPEPRTY**
+
+Significance: This asset, [RAREPEPEPRTY](https://xchain.io/asset/RAREPEPEPRTY), is not only an accepted submission into the [Rare Pepe Directory](http://rarepepedirectory.com/), but is also the token that represents shares in a game called [Rare Pepe Party](https://web.archive.org/web/20210506073100/http://rarepepe.party/). This project aimed to use some specific cards in the directory that were minted by John Villar to be included in a digital trading card game. This project also had a [Booster Sales Pack sales model](https://web.archive.org/web/20201031172141/https://docs.google.com/document/d/1IVca73gSsnxtZTW1Qki-fIbgYNz7Ap-5oZZLtT-_-aM/edit) and a [business proposal](https://web.archive.org/web/20201031173413/https://docs.google.com/document/d/1k8Dq6k4OHLD6NZ-qlwGjLYIq_ndVpopDolOXq7SjDuo/edit?usp=sharing). This game and project even saw great fame and hype when it was [mentioned by Max Keiser and Stacy Herbert](https://www.rt.com/shows/keiser-report/383416-episode-max-keiser-1053/). Still to this day, despite some recent updates given by the team, Rare Pepe Party is still not live to play at the time of this writing.
+
+Related Links: https://xchain.io/asset/RAREPEPEPRTY https://web.archive.org/web/20210506073100/http://rarepepe.party/ https://www.rt.com/shows/keiser-report/383416-episode-max-keiser-1053/ https://web.archive.org/web/20201031172141/https://docs.google.com/document/d/1IVca73gSsnxtZTW1Qki-fIbgYNz7Ap-5oZZLtT-_-aM/edit 
+
+Issuer: 1PDJv8u8zw4Fgqr4uCb2yim9fgTs5zfM4s
+
+---
+
 Date: **Oct 7, 2016**
 
 Timeline Asset/Project: **RAREPEPESS**
@@ -1209,7 +1221,6 @@ I’m noticing new topics while clicking around old Counterparty links (and with
 
 Again, if you have some useful information or critique on these below or the ones above feel free to message me on Telegram or Twitter, or just post them below as a comment.
 
-* “Rarepepe.party” - https://www.rt.com/shows/keiser-report/383416-episode-max-keiser-1053/
 * “Takara”
 * “Token.FM” https://venturebeat.com/business/token-fm-first-blockchain-based-direct-to-fan-music-platform-to-launch-initial-trial-in-may-opens-series-a-round/ 
 * "Tokenly" https://web.archive.org/web/20220331093026/https://token.fm/
