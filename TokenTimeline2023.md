@@ -510,6 +510,18 @@ Issuer: 1KRq1LvA1HHd3uuqStwAPV2MqJNfPRiNv9
 
 ---
 
+Date: **Mar 16, 2015**
+
+Timeline Asset/Project: **CUPCAKE**
+
+Significance: [XCPinata](https://www.xcpinata.com/) was a very early pixel art collection on Counterparty. [CUPCAKE] is the first asset of this collection and was minted by Kevin Ferreira. Kevin chose to start minting his art onto the blockchain much earlier than this project, but this one specifically lives on Counterparty. He looked to give collectors of his art automatic drops and rewards for holding these tokens. Using the Counterparty protocol, it was easy to do so. His theory was to "share the thinking that art is a token in and of itself". 
+
+Related Links: https://xchain.io/asset/CUPCAKE https://www.xcpinata.com/ https://www.altiba9.com/artist-interviews/xcpinata-kevin-ferreira-nft-crypto-art
+
+Issuer: Kevin Ferreira
+
+---
+
 Date: **Mar 20, 2015**
 
 Timeline Asset/Project: **BLACKBOX**
@@ -1183,8 +1195,6 @@ Again, if you have some useful information or critique on these below or the one
 * "EGOLD" minted 2014-04-20 :exploding_head:
 * "BADBURGERDAY" - https://xchain.io/asset/badburgerday
 * "TRIGGERS" - https://web.archive.org/web/20180106173743/http://www.blocksafefoundation.com/index.html#what_we_do
-* "CUPCAKE" - https://www.xcpinata.com/
-* "KEEPSAKE" - https://proofofvisit.com/
 * Edit NILI coins - include more info
 
 ---
