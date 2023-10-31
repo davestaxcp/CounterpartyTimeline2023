@@ -1131,6 +1131,18 @@ Issuer: 19QWXpMXeLkoEKEJv2xo9rn8wkPCyxACSX
 
 ---
 
+Date: **Sep 21, 2021**
+
+Timeline Asset/Project: **BADBURGERDAY**
+
+Significane: On August 31st of 2021, Counterparty developer, Jdog, stated publicly he had encountered an error on his counterparty-server that read ""counterpartylib.lib.check.SanityError: 1984 VOATBURGER issued ≠ 1963 VOATBURGER held". The devs and a few other people running nodes noticed the issue and found it to be that someone "tried to open a dispenser on an empty address real quick in 2 transactions mined in the same block". This someone was a user by the name of 'Duncan' while he was opening a dispenser for the asset [VOATBURGER](https://xchain.io/asset/VOATBURGER). Jdog released a [hotfix for the issue](https://github.com/CounterpartyXCP/counterparty-lib/commit/94fbac7d9c44d0fb97bf481e37d6522e80b03071) and explained this error was a "sanity error" and a fix to "add code to only allow refills from source address" was added to the Counterparty protocol. Another user in the community by the name of 'Indelible' noticed this and messaged Duncan that he wanted to "tap your shoulder in case any cool stuff was going on". Indelible then realized this situation was very similar to the story of [BADHAIRDAY](https://xchain.io/asset/BADHAIRDAY) and minted art to represent the situation titled: [BADBURGERDAY](https://xchain.io/asset/BADBURGERDAY), which eventually become an official card of the [Fake Rare Directory](https://fakeraredirectory.com/).
+
+Related Links: https://xchain.io/asset/BADBURGERDAY https://xchain.io/asset/VOATBURGER 
+
+Issuer: 18mxQdLxcLstD6ttbHykvEoAYdu4eADtEf
+
+---
+
 Date: **Sep 23, 2021**
 
 Timeline Asset/Project: **FAKEASF**
@@ -1233,7 +1245,6 @@ I’m noticing new topics while clicking around old Counterparty links (and with
 Again, if you have some useful information or critique on these below or the ones above feel free to message me on Telegram or Twitter.
 
 * “Takara”
-* "BADBURGERDAY" - https://xchain.io/asset/badburgerday
 
 ---
 ---
