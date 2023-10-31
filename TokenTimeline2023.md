@@ -618,11 +618,11 @@ Date: **Dec 19, 2015**
 
 Timeline Asset/Project: **SARUTOBICARD**
 
-Significance: A young iOS developer in Australia by the name of [Christian Moss](https://twitter.com/MandelDuck) released a game on the App Store called [SaruTobi's Island](https://mandelduck.com/sarutobiisland/) where players tapped the screen to spin a monkey to see how far they could get him to fly. Christian wanted to let SaruTobi players purchase in-game items with Bitcoin but Apple’s iOS App Store terms didn't allow it. Instead he let players collect small amounts of Bitcoin as they played. In June of 2016, Christian implemented this functionality by making the [Spells of Genesis](https://spellsofgenesis.com/) SATOSHICARD, [SARUTOBICARD](https://xchain.io/asset/SARUTOBICARD), and CNPCARD playable in Sarutobi. This asset, along with SATOSHICARD marked the first instance of a Counterparty tokenized asset becoming interoperable between two independent games. 
+Significance: A young iOS developer in Australia by the name of [Christian Moss](https://twitter.com/MandelDuck) released a game on the App Store called [SaruTobi](https://mandelduck.com/sarutobi/) where players tapped the screen to spin a monkey to see how far they could get him to fly. Christian wanted to let SaruTobi players purchase in-game items with Bitcoin but Apple’s iOS App Store terms didn't allow it. Instead he let players collect small amounts of Bitcoin as they played. In June of 2016, Christian implemented this functionality by making the [Spells of Genesis](https://spellsofgenesis.com/) SATOSHICARD, [SARUTOBICARD](https://xchain.io/asset/SARUTOBICARD), and CNPCARD playable in Sarutobi. This asset, along with SATOSHICARD marked the first instance of a Counterparty tokenized asset becoming interoperable between two independent games. 
 
 Related Links: https://xchain.io/asset/SARUTOBICARD
 https://spellsofgenesis.com/
-https://mandelduck.com/sarutobiisland/
+https://mandelduck.com/sarutobi/
 
 Issuer: Christian Moss
 
@@ -648,7 +648,7 @@ Date: **May 6, 2016**
 
 Timeline Asset/Project: **NINJASUIT**
 
-Significance: [NINJASUIT](https://xchain.io/asset/NINJASUIT) is the first Counterparty asset native to the game [SaruTobi's Island](https://mandelduck.com/sarutobi/ninja/) and would eventually be realized as the first NFT gaming "skin", the first NFT power-up and it marked the first instance of an NFT being used in a play-to-earn game. [Christian Moss](https://twitter.com/MandelDuck) realized that he could “link a user's Counterparty mobile wallet to SaruTobi and the app would be able to read what tokens they had in their wallet. Based on their token inventory NINJASUIT could grant access to various features in the game.” The art on the token represented the power-up that could be used in game which was involved a double-jump where the in game character, "instead of falling will jump mid-air giving you another chance".
+Significance: [NINJASUIT](https://xchain.io/asset/NINJASUIT) is the first Counterparty asset native to the game [SaruTobi](https://mandelduck.com/sarutobi/ninja/) and would eventually be realized as the first NFT gaming "skin", the first NFT power-up and it marked the first instance of an NFT being used in a play-to-earn game. [Christian Moss](https://twitter.com/MandelDuck) realized that he could “link a user's Counterparty mobile wallet to SaruTobi and the app would be able to read what tokens they had in their wallet. Based on their token inventory NINJASUIT could grant access to various features in the game.” The art on the token represented the power-up that could be used in game which was involved a double-jump where the in game character, "instead of falling will jump mid-air giving you another chance". Despite how xchain shows the listing, SaruTobi and 'Sarutobi's Island' are two separate games.
 
 Related Links: https://xchain.io/asset/NINJASUIT
 https://mandelduck.com/sarutobi/ninja/
