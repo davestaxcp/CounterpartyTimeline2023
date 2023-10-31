@@ -1,11 +1,6 @@
-This is still a public draft.
-
-The process of gathering blockchain information, organizing the data correctly and getting critiques is still underway.
-
----
-
 # Counterparty Developer Timeline - 2023
 
+---
 ---
 
 Date: **2014-01-02**
