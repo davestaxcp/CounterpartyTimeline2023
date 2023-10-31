@@ -131,3 +131,9 @@ Some developer updates that are still underway (or pre-drafted) are yet to be in
 I invite you to verify, critique and pull request this information to perfect this list so all can benefit off of the goal of publishing this content on [Counterparty.io](Counterparty.io) and for any educational purposes beyond that.
 
 Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter](https://twitter.com/davesta_xcp) if you need to request changes to information or would like to contribute to the data included here.
+
+---
+
+## Tokens 'On Deck'
+
+- [griffin](https://twitter.com/griffin6737)'s string of Alphabetical asset art 1/1 pieces in 2015: https://bitcointalk.org/index.php?topic=954740
