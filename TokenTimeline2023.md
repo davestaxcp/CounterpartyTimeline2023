@@ -531,7 +531,7 @@ Date: **Mar 16, 2015**
 
 Timeline Asset/Project: **CUPCAKE**
 
-Significance: [XCPinata](https://www.xcpinata.com/) was a very early pixel art collection on Counterparty. [CUPCAKE] is the first asset of this collection and was minted by Kevin Ferreira. Kevin chose to start minting his art onto the blockchain much earlier than this project, but this one specifically lives on Counterparty. He looked to give collectors of his art automatic drops and rewards for holding these tokens. Using the Counterparty protocol, it was easy to do so. His theory was to "share the thinking that art is a token in and of itself". 
+Significance: [XCPinata](https://www.xcpinata.com/) was a very early pixel art collection on Counterparty. [CUPCAKE](https://xchain.io/asset/CUPCAKE) is the first asset of this collection and was minted by Kevin Ferreira. Kevin chose to start minting his art onto the blockchain much earlier than this project, but this one specifically lives on Counterparty. He looked to give collectors of his art automatic drops and rewards for holding these tokens. Using the Counterparty protocol, it was easy to do so. His theory was to "share the thinking that art is a token in and of itself". 
 
 Related Links: https://xchain.io/asset/CUPCAKE https://www.xcpinata.com/ https://www.altiba9.com/artist-interviews/xcpinata-kevin-ferreira-nft-crypto-art
 
