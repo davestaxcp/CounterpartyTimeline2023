@@ -301,7 +301,7 @@ Date: **Jul 29, 2014**
 
 Timeline Asset/Project: **FORMICACOIN**
 
-Significance: FORMICACOIN is the first asset to specifically have a "PNG" image associated with the token description. The description reads: ["image": http://i.imgur.com/KZjKrMc.png] and the picture resembles a small ant. There is also a FORMICACOIN with the [same name](https://dogeparty.xchain.io/asset/FORMICACOIN) on the Dogeparty Protocol, but was minted a few weeks later and did not include an image link.
+Significance: [FORMICACOIN](https://xchain.io/asset/FORMICACOIN) is the first asset to specifically have a "PNG" image associated with the token description. The description reads: ["image": http://i.imgur.com/KZjKrMc.png] and the picture resembles a small ant. There is also a FORMICACOIN with the [same name](https://dogeparty.xchain.io/asset/FORMICACOIN) on the Dogeparty Protocol, but was minted a few weeks later and did not include an image link.
 
 Related Links: https://xchain.io/asset/FORMICACOIN
 
@@ -313,7 +313,7 @@ Date: **Jul 29, 2014**
 
 Timeline Asset/Project: **HOURCONSULT**
 
-Significance: This token seems to be one of the first tokens representing buying 'time to speak to an individual'. As per the description, the token represented "1hr of Adam B Levines Consulting Time", though it is unclear if this token is still redeemable for consulting time with Adam.
+Significance: This token, [HOURCONSULT](https://xchain.io/asset/HOURCONSULT), seems to be one of the first tokens representing buying 'time to speak to an individual'. As per the description, the token represented "1hr of Adam B Levines Consulting Time", though it is unclear if this token is still redeemable for consulting time with Adam.
 
 Related Links: https://xchain.io/asset/HOURCONSULT
 
@@ -395,9 +395,9 @@ Date: **Sep 27, 2014**
 
 Timeline Asset/Project: **NILI**
 
-Significance: Artist, Nili Lerner released her NILI Coin tokens which represent proportional ownership of her artwork. These coins included [NILI](https://xchain.io/asset/NILI), ICOKE, IDISNEY, ITOYOTA, IEBAY, ITWITTER, IAPPLE, IBEATLES and IUSA. She stated on [the debut Bitcointalk post](https://bitcointalk.org/index.php?topic=782161.0) that NILIcoins were created to "promote a competitive credit-provides ecosystem". Nili went on to [explain on her Twitter](https://twitter.com/NILIcoins/status/1646200552278171648) that these tokens "are created and sold as crypto art objects, not a as a financial asset. 80% of most tokens will not be available to own privately (only as holding and as part of a DAO)." For more information about these tokens, their intent and their history, check out [this informative video](https://twitter.com/i/status/1444722573359599617). 
+Significance: Artist, [Nili Lerner](https://twitter.com/NILIcoins) released her NILI Coin tokens which represent proportional ownership of her artwork. These coins included [NILI](https://xchain.io/asset/NILI), ICOKE, IDISNEY, ITOYOTA, IEBAY, ITWITTER, IAPPLE, IBEATLES and IUSA. She stated on [the debut Bitcointalk post](https://bitcointalk.org/index.php?topic=782161.0) that NILIcoins were created to "promote a competitive credit-provides ecosystem". Nili went on to [explain on her Twitter](https://twitter.com/NILIcoins/status/1646200552278171648) that these tokens "are created and sold as crypto art objects, not a as a financial asset. 80% of most tokens will not be available to own privately (only as holding and as part of a DAO)." For more information about these tokens, their intent and their history, check out [this informative video](https://twitter.com/i/status/1444722573359599617). 
 
-Related Links: https://bitcointalk.org/index.php?topic=782161.0 https://xchain.io/asset/NILI https://twitter.com/NILIcoins/status/1646200552278171648
+Related Links: https://bitcointalk.org/index.php?topic=782161.0 https://xchain.io/asset/NILI https://twitter.com/NILIcoins/status/1646200552278171648 https://twitter.com/NILIcoins
 
 Issuer: Nili Lerner
 
@@ -496,7 +496,7 @@ Date: **Mar 9, 2015**
 
 Timeline Asset/Project: **GRUMPYCAT**
 
-Significance: This Counterparty asset was minted as 'a fun asset that [was] used to demonstrate the [coindaddy.io](https://coindaddy.io/) asset services'. At the time this was issued, the Coindaddy service offered an "asset vending machine service" similar to the same basic functionality as dispensers (which are active currently on the Counterparty Protocol). Except in this situation you could pay with any XCP or XDP asset/token. This service not in operation today, but was at that time. The vending machine service was a service where people deposited their tokens into a main vending machine hot-wallet. Then the user would setup rules to listen for payments to addresses they configured, and then dispense a token using the Coindaddy 3rd-party service.
+Significance: This Counterparty asset, [GRUMPYCAT](https://xchain.io/asset/GRUMPYCAT), was minted as 'a fun asset that [was] used to demonstrate the [coindaddy.io](https://coindaddy.io/) asset services'. At the time this was issued, the Coindaddy service offered an "asset vending machine service" similar to the same basic functionality as dispensers (which are active currently on the Counterparty Protocol). Except in this situation you could pay with any XCP or XDP asset/token. This service not in operation today, but was at that time. The vending machine service was a service where people deposited their tokens into a main vending machine hot-wallet. Then the user would setup rules to listen for payments to addresses they configured, and then dispense a token using the Coindaddy 3rd-party service.
 
 Related Links: https://xchain.io/asset/GRUMPYCAT https://coindaddy.io/ 
 
@@ -949,7 +949,7 @@ Date: **May 22, 2017**
 
 Timeline Asset/Project: **COINDADDY.FIRST.SUBASSET**
 
-Significance: This token is the first recorded subasset after CIP4 was introduced to add the subasset feature to the Counterparty Protocol. Despite it's deceiving name 'COINDADDY' is the main asset and "FIRST.SUBASSET" is the subasset itself. The name is also in reference to the historic minting and asset service named CoinDaddy. The asset description was "First Subasset" and the supply was set at 420.
+Significance: This token, [COINDADDY.FIRST.SUBASSET](https://xchain.io/asset/COINDADDY.FIRST.SUBASSET) is the first recorded subasset after CIP4 was introduced to add the subasset feature to the Counterparty Protocol. Despite it's deceiving name 'COINDADDY' is the main asset and "FIRST.SUBASSET" is the subasset itself. The name is also in reference to the historic minting and asset service named [CoinDaddy](https://coindaddy.io/). The asset description was "First Subasset" and the supply was set at 420.
 
 Related Links: https://xchain.io/asset/COINDADDY.FIRST.SUBASSET
 https://coindaddy.io/
@@ -1120,7 +1120,7 @@ Date: **Mar 6, 2021**
 
 Timeline Asset/Project: **SATOSHINFT**
 
-Significance: This is the first time on the Counterparty Protocol that a named asset was locked at 0.00000001 tokens total. This is the smallest unit possible that a divisible asset can theoretically be on Counterparty. Since it is also the same decimal place as the smallest unit Bitcoin can be (called a 'satoshi'), it was named SATOSHINFT because it is truly the most 'Non-Fungible' a divisible asset can be. The description includes a reference to an artwork of Satoshi Nakamoto holding a bitcoin and the description read "First single satoshi NFT".
+Significance: This is the first time on the Counterparty Protocol that a named asset was locked at 0.00000001 tokens total. This is the smallest unit possible that a divisible asset can theoretically be on Counterparty. Since it is also the same decimal place as the smallest unit Bitcoin can be (called a 'satoshi'), it was named [SATOSHINFT](https://xchain.io/asset/SATOSHINFT) because it is truly the most 'Non-Fungible' a divisible asset can be. The description includes a reference to an artwork of Satoshi Nakamoto holding a bitcoin and the description read "First single satoshi NFT".
 
 Related Links: https://xchain.io/asset/SATOSHINFT
 
@@ -1133,7 +1133,7 @@ Date: **Mar 6, 2021**
 
 Timeline Asset/Project: **BITCORN.GLASSES**
 
-Significance: In the past, the only way to truly "destroy" a Counterparty asset's supply was to send it to a valid bitcoin burn address. After the token 'destroy' function was added to the Counterparty protocol, BITCORN.GLASSES was the first token destruction done historically. A total of 470 tokens were destroyed with tag *Supply Capped*. At this time of writing, only 30 tokens remain of the BITCORN.GLASSES subasset.
+Significance: In the past, the only way to truly "destroy" a Counterparty asset's supply was to send it to a valid bitcoin burn address. After the token 'destroy' function was added to the Counterparty protocol, [BITCORN.GLASSES](https://xchain.io/asset/BITCORN.GLASSES) was the first token destruction done historically. A total of 470 tokens were destroyed with tag *Supply Capped*. At this time of writing, only 30 tokens remain of the BITCORN.GLASSES subasset.
 
 Related Links: https://xchain.io/asset/BITCORN.GLASSES
 
@@ -1157,10 +1157,9 @@ Date: **Sep 23, 2021**
 
 Timeline Asset/Project: **FAKEASF**
 
-Significance: This is the official token to enter a submission into the Fake Rares project. The requirements for this project is to burn a single FAKEASF card after you have successfully been accepted into the directory. The Fake Rares project was started to continue on the legacy of the Rare Pepe Project and invite new artists to engage in a similar curating process as was done with Rare Pepes. This project was originally started by Scrilla, artist of DJPEPE. It has since become a thriving ecosystem of artists, collectors and enthusiasts who are interested in bitcoin-native NFTs and have a deep appreciation for this homage to Rare Pepe. Since its inception the project has also opened a 'Fake Rare Commons' collection that requires the Rare Pepe asset PEPECASH to be burned for submission. This project also invites certain members who hold the FAKETORCH asset to bring in rejected assets that were once submitted to the original Rare Pepe Collection to be included in Series 0 of Fake Rares.
+Significance: This is the official token to enter a submission into the Fake Rares project. The requirements for this project is to burn a single [FAKEASF](https://xchain.io/asset/FAKEASF) card after you have successfully been accepted into the directory. The [Fake Rares](https://fakeraredirectory.com/) project was started to continue on the legacy of the Rare Pepe Project and invite new artists to engage in a similar curating process as was done with Rare Pepes. This project was originally started by Scrilla, artist of DJPEPE. It has since become a thriving ecosystem of artists, collectors and enthusiasts who are interested in bitcoin-native NFTs and have a deep appreciation for this homage to [Rare Pepe](http://rarepepedirectory.com/). Since its inception the project has also opened a 'Fake Rare Commons' collection that requires the Rare Pepe asset PEPECASH to be burned for submission. This project also invites certain members who hold the FAKETORCH asset to bring in rejected assets that were once submitted to the original Rare Pepe Collection to be included in Series 0 of Fake Rares.
 
-Related Links: https://fakeraredirectory.com/
-https://xchain.io/asset/FAKEASF
+Related Links: https://fakeraredirectory.com/ https://xchain.io/asset/FAKEASF http://rarepepedirectory.com/
 
 Issuer: 165RSk13jh4hTaJCYj93GFS3c4nQdimRr9
 
@@ -1185,10 +1184,9 @@ Date: **Oct 9, 2021**
 
 Timeline Asset/Project: **KEKLUMINATI**
 
-Significance: This project, titled Dank Rares (or Dank Directory) is similar to the Fake Rares project but was started shortly after by another Rare Pepe artist by the name of Boost. The Dank Directory adopted a similar submission and curation process as Rare Pepe and Fake Rares, but used a central currency called DANKMEMECASH to be burned for each submission. The KEKLUMINATI card mentioned here is the first card in the entire directory and holds great significance to the project and its internal rules.
+Significance: This project, titled [Dank Rares](https://www.dankdirectory.io/) (or Dank Directory) was started by a [Rare Pepe](http://rarepepedirectory.com/) artist by the name of Boost. The Dank Directory adopted a similar submission and curation process as Rare Pepe and Fake Rares, but used a central currency called DANKMEMECASH to be burned for each submission. The [KEKLUMINATI](https://xchain.io/asset/KEKLUMINATI) card mentioned here is the first card in the entire directory and holds great significance to the project and its internal rules.
 
-Related Links: https://www.dankdirectory.io/
-https://xchain.io/asset/KEKLUMINATI
+Related Links: https://www.dankdirectory.io/ https://xchain.io/asset/KEKLUMINATI
 
 Issuer: 13QEMF9SgKU9aC4TBhKvbZQbjHaRenUXMs
 
@@ -1198,7 +1196,7 @@ Date: **Dec 31, 2021**
 
 Timeline Asset/Project: **PHOCKHEADS**
 
-Significance: PHOCKHEADS Series 0 started as a Bitcoin parody of Namecoin’s BLOCKHEADS. The interesting thing about the project is that PHOCKHEADS began regularly utilizing Counteparty’s dividends feature to distribute subassets to holders of the grail card which is the PHOCKHEADS token.  With Series 2, PHOCKHEADS evolved to be community-run, composed of multiple grail cards by top Counterparty artists.
+Significance: [PHOCKHEADS](https://xchain.io/asset/PHOCKHEADS). Series 0, started as a Bitcoin parody of Namecoin’s BLOCKHEADS. The interesting thing about [the project](https://phockheads.com/about/) is that PHOCKHEADS began regularly utilizing Counteparty’s dividends feature to distribute subassets to holders of the grail card which is the PHOCKHEADS token.  With Series 2, PHOCKHEADS evolved to be community-run, composed of multiple grail cards by top Counterparty artists.
 
 Related Links: https://phockheads.com/about/
 https://xchain.io/asset/PHOCKHEADS
@@ -1211,7 +1209,7 @@ Date: **May 19, 2022**
 
 Timeline Asset/Project: **HODLPET**
 
-Significance: HODLPET is the first dynamic interactive pet hosted on the Bitcoin blockchain via Counterparty. The official website states to "think of HODLPET as an online Tamagotchi who is nurtured democratically by our community of HODLERs, or as a community-led choose-your-own adventure story." HODLPET tokens are made available in batches of 50 via Counterparty Dispensers each time HODLPET reaches a new milestone. To see if any are currently for sale, check the Dispenser tab or the token Markets at [xchain.io/asset/HODLPET](https://xchain.io/asset/HODLPET).
+Significance: [HODLPET](https://xchain.io/asset/HODLPET) is the first dynamic interactive pet hosted on the Bitcoin blockchain via Counterparty. The [official website](https://hodlpet.io/) states to "think of HODLPET as an online Tamagotchi who is nurtured democratically by our community of HODLERs, or as a community-led choose-your-own adventure story." HODLPET tokens are made available in batches of 50 via Counterparty Dispensers each time HODLPET reaches a new milestone. To see if any are currently for sale, check the Dispenser tab or the token Markets at [xchain.io/asset/HODLPET](https://xchain.io/asset/HODLPET).
 
 Related Links: https://hodlpet.io/
 https://xchain.io/asset/HODLPET
@@ -1224,10 +1222,9 @@ Date: **Jun 6, 2022**
 
 Timeline Asset/Project: **BASSMINT**
 
-Significance: Bassmint is a crypto music directory on Counterparty that invites musical artists to "create tokens and NFTs. Draw your audience with your music, get paid in BTC [and] start earning royalties today." The Bassmint collection was created to "to disrupt the music industry to give ownership and power back to the artist by removing the greedy business middle man companies." Musicians can mint their music and have them curated on the Bassmint platform and get paid in Bitcoin directly by the fans buying their tracks. BASSMINT is the original token associated with the project.
+Significance: [Bassmint](https://bassmint.wtf/about/) is a crypto music directory on Counterparty that invites musical artists to "create tokens and NFTs. Draw your audience with your music, get paid in BTC [and] start earning royalties today." The Bassmint collection was created to "to disrupt the music industry to give ownership and power back to the artist by removing the greedy business middle man companies." Musicians can mint their music and have them curated on the Bassmint platform and get paid in Bitcoin directly by the fans buying their tracks. [BASSMINT](https://bassmint.wtf/about/) is the original token associated with the project.
 
-Related Links: https://xchain.io/asset/BASSMINT
-https://bassmint.wtf/about/
+Related Links: https://xchain.io/asset/BASSMINT https://bassmint.wtf/about/
 
 Issuer: 17hhaQLGEBNMBxruLYEA2aeW473n8YNEZ5
 
@@ -1237,13 +1234,9 @@ Date: **Mar 7, 2023**
 
 Timeline Asset/Project: **A7337447728884561000**
 
-Significance: This is the first stamp in the Bitcoin Stamps project originally theorized by MikeinSpace and implemented by Kevin and Arwyn. It was inspired by the creation of Ordinals that it was possible to create "on-chain" art by leveraging Counterparty based on the bare-multisig quirk that bypasses OP_RETURN. This stamp in particular in considered quite simple and experimental compared to the art that would be developed in later stamps. Since the size of the image is limited to 24x24 pixels, most of the stamps are considered true 'pixel' art.
+Significance: This asset, [A7337447728884561000](https://www.rarestamp.xyz/stamp/A7337447728884561000), is the first stamp in the [Bitcoin Stamps](https://github.com/mikeinspace/stamps/blob/main/BitcoinStamps.md) project originally theorized by [MikeinSpace](https://twitter.com/mikeinspace) and implemented by [Kevin](https://twitter.com/reinamora_137) and [Arwyn](https://twitter.com/mrarwyn). It was inspired by the creation of [Ordinals](https://github.com/ordinals/ord) that it was possible to create "on-chain" art by leveraging Counterparty based on the bare-multisig quirk that bypasses OP_RETURN. This stamp in particular in considered quite simple and experimental compared to the art that would be developed in later stamps. Since the size of the image is limited to 24x24 pixels, most of the stamps are considered true 'pixel' art.
 
-Related Links: https://github.com/mikeinspace/stamps/blob/main/BitcoinStamps.md
-https://www.rarestamp.xyz/stamp/A7337447728884561000
-https://twitter.com/mikeinspace
-https://twitter.com/reinamora_137
-https://twitter.com/mrarwyn
+Related Links: https://github.com/mikeinspace/stamps/blob/main/BitcoinStamps.md https://www.rarestamp.xyz/stamp/A7337447728884561000 https://twitter.com/mikeinspace https://twitter.com/reinamora_137 https://twitter.com/mrarwyn https://github.com/ordinals/ord
 
 Issuer: 1GotRejB6XsGgMsM79TvcypeanDJRJbMtg
 
