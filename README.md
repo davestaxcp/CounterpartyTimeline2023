@@ -106,6 +106,12 @@ https://news.bitcoin.com/top-nine-counterparty-projects/
 
 ## Notes From the Author
 
+---
+
+This is still a public draft.
+
+The process of gathering blockchain information, organizing the data correctly and getting critiques is still underway.
+
 I invite you to verify, critique and pull request this information to perfect this list so all can benefit off of the goal of publishing this content on [Counterparty.io](Counterparty.io) and for any educational purposes beyond that.
 
 Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter](https://twitter.com/davesta_xcp) if you need to request changes to information or would like to contribute to the data included here.
