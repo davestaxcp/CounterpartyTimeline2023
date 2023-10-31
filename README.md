@@ -69,6 +69,8 @@ If I haven't included your name, know I give you all the love in the world.
 
 I couldn't have compiled all of this information without the generous and critical eye of the Counterparty Community.
 
+Rest in Peace [John Villar](https://github.com/chiguireitor) <3
+
 ---
 
 I have pulled my information from: 
