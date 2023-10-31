@@ -427,7 +427,7 @@ Date: **Nov 7, 2014**
 
 Timeline Asset/Project: **GEMZ**
 
-Significance: The [GEMS mobile app](https://www.coindesk.com/markets/2014/10/19/gems-bitcoin-app-lets-users-earn-money-from-social-messaging/) was created to have users own their personal information when using a 'text messaging' app through cryptographic protocols. The creator, Daniel Peled stated that companies like Whatsapp and Facebook are making money selling information to advertisers and that on GEMS "the messaging side is just like any other messaging application, we use a server infrastructure, but the ownership and the reward model is built using blockchain technology". The Counterparty token used in relation to this project was [GEMZ](https://xchain.io/asset/GEMZ).
+Significance: The [GEMS mobile app](https://www.coindesk.com/markets/2014/10/19/gems-bitcoin-app-lets-users-earn-money-from-social-messaging/) was created to have users own their personal information when using a 'text messaging' app through cryptographic protocols. The creator, Daniel Peled, stated that companies like Whatsapp and Facebook are making money selling information to advertisers and that on GEMS "the messaging side is just like any other messaging application, we use a server infrastructure, but the ownership and the reward model is built using blockchain technology". The Counterparty token used in relation to this project was [GEMZ](https://xchain.io/asset/GEMZ).
 
 Related Links: https://www.coindesk.com/markets/2014/10/19/gems-bitcoin-app-lets-users-earn-money-from-social-messaging/
 https://xchain.io/asset/GEMZ
