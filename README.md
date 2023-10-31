@@ -36,7 +36,7 @@ It is my hope that this data below will give more inspirational education to the
 
 ## Creative Design
 
-I am imagining this timeline to be a linear/flat infographic that has certain events “expand” upon hovering over them with more in-depth information about each asset/project and its significance. 
+I am imagining both timelines (Developer and Token/Project Timeline) to be a linear/flat infographic that has certain events “expand” upon hovering over them with more in-depth information about each data point and its significance. 
 
 It is my intention to reach out to an experienced graphic designer for this project as I believe the timeline should follow a few guidelines for the creative side of things:
 
