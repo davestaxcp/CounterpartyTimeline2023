@@ -1,11 +1,6 @@
-This is still a public draft. 
-
-The process of contacting asset issuers, gathering blockchain information, organizing the data correctly and getting critiques is still underway.
-
----
-
 # Counterparty Historical Token/Project Timeline 2023
 
+---
 ---
 
 Date: **Jan 2, 2014** 
@@ -1239,42 +1234,3 @@ Significance: This asset, [A7337447728884561000](https://www.rarestamp.xyz/stamp
 Related Links: https://github.com/mikeinspace/stamps/blob/main/BitcoinStamps.md https://www.rarestamp.xyz/stamp/A7337447728884561000 https://twitter.com/mikeinspace https://twitter.com/reinamora_137 https://twitter.com/mrarwyn https://github.com/ordinals/ord
 
 Issuer: 1GotRejB6XsGgMsM79TvcypeanDJRJbMtg
-
----
----
-
-## Acknowledgments
-
-I'd like to give a huge shoutout to all the digital archaeological digging done by JP Janssen (@JPJA) , Whiterabbit1111, Doggfather, HarryBTC, Blackstar, Jake Gallen and a few other people in the community like RarePepeNews, Scrilla, @theo_goodman, Joe Looney, Nutildah/dogermint, Jdog, LiteBit, Sebuh, ZeroG, Helene, Rob Mitchell and so many more that I have a hard time keeping track of all of the beautiful people who have helped compile this information. If I haven't included your name, know I give you all the love in the world. 
-
-I have pulled my information mentioned below from [this API call](https://codepen.io/ndlbl/pen/yLQVERj?editors=1111) and a few other sources:
-
-The [filtered XCP asset list](https://github.com/Jpja/XCP-Asset-List/blob/main/xcp_assets_filtered.csv) from JPJA
-
-these podcasts: 
-
-[Art On The Blockchain](https://soundcloud.com/artontheblockchain/tracks)
-
-[The Bitcoin Game](https://soundcloud.com/the-bitcoin-game)
-
-[The Adam McBride Show](https://podcasts.apple.com/us/podcast/blockchain-explorer-adam-b-levine/id1410811576?i=1000552014605)
-
-[Bitcoin Uncensored](https://www.mixcloud.com/bitcoinuncensored/uploads/?order=oldest)
-
-these interviews: 
-
-[Exploring the Vintage NFT Space with ZeroG](https://www.youtube.com/@VintageNFTSpace)
-
-this show:
-
-https://www.rt.com/shows/keiser-report/
-
-and these articles:
-
-https://whiterabbit1111.medium.com/the-origin-digital-antiquities-market-nfts-1ea9b69c03f9
-
-https://jpjanssen.com/a-timeline-of-non-fungible-tokens-on-counterparty/
-
-https://jpjanssen.com/timeline/counterparty.html?asset=OLGA&issuer_msg=off
-
-https://news.bitcoin.com/top-nine-counterparty-projects/
