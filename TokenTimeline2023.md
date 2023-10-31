@@ -100,7 +100,7 @@ Date: **Apr 8, 2014**
 
 Timeline Asset/Project: **UNIT**
 
-Significance: UNIT is the first time in Counterparty history that the user locked the token supply. While some earlier tokens have been locked later in time, this is the first token to use the "lock supply" function.
+Significance: [UNIT](https://xchain.io/asset/UNIT) is the first time in Counterparty history that the user locked the token supply. While some earlier tokens have been locked later in time, this is the first token to use the "lock supply" function.
 
 Related Links: https://xchain.io/asset/UNIT
 
