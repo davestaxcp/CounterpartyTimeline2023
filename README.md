@@ -67,7 +67,9 @@ I couldn't have compiled all of this information without the generous and critic
 
 ---
 
-I have pulled my information mentioned below from [this API call](https://codepen.io/ndlbl/pen/yLQVERj?editors=1111) and a few other sources:
+I have pulled my information from: 
+
+[this API call](https://codepen.io/ndlbl/pen/yLQVERj?editors=1111) and a few other sources:
 
 The [filtered XCP asset list](https://github.com/Jpja/XCP-Asset-List/blob/main/xcp_assets_filtered.csv) from JPJA
 
