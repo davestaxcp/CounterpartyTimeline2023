@@ -1,4 +1,4 @@
-# Counterparty Asset and Developer Timeline 2014-2021
+# Counterparty Developer Timeline and Asset Timeline (2014-2021)
 
 ---
 ---
