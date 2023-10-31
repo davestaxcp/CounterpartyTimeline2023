@@ -1190,7 +1190,7 @@ Date: **Dec 31, 2021**
 
 Timeline Asset/Project: **PHOCKHEADS**
 
-Significance: [PHOCKHEADS](https://xchain.io/asset/PHOCKHEADS). Series 0, started as a Bitcoin parody of Namecoin’s BLOCKHEADS. The interesting thing about [the project](https://phockheads.com/about/) is that PHOCKHEADS began regularly utilizing Counteparty’s dividends feature to distribute subassets to holders of the grail card which is the PHOCKHEADS token.  With Series 2, PHOCKHEADS evolved to be community-run, composed of multiple grail cards by top Counterparty artists.
+Significance: [PHOCKHEADS](https://xchain.io/asset/PHOCKHEADS), Series 0, started as a Bitcoin parody of Namecoin’s BLOCKHEADS. The interesting thing about [the project](https://phockheads.com/about/) is that PHOCKHEADS began regularly utilizing Counteparty’s dividends feature to distribute subassets to holders of the grail card which is the PHOCKHEADS token. With Series 2, PHOCKHEADS evolved to be community-run, composed of multiple grail cards by top Counterparty artists.
 
 Related Links: https://phockheads.com/about/
 https://xchain.io/asset/PHOCKHEADS
