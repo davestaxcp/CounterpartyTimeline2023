@@ -69,7 +69,7 @@ I couldn't have compiled all of this information without the generous and critic
 
 I have pulled my information from: 
 
-[This API call](https://codepen.io/ndlbl/pen/yLQVERj?editors=1111) and a few other sources:
+[This Counterparty Asset API call](https://codepen.io/ndlbl/pen/yLQVERj?editors=1111)
 
 The [filtered XCP asset list](https://github.com/Jpja/XCP-Asset-List/blob/main/xcp_assets_filtered.csv) from JPJA
 
