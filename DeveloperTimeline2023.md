@@ -1,4 +1,4 @@
-# Counterparty Developer Timeline - 2023
+# Counterparty Developer Timeline
 
 ---
 ---
