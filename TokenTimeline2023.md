@@ -795,9 +795,9 @@ Date: **Oct 16, 2016**
 
 Timeline Asset/Project: **PEPEBALT**
 
-Significance: Minted by the legendary Counterparty Developer, John Villar, [PEPEBALT](https://xchain.io/asset/PEPEBALT) is the first token that included a playable game on a Counterparty asset itself. PEPEBALT is also a card in the Rare Pepe Collection. Villar wrote on the card itself "It looks and acts like a game, but it isn't a game, it's just a tech demo".
+Significance: Minted by the legendary Counterparty Developer, John Villar, [PEPEBALT](https://xchain.io/asset/PEPEBALT) is the first token that included a playable game on a Counterparty asset itself. PEPEBALT is also a card in the [Rare Pepe Directory](http://rarepepedirectory.com/). Villar wrote on the card itself "It looks and acts like a game, but it isn't a game, it's just a tech demo".
 
-Related Links: https://xchain.io/asset/PEPEBALT
+Related Links: https://xchain.io/asset/PEPEBALT http://rarepepedirectory.com/
 
 Issuer: John Villar
 
