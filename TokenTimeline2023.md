@@ -1005,7 +1005,7 @@ Date: **Oct 3, 2017**
 
 Timeline Asset/Project: **MODERNPEPE.ART**
 
-Significance: This asset is the first asset historically on the Counterparty Protocol to be a subasset that is locked at one single indivisible token. It is considered the first 'Subasset NFT' on Counterparty. It's parent asset, [MODERNPEPE](https://xchain.io/asset/MODERNPEPE), is an official card of the Rare Pepe Directory. The subasset, [MODERNPEPE.ART](https://xchain.io/asset/MODERNPEPE.ART) seems to denote a 1/1 physical framed canvas print of the art in MODERNPEPE as the description reads "Original ModernPepe Framed Canvas".
+Significance: This asset is the first asset historically on the Counterparty Protocol to be a subasset that is locked at one single indivisible token. It is considered the first 'Subasset NFT' on Counterparty. It's parent asset, [MODERNPEPE](https://xchain.io/asset/MODERNPEPE), is an official card of the [Rare Pepe Directory](http://rarepepedirectory.com/). The subasset, [MODERNPEPE.ART](https://xchain.io/asset/MODERNPEPE.ART) seems to denote a 1/1 physical framed canvas print of the art in MODERNPEPE as the description reads "Original ModernPepe Framed Canvas".
 
 Related Links: https://xchain.io/asset/MODERNPEPE.ART
 
