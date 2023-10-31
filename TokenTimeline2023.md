@@ -1,4 +1,4 @@
-# Counterparty Historical Token/Project Timeline 2023
+# Counterparty Historical Token/Project Timeline
 
 ---
 ---
