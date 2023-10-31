@@ -10,13 +10,19 @@ This repo is dedicated to publicly organizing and critiquing a public list for C
 
 # Timeline Data
 
-[Counterparty Developer Timeline](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/DeveloperTimeline2023.md)
+[Counterparty Developer Timeline Data](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/DeveloperTimeline2023.md)
 
 Counterparty Developer Timeline (JSON version) - Coming Soon
 
-[Counterparty Token/Project Timeline](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/TokenTimeline2023.md)
+Counterparty Developer Timeline Visual Infographic - Coming Soon
+
+---
+
+[Counterparty Token/Project Timeline Data](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/TokenTimeline2023.md)
 
 Counterparty Token/Project Timeline (JSON version) - Coming Soon
+
+Counterparty Token/Project Timeline Visual Infographic - Coming Soon
 
 ---
 ---
