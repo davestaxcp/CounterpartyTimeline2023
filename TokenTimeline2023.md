@@ -675,6 +675,16 @@ Issuer: 1AssetiB9oec9pmbTThvCLFqBPcLSaQGjB
 
 ---
 
+Date: **Jul 26, 2016**
+
+Timeline Asset/Project: **Takara**
+
+Significance: [Takara](https://blog.indiesquare.me/bitcoin-geocaching-app-takara-integrates-counterparty-tokens-through-indiesquare-api-bfe1b82bf4a4) was launched in the summer of 2016 and was Bitcoin's first ever 'geocatching App'. It used the Counterparty Protocol and the [IndieSquare](https://indiesquare.co.jp/ ) API to 'drop' Counterparty user created tokens and Bitcoin anywhere in the world. This means if a user went to the location the asset was dropped, they could 'find' the asset and it would be delivered to their account. This app was [very popular](https://bitcoinmagazine.com/culture/counterparty-and-bitcoin-apps-have-fun-with-crypto-1470761687) and had many downloads on IOS as well as Android and at its peak it included assets from many Counterparty projects including Spells of Genesis, Rare Pepe and many others.
+
+Related Links: https://blog.indiesquare.me/bitcoin-geocaching-app-takara-integrates-counterparty-tokens-through-indiesquare-api-bfe1b82bf4a4 https://indiesquare.co.jp/ https://bitcoinmagazine.com/culture/counterparty-and-bitcoin-apps-have-fun-with-crypto-1470761687
+
+---
+
 Date: **Aug 9, 2016**
 
 Timeline Asset/Project: **WILLCOIN**
@@ -1236,15 +1246,6 @@ https://twitter.com/reinamora_137
 https://twitter.com/mrarwyn
 
 Issuer: 1GotRejB6XsGgMsM79TvcypeanDJRJbMtg
-
----
----
-
-I’m noticing new topics while clicking around old Counterparty links (and with feedback from the community) and found a few other areas/assets/projects that will need further research.
-
-Again, if you have some useful information or critique on these below or the ones above feel free to message me on Telegram or Twitter.
-
-* “Takara”
 
 ---
 ---
