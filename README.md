@@ -42,12 +42,12 @@ I am imagining this timeline to be a linear/flat infographic that has certain ev
 
 It is my intention to reach out to an experienced graphic designer for this project as I believe the timeline should follow a few guidelines for the creative side of things:
 
-- The Color scheme should be matching the Logo and Color Scheme of Counterparty.io (need a well seasoned pro to get this feeling right)
+- The Color scheme should be matching the Logo and Color Scheme of [Counterparty.io](https://counterparty.io/) (need a well seasoned pro to get this feeling right)
 - The timeline should be readable and scrollable (maybe even zoomable) on a mobile device as well as Desktop.
 - We could possibly find someone who is excited and knowledgeable about XCP that may have many more hours of experience (and/or pool some donations to pay them for their work).
 
 
-The final product could look something like how Whiterabbit1111 designed his timeline:
+The final product could look something like how [Whiterabbit1111](https://twitter.com/WRabbit1111) designed his timeline:
 
 ![image](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/34d09b70-0db5-4886-a848-569a9af08502)
 
@@ -59,7 +59,13 @@ The final product could look something like how Whiterabbit1111 designed his tim
 
 ---
 
-I'd like to give a huge shoutout to all the digital archaeological digging done by JP Janssen, Whiterabbit1111, Doggfather, HarryBTC, Blackstar, Jake Gallen and a few other people in the community like RarePepeNews, Scrilla, Theo Goodman, Joe Looney, Nutildah/dogermint, Jdog, LiteBit, Sebuh, ZeroG, Helene, Rob Mitchell, Christian Moss, Nicolas Sierro and so many more that I have a hard time keeping track of all of the beautiful people who have helped compile this information. If I haven't included your name, know I give you all the love in the world.
+I'd like to give a huge shoutout to all the digital archaeological digging done by [JP Janssen](https://twitter.com/jp_janssen), [Whiterabbit1111](https://twitter.com/WRabbit1111), [Doggfather](https://twitter.com/DoggfatherCrew), [HarryBTC](https://twitter.com/HarryBTC), [Blackstar](https://twitter.com/BlackstarXXI), [Jake Gallen](https://www.jakegallen.com/), [Shannon Code](https://www.linkedin.com/in/shannoncode/) and a few other people in the community like [RarePepeNews](https://twitter.com/rarepepenews), [Scrilla](https://twitter.com/ScrillaVentura), [Theo Goodman](https://twitter.com/theog__), [Joe Looney](https://twitter.com/wasthatawolf), [Nutildah/dogermint](https://twitter.com/dogermint), [Jdog](https://twitter.com/jdogresorg), [LiteBit](https://twitter.com/LiteBitCo), [Sebuh](https://twitter.com/Sebuh_com), [ZeroG](https://twitter.com/g0barry), Helene, Rob Mitchell, [Christian Moss](https://twitter.com/MandelDuck), [Nicolas Sierro](https://twitter.com/NicolasSierro) and so many more that I have a hard time keeping track of all of the beautiful people who have helped compile this information. 
+
+If I haven't included your name, know I give you all the love in the world. 
+
+I couldn't have compiled all of this information without the generous and critical eye of the Counterparty Community.
+
+---
 
 I have pulled my information mentioned below from [this API call](https://codepen.io/ndlbl/pen/yLQVERj?editors=1111) and a few other sources:
 
