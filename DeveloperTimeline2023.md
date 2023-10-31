@@ -517,5 +517,3 @@ Significance: [This idea](https://github.com/CounterpartyXCP/cips/commit/58268b6
 Related Links: https://github.com/CounterpartyXCP/cips/commit/58268b60fb49a019955847ca8cedd034145d0948
 
 Author: Theo Goodman
-
----
