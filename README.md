@@ -118,7 +118,7 @@ This is still a public draft.
 
 The process of gathering blockchain information, organizing the data correctly and getting critiques is still underway.
 
-Some assets post 2021 have been included, but since so many projects and notable assets have been made since 2021, most of the recent projects have been omitted to focus on the previous historical developments of the older tokens. 
+Some assets post-2021 have been included, but since so many projects and notable assets have been made since 2021, most of the recent projects have been omitted to focus on the previous historical developments of the older tokens. 
 
 Some developer updates still underway (or pre-drafted) are yet to be included until they are officially in the [Counterparty CIP list](https://github.com/CounterpartyXCP/cips).
 
