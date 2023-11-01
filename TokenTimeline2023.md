@@ -1,7 +1,6 @@
 # Counterparty Historical Token/Project Timeline
 
 ---
----
 
 ![XCP-logo](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/f14e274c-4606-431e-89d7-2b045f98bd02)
 
