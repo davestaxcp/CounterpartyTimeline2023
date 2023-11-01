@@ -1,6 +1,9 @@
 # Counterparty Developer Timeline and Asset Timeline (2014-2021)
 
 ---
+
+![XCP-logo](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/fbc130a8-a281-47dc-b65b-f73abc335274)
+
 ---
 
 This repo is dedicated to publicly organizing and critiquing a public list for Counterparty’s vast historical assets/tokens, projects and developer updates to the Counterparty Protocol we have seen since Counterparty’s inception. 
