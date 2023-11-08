@@ -520,6 +520,20 @@ Issuer: 1MSu9tdgzo4eNLFUYAEQEEwppMNimqHGFC
 
 ---
 
+![weex](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/531f5869-4e35-413a-ad41-8a3b080369b5)
+
+Date: **Feb 19, 2015**
+
+Timeline Asset/Project: **Digital-Asset-Backed Artworks by weex**
+
+Significance: As published in this [original Bitcointalk forum post](https://bitcointalk.org/index.php?topic=954740), an artist by the name of 'weex' proposed a set of 1/1 numeric assets minting using the Counterparty protocol to represent 12 separate physical artworks. The artwork in these pieces used a graffiti stencil type style that included the Bitcoin logo. The digital image, the Counterparty asset and the physical's were sold for $50 a piece at the time. None of these 12 assets could be considered "first" or "before the other" because they were all minted at the same time in [the same BTC block](https://xchain.io/tx/169170). This is one of the first instances in the world of 1/1 NFT art with physical tokens associated with it in a series and might be the first to do so with numeric Counterparty assets. The tokens in this series are: [A1268036952489992000](https://xchain.io/asset/A1268036952489992000), [A7714010038065172000](https://xchain.io/asset/A7714010038065172000), [A16665771309720693000](https://xchain.io/asset/A16665771309720693000), [A2482034434046493000](https://xchain.io/asset/A2482034434046493000), [A10757775179751730000](https://xchain.io/asset/A10757775179751730000), [A2382890405647249000](https://xchain.io/asset/A2382890405647249000), [A5276228097108709000](https://xchain.io/asset/A5276228097108709000), [A520544706094163650](https://xchain.io/asset/A520544706094163650), [A12286573536304806000](https://xchain.io/asset/A12286573536304806000), [A11433176278603567000](https://xchain.io/asset/A11433176278603567000), [A305220116359788860](https://xchain.io/asset/A305220116359788860) and [A4727714767834463000](https://xchain.io/asset/A4727714767834463000).
+
+Related Links: https://bitcointalk.org/index.php?topic=954740
+
+Issuer: weex
+
+---
+
 ![grumpycat](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/6999b8ee-59ed-48ca-89cb-dbb75e601f4e)
 
 Date: **Mar 9, 2015**
