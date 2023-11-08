@@ -1188,12 +1188,11 @@ Date: **Jun 9, 2018**
 
 Timeline Asset/Project: **LATOMOH**
 
-Significance: The [AtOMo project](https://blockchainizator.com/atomo-collectibles-list/) was an interesting integration of Counterparty tokens and scientific information, specifically in the circumstance being the periodic table of elements. LATOMOH was the first of the elements minted in this collection in which the AtOMo project included the 118 elements of the periodic table. Each individual element was 'blockchainized' for half of their atomic numbers on the Bitcoin blockchain (for their total issuance) as Counterparty tokens. The [LATOMOH](https://xchain.io/asset/LATOMOH) token itself is for the element: hydrogen.
-
+Significance: The [AtOMo collection](https://blockchainizator.com/atomo-collectibles-list/) started with the 118 elements of the periodic table, each element containing 3 images as animations, with embossed/3D items, and with Creative Commons licensing visually shown on each asset. This project seeks to use a 'blockchainized' version of the Periodic Table of Elements and experiment with their functions. Only half of the 'elements planned supply' were minted on Counterparty. The supply per element was calculated from the physical availability on earth and in the universe: from Hydrogen ([LATOMOH](Related Links: https://xchain.io/asset/LATOMOH), the 1st one minted) with a locked maximum mint on Counterparty of 2112, to the minimum mint of 256 for the asset [LATOMOSE](https://xchain.io/asset/LATOMOSE) which represents the element 'Selenium'. The second aspect of this project are tokens created with words from the elements by using the [AtOMo speller](https://blockchainizator.com/atomospeller/)) such as the assets: LATOMONOICO, FRENSINPARIS. Some of these elemental tokens are apart of other collections too, such as: KEROTIC, KOKO.ATOMO, SHITCOINS.AtOMo, LATOMOFAKE and even ones with pixel design incorporated like: CORNATOMO, SCANATOMO, BTCPAPERSCAN, and PEPEATOMO.
 Related Links: https://xchain.io/asset/LATOMOH
 https://blockchainizator.com/atomo-collectibles-list/
 
-Issuer: 1GthHWThv44QrrXRySeqke5r3GhJT75qtm
+Issuer: Nicolas Sierro
 
 ---
 
