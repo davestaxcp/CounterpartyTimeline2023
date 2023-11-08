@@ -141,8 +141,4 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 ## Tokens 'On Deck'
 
-- [griffin](https://twitter.com/griffin6737)'s post about a string of numerical asset art 1/1 pieces by 'Weex' in 2015 as well as the named asset KETF: https://bitcointalk.org/index.php?topic=954740
-
-- AtOMo project updates
-
-- NILIcoins updates
+- none at the moment
