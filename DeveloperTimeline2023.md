@@ -11,7 +11,7 @@ Date: **2014-01-02**
 
 Timeline Topic: **Counterparty Launched on Bitcointalk**
 
-Significance: Counterparty Co-Founder user 'PhantomPhreak' posts the first [Official Thread](https://bitcointalk.org/index.php?topic=395761) on the [Bitcointalk](https://bitcointalk.org/) Forums for creating Counterparty. In doing so, the post officially started the publishing of the project and offered [Counterwallet](https://wallet.counterwallet.io/) as a space to experiment with the technology used on top of Bitcoin. 
+Significance: Counterparty Co-Founder user-named 'PhantomPhreak' posts the first [Official Thread](https://bitcointalk.org/index.php?topic=395761) on the [Bitcointalk](https://bitcointalk.org/) Forums for creating Counterparty. In doing so, the post officially started the publishing of the project and offered [Counterwallet](https://wallet.counterwallet.io/) as a space to experiment with the technology used on top of Bitcoin. 
 
 Related Links: https://bitcointalk.org/index.php?topic=395761
 
