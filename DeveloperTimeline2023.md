@@ -403,7 +403,7 @@ Author: Fabian Barkhau
 
 ---
 
-Date: **Not Active Yet**
+Date: **Not Active Yet - Drafted: 2016-03-21**
 
 Timeline Topic: **Voting Meta Protocol through Broadcasts**
 
