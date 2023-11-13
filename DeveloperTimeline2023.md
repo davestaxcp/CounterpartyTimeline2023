@@ -391,7 +391,7 @@ Author: Javier Varona and Jeremy Johnson
 
 ---
 
-Date: **Not Active Yet**
+Date: **Not Active Yet - Drafted: 2017-03-16**
 
 Timeline Topic: **Picopayments**
 
