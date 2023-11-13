@@ -415,7 +415,7 @@ Author: Ruben de Vries
 
 ---
 
-Date: **Not Active Yet**
+Date: **Not Active Yet - Drafted: 2016-08-31**
 
 Timeline Topic: **Blockchain Validated Asset Metadata (BVAM)**
 
