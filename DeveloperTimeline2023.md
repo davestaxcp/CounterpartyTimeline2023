@@ -274,7 +274,7 @@ Author: John Villar
 
 ---
 
-Date: **2021-27-01**
+Date: **2021-01-27**
 
 Timeline Topic: **Bug fixes on non-divisible dividends and 0 quantity credits**
 
