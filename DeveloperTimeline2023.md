@@ -121,7 +121,7 @@ Date: **2016-07-11**
 
 Timeline Topic: **P2SH support**
 
-Significance: Data encoding method that allows counterparty to encode larger amounts of data via chaining 2 transaction, rather than using multisig, which is costly, and pollutes the UTXO set too much.
+Significance: This [data encoding method](https://github.com/CounterpartyXCP/cips/blob/master/cip-0006.md) allows counterparty to encode larger amounts of data via chaining two transactions, rather than using multisig, which is costly, and pollutes the UTXO set too much.
 
 Related Links: https://github.com/CounterpartyXCP/cips/blob/master/cip-0006.md
 
