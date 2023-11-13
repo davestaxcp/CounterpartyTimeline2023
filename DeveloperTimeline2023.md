@@ -109,7 +109,7 @@ Date: **2016-01-24**
 
 Timeline Topic: **Support for 80-byte OP_RETURN**
 
-Significance: [This Counterparty update](https://counterparty.io/news/counterparty-community-update-jan-02-increasing-op_return-to-80-bytes-devparty-developments/) doubled the amount of data that could fit in an OP_RETURN from 40-bytes to 80-bytes
+Significance: [This Counterparty update](https://counterparty.io/news/counterparty-community-update-jan-02-increasing-op_return-to-80-bytes-devparty-developments/) doubled the amount of data that could fit in an OP_RETURN from 40-bytes to 80-bytes.
 
 Related Links: https://counterparty.io/news/counterparty-community-update-jan-02-increasing-op_return-to-80-bytes-devparty-developments/
 
