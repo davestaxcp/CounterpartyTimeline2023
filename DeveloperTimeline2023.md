@@ -451,7 +451,7 @@ Author: JP Janssen
 
 ---
 
-Date: **Not Active Yet**
+Date: **Not Active Yet - Drafted: 2022-09-13**
 
 Timeline Topic: **Enhanced Asset Information Specification**
 
@@ -475,7 +475,7 @@ Author: Jeremy Johnson
 
 ---
 
-Date: **Not Active Yet**
+Date: **Not Active Yet - Drafted: 2023-07-26**
 
 Timeline Topic: **Crypto Address Messaging System (CryptoMessages)**
 
