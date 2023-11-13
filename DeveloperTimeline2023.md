@@ -439,7 +439,7 @@ Author: Dan Anderson
 
 ---
 
-Date: **Not Active Yet**
+Date: **Not Active Yet - Drafted: 2017-09-14**
 
 Timeline Topic: **Automated Feed with Bitcoin and Counterparty Data**
 
