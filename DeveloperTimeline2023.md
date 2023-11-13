@@ -487,7 +487,7 @@ Author: Jeremy Johnson & Javier Varona
 
 ---
 
-Date: **Not Active Yet**
+Date: **Not Active Yet - Drafted: 2023-05-30**
 
 Timeline Topic: **Asset Issuance Fees**
 
@@ -499,7 +499,7 @@ Author: JP Janssen
 
 ---
 
-Date: **Not Active Yet**
+Date: **Not Active Yet - Drafted: 2023-03-05**
 
 Timeline Topic: **Ordinal Envelopes**
 
