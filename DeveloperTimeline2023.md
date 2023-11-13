@@ -377,11 +377,12 @@ Author: Keyuno
 
 ---
 
-Date: **Not Active Yet**
+Date: **Not Active Yet - Drafted: 2023-07-11**
 
 Timeline Topic: **Taproot Support**
 
 Significance: [This Counterparty Improvement Proposal](https://github.com/CounterpartyXCP/cips/blob/master/cip-0030.md) looks to include taproot addresses in the creation and parsing of counterparty transactions. Taproot addresses have become increasingly popular with the creation of [Ordinals](https://github.com/ordinals/ord) and many users look to also manage Counterparty assets on these types of addresses.
+
 Related Links: https://github.com/CounterpartyXCP/cips/blob/master/cip-0030.md
 
 https://github.com/ordinals/ord
