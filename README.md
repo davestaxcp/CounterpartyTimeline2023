@@ -15,7 +15,7 @@ This repo is dedicated to publicly organizing and critiquing a public list for C
 
 [Counterparty Developer Timeline Data](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/DeveloperTimeline2023.md)
 
-Counterparty Developer Timeline Data (JSON version) - Coming Soon
+[Counterparty Developer Timeline Data (JSON version)](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/DeveloperTimeline2023.json)
 
 Counterparty Developer Timeline Visual Infographic - Coming Soon
 
