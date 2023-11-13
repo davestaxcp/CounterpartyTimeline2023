@@ -316,7 +316,7 @@ Author: JP Janssen
 ---
 ---
 
-Date: **Not Active Yet**
+Date: **Not Active Yet - Drafted: 2017-06-08**
 
 Timeline Topic: **MPMA Send from Multiple Addresses**
 
