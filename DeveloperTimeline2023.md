@@ -463,7 +463,7 @@ Author: Jeremy Johnson
 
 ---
 
-Date: **Not Active Yet**
+Date: **Not Active Yet - Drafted: 2023-05-14**
 
 Timeline Topic: **Broadcast Token Naming System (BTNS)**
 
