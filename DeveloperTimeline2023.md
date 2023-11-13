@@ -353,7 +353,7 @@ Author: John Villar
 
 ---
 
-Date: **Not Active Yet**
+Date: **Not Active Yet - Drafted: 2017-07-26**
 
 Timeline Topic: **Serialized Tokens**
 
