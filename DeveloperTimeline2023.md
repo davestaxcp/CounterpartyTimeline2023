@@ -328,9 +328,9 @@ Author: Devon Weller
 
 ---
 
-Date: **Not Active Yet**
+Date: **Not Active Yet - Drafted: 2017-06-08**
 
-Timeline Topic: **Instant Lottery - Drafted: 2017-06-08**
+Timeline Topic: **Instant Lottery**
 
 Significance: [This Counterparty Improvement Proposal](https://github.com/Jpja/cips/blob/master/cip-0014.md) Suggests stimulating usage of the Counterparty betting system by having lotteries always available and to not require a human counterparty, nor a trusted human oracle to do so. This would increase demand for XCP from players, and have an automated player that accumulates XCP over time (to a burn address), effectively reducing the supply.
 
