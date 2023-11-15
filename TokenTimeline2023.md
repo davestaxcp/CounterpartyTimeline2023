@@ -92,7 +92,7 @@ Significance: Let's Talk Bitcoin was a bitcoin centered [podcast and website](ht
 Related Links: https://web.archive.org/web/20230131224146/https://letstalkbitcoin.com/
 https://xchain.io/asset/LTBCOIN
 
-Issuer: 3MAmfj1J3jBCf1XGmqXWjne2WstMNkE6T8
+Issuer: 1Hso4cqKAyx9bsan8b5nbPqMTNNce8ZDto
 
 ---
 
