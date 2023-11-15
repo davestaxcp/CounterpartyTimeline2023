@@ -1260,7 +1260,7 @@ Date: **Mar 6, 2021**
 
 Timeline Asset/Project: **BITCORN.GLASSES**
 
-Significance: In the past, the only way to truly "destroy" a Counterparty asset's supply was to send it to a valid bitcoin burn address. After the token 'destroy' function was added to the Counterparty protocol, [BITCORN.GLASSES](https://xchain.io/asset/BITCORN.GLASSES) was the first token destruction done historically. A total of 470 tokens were destroyed with tag *Supply Capped*. At this time of writing, only 30 tokens remain of the BITCORN.GLASSES subasset.
+Significance: In the past, the only way to truly "destroy" a Counterparty asset's supply was to send it to a valid bitcoin burn address. After the token 'destroy' function was added to the Counterparty protocol, [BITCORN.GLASSES](https://xchain.io/asset/BITCORN.GLASSES) was the first token destruction done historically. A total of 470 tokens were destroyed with a memo stating: *Supply Capped*. At this time of writing, only 30 tokens remain of the BITCORN.GLASSES subasset.
 
 Related Links: https://xchain.io/asset/BITCORN.GLASSES
 
