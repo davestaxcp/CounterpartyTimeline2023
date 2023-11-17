@@ -614,7 +614,7 @@ Date: **Mar 31, 2015**
 
 Timeline Asset/Project: **RIGA**
 
-Significance: The first ever video associated with a Counterparty asset is [RIGA](ttps://xchain.io/asset/RIGA). This token included the description "youtu.be/HOTLkZCCqaI - EU's Greatest City" when it was originally issued. It is unclear the meaning of minting this asset, but points to simply showing the viewer "EU's Greatest City".
+Significance: The first ever video associated with a Counterparty asset is RIGA. [This token](https://xchain.io/asset/RIGA) included the description "youtu.be/HOTLkZCCqaI - EU's Greatest City" when it was originally issued. It is unclear the meaning of minting this asset, but points to simply showing the viewer "EU's Greatest City".
 
 Related Links: https://xchain.io/asset/RIGA
 
