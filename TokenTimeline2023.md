@@ -657,7 +657,7 @@ Date: **Aug 6, 2015**
 
 Timeline Asset/Project: **SALVATION**
 
-Significance: This token, named [SALVATION](https://xchain.io/asset/SALVATION), was the first time Token Ownership Rights for a named assed was transferred to a burn address. Unlike A714159941780378900, the Token Ownership Rights only were transferred and not the total supply. This, in effect was the first use of 'locking the description and locking any subasset's to be issued' while keeping the total supply liquid to buy/sell or move around. SALVATION was sent to the burn address: 1SaLvationGodsMarveLousGracaLgYQS. It was minted with the description stating "SAVE UR SOUL FROM SIN & ITS CONSEQUENCES".
+Significance: This token, named [SALVATION](https://xchain.io/asset/SALVATION), was the first time Token Ownership Rights for a named assed was transferred to a burn address. Unlike A714159941780378900, the Token Ownership Rights were transferred and not the total supply. This, in effect was the first use of 'locking the description and locking any subasset's to be issued' while keeping the total supply liquid to buy/sell or move around. The Token Ownership Rights for SALVATION was sent to the vanity burn address: 1SaLvationGodsMarveLousGracaLgYQS. It was minted with the description stating "SAVE UR SOUL FROM SIN & ITS CONSEQUENCES".
 
 Related Links: https://xchain.io/asset/SALVATION
 
