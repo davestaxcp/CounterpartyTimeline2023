@@ -25,7 +25,7 @@ Counterparty Developer/Token Timeline Visual Infographic - Coming Soon
 
 [Counterparty Token/Project Timeline Data](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/TokenTimeline2023.md)
 
-Counterparty Token/Project Timeline Data (JSON version) - Coming Soon
+[Counterparty Token/Project Timeline Data (JSON version)](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/TokenTimeline2023.json)
 
 ---
 ---
