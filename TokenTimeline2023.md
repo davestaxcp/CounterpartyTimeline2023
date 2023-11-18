@@ -1036,20 +1036,6 @@ Issuer: 15MDXC3YkR5sHL34c41YMonkxJP7RKeLK1
 
 ---
 
-![wachhelm](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/8a354b22-eb5a-4c75-9f2b-804a5b531719)
-
-Date: **Nov 23, 2017**
-
-Timeline Asset/Project: **WACHHELM**
-
-Significance:  [Skara - The Blade Remains](http://skarathebladeremains.com/) was set to be a Free-to-Play game set in a fantasy world by creator Pablo Rodriguez. [WACHHELM](https://xchain.io/asset/WACHHELM) is the first issued token on Counterparty in relation to Skara. [Whiterabbit1111 wrote](https://whiterabbit1111.medium.com/the-origin-digital-antiquities-market-nfts-1ea9b69c03f9) about [this project](https://www.newsbtc.com/press-releases/skara-token-sale-pioneers-new-video-games-esports-business-model/) stating: "The creators apparently intended to develop a game within which the assets would be used, however this never eventuated. Given the timing of high bitcoin transaction fee's during this era, one could guess that the sudden frosty winds of the bear market that came a short time later knocked all plans off the table".
-
-Related Links: https://xchain.io/asset/WACHHELM http://skarathebladeremains.com/ https://www.newsbtc.com/press-releases/skara-token-sale-pioneers-new-video-games-esports-business-model/
-
-Issuer: 15mWQFbcioTdgaEzD8xqbJwk3bdq49hish
-
----
-
 Date: **May 22, 2017**
 
 Timeline Asset/Project: **COINDADDY.FIRST.SUBASSET**
@@ -1129,6 +1115,21 @@ Significance: This asset is the first asset historically on the Counterparty Pro
 Related Links: https://xchain.io/asset/MODERNPEPE.ART
 
 Issuer: 1JAuET9GmkADQarX5ZsgHXuHjJzwesfAKg
+
+---
+
+![wachhelm](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/8a354b22-eb5a-4c75-9f2b-804a5b531719)
+
+Date: **Nov 23, 2017**
+
+Timeline Asset/Project: **WACHHELM**
+
+Significance:  [Skara - The Blade Remains](http://skarathebladeremains.com/) was set to be a Free-to-Play game set in a fantasy world by creator Pablo Rodriguez. [WACHHELM](https://xchain.io/asset/WACHHELM) is the first issued token on Counterparty in relation to Skara. [Whiterabbit1111 wrote](https://whiterabbit1111.medium.com/the-origin-digital-antiquities-market-nfts-1ea9b69c03f9) about [this project](https://www.newsbtc.com/press-releases/skara-token-sale-pioneers-new-video-games-esports-business-model/) stating: "The creators apparently intended to develop a game within which the assets would be used, however this never eventuated. Given the timing of high bitcoin transaction fee's during this era, one could guess that the sudden frosty winds of the bear market that came a short time later knocked all plans off the table".
+
+Related Links: https://xchain.io/asset/WACHHELM http://skarathebladeremains.com/ https://www.newsbtc.com/press-releases/skara-token-sale-pioneers-new-video-games-esports-business-model/
+
+Issuer: 15mWQFbcioTdgaEzD8xqbJwk3bdq49hish
+
 
 ---
 
