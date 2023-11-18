@@ -2,7 +2,7 @@
 
 ---
 
-![XCP-logo](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/f14e274c-4606-431e-89d7-2b045f98bd02)
+![XCP-logo_new](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/7cb08eb0-8b08-41bf-bea2-6ffffd00d90d)
 
 Date: **Jan 2, 2014** 
 
@@ -1007,7 +1007,7 @@ Issuer: Joe Looney
 
 ---
 
-![keepsake](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/38a36e19-4b7e-4881-9559-ae2bcee5ac11)
+![proofofvisitnew](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/9f29ea03-a73b-40a9-951b-a462c8e16ee6)
 
 Date: **Mar 3, 2017**
 
