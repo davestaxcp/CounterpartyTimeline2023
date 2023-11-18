@@ -963,7 +963,7 @@ Issuer: Theo Goodman
 
 Date: **Feb 3, 2017**
 
-Timeline Asset/Project: BPOLOSOMCXVI
+Timeline Asset/Project: **BPOLOSOMCXVI**
 
 Significance: [The Diecast Club](https://collectablediecast.com/) is a popular supplier of physical miniature car models for collectors. The company was founded in 1988 as a family business and then bought out by Collectable Brands in 2017. The [interesting history behind this one](https://medium.com/book-of-orbs/takara-diecast-token-giveaway-campaign-details-14e5ffe6922d) is that EverdreamSoft (Spells of Genesis) and Collectable DieCast shared an office building during this early innovation period. After coming to understand each other’s business, it was agreed that an attempt would be made to transition the interest of collectors from the traditional physical medium to the digital realm by tokenizing their goods on the BTC blockchain via Counterparty. In order to draw [attention to these assets](https://medium.com/book-of-orbs/diecast-collaboration-and-orb-giveaways-99a6ff1b0c7f#.5rvu0v5se) and reward users, EverdreamSoft partnered with Christian Moss and coordinated an innovative distribution of some of these assets in connection with a geocaching app called Takara. The unusual method of distribution and innovation forged new ground in this new space of ‘air-dropping’ digital assets. The earliest minted token of this project is [BPOLOSOMCXVI](https://xchain.io/asset/BPOLOSOMCXVI) but the entire set features 18 one of kind tokens with 18 one of a kind cars that represent them.
 
