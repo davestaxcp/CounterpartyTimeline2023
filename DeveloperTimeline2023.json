@@ -39,6 +39,24 @@
         "Date": "2014-04-15",
         "Time": "1397520000",
         "Proposal":false,
+        "Event": "Counterparty Codebase Audited by Sergio Lerner",
+        "Significance": "Focusing on the security of counterpartyd and the Counterparty protocol, this audit was completed by professional cryptographer Sergio Demian Lerner between February 24 and April 5 of 2014. Sergio has discovered numerous serious bugs in Bitcoin, and is extremely experienced both developing and evaluating cryptocurrencies. Read more about this audit here. Author: Counterparty Community and Sergio Demian Lerner",
+        "links": [
+            {
+                "label": "Sergio Demian Lerner",
+                "href": "https://en.bitcoin.it/wiki/User:Sergio_Demian_Lerner"
+            },
+            {
+                "label": "here",
+                "href": "https://counterparty.io/news/sergio-lerner-completes-independent-security-audit/"
+            }
+        ],
+        "Author": "Counterparty Community"
+    },
+{
+        "Date": "2014-04-15",
+        "Time": "1397520001",
+        "Proposal":false,
         "Event": "Dividend Payments Added",
         "Significance": "With this Counterparty upgrade, users could not only issue stocks (Assets) but also now pay dividends in BTC, XCP and any Counterparty Asset to shareholders, automatically and trustlessly. The shareholders do not even need to run a Counterparty client to receive such dividends.",
         "links": [
