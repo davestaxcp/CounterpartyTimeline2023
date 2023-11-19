@@ -2,7 +2,7 @@
 
 ---
 
-![XCP-logo_new](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/7cb08eb0-8b08-41bf-bea2-6ffffd00d90d)
+![XCP-logo](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/390b0268-adb7-4fb6-92ef-e2729796655d)
 
 Date: **Jan 2, 2014** 
 
