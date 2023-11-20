@@ -267,7 +267,7 @@ Issuer: Theo Goodman
 
 ---
 
-![STORJ](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/e16711ac-55de-498e-858e-822418a70f94)
+![storj_square_small](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/803934c2-82ac-45a2-8f5b-5248d69788a0)
 
 Date: **Jul 11, 2014**
 
