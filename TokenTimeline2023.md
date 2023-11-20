@@ -81,7 +81,7 @@ Issuer: 1XCPBETx1GXXYSeFCZVaP1B7f9d83pfCh
 
 ---
 
-![LTBCOIN](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/7485a6d2-1ab1-4251-a527-09f1c9acb306)
+![LTBCOIN_square_new](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/7dff4820-914b-46fa-b99f-1ecebc954de2)
 
 Date: **Mar 12, 2014**
 
