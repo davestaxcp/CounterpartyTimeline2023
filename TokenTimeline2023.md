@@ -239,7 +239,7 @@ Issuer: nutildah
 
 ---
 
-![FOLDINGCOIN](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/7d3f44c0-e5f5-4898-9547-bfd136729a82)
+![foldingcoin_square](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/81650457-3afa-4f67-a4e1-f178615fc5d0)
 
 Date: **Jul 4, 2014**
 
