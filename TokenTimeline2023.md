@@ -1049,7 +1049,7 @@ Issuer: 1Lfm6jXgCQi8LvjpgFHa2F4hdr1uJVa5t4
 
 ---
 
-![monaparty](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/bbe25557-a87d-48bb-a02b-94c759146c91)
+![MONAPARTY_square_new](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/e5b8d2fe-1957-4654-9b7a-c21783156431)
 
 Date: **May 31, 2017**
 
