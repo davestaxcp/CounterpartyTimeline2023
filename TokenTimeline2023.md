@@ -754,7 +754,7 @@ Related Links: https://blog.indiesquare.me/bitcoin-geocaching-app-takara-integra
 
 ---
 
-![WILLCOIN](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/fb74edba-26f2-4fad-840a-0c3c78e3af57)
+![forceofwill_square_new](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/1c8c7ab0-9dd7-4799-b42d-a6aa02992bea)
 
 Date: **Aug 9, 2016**
 
