@@ -13,7 +13,7 @@ This repo is dedicated to publicly organizing and critiquing a public list for C
 
 # Timeline Data
 
-Counterparty Developer/Token Timeline Visual Infographic - Coming Soon
+[Counterparty Developer/Token Timeline Visual Infographic](https://time.graphics/line/858561)
 
 ---
 
