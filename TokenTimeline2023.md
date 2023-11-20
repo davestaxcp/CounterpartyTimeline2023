@@ -594,7 +594,7 @@ Issuer: Kevin Ferreira
 
 ---
 
-![blackbox](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/96bbe3a5-cc35-4428-b531-e6cece97e7ac)
+![blackbox_square_new](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/28b17b9e-2831-44f4-9895-277c5b1e2785)
 
 Date: **Mar 20, 2015**
 
