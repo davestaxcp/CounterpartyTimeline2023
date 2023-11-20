@@ -452,7 +452,7 @@ Issuer: LiteBit
 
 ---
 
-![GEMZ](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/76e03135-eb1f-416a-812b-fa11d8616179)
+![GEMS_square_new](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/3c4ccf12-ad7b-47c4-afd9-99433a544bb7)
 
 Date: **Nov 7, 2014**
 
