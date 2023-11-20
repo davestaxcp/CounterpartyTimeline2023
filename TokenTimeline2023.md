@@ -1229,7 +1229,7 @@ Issuer: Dan Anderson
 
 ---
 
-![soundmoney](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/97f8fabb-b57b-48af-8d2a-dd4ae9e82a0c)
+![A11136359864833872787_square](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/0bb796bc-2ee5-42e0-9c05-867ea4af3900)
 
 Date: **Mar 23, 2020**
 
