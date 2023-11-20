@@ -161,7 +161,7 @@ Issuer: 1CNTKYtdVJ3f1Xrjhi8ceV3DrKVN5yda1W
 
 ---
 
-![TATIANACOIN_square_new](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/07586340-585a-4592-b84e-52edd4162eae)
+![TATIANACOIN_square_new](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/0a82db71-cc2c-4ef4-8619-005219e595e8)
 
 Date: **Jun 4, 2014**
 
