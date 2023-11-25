@@ -142,3 +142,5 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 ## Tokens 'On Deck'
 
 - Weird n' Wild (2015) https://jpjanssen.com/xcp-cards-a-2015-nft-project/
+
+- tatiana SOG
