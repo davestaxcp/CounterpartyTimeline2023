@@ -145,8 +145,6 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - tatiana SOG card reference in Tatianacoin
 
-- Looney 2014 "the loonies" collection
-
 - https://xchain.io/asset/TITFORTAT
 
 - https://xchain.io/asset/BLINGZ
