@@ -143,7 +143,9 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - Weird n' Wild (2015) https://jpjanssen.com/xcp-cards-a-2015-nft-project/
 
-- tatiana SOG
+- tatiana SOG card reference in Tatianacoin
+
+- Looney 2014 "the loonies" collection
 
 - https://xchain.io/asset/TITFORTAT
 
