@@ -145,6 +145,8 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - tatiana SOG card reference in Tatianacoin
 
+- SATOSHIDICE and "failed mints" from 2014
+
 - https://xchain.io/asset/TITFORTAT
 
 - https://xchain.io/asset/BLINGZ
