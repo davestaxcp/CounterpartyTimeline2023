@@ -147,6 +147,8 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - SATOSHIDICE and "failed mints" from 2014
 
+- Oasis Mining - https://rarejapanesenfts.com/collection/oasis-mining/ 
+
 - https://xchain.io/asset/TITFORTAT
 
 - https://xchain.io/asset/BLINGZ
