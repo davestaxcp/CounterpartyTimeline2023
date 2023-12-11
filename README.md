@@ -143,7 +143,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - Weird n' Wild (2015) https://jpjanssen.com/xcp-cards-a-2015-nft-project/ - (add to infographic)
 
-- tatiana SOG card reference in Tatianacoin
+- tatiana SOG card reference in Tatianacoin - (add to infographic)
 
 - SATOSHIDICE and "failed mints" from 2014
 
