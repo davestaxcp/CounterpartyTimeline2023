@@ -677,6 +677,20 @@ Issuer: 1ENKkgvMqjPmC3Wst631jbpaC3ULkYgkgL
 
 ---
 
+![image](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/dee38c3b-d9a7-4325-9253-29e80a42b363)
+
+Date: **Nov 24, 2015**
+
+Timeline Asset/Project: **Weird n' Wild**
+
+Significance: This trading card collection minted by [JP Janssen](https://twitter.com/jp_janssen) is not only one of the first instances of 'blockchain trading cards' but also is the first to include on-chain hash's of the artwork when minting. The first three cards in the series: [GENET](https://xchain.io/asset/GENET), [GRAYWOLF](https://xchain.io/asset/GRAYWOLF) and [LOCHNESS](https://xchain.io/asset/LOCHNESS) all also have sha256 hashes of the card images broadcast with a truncated base64 representation of the data from the minting address. JP also went on to do this process for the first 26 Spells of Genesis cards after. He states on his website 'Of course, this was unofficial. I was not associated with Spells of Genesis. But I did create cryptographic proofs of the designs existing at the time, and I did show which images I, as a fan, considered to represent those tokens.' On [his website](https://jpjanssen.com/xcp-cards-a-2015-nft-project/) JP also explains and teaches you how to verify the images with the on-chain information in the broadcasts. This project, JP states, came out of a project called 'XCP CARDS' in which he states. 'An essential part of the project was to notarize all cards, meaning engraving hash proofs inside Bitcoin transactions.
+
+Related Links: https://jpjanssen.com/xcp-cards-a-2015-nft-project/ https://xchain.io/asset/GENET https://xchain.io/asset/GRAYWOLF https://xchain.io/asset/LOCHNESS https://twitter.com/jp_janssen
+
+Issuer: JP Janssen
+
+---
+
 ![SARUTOBICARD](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/cbdf00b7-1a23-4d65-bf42-a5272132230a)
 
 Date: **Dec 19, 2015**
