@@ -196,7 +196,7 @@
         "Time": "1401840000",
         "imageURL": "https://user-images.githubusercontent.com/136373423/279542943-af82bc3b-e4ac-4e95-b838-fdd0d4128c90.png",
         "Event": "TATIANACOIN",
-        "Significance": "A graduate of Berklee College of Music, Tatiana Moroz has been a vocal advocate in the Bitcoin community since 2012. She was a part of the community in the 'Let's Talk Bitcoin' podcast and was helped by Adam Levine to create a Counterparty token that represented crowdfunding for her music. TATIANACOIN is considered 'the first musical artist coin and the alpha for the concept of artist tokens'. Owning this coin meant you were funding the recording of Tatiana’s 'Keep The Faith' album. The album cover is made from the original signed artwork by Ross Ulbricht while he was in prison. He gave it to her as a birthday gift. As mentioned on her website, 'From as early as 2015, Tatiana had conceived of a token that would contain her combined music and artwork. She minted a run of 100 tokens for this purpose in 2015. Then in 2017, she minted tokens to contain all her albums to date. These include the TATIANAMOROZ (100 coins), minted Oct 10, 2015 and the TATIANAALBUM (900 coins), minted on Feb 10, 2017, among others.'",
+        "Significance": "A graduate of Berklee College of Music, Tatiana Moroz has been a vocal advocate in the Bitcoin community since 2012. She was a part of the community in the 'Let's Talk Bitcoin' podcast and was helped by Adam Levine to create a Counterparty token that represented crowdfunding for her music. TATIANACOIN is considered 'the first musical artist coin and the alpha for the concept of artist tokens'. Owning this coin meant you were funding the recording of Tatiana’s 'Keep The Faith' album. The album cover is made from the original signed artwork by Ross Ulbricht while he was in prison. He gave it to her as a birthday gift. As mentioned on her website, 'From as early as 2015, Tatiana had conceived of a token that would contain her combined music and artwork. She minted a run of 100 tokens for this purpose in 2015. Then in 2017, she minted tokens to contain all her albums to date. These include the TATIANAMOROZ (100 coins), minted Oct 10, 2015 and the TATIANAALBUM (900 coins), minted on Feb 10, 2017, among others.' Tatiana would also be referenced later in a Spells of Genesis card designed around her story and musical background called TATIANACARD.",
         "links": [
             {
                 "label": "represented crowdfunding for her music",
@@ -213,6 +213,10 @@
             {
                 "label": "her website",
                 "href": "https://www.tatianamoroz.com/tatiana-coin/"
+            },
+            {
+                "label": "TATIANACARD",
+                "href": "https://xchain.io/asset/TATIANACARD"
             }
         ],
         "Issuer": "Tatiana Moroz"
