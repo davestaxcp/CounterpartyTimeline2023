@@ -145,6 +145,8 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - tatiana SOG card reference in Tatianacoin - (add to infographic)
 
+- include PENISIUM - (add to infographic)
+
 - SATOSHIDICE and "failed mints" from 2014
 
 - Oasis Mining - https://rarejapanesenfts.com/collection/oasis-mining/ 
