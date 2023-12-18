@@ -151,6 +151,8 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
   
 - Age of Rust
 
+- Edit BEEP information (proof of concept - no blockchain data for address)
+
 - Oasis Mining - https://rarejapanesenfts.com/collection/oasis-mining/ 
 
 - https://xchain.io/asset/TITFORTAT
