@@ -207,3 +207,6 @@ https://github.com/CounterpartyXCP/cips/blob/master/cip-0031.md
 - STAMP Protocol
 https://github.com/CounterpartyXCP/cips/blob/master/cip-0026.md
 
+- Multiparty Counterparty Aggregate Transaction (MCAT)
+https://github.com/CounterpartyXCP/cips/blob/master/cip-0013.md
+
