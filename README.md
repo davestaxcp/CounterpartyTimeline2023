@@ -105,10 +105,25 @@ These Blockchain Tools:
 
 https://xchain.io/
 
+https://xcp.dev/
+
 [This Counterparty Asset API call](https://codepen.io/ndlbl/pen/yLQVERj?editors=1111)
 
 The [filtered XCP asset list](https://github.com/Jpja/XCP-Asset-List/blob/main/xcp_assets_filtered.csv) from JPJA
 
+---
+
+General Counterparty Sources:
+
+https://github.com/CounterpartyXCP
+
+https://github.com/CounterpartyXCP/cips
+
+https://forums.counterparty.io/
+
+https://counterparty.io/roadmap/
+
+---
 ---
 
 ## Notes From the Author
@@ -127,6 +142,7 @@ I invite you to verify, critique and pull request this information to perfect th
 
 Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter](https://twitter.com/davesta_xcp) if you need to request changes to information or would like to contribute to the data included here.
 
+---
 ---
 
 ## Tokens to be Added/Researched
