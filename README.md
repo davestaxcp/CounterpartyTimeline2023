@@ -139,7 +139,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 ---
 
-## Tokens 'On Deck'
+## Tokens to be Added/Researched
 
 - Weird n' Wild (2015) https://jpjanssen.com/xcp-cards-a-2015-nft-project/ - (add to infographic)
 
@@ -147,11 +147,11 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - include PENISIUM - (add to infographic)
 
+- Edit BEEP information (change info on infographic)
+
 - SATOSHIDICE and "failed mints" from 2014
   
 - Age of Rust
-
-- Edit BEEP information (change info on infographic)
 
 - Oasis Mining - https://rarejapanesenfts.com/collection/oasis-mining/ 
 
@@ -184,3 +184,20 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 - https://xchain.io/asset/NOVATOKEN
 
 - https://xchain.io/asset/NGXX
+
+---
+
+## Development Drafts to be Added
+
+- File Storage in P2WSH Outputs
+https://github.com/CounterpartyXCP/cips/blob/master/cip-0033.md
+
+- Dispenser Reservation
+https://github.com/CounterpartyXCP/cips/blob/master/cip-0032.md
+
+- Enhanced File Encoding Support
+https://github.com/CounterpartyXCP/cips/blob/master/cip-0031.md
+
+- STAMP Protocol
+https://github.com/CounterpartyXCP/cips/blob/master/cip-0026.md
+
