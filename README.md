@@ -15,6 +15,8 @@ This repo is dedicated to publicly organizing and critiquing a public list for C
 
 [Counterparty Developer/Token Timeline Visual Infographic](https://time.graphics/line/858561)
 
+![image](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/cd5d6e10-b642-4dea-974e-a9683e3e39a3)
+
 ---
 
 [Counterparty Developer Timeline Data](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/DeveloperTimeline2023.md)
@@ -34,30 +36,11 @@ This repo is dedicated to publicly organizing and critiquing a public list for C
 
 ---
 
-The goal for this list is to eventually include the data into a cool infographic style Historical Timeline to be published on [Counterparty.io](https://counterparty.io/) in a new page titled “History”. 
+The goal for this data is to eventually include the data into a cool infographic style Historical Timeline to be published on [Counterparty.io](https://counterparty.io/) in a new page titled “History”. 
 
 This timeline idea was originally published in [this Counterparty Forum post](https://forums.counterparty.io/t/updating-information-on-counterparty-io/6669/8) which was about updating the Counterparty website to include more current information. It was then moved to these two posts: [here](https://forums.counterparty.io/t/counterparty-developer-timeline-for-counterparty-io/6675) and [here](https://forums.counterparty.io/t/counterparty-token-asset-project-timeline-for-counterparty-io/6688), but now finally lives here in this repo.
 
 It is my hope that this data below will give more inspirational education to the current and future Counterparty community, as well as give light on historical and groundbreaking projects done in the past using the Counterparty protocol.
-
----
----
-
-## Creative Design
-
-I am imagining both timelines (Developer and Token/Project Timeline) to be a linear/flat infographic that has certain events “expand” upon hovering over them with more in-depth information about each data point and its significance. 
-
-It is my intention to reach out to an experienced graphic designer for this project as I believe the timeline should follow a few guidelines for the creative side of things:
-
-- The Color scheme should be matching the Logo and Color Scheme of [Counterparty.io](https://counterparty.io/) (need a well seasoned pro to get this feeling right)
-- The timeline should be readable and scrollable (maybe even zoomable) on a mobile device as well as Desktop.
-- We could possibly find someone who is excited and knowledgeable about XCP that may have many more hours of experience (and/or pool some donations to pay them for their work).
-
-
-The final product could look something like how [Whiterabbit1111](https://twitter.com/WRabbit1111) designed his timeline:
-
-![image](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/34d09b70-0db5-4886-a848-569a9af08502)
-
 
 ---
 ---
@@ -76,11 +59,9 @@ Rest in Peace [John Villar](https://github.com/chiguireitor) <3
 
 ---
 
-I have pulled my information from: 
+I have pulled my information from Twitter, Direct Messages and a few other general places:
 
-[This Counterparty Asset API call](https://codepen.io/ndlbl/pen/yLQVERj?editors=1111)
-
-The [filtered XCP asset list](https://github.com/Jpja/XCP-Asset-List/blob/main/xcp_assets_filtered.csv) from JPJA
+[The Bitcoin Talk Forums](https://bitcointalk.org/)
 
 ---
 
@@ -119,6 +100,15 @@ https://jpjanssen.com/timeline/counterparty.html?asset=OLGA&issuer_msg=off
 https://news.bitcoin.com/top-nine-counterparty-projects/
 
 ---
+
+These Blockchain Tools:
+
+https://xchain.io/
+
+[This Counterparty Asset API call](https://codepen.io/ndlbl/pen/yLQVERj?editors=1111)
+
+The [filtered XCP asset list](https://github.com/Jpja/XCP-Asset-List/blob/main/xcp_assets_filtered.csv) from JPJA
+
 ---
 
 ## Notes From the Author
