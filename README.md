@@ -71,7 +71,7 @@ These Podcasts:
 
 [The Bitcoin Game](https://soundcloud.com/the-bitcoin-game)
 
-[The Adam McBride Show](https://soundcloud.com/the-bitcoin-game)
+[The Adam McBride Show](https://podcasts.apple.com/us/podcast/the-adam-mcbride-show/id1410811576?i=1000511264470)
 
 [Bitcoin Uncensored](https://www.mixcloud.com/bitcoinuncensored/uploads/?order=oldest)
 
