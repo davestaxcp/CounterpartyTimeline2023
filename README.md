@@ -161,6 +161,8 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - Oasis Mining - https://rarejapanesenfts.com/collection/oasis-mining/ 
 
+- include this link in original XCP burn and reference accordingly (https://bitcointalk.org/index.php?topic=395761.0)
+
 - https://xchain.io/asset/TITFORTAT
 
 - https://xchain.io/asset/BLINGZ
