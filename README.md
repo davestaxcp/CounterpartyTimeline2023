@@ -123,6 +123,10 @@ https://forums.counterparty.io/
 
 https://counterparty.io/roadmap/
 
+Older Sources:
+
+https://bitcointalk.org/
+
 ---
 ---
 
