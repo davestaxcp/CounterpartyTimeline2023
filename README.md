@@ -155,7 +155,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - Edit BEEP information (change info on infographic)
 
-- SATOSHIDICE and "failed mints" from 2014
+- SATOSHIDICE and "failed mints" from 2014 (add to infographic)
   
 - Age of Rust
 
