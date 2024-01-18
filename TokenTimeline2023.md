@@ -1345,6 +1345,20 @@ Issuer: 13QEMF9SgKU9aC4TBhKvbZQbjHaRenUXMs
 
 ---
 
+![image](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/5913afc9-f542-4f86-beb2-40f8a098f7a9)
+
+Date: **Dec 15, 2021**
+
+Timeline Asset/Project: **SATOSHIDICE**
+
+Significance: This token, [SATOSHIDICE](https://xchain.io/asset/SATOSHIDICE), minted by [Doggfather](https://twitter.com/DoggfatherCrew) is a very unique and interesting interpretation of 'misprints' or 'failed mints' on the Counterparty platform. The origin of the SATOSHIDICE token comes from [Counterparty transaction #1952](https://xchain.io/tx/1952) in which a user tried to mint a Counterparty token but did not have the 0.5 XCP fee to mint a named token. Doggfather noticed manny of these failed issuances were simply not issued again in the future, the oldest one being specifically Counterparty transaction #1927: [PPCOIN](https://xchain.io/tx/1927). SATOSHIDICE is specifically the second 'failed mint' on the Counterparty protocol but is the first re-minted failed mint on the Counterparty platform as Doggfather 're-minted' SATOSHIDICE first in Counterparty transaction #1822063 (which is almost seven years later!). Doggfather has has an [in-depth medium article](https://doggfather.medium.com/chasing-invisible-2014-counterparty-tokens-e0916c96c60f) going over the whole story and the cultural significance of what Satoshi Dice was and what SATOSHIDICE is as a token.
+
+Related Links: https://xchain.io/asset/SATOSHIDICE https://xchain.io/tx/1822063 https://xchain.io/tx/1952 https://xchain.io/tx/1927 https://doggfather.medium.com/chasing-invisible-2014-counterparty-tokens-e0916c96c60f https://twitter.com/DoggfatherCrew
+
+Issuer: Doggfather
+
+---
+
 ![PHOCKHEADS](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/141114a5-ed09-49f5-9e75-65784dd4fe77)
 
 Date: **Dec 31, 2021**
