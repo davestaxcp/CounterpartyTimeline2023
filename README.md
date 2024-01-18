@@ -153,15 +153,15 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - include PENISIUM - (add to infographic)
 
-- Edit BEEP information (change info on infographic)
+- Edit BEEP information - (change info on infographic)
 
-- SATOSHIDICE and "failed mints" from 2014 (add to infographic)
+- SATOSHIDICE and "failed mints" from 2014 - (add to infographic)
+
+- include this link in original XCP burn and reference accordingly (https://bitcointalk.org/index.php?topic=395761.0) - (add to infographic)
   
 - Age of Rust
 
 - Oasis Mining - https://rarejapanesenfts.com/collection/oasis-mining/ 
-
-- include this link in original XCP burn and reference accordingly (https://bitcointalk.org/index.php?topic=395761.0)
 
 - https://xchain.io/asset/TITFORTAT
 
