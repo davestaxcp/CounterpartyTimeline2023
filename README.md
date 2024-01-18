@@ -158,10 +158,10 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 - SATOSHIDICE and "failed mints" from 2014 - (add to infographic)
 
 - include this link in original XCP burn and reference accordingly (https://bitcointalk.org/index.php?topic=395761.0) - (change info on infographic)
+
+- Oasis Mining - https://rarejapanesenfts.com/collection/oasis-mining/ - (add to infographic)
   
 - Age of Rust
-
-- Oasis Mining - https://rarejapanesenfts.com/collection/oasis-mining/ 
 
 - Badger Capsule - https://spotlight.soy/detail?article_id=pe2uvwh2c / https://rarejapanesenfts.com/ja/collection/badger-capsule-ja/
 
