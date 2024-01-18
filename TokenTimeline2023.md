@@ -1092,6 +1092,20 @@ Issuer: 1KqQFVERKXLW1Nd2TBKLodp9Z3JgTFTjMH
 
 ---
 
+![image](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/a113611e-4a3e-4eba-9677-ba44fb86ebab)
+
+Date: **Jul 21, 2017**
+
+Timeline Asset/Project: **MCDUMPING**
+
+Significance: The [Oasis Mining](http://kasaneate.starfree.jp/om/) project on the Counterparty protocol was a spin off an earlier project known as Memory Chain. It featured many artists from Memory Chain as well as significant Japanese cryptocurrency culture at the time and is noted on the [rarejapanesenft's website](https://rarejapanesenfts.com/collection/oasis-mining/) that the project "gave even more freedom of expression to artists". The first card in the collection , [MCDUMPING](https://xchain.io/asset/MCDUMPING), was created by [水瀬 亞里亞](https://rarejapanesenfts.com/artist/%e6%b0%b4%e7%80%ac-%e4%ba%9e%e9%87%8c%e4%ba%9e/) (Maria Minase). 
+
+Related Links: https://rarejapanesenfts.com/collection/oasis-mining/ https://xchain.io/asset/MCDUMPING https://rarejapanesenfts.com/artist/%e6%b0%b4%e7%80%ac-%e4%ba%9e%e9%87%8c%e4%ba%9e/ http://kasaneate.starfree.jp/om/
+
+Issuer: 水瀬 亞里亞
+
+---
+
 ![coval_emblem](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/dfd7ce99-7db0-48dc-a5c4-374962665553)
 
 Date: **Aug 7, 2017**
