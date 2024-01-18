@@ -1702,6 +1702,58 @@
         "Issuer": ""
     },
 {
+        "Date": "2017-06-25",
+        "Time": "1498348800",
+        "imageURL": "https://user-images.githubusercontent.com/136373423/75d4a570-2f4c-4dd9-9bf5-501aacde5a4e.png",
+        "Event": "PENISIUM",
+        "Significance": "This asset is the back-bone of the Penisium meme project which started on a system created by their team called 'Proof-of-LOL'. This project includes many singular assets in the directory submitted by the community and are rewarded in PENISIUM by submitting and collecting the cards in this directory. The more PENISIUM you have, the more benefits you get.",
+        "links": [
+            {
+                "label": "This asset",
+                "href": "https://xchain.io/asset/PENISIUM"
+            },
+            {
+                "label": "Penisium meme project",
+                "href": "https://web.archive.org/web/20230203225112/https://penisium.org/"
+            },
+            {
+                "label": "the directory",
+                "href": "https://web.archive.org/web/20230203221556/https://penisium.org/cards/"
+            }
+        ],
+        "Issuer": "1KqQFVERKXLW1Nd2TBKLodp9Z3JgTFTjMH"
+    },
+{
+        "Date": "2017-07-21",
+        "Time": "1500595200",
+        "imageURL": "https://user-images.githubusercontent.com/136373423/75d4a570-2f4c-4dd9-9bf5-501aacde5a4e.png",
+        "Event": "MCDUMPING",
+        "Significance": "The Oasis Mining project on the Counterparty protocol was a spin off an earlier project known as Memory Chain. It featured many artists from Memory Chain as well as significant Japanese cryptocurrency culture at the time. It is also noted on the rarejapanesenft's website that the project 'gave even more freedom of expression to artists'. The first card in the collection , MCDUMPING, was created by 水瀬 亞里亞 (Maria Minase) and depicts a time period in 2017 when the price of Bitcoin decreased very rapidly.",
+        "links": [
+            {
+                "label": "Oasis Mining",
+                "href": "http://kasaneate.starfree.jp/om/"
+            },
+            {
+                "label": "Memory Chain",
+                "href": "https://rarejapanesenfts.com/collection/memorychain/"
+            },
+            {
+                "label": "rarejapanesenft's website",
+                "href": "https://rarejapanesenfts.com/collection/oasis-mining/"
+            },
+            {
+                "label": "MCDUMPING",
+                "href": "https://xchain.io/asset/MCDUMPING"
+            },
+            {
+                "label": "水瀬 亞里亞",
+                "href": "https://rarejapanesenfts.com/artist/%e6%b0%b4%e7%80%ac-%e4%ba%9e%e9%87%8c%e4%ba%9e/"
+            }
+        ],
+        "Issuer": "1KqQFVERKXLW1Nd2TBKLodp9Z3JgTFTjMH"
+    },
+{
         "Date": "2017-08-07",
         "Time": "1502064000",
         "imageURL": "https://user-images.githubusercontent.com/136373423/279544793-dfd7ce99-7db0-48dc-a5c4-374962665553.png",
