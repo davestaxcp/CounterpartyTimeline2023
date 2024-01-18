@@ -157,7 +157,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - SATOSHIDICE and "failed mints" from 2014 - (add to infographic)
 
-- include this link in original XCP burn and reference accordingly (https://bitcointalk.org/index.php?topic=395761.0) - (add to infographic)
+- include this link in original XCP burn and reference accordingly (https://bitcointalk.org/index.php?topic=395761.0) - (change info on infographic)
   
 - Age of Rust
 
