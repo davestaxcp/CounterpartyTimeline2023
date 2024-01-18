@@ -2086,6 +2086,40 @@
         "Issuer": "13QEMF9SgKU9aC4TBhKvbZQbjHaRenUXMs"
     },
 {
+        "Date": "2021-12-15",
+        "Time": "1633737600",
+        "imageURL": "https://user-images.githubusercontent.com/136373423/5913afc9-f542-4f86-beb2-40f8a098f7a9.png",
+        "Event": "SATOSHIDICE",
+        "Significance": "This token, SATOSHIDICE, minted by Doggfather is a very unique and interesting interpretation of 'misprints' or 'failed mints' on the Counterparty platform. The origin of the SATOSHIDICE token comes from Counterparty transaction #1952 in which a user tried to mint a Counterparty token but did not have the 0.5 XCP fee to mint a named token. Doggfather noticed many of these failed issuances were simply not issued again in the future, the oldest one being specifically Counterparty transaction #1927: PPCOIN. SATOSHIDICE is specifically the second 'failed mint' on the Counterparty protocol but is the first 're-minted' failed mint on the Counterparty platform as Doggfather technically sucessfully minted SATOSHIDICE first in Counterparty transaction #1822063 (which is almost seven years later). Doggfather has an in-depth medium article going over the whole story and the cultural significance of what Satoshi Dice was (a very early blockchain-based lottery game) and what SATOSHIDICE is as a token.",
+        "links": [
+            {
+                "label": "SATOSHIDICE",
+                "href": "https://xchain.io/asset/SATOSHIDICE"
+            },
+            {
+                "label": "Doggfather",
+                "href": "https://twitter.com/DoggfatherCrew"
+            },
+            {
+                "label": "Counterparty transaction 1952",
+                "href": "https://xchain.io/asset/KEKLUMINATI"
+            },
+            {
+                "label": "PPCOIN",
+                "href": "https://xchain.io/tx/1927"
+            },
+            {
+                "label": "in-depth medium article",
+                "href": "https://doggfather.medium.com/chasing-invisible-2014-counterparty-tokens-e0916c96c60f"
+            },
+            {
+                "label": "Satoshi Dice",
+                "href": "https://satoshidice.com/"
+            }
+        ],
+        "Issuer": "Doggfather"
+    },
+{
         "Date": "2021-12-31",
         "Time": "1640908800",
         "imageURL": "https://user-images.githubusercontent.com/136373423/279546292-141114a5-ed09-49f5-9e75-65784dd4fe77.jpg",
