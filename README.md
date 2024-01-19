@@ -161,9 +161,9 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - Oasis Mining - https://rarejapanesenfts.com/collection/oasis-mining/ - (add to infographic)
   
-- Age of Rust
+- Badger Capsule (TAKANEZUKAMI) - (add to infographic)
 
-- Badger Capsule - https://spotlight.soy/detail?article_id=pe2uvwh2c / https://rarejapanesenfts.com/ja/collection/badger-capsule-ja/
+- Age of Rust
 
 - https://xchain.io/asset/TITFORTAT
 
