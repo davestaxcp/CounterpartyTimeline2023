@@ -1327,6 +1327,20 @@ Issuer: 165RSk13jh4hTaJCYj93GFS3c4nQdimRr9
 
 ---
 
+![image](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/3af216b0-e2fa-4e5d-8f2a-332203e2674a)
+
+Date: **Sept 25, 2021**
+
+Timeline Asset/Project: **TAKANEZUKAMI**
+
+Significance: This experimental project called '[Badger Capsule](https://rarejapanesenfts.com/ja/collection/badger-capsule-ja/)' by [Koji Higashi](https://twitter.com/Coin_and_Peace) begins with this asset named [TAKANEZUKAMI](https://xchain.io/asset/TAKANEZUKAMI) which was designed and minted by [tomotomo9696](https://rarejapanesenfts.com/ja/artist/tomotomo9696-ja/). What is interesting about this series is that the tokens in this series are minted on four separate blockchains including: Counterparty, Monaparty, Ethereum and Polygon. When Koji [announced this project](https://spotlight.soy/detail?article_id=pe2uvwh2c), he mentioned that the art for each card was meant to create NFT's related to the 'names and featured name scenes in the video of past Bitcoiner reflection meetings'. External artists were invited to engage in these Bitcoiner reflection meetings and go on to create art and submit according to the project's supply and minting rules. Another aspect of this project is that the hired creators in these meetings were also gifted tokens that were issued in the series. Koji went on to explain his theories for minting on multiple blockchains that include: 'expanding [the] reachable user base, providing creators with platform selection strategy, increasing long-term survival probability of platform-dependent series and suppressing buy-out behavior'.
+
+Related Links: https://xchain.io/asset/TAKANEZUKAMI https://rarejapanesenfts.com/ja/collection/badger-capsule-ja/ https://spotlight.soy/detail?article_id=pe2uvwh2c https://rarejapanesenfts.com/ja/artist/tomotomo9696-ja/
+
+Issuer: tomotomo9696
+
+---
+
 ![CCSatoshi](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/18349b75-7323-41e2-9981-b738d37db720)
 
 Date: **Sep 28, 2021**
