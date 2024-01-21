@@ -541,7 +541,7 @@ Date: **Not Active Yet - Drafted: 2023-10-02**
 
 Timeline Topic: **Dispenser Reservation**
 
-Significance: This Counterparty Improvement Proposal looks to include an optional and backwards compatible way for sellers to reserve dispensers in a decentralized way for a buyer to complete payment within 10 bitcoin blocks. JP mentions in this proposal that 'dispensers have increasingly been used beyond the designed scope... Whether this is due to convenience or ignorance, significant losses have occurred.' He goes on to state in CIP32, 'Allowing for the reservation of a dispenser will make dispensers safe for any amount of value.'
+Significance: This Counterparty Improvement Proposal looks to include an optional and backwards compatible way for sellers to reserve dispensers in a decentralized way for a buyer to complete payment within 10 bitcoin blocks. JP mentions in this proposal that 'dispensers have increasingly been used beyond the designed scope... Whether this is due to convenience or ignorance, significant losses have occurred.' He [goes on to state in CIP32](https://github.com/CounterpartyXCP/cips/blob/master/cip-0032.md), 'Allowing for the reservation of a dispenser will make dispensers safe for any amount of value.'
 
 Related Links: https://github.com/CounterpartyXCP/cips/blob/master/cip-0032.md
 
