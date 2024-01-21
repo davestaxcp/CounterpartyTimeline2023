@@ -199,18 +199,18 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 ## Development Drafts to be Added
 
-- File Storage in P2WSH Outputs
+- File Storage in P2WSH Outputs (add to infographic)
 https://github.com/CounterpartyXCP/cips/blob/master/cip-0033.md
 
-- Dispenser Reservation
+- Dispenser Reservation (add to infographic)
 https://github.com/CounterpartyXCP/cips/blob/master/cip-0032.md
 
-- Enhanced File Encoding Support
+- Enhanced File Encoding Support (add to infographic)
 https://github.com/CounterpartyXCP/cips/blob/master/cip-0031.md
 
-- STAMP Protocol
+- STAMP Protocol (add to infographic)
 https://github.com/CounterpartyXCP/cips/blob/master/cip-0026.md
 
-- Multiparty Counterparty Aggregate Transaction (MCAT)
+- Multiparty Counterparty Aggregate Transaction (MCAT) (add to infographic)
 https://github.com/CounterpartyXCP/cips/blob/master/cip-0013.md
 
