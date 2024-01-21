@@ -522,3 +522,63 @@ Significance: [This idea](https://github.com/CounterpartyXCP/cips/commit/58268b6
 Related Links: https://github.com/CounterpartyXCP/cips/commit/58268b60fb49a019955847ca8cedd034145d0948
 
 Author: Theo Goodman
+
+---
+
+Date: **Not Active Yet - Drafted: 2023-12-19
+
+Timeline Topic: **File Storage in P2WSH Outputs**
+
+Significance: This CIP introduces a method for storing a file alongside a Counterparty issuance or broadcast transaction. This is achieved by breaking the file into chunks that make up multiple P2WSH outputs that are added after the Counterparty op_return message inside the same Bitcoin transaction. This idea aims to use less space than the "stamps" (CIP25 and CIP26) method while also encoding the data of the file directly onchain to represent an issuance or broadcast. JP [noted in CIP33](https://github.com/CounterpartyXCP/cips/blob/master/cip-0033.md), 'With Stamps the Bitcoin transaction is three times larger than the file, and for each byte of the file 26 satoshis are burnt. With CIP33 the tx is just 50% larger than the file, and only 11 sats are burnt per byte. This makes CIP33 more than 50% cheaper than Stamps.' JP even invited users and devs to test the functionality with an open source XCP op_return Builder for the Electrum wallet.
+
+Related Links: https://github.com/CounterpartyXCP/cips/blob/master/cip-0033.md
+
+Author: JP Janssen
+
+---
+
+Date: **Not Active Yet - Drafted: 2023-10-02
+
+Timeline Topic: **Dispenser Reservation**
+
+Significance: This Counterparty Improvement Proposal looks to include an optional and backwards compatible way for sellers to reserve dispensers in a decentralized way for a buyer to complete payment within 10 bitcoin blocks. JP mentions in this proposal that 'dispensers have increasingly been used beyond the designed scope... Whether this is due to convenience or ignorance, significant losses have occurred.' He goes on to state in CIP32, 'Allowing for the reservation of a dispenser will make dispensers safe for any amount of value.'
+
+Related Links: https://github.com/CounterpartyXCP/cips/blob/master/cip-0032.md
+
+Author: JP Janssen
+
+---
+
+Date: **Not Active Yet - Drafted: 2023-09-07**
+
+Timeline Topic: Enhanced File Encoding Support
+
+Significance: Counterparty Improvement Proposal 31 looks to 'provide a way for users to associate a chunk of data or a file with a Counterparty issuance or broadcast transaction.' Jdog (Jeremy Johnson) explains the because of the increased popularity of Ordinal Inscriptions and Stamps, this 'indicates users want to store file data on a highly-available and permanent medium' and proposes a way to do so with the Counterparty Protocol while also speeding up search queries within the protocol. He stated in the proposal that the Enhanced File Encoding Support is needed 'to standardize the way that Counterparty deals with a file, allow specifying a 'mime-type' for a file, and to migrate file data out of the database.'
+
+Related Links: https://github.com/CounterpartyXCP/cips/blob/master/cip-0031.md
+
+Author: Jeremy Johnson 
+
+---
+
+Date: **Not Active Yet - Drafted: 2023-04-20**
+
+Timeline Topic: STAMP Protocol
+
+Significance: [This proposal (CIP 26)](https://github.com/CounterpartyXCP/cips/blob/master/cip-0026.md), looked to standardize a way in which the Counterparty Protocol dealt with the proccess of enabling the 'linking of a file to an asset via a stamp.' The terminology and coding dynamics for a 'Stamp' or multiple Stamps connecting their data to a Counterparty asset was laid out in full in this proposal. While CIP27 (STAMP Filesystem) is withdrawn as a CIP, this STAMP Protocol remains in the Counterparty Github as a Drafted proposal. It is explained in the rationale of this proposal that while the '[Bitcoin Stamps](https://github.com/mikeinspace/stamps/blob/main/BitcoinStamps.md) spec first proposed the basic guidelines for how to create a stamp, but CIP26 'aimed to clarify the technical process to stamp a file to any asset, and remove any project-specific requirements from the protocol.'
+
+Related Links: https://github.com/CounterpartyXCP/cips/blob/master/cip-0026.md https://github.com/mikeinspace/stamps/blob/main/BitcoinStamps.md
+
+Author: MikeInSpace & Jeremy Johnson
+
+---
+
+Date: **Not Active Yet - Drafted: 2017-06-08**
+
+Timeline Topic: Multiparty Counterparty Aggregate Transaction (MCAT)
+
+Significance: [This Counterparty Improvement Proposal](https://github.com/CounterpartyXCP/cips/blob/master/cip-0013.md) would create a system that allows for multiple transactions from multiple addresses to be grouped together in one transaction using 3rd party MCAP servers. Devon explained the rational behind the proposal stating, 'MCAT servers may choose to include multiple sends in a single large transaction based on the fee offered by the sender. Because the MCAT server can save space by combining multiple transactions, it can potentially spend less bitcoin in transaction fees than it receives in asset fees and operate at a profit.' Devon also went on to express this proposal is 'an extension of CIP10 by John Villar and Javier Varona'.
+
+Related Links: https://github.com/CounterpartyXCP/cips/blob/master/cip-0013.md
+
+Author: Devon Weller
