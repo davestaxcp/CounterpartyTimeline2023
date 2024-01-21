@@ -525,7 +525,7 @@ Author: Theo Goodman
 
 ---
 
-Date: **Not Active Yet - Drafted: 2023-12-19
+Date: **Not Active Yet - Drafted: 2023-12-19**
 
 Timeline Topic: **File Storage in P2WSH Outputs**
 
@@ -537,7 +537,7 @@ Author: JP Janssen
 
 ---
 
-Date: **Not Active Yet - Drafted: 2023-10-02
+Date: **Not Active Yet - Drafted: 2023-10-02**
 
 Timeline Topic: **Dispenser Reservation**
 
