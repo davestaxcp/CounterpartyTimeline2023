@@ -563,7 +563,7 @@ Author: Jeremy Johnson
 
 Date: **Not Active Yet - Drafted: 2023-04-20**
 
-Timeline Topic: STAMP Protocol
+Timeline Topic: **STAMP Protocol**
 
 Significance: [This proposal (CIP 26)](https://github.com/CounterpartyXCP/cips/blob/master/cip-0026.md), looked to standardize a way in which the Counterparty Protocol dealt with the proccess of enabling the 'linking of a file to an asset via a stamp.' The terminology and coding dynamics for a 'Stamp' or multiple Stamps connecting their data to a Counterparty asset was laid out in full in this proposal. While CIP27 (STAMP Filesystem) is withdrawn as a CIP, this STAMP Protocol remains in the Counterparty Github as a Drafted proposal. It is explained in the rationale of this proposal that while the '[Bitcoin Stamps](https://github.com/mikeinspace/stamps/blob/main/BitcoinStamps.md) spec first proposed the basic guidelines for how to create a stamp, but CIP26 'aimed to clarify the technical process to stamp a file to any asset, and remove any project-specific requirements from the protocol.'
 
@@ -575,7 +575,7 @@ Author: MikeInSpace & Jeremy Johnson
 
 Date: **Not Active Yet - Drafted: 2017-06-08**
 
-Timeline Topic: Multiparty Counterparty Aggregate Transaction (MCAT)
+Timeline Topic: **Multiparty Counterparty Aggregate Transaction (MCAT)**
 
 Significance: [This Counterparty Improvement Proposal](https://github.com/CounterpartyXCP/cips/blob/master/cip-0013.md) would create a system that allows for multiple transactions from multiple addresses to be grouped together in one transaction using 3rd party MCAP servers. Devon explained the rational behind the proposal stating, 'MCAT servers may choose to include multiple sends in a single large transaction based on the fee offered by the sender. Because the MCAT server can save space by combining multiple transactions, it can potentially spend less bitcoin in transaction fees than it receives in asset fees and operate at a profit.' Devon also went on to express this proposal is 'an extension of CIP10 by John Villar and Javier Varona'.
 
