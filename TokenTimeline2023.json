@@ -1632,6 +1632,36 @@
         "Issuer": "15MDXC3YkR5sHL34c41YMonkxJP7RKeLK1"
     },
 {
+        "Date": "2017-05-05",
+        "Time": "1493942400",
+        "imageURL": "https://user-images.githubusercontent.com/136373423/1f894751-4ab2-47cc-a552-a967574fdc4b.png",
+        "Event": "RUSTBITS",
+        "Significance": "The Age of Rust video game is a 'thrilling single-player sci-fi adventure filled with danger and intrigue' and was originally intended to use Counterparty assets for features to be unlocked in the game. The Counterparty token RUSTBITS was used within the game itself 'to unlock abilities, secret areas, and crypto rewards for players'. Proving ownership of not only RUSTBITS, but other cards like ROGUEMECH (the oldest in the series of 7 separate cards) gave the player unique 'token accessed' content within the game. While the tokens were originally minted on the Counterparty platform, during a period of very large transaction fees on Bitcoin, the team decided to use Enjin and eventually the Polygon platform to distribute and entangle the token ownership with the game. Age of Rust published a beta playtest on the Steam platform but it was removed in October of 2021. On their website, the team mentioned that 'Steam decided to remove Age of Rust from the Steam platfrom because NFTs can be sold for real-world currency off their platform. [Steam] has also updated their terms to block blockchain and NFTs from using the platform.' At the moment, it looks like the game will be released again on the Epic Games platform soon and will only be avaliable to play if a user proves they own a specific 'Privateer NFT' (which is yet to be minted and distributed). The team mentioned that 'there is no need to purchase the game separately, as long as you have a Privateer NFT, you can play the game.' The current collection on Polygon now has 3 new assets and re-imagined art compared to the older collection on Counterparty.",
+        "links": [
+            {
+                "label": "Age of Rust",
+                "href": "https://www.ageofrustgame.com/"
+            },
+            {
+                "label": "RUSTBITS",
+                "href": "https://xchain.io/asset/RUSTBITS"
+            },
+            {
+                "label": "ROGUEMECH",
+                "href": "https://xchain.io/asset/ROGUEMECH"
+            },
+            {
+                "label": "current collection on Polygon",
+                "href": "https://opensea.io/collection/age-of-rust"
+            },
+            {
+                "label": "older collection",
+                "href": "https://opensea.io/collection/age-of-rust-curated"
+            }
+        ],
+        "Issuer": "1APvntFGfFE9ERZhiJh1Za5b2zhmgmZdrF"
+    },
+{
         "Date": "2017-11-23",
         "Time": "1511395200",
         "imageURL": "https://user-images.githubusercontent.com/136373423/279544634-8a354b22-eb5a-4c75-9f2b-804a5b531719.jpg",
