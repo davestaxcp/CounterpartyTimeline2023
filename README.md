@@ -163,7 +163,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
   
 - Badger Capsule (TAKANEZUKAMI) - (add to infographic)
 
-- Age of Rust (RUSTBITS) + Counterparty Card Collection
+- Age of Rust (RUSTBITS) + Counterparty Card Collection - (add to infographic)
 
 - https://xchain.io/asset/TITFORTAT
 
