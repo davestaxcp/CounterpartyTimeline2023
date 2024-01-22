@@ -1327,7 +1327,7 @@ Issuer: 165RSk13jh4hTaJCYj93GFS3c4nQdimRr9
 
 ---
 
-![image](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/3af216b0-e2fa-4e5d-8f2a-332203e2674a)
+![image](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/55fe9d80-37f5-44f9-a938-cd32fd1dd393)
 
 Date: **Sept 25, 2021**
 
