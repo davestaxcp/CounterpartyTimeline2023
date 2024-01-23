@@ -143,27 +143,8 @@ I invite you to verify, critique and pull request this information to perfect th
 Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter](https://twitter.com/davesta_xcp) if you need to request changes to information or would like to contribute to the data included here.
 
 ---
----
 
-## Tokens to be Added/Researched
-
-- Weird n' Wild (2015) https://jpjanssen.com/xcp-cards-a-2015-nft-project/ - (add to infographic)
-
-- tatiana SOG card reference in Tatianacoin - (change info on infographic)
-
-- include PENISIUM - (add to infographic)
-
-- Edit BEEP information - (change info on infographic)
-
-- SATOSHIDICE and "failed mints" from 2014 - (add to infographic)
-
-- include this link in original XCP burn and reference accordingly (https://bitcointalk.org/index.php?topic=395761.0) - (change info on infographic)
-
-- Oasis Mining - https://rarejapanesenfts.com/collection/oasis-mining/ - (add to infographic)
-  
-- Badger Capsule (TAKANEZUKAMI) - (add to infographic)
-
-- Age of Rust (RUSTBITS) + Counterparty Card Collection - (add to infographic)
+## Tokens to be Researched
 
 - https://xchain.io/asset/TITFORTAT
 
@@ -199,18 +180,5 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 ## Development Drafts to be Added
 
-- File Storage in P2WSH Outputs (add to infographic)
-https://github.com/CounterpartyXCP/cips/blob/master/cip-0033.md
-
-- Dispenser Reservation (add to infographic)
-https://github.com/CounterpartyXCP/cips/blob/master/cip-0032.md
-
-- Enhanced File Encoding Support (add to infographic)
-https://github.com/CounterpartyXCP/cips/blob/master/cip-0031.md
-
-- STAMP Protocol (add to infographic)
-https://github.com/CounterpartyXCP/cips/blob/master/cip-0026.md
-
-- Multiparty Counterparty Aggregate Transaction (MCAT) (add to infographic)
-https://github.com/CounterpartyXCP/cips/blob/master/cip-0013.md
+(Counterparty Improvement Proposals are added when the CIP editor adds them to XCP CIP Github.)
 
