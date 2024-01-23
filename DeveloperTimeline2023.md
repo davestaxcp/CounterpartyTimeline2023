@@ -551,9 +551,9 @@ Author: JP Janssen
 
 Date: **Not Active Yet - Drafted: 2023-09-07**
 
-Timeline Topic: Enhanced File Encoding Support
+Timeline Topic: **Enhanced File Encoding Support**
 
-Significance: Counterparty Improvement Proposal 31 looks to 'provide a way for users to associate a chunk of data or a file with a Counterparty issuance or broadcast transaction.' Jdog (Jeremy Johnson) explains the because of the increased popularity of Ordinal Inscriptions and Stamps, this 'indicates users want to store file data on a highly-available and permanent medium' and proposes a way to do so with the Counterparty Protocol while also speeding up search queries within the protocol. He stated in the proposal that the Enhanced File Encoding Support is needed 'to standardize the way that Counterparty deals with a file, allow specifying a 'mime-type' for a file, and to migrate file data out of the database.'
+Significance: [Counterparty Improvement Proposal 31](https://github.com/CounterpartyXCP/cips/blob/master/cip-0031.md) looks to 'provide a way for users to associate a chunk of data or a file with a Counterparty issuance or broadcast transaction.' Jdog (Jeremy Johnson) explains the because of the increased popularity of Ordinal Inscriptions and Stamps, this 'indicates users want to store file data on a highly-available and permanent medium' and proposes a way to do so with the Counterparty Protocol while also speeding up search queries within the protocol. He stated in the proposal that the Enhanced File Encoding Support is needed 'to standardize the way that Counterparty deals with a file, allow specifying a 'mime-type' for a file, and to migrate file data out of the database.'
 
 Related Links: https://github.com/CounterpartyXCP/cips/blob/master/cip-0031.md
 
