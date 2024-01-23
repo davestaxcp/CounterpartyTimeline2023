@@ -8,7 +8,7 @@ Date: **Jan 2, 2014**
 
 Timeline Asset/Project: **XCP**
 
-Significance: [XCP](https://xchain.io/asset/XCP) is technically Asset ID #1 on Counterparty and was created through a [proof-of-burn](https://counterparty.io/news/why-proof-of-burn/) by burning a certain amount Bitcoin to bring XCP into existence. The Primary Developer of Counterparty during its origin were: Adam Krellenstein, Robby Dermody, and Ouziel Slama. The genesis [Bitcointalk Forum post](https://bitcointalk.org/index.php?topic=395761.0) titled: "Counterparty - Pioneering Peer-to-Peer Finance - Official Thread" is one of the earliest publications relating to the Counterparty Platform.
+Significance: [XCP](https://xchain.io/asset/XCP) is technically Asset ID #1 on Counterparty and was created through a [proof-of-burn](https://counterparty.io/news/why-proof-of-burn/) by burning a certain amount Bitcoin to bring XCP into existence. The Primary Developers of Counterparty during its origin were: Adam Krellenstein, Robby Dermody, and Ouziel Slama. The genesis [Bitcointalk Forum post](https://bitcointalk.org/index.php?topic=395761.0) titled: "Counterparty - Pioneering Peer-to-Peer Finance - Official Thread" is one of the earliest publications relating to the Counterparty Platform.
 
 Related Links: https://counterparty.io/news/why-proof-of-burn/ https://xchain.io/asset/XCP https://bitcointalk.org/index.php?topic=395761.0
 
