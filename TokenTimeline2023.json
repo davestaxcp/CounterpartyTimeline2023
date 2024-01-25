@@ -1736,7 +1736,7 @@
         "Time": "1498348800",
         "imageURL": "https://user-images.githubusercontent.com/136373423/75d4a570-2f4c-4dd9-9bf5-501aacde5a4e.png",
         "Event": "PENISIUM",
-        "Significance": "This asset is the back-bone of the Penisium meme project which started on a system created by their team called 'Proof-of-LOL'. This project includes many singular assets in the directory submitted by the community and are rewarded in PENISIUM by submitting and collecting the cards in this directory. The more PENISIUM you have, the more benefits you get.",
+        "Significance": "This asset is the back-bone of the Penisium meme project which started on a system created by their team called 'Proof-of-LOL'. This project includes many singular assets in the directory submitted by the community and are rewarded in PENISIUM by submitting and collecting the cards in this directory. This great in-depth medium article by Subterranean describes in great length the distribution and project specific process for PENISIUM. Long story short: the more PENISIUM you have, the more benefits you get.",
         "links": [
             {
                 "label": "This asset",
@@ -1749,6 +1749,10 @@
             {
                 "label": "the directory",
                 "href": "https://web.archive.org/web/20230203221556/https://penisium.org/cards/"
+            },
+            {
+                "label": "This great in-depth medium article",
+                "href": "https://subterranean.medium.com/the-penisium-project-3a032d56c431"
             }
         ],
         "Issuer": "1KqQFVERKXLW1Nd2TBKLodp9Z3JgTFTjMH"
