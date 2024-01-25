@@ -1098,7 +1098,7 @@ Date: **Jun 25, 2017**
 
 Timeline Asset/Project: **PENISIUM**
 
-Significance: [This asset](https://xchain.io/asset/PENISIUM) is the back-bone of the [Penisium meme project](https://web.archive.org/web/20230203225112/https://penisium.org/) which started on a system created by their team called 'Proof-of-LOL'. This project includes many singular assets in [the directory](https://web.archive.org/web/20230203221556/https://penisium.org/cards/) submitted by the community and are rewarded in PENISIUM by submitting and collecting the cards in this directory. The more PENISIUM you have, the more benefits you get.
+Significance: [This asset](https://xchain.io/asset/PENISIUM) is the back-bone of the [Penisium meme project](https://web.archive.org/web/20230203225112/https://penisium.org/) which started on a system created by their team called 'Proof-of-LOL'. This project includes many singular assets in [the directory](https://web.archive.org/web/20230203221556/https://penisium.org/cards/) submitted by the community and are rewarded in PENISIUM by submitting and collecting the cards in this directory. [This great in-depth medium article](https://subterranean.medium.com/the-penisium-project-3a032d56c431) by Subterranean describes in great length the distribution and project specific process for PENISIUM. Long story short: the more PENISIUM you have, the more benefits you get.
 
 Related Links: https://xchain.io/asset/PENISIUM https://web.archive.org/web/20230203225112/https://penisium.org/ https://web.archive.org/web/20230203221556/https://penisium.org/cards/
 
