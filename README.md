@@ -146,6 +146,8 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 ## Tokens to be Researched
 
+- KEKSBASILISK and AI generative art on XCP
+
 - https://xchain.io/asset/TITFORTAT
 
 - https://xchain.io/asset/BLINGZ
