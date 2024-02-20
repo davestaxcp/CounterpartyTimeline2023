@@ -148,7 +148,9 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - Update SALVATION with more history and notes from JPJA - https://jpjanssen.com/salvation-2015-participatory-art-nft/
 
-- KEKSBASILISK and AI generative art on XCP
+- AI generative art on XCP?
+
+- Rare Ordinal Directory
 
 - https://xchain.io/asset/TITFORTAT
 
