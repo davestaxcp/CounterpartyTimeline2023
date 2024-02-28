@@ -154,6 +154,8 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - SEIMEI - 2018
 
+- BITBOWL refine to explain it is the first verified (green banner) collection on xcp
+
 - https://xchain.io/asset/TITFORTAT
 
 - https://xchain.io/asset/BLINGZ
