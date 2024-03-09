@@ -190,7 +190,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 ## Development Drafts to be Added
 
-- add story of "Destroy" function and relation to BITCORN.GLASSES: https://github.com/CounterpartyXCP/counterparty-lib/pull/1006
+- add story of "Destroy" function and relation to BITCORN.GLASSES: [https://github.com/CounterpartyXCP/counterparty-core/pull/1006](https://github.com/CounterpartyXCP/counterparty-core/pull/1006)
 
 (Counterparty Improvement Proposals are added when the CIP editor adds them to XCP CIP Github.)
 
