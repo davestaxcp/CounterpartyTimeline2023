@@ -186,11 +186,16 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - https://xchain.io/asset/NGXX
 
+- anything (old) not referenced and shown on https://www.xcp.io/tokens
+
 ---
 
 ## Development Drafts to be Added
 
 - add story of "Destroy" function and relation to BITCORN.GLASSES: [https://github.com/CounterpartyXCP/counterparty-core/pull/1006](https://github.com/CounterpartyXCP/counterparty-core/pull/1006)
 
-(Counterparty Improvement Proposals are added when the CIP editor adds them to XCP CIP Github.)
+- add creation and dissolving of the Counterparty Foundation
 
+- Include maintainer list (new color shematic) 
+
+- include return of Adam Krellinstein and team and include Counterparty Whitepaper
