@@ -148,7 +148,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - Update SALVATION with more history and notes from JPJA - https://jpjanssen.com/salvation-2015-participatory-art-nft/
 
-- AI generative art on XCP?
+- early AI generative art on XCP (in Rare Pepe) - Deep Dream, Prisma, Piscart AI (and others)
 
 - Rare Ordinal Directory
 
