@@ -154,7 +154,9 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - SEIMEI - 2018
 
-- BITBOWL refine to explain it is the first verified (green banner) collection on xcp
+- BITBOWL refine to explain it is the oldest verified (green banner) collection on xcp
+
+- include more info on Rock Paper Scissors assets, history and functionality (connect it to dev entry regarding on-chain gaming)
 
 - https://xchain.io/asset/TITFORTAT
 
