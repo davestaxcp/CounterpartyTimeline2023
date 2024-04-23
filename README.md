@@ -158,6 +158,8 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - include more info on Rock Paper Scissors assets, history and functionality (connect it to dev entry regarding on-chain gaming)
 
+- include more on BOMB and Adeally: https://twitter.com/LiteBitCo/status/1782623256068972924
+
 - https://xchain.io/asset/TITFORTAT
 
 - https://xchain.io/asset/BLINGZ
