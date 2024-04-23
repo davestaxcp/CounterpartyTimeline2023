@@ -160,6 +160,8 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - include more on BOMB and Adeally: https://twitter.com/LiteBitCo/status/1782623256068972924
 
+- PETAMINE, XBTC and SPECULATE: https://forums.counterparty.io/t/petamine-mine-bitcoins-with-your-counterwallet/390 - https://forums.counterparty.io/t/ann-speculate-weekly-payouts/503 - https://forums.counterparty.io/t/ann-earnfreebtc-earn-weekly-dividends/313
+
 - https://xchain.io/asset/TITFORTAT
 
 - https://xchain.io/asset/BLINGZ
