@@ -158,7 +158,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - include more info on Rock Paper Scissors assets, history and functionality (connect it to dev entry regarding on-chain gaming)
 
-- include more on BOMB and Adeally: https://twitter.com/LiteBitCo/status/1782623256068972924
+- include more on BOMB and Adeally: https://twitter.com/LiteBitCo/status/1782623256068972924 - https://twitter.com/LiteBitCo/status/1783121258252570796
 
 - PETAMINE, XBTC and SPECULATE: https://forums.counterparty.io/t/petamine-mine-bitcoins-with-your-counterwallet/390 - https://forums.counterparty.io/t/ann-speculate-weekly-payouts/503 - https://forums.counterparty.io/t/ann-earnfreebtc-earn-weekly-dividends/313
 
