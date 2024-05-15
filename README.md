@@ -206,4 +206,4 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - Include maintainer list (new color shematic) 
 
-- include return of Adam Krellinstein and team and include Counterparty Whitepaper
+- include return of Adam Krellenstein and team and include Counterparty Whitepaper https://krellenstein.com/adam/get/counterparty-whitepaper_2024-03-29.pdf
