@@ -119,6 +119,8 @@ https://github.com/CounterpartyXCP
 
 https://github.com/CounterpartyXCP/cips
 
+https://github.com/CounterpartyXCP/Forum/tree/1e362f7f8668654d0241fe5b1f1c1c330a8b4368
+
 https://forums.counterparty.io/
 
 https://counterparty.io/roadmap/
@@ -199,6 +201,8 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 ---
 
 ## Development Drafts to be Added
+
+- since CIP's are now archived, all CIP links will need to be re-linked: https://github.com/CounterpartyXCP/Forum/tree/1e362f7f8668654d0241fe5b1f1c1c330a8b4368
 
 - add story of "Destroy" function and relation to BITCORN.GLASSES: [https://github.com/CounterpartyXCP/counterparty-core/pull/1006](https://github.com/CounterpartyXCP/counterparty-core/pull/1006)
 
