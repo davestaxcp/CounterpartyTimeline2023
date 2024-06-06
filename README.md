@@ -208,9 +208,64 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - add creation and dissolving of the Counterparty Foundation
 
-- Include maintainer list (new color shematic) 
-
 - include return of Adam Krellenstein and team and include Counterparty Whitepaper https://krellenstein.com/adam/get/counterparty-whitepaper_2024-03-29.pdf
+
+- Include maintainer list (new color shematic) and dev's who have contributed commits
+
+Dec 15, 2013 - github repository created
+
+- first commits by jxchen and kanzure
+
+Aug 17, 2014 - first commit by Adam Krellenstein
+
+Dec 14, 2014 - first commit by Millz0r
+
+Nov 01, 2015 - first commit by rubensayshi
+
+May 15, 2016 - first commit by Robby Dermody
+
+Jun 19, 2016 - first commit by Joe Looney
+
+Jan 22, 2016 - first commit by Devon Weller
+
+Aug 27, 2017 - first commit by John Villar
+
+Oct 08, 2017 - first commit by Dan Anderson
+
+Sep 23, 2018 - first commit by Jeremy Johnson
+
+Jun 20, 2021 - first commit by pataegrillo
+
+Dec 24m 2023 - first commit by Ouziel
+
+
+other coders who contributed:
+
+Rippler - 2014, 
+cjcole 2014, 
+Frozenlock 2014, 
+khan-faiz 2014, 
+Ignat99 - 2014, 
+larskluge - 2014, 
+btcdrak - 2014, 
+leishman - 2014, 
+ivanaszuber - 2014, 
+Millz0r - 2014, 
+unsystemizer - 2015, 
+gotcha - 2015, 
+unsynstemizer - 2015, 
+cryptonaut420 - 2015, 
+littleskunk - 2016, 
+cryptcoin-junkey - 2017, 
+familymediallc - 2017, 
+mide - 2018, 
+longhoangwkm - 2020, 
+windsok - 2022, 
+mattmarcello - 2024, 
+warrenpuffett - 2024, 
+
+- overlay Commits graphic: ![Untitled](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/1dd41766-f0ee-427c-a708-297b2e350cc0)
+
 
 ---
 
