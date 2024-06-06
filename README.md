@@ -43,90 +43,6 @@ This timeline idea was originally published in [this Counterparty Forum post](ht
 It is my hope that this data below will give more inspirational education to the current and future Counterparty community, as well as give light on historical and groundbreaking projects done in the past using the Counterparty protocol.
 
 ---
----
-
-## Acknowledgments
-
----
-
-I'd like to give a huge shoutout to all the digital archaeological digging done by [JP Janssen](https://twitter.com/jp_janssen), [Whiterabbit1111](https://twitter.com/WRabbit1111), [Doggfather](https://twitter.com/DoggfatherCrew), [HarryBTC](https://twitter.com/HarryBTC), [Blackstar](https://twitter.com/BlackstarXXI), [Jake Gallen](https://www.jakegallen.com/), [Shannon Code](https://www.linkedin.com/in/shannoncode/) and a few other people in the community like [RarePepeNews](https://twitter.com/rarepepenews), [Scrilla](https://twitter.com/ScrillaVentura), [Theo Goodman](https://twitter.com/theog__), [Joe Looney](https://twitter.com/wasthatawolf), [Nutildah/dogermint](https://twitter.com/dogermint), [Jdog](https://twitter.com/jdogresorg), [LiteBit](https://twitter.com/LiteBitCo), [Sebuh](https://twitter.com/Sebuh_com), [ZeroG](https://twitter.com/g0barry), Helene, Rob Mitchell, Dan Anderson, [Indelible Trade](https://twitter.com/SuperRareRares), [Christian Moss](https://twitter.com/MandelDuck), [Nicolas Sierro](https://twitter.com/NicolasSierro) and so many more that I have a hard time keeping track of all of the beautiful people who have helped compile this information. 
-
-If I haven't included your name, know I give you all the love in the world. 
-
-I couldn't have compiled all of this information without the generous and critical eye of the Counterparty Community.
-
-Rest in Peace [John Villar](https://github.com/chiguireitor) <3
-
----
-
-I have pulled my information from Twitter, Direct Messages and a few other general places:
-
-[The Bitcoin Talk Forums](https://bitcointalk.org/)
-
----
-
-These Podcasts:
-
-[Art On The Blockchain](https://soundcloud.com/artontheblockchain/tracks)
-
-[The Bitcoin Game](https://soundcloud.com/the-bitcoin-game)
-
-[The Adam McBride Show](https://podcasts.apple.com/us/podcast/the-adam-mcbride-show/id1410811576?i=1000511264470)
-
-[Bitcoin Uncensored](https://www.mixcloud.com/bitcoinuncensored/uploads/?order=oldest)
-
----
-
-These Interviews:
-
-[Exploring the Vintage NFT Space with ZeroG](https://www.youtube.com/@VintageNFTSpace)
-
----
-
-This Show:
-
-[Keiser Report](https://www.rt.com/shows/keiser-report/)
-
----
-
-These Articles:
-
-https://whiterabbit1111.medium.com/the-origin-digital-antiquities-market-nfts-1ea9b69c03f9
-
-https://jpjanssen.com/a-timeline-of-non-fungible-tokens-on-counterparty/
-
-https://jpjanssen.com/timeline/counterparty.html?asset=OLGA&issuer_msg=off
-
-https://news.bitcoin.com/top-nine-counterparty-projects/
-
----
-
-These Blockchain Tools:
-
-https://xchain.io/
-
-https://xcp.dev/
-
-[This Counterparty Asset API call](https://codepen.io/ndlbl/pen/yLQVERj?editors=1111)
-
-The [filtered XCP asset list](https://github.com/Jpja/XCP-Asset-List/blob/main/xcp_assets_filtered.csv) from JPJA
-
----
-
-General Counterparty Sources:
-
-https://github.com/CounterpartyXCP
-
-https://github.com/CounterpartyXCP/cips
-
-https://github.com/CounterpartyXCP/Forum/tree/1e362f7f8668654d0241fe5b1f1c1c330a8b4368
-
-https://forums.counterparty.io/
-
-https://counterparty.io/roadmap/
-
----
----
 
 ## Notes From the Author
 
@@ -292,4 +208,87 @@ OLGA?
 
 - Insert and include an entire MLA formatted Bibliography of works cited
 
+--- 
+
+## Acknowledgments
+
+---
+
+I'd like to give a huge shoutout to all the digital archaeological digging done by [JP Janssen](https://twitter.com/jp_janssen), [Whiterabbit1111](https://twitter.com/WRabbit1111), [Doggfather](https://twitter.com/DoggfatherCrew), [HarryBTC](https://twitter.com/HarryBTC), [Blackstar](https://twitter.com/BlackstarXXI), [Jake Gallen](https://www.jakegallen.com/), [Shannon Code](https://www.linkedin.com/in/shannoncode/) and a few other people in the community like [RarePepeNews](https://twitter.com/rarepepenews), [Scrilla](https://twitter.com/ScrillaVentura), [Theo Goodman](https://twitter.com/theog__), [Joe Looney](https://twitter.com/wasthatawolf), [Nutildah/dogermint](https://twitter.com/dogermint), [Jdog](https://twitter.com/jdogresorg), [LiteBit](https://twitter.com/LiteBitCo), [Sebuh](https://twitter.com/Sebuh_com), [ZeroG](https://twitter.com/g0barry), Helene, Rob Mitchell, Dan Anderson, [Indelible Trade](https://twitter.com/SuperRareRares), [Christian Moss](https://twitter.com/MandelDuck), [Nicolas Sierro](https://twitter.com/NicolasSierro) and so many more that I have a hard time keeping track of all of the beautiful people who have helped compile this information. 
+
+If I haven't included your name, know I give you all the love in the world. 
+
+I couldn't have compiled all of this information without the generous and critical eye of the Counterparty Community.
+
+Rest in Peace [John Villar](https://github.com/chiguireitor) <3
+
+---
+
+I have pulled my information from Twitter, Direct Messages and a few other general places:
+
+[The Bitcoin Talk Forums](https://bitcointalk.org/)
+
+---
+
+These Podcasts:
+
+[Art On The Blockchain](https://soundcloud.com/artontheblockchain/tracks)
+
+[The Bitcoin Game](https://soundcloud.com/the-bitcoin-game)
+
+[The Adam McBride Show](https://podcasts.apple.com/us/podcast/the-adam-mcbride-show/id1410811576?i=1000511264470)
+
+[Bitcoin Uncensored](https://www.mixcloud.com/bitcoinuncensored/uploads/?order=oldest)
+
+---
+
+These Interviews:
+
+[Exploring the Vintage NFT Space with ZeroG](https://www.youtube.com/@VintageNFTSpace)
+
+---
+
+This Show:
+
+[Keiser Report](https://www.rt.com/shows/keiser-report/)
+
+---
+
+These Articles:
+
+https://whiterabbit1111.medium.com/the-origin-digital-antiquities-market-nfts-1ea9b69c03f9
+
+https://jpjanssen.com/a-timeline-of-non-fungible-tokens-on-counterparty/
+
+https://jpjanssen.com/timeline/counterparty.html?asset=OLGA&issuer_msg=off
+
+https://news.bitcoin.com/top-nine-counterparty-projects/
+
+---
+
+These Blockchain Tools:
+
+https://xchain.io/
+
+https://xcp.dev/
+
+[This Counterparty Asset API call](https://codepen.io/ndlbl/pen/yLQVERj?editors=1111)
+
+The [filtered XCP asset list](https://github.com/Jpja/XCP-Asset-List/blob/main/xcp_assets_filtered.csv) from JPJA
+
+---
+
+General Counterparty Sources:
+
+https://github.com/CounterpartyXCP
+
+https://github.com/CounterpartyXCP/cips
+
+https://github.com/CounterpartyXCP/Forum/tree/1e362f7f8668654d0241fe5b1f1c1c330a8b4368
+
+https://forums.counterparty.io/
+
+https://counterparty.io/roadmap/
+
+---
 
