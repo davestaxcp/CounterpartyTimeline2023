@@ -126,11 +126,11 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - include return of Adam Krellenstein and team and include Counterparty Whitepaper https://krellenstein.com/adam/get/counterparty-whitepaper_2024-03-29.pdf
 
-- Include maintainer list (new color shematic) and dev's who have contributed commits
+- Include maintainer list (new color shematic) and dev's who have contributed commits: https://github.com/CounterpartyXCP/counterparty-core/graphs/contributors
 
 Dec 15, 2013 - github repository created
 
-- first commits by jxchen and kanzure
+Jan 19, 2014 - first protocol commit by jxchen
 
 Aug 17, 2014 - first commit by Adam Krellenstein
 
@@ -157,6 +157,7 @@ Dec 24, 2023 - first commit by Ouziel
 
 other coders who contributed:
 
+kanzure - 2014, 
 Rippler - 2014, 
 cjcole 2014, 
 Frozenlock 2014, 
