@@ -222,11 +222,14 @@ https://ca.sports.yahoo.com/news/frightening-pepe-homer-simpson-trading-00210757
 $312,000 - Feb 28th, 2021 
 https://www.newsbtc.com/analysis/eth/rare-homer-simpson-pepe-nft-sells-for-312k/
 
-RAREPEPE - PEPENOPOLOUS - PEPEAIR - TokenAngels Sotheby's Auction
+RAREPEPE - PEPENOPOLOUS (3.65 Million) - PEPEAIR - TokenAngels Sotheby's Auction - Oct 2021
 https://x.com/Sothebys/status/1446208965982007302
 https://x.com/sant_xyz/status/1448721145075683331
 https://finance.yahoo.com/news/rarepepe-nft-sells-500k-sotheby-172704750.html
 https://x.com/Sothebysverse/status/1453057621402034180
+
+PEPEPIZZA $35,000 - Dec, 2017
+https://x.com/rarepepenews/status/1798549077396963812
 
 OLGA?
 
