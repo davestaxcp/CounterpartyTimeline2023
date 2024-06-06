@@ -211,3 +211,23 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 - Include maintainer list (new color shematic) 
 
 - include return of Adam Krellenstein and team and include Counterparty Whitepaper https://krellenstein.com/adam/get/counterparty-whitepaper_2024-03-29.pdf
+
+---
+
+## Add Historic Counterparty Sales
+
+HOMERPEPE - $39,000 - Jan 13, 2018
+https://www.youtube.com/watch?v=L-ScVty8E_0
+https://ca.sports.yahoo.com/news/frightening-pepe-homer-simpson-trading-002107577.html
+$312,000 - Feb 28th, 2021 
+https://www.newsbtc.com/analysis/eth/rare-homer-simpson-pepe-nft-sells-for-312k/
+
+RAREPEPE - PEPENOPOLOUS - PEPEAIR - TokenAngels Sotheby's Auction
+https://x.com/Sothebys/status/1446208965982007302
+https://x.com/sant_xyz/status/1448721145075683331
+https://finance.yahoo.com/news/rarepepe-nft-sells-500k-sotheby-172704750.html
+https://x.com/Sothebysverse/status/1453057621402034180
+
+OLGA?
+
+
