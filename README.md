@@ -236,7 +236,7 @@ Sep 23, 2018 - first commit by Jeremy Johnson
 
 Jun 20, 2021 - first commit by pataegrillo
 
-Dec 24m 2023 - first commit by Ouziel
+Dec 24, 2023 - first commit by Ouziel
 
 
 other coders who contributed:
