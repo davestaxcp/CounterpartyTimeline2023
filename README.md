@@ -127,7 +127,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 - include return of Adam Krellenstein and team and include Counterparty Whitepaper https://krellenstein.com/adam/get/counterparty-whitepaper_2024-03-29.pdf
 
 - Include maintainer list (new color shematic) and dev's who have contributed commits: https://github.com/CounterpartyXCP/counterparty-core/graphs/contributors
-Lead Maintainers: Devon Weller 2014-2017 / John Villar 2016-2019 / Jeremy Johnson 2019-2024 / Adam Krellenstein 2024-Present
+Lead Maintainers: Devon Weller 2014-2017 / John Villar 2017-2019 / Jeremy Johnson 2019-2024 / Adam Krellenstein 2024-Present
 
 Dec 15, 2013 - github repository created
 
