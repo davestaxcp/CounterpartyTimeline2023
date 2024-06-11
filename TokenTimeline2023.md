@@ -657,9 +657,9 @@ Date: **Aug 6, 2015**
 
 Timeline Asset/Project: **SALVATION**
 
-Significance: This token, named [SALVATION](https://xchain.io/asset/SALVATION), was the first time Token Ownership Rights for a named asset was transferred to a burn address. Unlike A714159941780378900, the Token Ownership Rights were transferred and not the total supply. This, in effect was the first use of 'locking the description and locking any subasset's to be issued' while keeping the total supply liquid to buy/sell or move around. The Token Ownership Rights for SALVATION was sent to the vanity burn address: 1SaLvationGodsMarveLousGracaLgYQS. It was minted with the description stating "SAVE UR SOUL FROM SIN & ITS CONSEQUENCES".
+Significance: This token, named [SALVATION](https://xchain.io/asset/SALVATION), was the first time Token Ownership Rights for a named asset was transferred to a burn address. The minter, JPJA, also [explains on his website](https://jpjanssen.com/salvation/) a deeper story and involves much more meaning than just a 'burned Ownership rights' token. The token was an early test of a very limited issuance. It was also announced on Reddit through an anonymous profile, was mentioned on a Robert Ross podcast, and was almost traded 1 to 1 for an FDCARD using the Counterparty Decentralized Exchange. Unlike A714159941780378900, the Token Ownership Rights were transferred and not the total supply. This, in effect was the first use of 'locking the description and locking any subasset's to be issued' while keeping the total supply liquid to buy/sell or move around. The Token Ownership Rights for SALVATION was sent to the vanity burn address: 1SaLvationGodsMarveLousGracaLgYQS. It was minted with the description stating 'SAVE UR SOUL FROM SIN & ITS CONSEQUENCES'. The artwork, which represents Paul the Apostle, was added later in 2017 and is from the public domain.
 
-Related Links: https://xchain.io/asset/SALVATION
+Related Links: https://xchain.io/asset/SALVATION https://jpjanssen.com/salvation/
 
 Issuer: 18AHSWhk7xU6TB2sZJnZKLyGneB452nmG7
 
