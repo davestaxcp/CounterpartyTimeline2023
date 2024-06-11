@@ -137,9 +137,9 @@ Date: **Apr 22, 2014**
 
 Timeline Asset/Project: **BOMB**
 
-Significance: This asset, [BOMB](https://xchain.io/asset/BOMB), simply has the description 'Adeally Equity Shares' which appears to be the asset used for equity in a company named [Adeally](http://adeally.com/). This company looks like it sought to be a shopping website that included entertainment, products and possibly other products using the Counterparty protocol for company share ownership.
+Significance: This asset, [BOMB](https://xchain.io/asset/BOMB), simply has the description 'Adeally Equity Shares' which was the asset used for equity in a company named [Adeally](http://adeally.com/). BOMB was an ownership token that was to pay revenue to holders in the form of dividends.This company sought to be a shopping website that included entertainment, products and possibly other products using the Counterparty protocol for company share ownership. According to Litebit, the owner of Adeally, [he stated the website](https://x.com/LiteBitCo/status/1782623256068972924) would allow a few things never seen before in ecommerce such as: open market trading of unused tokens, gamification of the shopping experience, trustless and KYC-free ownership in a company, dividends paid in Bitcoin. [Two other tokens were issued](https://x.com/LiteBitCo/status/1783121258252570796) to further give the user 'a gamified ecommerce experience'. Those tokens are named Counterparty assets: PLAYS and TOKENS. Learn more about Adeally and BOMB by exploring the Twitter post explanation and [original Bitcointalk Post](https://bitcointalk.org/index.php?topic=581995.msg6441261#msg6441261).
 
-Related Links: https://xchain.io/asset/BOMB http://adeally.com/
+Related Links: https://xchain.io/asset/BOMB http://adeally.com/ https://x.com/LiteBitCo/status/1782623256068972924 https://x.com/LiteBitCo/status/1783121258252570796 https://bitcointalk.org/index.php?topic=581995.msg6441261#msg6441261
 
 Issuer: 187TT5PpAKGHRBGjdaKDZsgBH1s8yNCtS4
 
