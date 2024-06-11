@@ -6,7 +6,7 @@
 
 ---
 
-This repo is dedicated to publicly organizing and critiquing a public list for Counterparty’s vast historical assets/tokens, projects and developer updates to the Counterparty Protocol we have seen since Counterparty’s inception. 
+This repo is dedicated to publicly organizing and critiquing a public list for Counterparty’s vast historical tokens, projects and developer updates to the Counterparty Protocol since Counterparty’s inception. 
 
 ---
 ---
