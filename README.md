@@ -126,8 +126,8 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - include return of Adam Krellenstein and team and include Counterparty Whitepaper https://krellenstein.com/adam/get/counterparty-whitepaper_2024-03-29.pdf
 
-- Include maintainer list (new color shematic) and dev's who have contributed commits: https://github.com/CounterpartyXCP/counterparty-core/graphs/contributors
-Lead Maintainers: Devon Weller 2014-2017 / John Villar 2017-2019 / Jeremy Johnson 2019-2024 / Adam Krellenstein 2024-Present
+- ~~Include maintainer list (new color shematic) and dev's who have contributed commits: https://github.com/CounterpartyXCP/counterparty-core/graphs/contributors
+Lead Maintainers: Devon Weller 2014-2017 / John Villar 2017-2019 / Jeremy Johnson 2019-2024 / Adam Krellenstein 2024-Present~~
 
 Dec 15, 2013 - github repository created
 
@@ -137,7 +137,7 @@ Aug 17, 2014 - first commit by Adam Krellenstein
 
 Dec 14, 2014 - first commit by Millz0r
 
-Nov 01, 2015 - first commit by rubensayshi
+Nov 01, 2015 - first commit by Ruben de Vries
 
 May 15, 2016 - first commit by Robby Dermody
 
@@ -153,7 +153,7 @@ Sep 23, 2018 - first commit by Jeremy Johnson
 
 Jun 20, 2021 - first commit by pataegrillo
 
-Dec 24, 2023 - first commit by Ouziel
+Dec 24, 2023 - first commit by Ouziel Slama
 
 
 other coders who contributed:
