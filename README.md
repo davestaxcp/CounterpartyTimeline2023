@@ -64,6 +64,8 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 ## Tokens to be Researched
 
+- include all "green banner" xchain Token Projects until 2024?....
+
 - ~~Update SALVATION with more history and notes from JPJA - https://jpjanssen.com/salvation-2015-participatory-art-nft/~~
 
 - early AI generative art on XCP (in Rare Pepe) - Deep Dream, Prisma, Piscart AI (and others)
@@ -71,8 +73,6 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 - Rare Ordinal Directory and searching for the first XCP asset to use an Ordinal Description
 
 - SEIMEI - 2018
-
-- BITBOWL refine to explain it is the oldest verified (green banner) collection on xcp
 
 - include more info on Rock Paper Scissors assets, history and functionality (connect it to dev entry regarding on-chain gaming)
 
@@ -120,11 +120,11 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - since CIP's are now archived, all CIP links will need to be re-linked: https://github.com/CounterpartyXCP/Forum/tree/1e362f7f8668654d0241fe5b1f1c1c330a8b4368
 
-- add story of "Destroy" function and relation to BITCORN.GLASSES: [https://github.com/CounterpartyXCP/counterparty-core/pull/1006](https://github.com/CounterpartyXCP/counterparty-core/pull/1006)
+- ~~add story of "Destroy" function and relation to BITCORN.GLASSES: [https://github.com/CounterpartyXCP/counterparty-core/pull/1006](https://github.com/CounterpartyXCP/counterparty-core/pull/1006)~~
 
 - add creation and dissolving of the Counterparty Foundation
 
-- include return of Adam Krellenstein and team and include Counterparty Whitepaper https://krellenstein.com/adam/get/counterparty-whitepaper_2024-03-29.pdf
+- ~~include return of Adam Krellenstein and team and include Counterparty Whitepaper https://krellenstein.com/adam/get/counterparty-whitepaper_2024-03-29.pdf~~
 
 - ~~Include maintainer list (new color shematic) and dev's who have contributed commits: https://github.com/CounterpartyXCP/counterparty-core/graphs/contributors
 Lead Maintainers: Devon Weller 2014-2017 / John Villar 2017-2019 / Jeremy Johnson 2019-2024 / Adam Krellenstein 2024-Present~~
@@ -211,7 +211,7 @@ OLGA?
 
 --- 
 
-- In the future, insert and include an entire MLA formatted Bibliography of works cited below
+- (In the future, an entire MLA formatted Bibliography of works cited below will be included)
 
 ---
 
