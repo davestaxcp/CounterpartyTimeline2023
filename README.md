@@ -135,8 +135,6 @@ Jan 19, 2014 - first protocol commit by jxchen
 
 Aug 17, 2014 - first commit by Adam Krellenstein
 
-Dec 14, 2014 - first commit by Millz0r
-
 Nov 01, 2015 - first commit by Ruben de Vries
 
 May 15, 2016 - first commit by Robby Dermody
