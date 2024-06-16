@@ -122,8 +122,6 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - ~~add story of "Destroy" function and relation to BITCORN.GLASSES: [https://github.com/CounterpartyXCP/counterparty-core/pull/1006](https://github.com/CounterpartyXCP/counterparty-core/pull/1006)~~
 
-- add creation and dissolving of the Counterparty Foundation
-
 - ~~include return of Adam Krellenstein and team and include Counterparty Whitepaper https://krellenstein.com/adam/get/counterparty-whitepaper_2024-03-29.pdf~~
 
 - ~~Include maintainer list (new color shematic) and dev's who have contributed commits: https://github.com/CounterpartyXCP/counterparty-core/graphs/contributors
