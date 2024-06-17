@@ -66,6 +66,38 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - include all "green banner" xchain Token Projects until 2024?....
 
+|  17ART                  | https://17art.io/                                     |
+| Assetic                | https://assetic.io/                                    |
+| Barnyard Club          | https://barnyard.club/                                 |
+| Bitcoin War Bonds      | https://bitcoinwarbonds.law/                           |
+| Common Coco            | https://commoncoco.wtf/                                |
+| CrystalsCraft          | https://crystalsuite.com/crystal_collection            |
+| Drooling Ape Bus Club  | https://droolingapebus.club                            |
+| Fake Ape Club          | https://fakeapeclub.com                                |
+| Fake Commons           | https://fakeraredirectory.com/fake-commons/            |
+| Fake Munchkin          | https://www.fakemunchkin.com/                          |
+| FAUX SOGS              | https://fauxsogs.wtf                                   |
+| FootballCoin           | https://www.footballcoin.io                            |
+| Gameicon               |                                                        |
+| Modern Relics          | https://modernrelics.io                                |
+| Pepemon                | https://pepemon.net/                                   |
+| PepeVote               |                                                        |
+| Phunchkins             | https://phunchkins.com/                                |
+| Rare Bobo              | https://rarebobo.com/                                  |
+| Rare Coco              | https://rarecoco.wtf/                                  |
+| Rare GoGo              | https://raregogo.wtf                                   |
+| Rare Lands             | https://rarelands.wtf                                  |
+| Rare Ordinal Directory | http://rareordinal.directory                           |
+| Rare Shadilay          | https://rareshadilay.com                               |
+| RareSocks              | https://raresocks.xyz                                  |
+| RetroXCP               | https://retro-xcp.art/                                 |
+| Rude Relics            | https://ruderelics.io                                  |
+| Scannable NFTs         | https://scannablenfts.com/                             |
+| Spamgelo               | https://spamgelo.io                                    |
+| The Pepe Project       | http://pepeproject.com/                                |
+| The Wojak Way          | https://thewojakway.com/                               |
+| Wojak NPC              | https://wojaknpc.com/                                  |
+
 - ~~Update SALVATION with more history and notes from JPJA - https://jpjanssen.com/salvation-2015-participatory-art-nft/~~
 
 - early AI generative art on XCP (in Rare Pepe) - Deep Dream, Prisma, Piscart AI (and others)
