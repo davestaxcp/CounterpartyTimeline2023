@@ -179,7 +179,7 @@ Oct 08, 2017 - first commit by Dan Anderson
 
 Sep 23, 2018 - first commit by Jeremy Johnson
 
-Jun 20, 2021 - first commit by pataegrillo
+Jun 20, 2021 - first commit by Javier Varona
 
 Dec 24, 2023 - first commit by Ouziel Slama
 
