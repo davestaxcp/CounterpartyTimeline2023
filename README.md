@@ -183,7 +183,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - since CIP's are now archived, all CIP links will need to be re-linked: https://github.com/CounterpartyXCP/Forum/tree/1e362f7f8668654d0241fe5b1f1c1c330a8b4368
 
-- add previously unmentioned CIP drafts (CIP 3, CIP 4, .....)
+- add previously unmentioned CIP drafts: CIP 3 (Reset Token & Divisibility Statuses for Unused Asset)
 
 - ~~add story of "Destroy" function and relation to BITCORN.GLASSES: [https://github.com/CounterpartyXCP/counterparty-core/pull/1006](https://github.com/CounterpartyXCP/counterparty-core/pull/1006)~~
 
