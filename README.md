@@ -145,6 +145,8 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - Monegraph mints from Namecoin to XCP - https://nmc.vision/?trait=monegraph - October 9, 2014 (MGAAAAAAAAAAA) and March 3, 2015 (A1028163271339900500)
 
+- First serialized NFTs for a poker website: https://forums.counterparty.io/t/ann-bitnplay-a-new-age-for-poker-partner-tokens/676 - found from: https://jpjanssen.com/a-timeline-of-non-fungible-tokens-on-counterparty/
+
 - https://xchain.io/asset/TITFORTAT
 
 - https://xchain.io/asset/BLINGZ
