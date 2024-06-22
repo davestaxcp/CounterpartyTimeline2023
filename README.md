@@ -185,6 +185,8 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - ~~add previously unmentioned CIP drafts: CIP 3 (Reset Token & Divisibility Statuses for Unused Asset)~~
 
+- ~~updating information for CIP 5: Voting Meta Protocol through Broadcasts~~
+
 - ~~add story of "Destroy" function and relation to BITCORN.GLASSES: [https://github.com/CounterpartyXCP/counterparty-core/pull/1006](https://github.com/CounterpartyXCP/counterparty-core/pull/1006)~~
 
 - ~~include return of Adam Krellenstein and team and include Counterparty Whitepaper https://krellenstein.com/adam/get/counterparty-whitepaper_2024-03-29.pdf~~
