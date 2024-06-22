@@ -194,7 +194,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 - ~~Include maintainer list (new color shematic) and dev's who have contributed commits: https://github.com/CounterpartyXCP/counterparty-core/graphs/contributors
 Lead Maintainers: Devon Weller 2014-2017 / John Villar 2017-2019 / Jeremy Johnson 2019-2024 / Adam Krellenstein 2024-Present~~
 
-- add [PSBT Support via attaching assets to UTXOs](https://github.com/CounterpartyXCP/Forum/discussions/134) even though it was not 'officially' a CIP since CIP discussions are now archives - introduce in relation to The Counterparty Whitepaper by Adam
+- add [PSBT Support via attaching assets to UTXOs](https://github.com/CounterpartyXCP/Forum/discussions/134) even though it was not 'officially' a CIP since CIP discussions are now archived - introduce in relation to The Counterparty Whitepaper by Adam
 
 Dec 15, 2013 - github repository created
 
