@@ -183,6 +183,8 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - since CIP's are now archived, all CIP links will need to be re-linked: https://github.com/CounterpartyXCP/Forum/tree/1e362f7f8668654d0241fe5b1f1c1c330a8b4368
 
+- almost all historical Counterparty News Updates and Roadmap posts have been removed (or moved somehwhere I cannot find) on the Counterparty website: https://web.archive.org/web/20230602061352/https://counterparty.io/roadmap/
+
 - ~~add previously unmentioned CIP drafts: CIP 3 (Reset Token & Divisibility Statuses for Unused Asset)~~
 
 - ~~updating information for CIP 5: Voting Meta Protocol through Broadcasts~~
