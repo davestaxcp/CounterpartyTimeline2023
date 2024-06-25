@@ -128,6 +128,9 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 | Wojak NPC              | https://wojaknpc.com/                                  |
 
+| OLGA Stamps            | https://x.com/jp_janssen/status/1764243065911324852    |
+
+
 
 - ~~Update SALVATION with more history and notes from JPJA - https://jpjanssen.com/salvation-2015-participatory-art-nft/~~
 
@@ -148,6 +151,14 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 - First serialized NFTs for a poker website?: https://forums.counterparty.io/t/ann-bitnplay-a-new-age-for-poker-partner-tokens/676 - found from: https://jpjanssen.com/a-timeline-of-non-fungible-tokens-on-counterparty/ - Bitcointalk forum post: https://bitcointalk.org/index.php?topic=906422 - "BNPXX" token 1/1 types: https://xchain.io/search?query=BNP
 
 - THEDEVSTAR - https://x.com/jp_janssen/status/1577919227754942465
+
+- 2019-01-28 – KALEIDOSCOPE.The_worlds_first_ever_longest_digital_asset_name_and_an_experiment_of_an_experiment_on_the_blockchain_verified_forever_by_the_counterparty_protocol_and_bitcoin_OPreturn
+
+- 2019-03-11 – GESAMTKUNSTW.ERK – https://medium.com/chain-of-thoughts/must-we-all-become-a-gesamtkunstwerk-b72fa6098930 - first tokenized article
+
+- 2021-06-11 – THING – first parent asset (after BITCORN.GLASSES) to be destroyed to a 1/1
+
+- 2019-03-02 - https://xchain.io/asset/XCPTORCH - XCPTORCH.Chiguireitor
 
 - https://xchain.io/asset/TITFORTAT
 
