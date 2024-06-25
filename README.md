@@ -166,29 +166,15 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - https://xchain.io/asset/DIAMONDBOND
 
-- https://xchain.io/asset/THEDAFT
-
-- https://xchain.io/asset/YUMECOIN
-
-- https://xchain.io/asset/ZDNX
-
 - https://xchain.io/asset/STEEMSTARS
 
-- https://xchain.io/asset/PIXULECO
-
 - https://xchain.io/asset/TAHI
-
-- https://xchain.io/asset/SWISSTOKEN
-
-- https://xchain.io/asset/YUMECOIN
 
 - https://xchain.io/asset/HQLEADERS
 
 - https://xchain.io/asset/KEVCOIN
 
 - https://xchain.io/asset/NOVATOKEN
-
-- https://xchain.io/asset/NGXX
 
 - anything (old) not referenced and shown on https://www.xcp.io/tokens
 
