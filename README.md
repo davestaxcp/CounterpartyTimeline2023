@@ -138,6 +138,8 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - CrystalsCraft by EverdreamSoft 2018 - https://orbexplorer.com/collection/eCry
 
+- The Augmentor's Game - seen on SharkTank - https://steemit.com/games/@tonylondon/the-augmentor-s-game - GENOFLIGHT as Augmentor card but also in SOG - playable in SOG!
+
 - Rare Ordinal Directory and searching for the first XCP asset to use an Ordinal Description
 
 - SEIMEI - 2018
