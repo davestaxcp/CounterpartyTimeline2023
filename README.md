@@ -136,6 +136,8 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - early AI generative art on XCP (in Rare Pepe) - Deep Dream, Prisma, Piscart AI (and others)
 
+- CrystalsCraft by EverdreamSoft 2018 - https://orbexplorer.com/collection/eCry
+
 - Rare Ordinal Directory and searching for the first XCP asset to use an Ordinal Description
 
 - SEIMEI - 2018
