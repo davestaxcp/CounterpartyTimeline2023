@@ -280,26 +280,38 @@ https://x.com/rarepepenews/status/1798549077396963812
 
 OLGA?
 
+---
+
+## Add Historic Counterparty Wallets
+
+- Counterwallet
+- Book of Orbs
+- Freewallet
+- Rare Pepe Wallet
+- CasaTookan
+- Freeport
+- IndieSquare Wallet
+- Monya
+- NinjaWallet
 
 ## Acknowledgments
 
 --- 
 
-- (In the future, an entire MLA formatted Bibliography of works cited below will be included)
+- (In the future, an entire MLA formatted Bibliography of works cited for each entry will be included in its own document, but this is a general bibliography below)
 
 ---
 
-I'd like to give a huge shoutout to all the digital archaeological digging done by [JP Janssen](https://twitter.com/jp_janssen), [Whiterabbit1111](https://twitter.com/WRabbit1111), [Doggfather](https://twitter.com/DoggfatherCrew), [HarryBTC](https://twitter.com/HarryBTC), [Blackstar](https://twitter.com/BlackstarXXI), [Jake Gallen](https://www.jakegallen.com/), [Shannon Code](https://www.linkedin.com/in/shannoncode/) and a few other people in the community like [RarePepeNews](https://twitter.com/rarepepenews), [Scrilla](https://twitter.com/ScrillaVentura), [Theo Goodman](https://twitter.com/theog__), [Joe Looney](https://twitter.com/wasthatawolf), [Nutildah/dogermint](https://twitter.com/dogermint), [Jdog](https://twitter.com/jdogresorg), [LiteBit](https://twitter.com/LiteBitCo), [Sebuh](https://twitter.com/Sebuh_com), [ZeroG](https://twitter.com/g0barry), Helene, Rob Mitchell, Dan Anderson, [Indelible Trade](https://twitter.com/SuperRareRares), [Christian Moss](https://twitter.com/MandelDuck), [Nicolas Sierro](https://twitter.com/NicolasSierro) and so many more that I have a hard time keeping track of all of the beautiful people who have helped compile this information. 
+I'd like to give a huge shoutout to all the digital archaeological digging done by [JP Janssen](https://twitter.com/jp_janssen), [Whiterabbit1111](https://twitter.com/WRabbit1111), [Doggfather](https://twitter.com/DoggfatherCrew), [HarryBTC](https://twitter.com/HarryBTC), [Blackstar](https://twitter.com/BlackstarXXI), [Jake Gallen](https://www.jakegallen.com/), [Shannon Code](https://www.linkedin.com/in/shannoncode/) and a few other people in the community like [RarePepeNews](https://twitter.com/rarepepenews), [Scrilla](https://twitter.com/ScrillaVentura), [Theo Goodman](https://twitter.com/theog__), [Joe Looney](https://twitter.com/wasthatawolf), [Nutildah/dogermint](https://twitter.com/dogermint), [Jdog](https://twitter.com/jdogresorg), [LiteBit](https://twitter.com/LiteBitCo), [Sebuh](https://twitter.com/Sebuh_com), [ZeroG](https://twitter.com/g0barry), Helene, Rob Mitchell, Dan Anderson, [Indelible Trade](https://twitter.com/SuperRareRares), [Christian Moss](https://twitter.com/MandelDuck), [Nicolas Sierro](https://twitter.com/NicolasSierro), [Shaban Shaame](https://x.com/shaban_shaame) and so many more that I have a hard time keeping track of all of the beautiful people who have helped compile this information. 
 
 If I haven't included your name, know I give you all the love in the world. 
-
-I couldn't have compiled all of this information without the generous and critical eye of the Counterparty Community.
+I could not have compiled all of this information without the generous and critical eye of the Counterparty Community.
 
 Rest in Peace [John Villar](https://github.com/chiguireitor) <3
 
 ---
 
-I have pulled my information from Twitter, Direct Messages and a few other general places:
+I have pulled my information from many various sources:
 
 [The Bitcoin Talk Forums](https://bitcointalk.org/)
 
