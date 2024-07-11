@@ -367,15 +367,15 @@ The [filtered XCP asset list](https://github.com/Jpja/XCP-Asset-List/blob/main/x
 
 General Counterparty Sources:
 
-https://github.com/CounterpartyXCP
+https://www.counterparty.io/
 
-https://github.com/jdogresorg/cips
+https://web.archive.org/web/20230602061352/https://counterparty.io/roadmap/
 
 https://github.com/CounterpartyXCP/Forum/tree/1e362f7f8668654d0241fe5b1f1c1c330a8b4368
 
-https://forums.counterparty.io/
+https://github.com/CounterpartyXCP
 
-https://counterparty.io/roadmap/
+https://forums.counterparty.io/
 
 ---
 
