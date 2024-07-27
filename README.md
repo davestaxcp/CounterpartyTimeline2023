@@ -180,8 +180,6 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - https://xchain.io/asset/NOVATOKEN
 
-- anything (old) not referenced and shown on https://www.xcp.io/tokens
-
 ---
 
 ## Development Drafts to be Added
@@ -202,6 +200,18 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 Lead Maintainers: Devon Weller 2014-2017 / John Villar 2017-2019 / Jeremy Johnson 2019-2024 / Adam Krellenstein 2024-Present~~
 
 - ~~add [PSBT Support via attaching assets to UTXOs](https://github.com/CounterpartyXCP/Forum/discussions/134) even though it was not 'officially' a CIP since CIP discussions are now archived - introduce in relation to The Counterparty Whitepaper by Adam~~
+
+- taproot address support - https://github.com/CounterpartyXCP/counterparty-core/issues/1241
+
+- fair minting - https://github.com/CounterpartyXCP/counterparty-core/issues/1843
+
+- eliminate fee on subasset registration - https://github.com/CounterpartyXCP/counterparty-core/issues/1840
+
+- Subasset on Numerics and Glyphs - https://github.com/CounterpartyXCP/counterparty-core/issues/1842
+
+- UTXO Support + Atomic Swaps - https://github.com/CounterpartyXCP/counterparty-core/issues/1939
+
+
 
 Dec 15, 2013 - github repository created
 
