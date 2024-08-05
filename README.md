@@ -134,7 +134,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - ~~Update SALVATION with more history and notes from JPJA - https://jpjanssen.com/salvation-2015-participatory-art-nft/~~
 
-- early AI generative art on XCP (in Rare Pepe) - Deep Dream, Prisma, Piscart AI (and others)
+- early AI generative art on XCP (in Rare Pepe) - Deep Dream, Prisma, Piscart AI, deep art io (and others), https://youtu.be/ZjKvVYezaJ8?si=e7MUN5RZuqUe1uir
 
 - CrystalsCraft by EverdreamSoft 2018 - https://orbexplorer.com/collection/eCry - https://www.patreon.com/posts/crystalscraft-in-23437649 - https://www.youtube.com/watch?v=NEkOLN8akzU
 
