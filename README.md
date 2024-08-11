@@ -130,7 +130,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 | OLGA Stamps            | https://x.com/jp_janssen/status/1764243065911324852    |
 
-| Counterfiet Super Rares | https://web.archive.org/web/20240617132844/https://www.counterfeitsuperfakes.wtf/ |
+| Counterfeit Super Rares | https://web.archive.org/web/20240617132844/https://www.counterfeitsuperfakes.wtf/ |
 
 
 
