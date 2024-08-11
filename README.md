@@ -132,7 +132,9 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 | Counterfeit Super Rares | https://web.archive.org/web/20240617132844/https://www.counterfeitsuperfakes.wtf/ | https://medium.com/@NRMN_/counterfeit-super-fake-fake-rares-are-coming-soon-to-the-bitcoin-blockchain-near-you-9871cfa7c159
 
+---
 
+- Bitcoin Comic https://bitcoincomic.org/ - https://x.com/BitcoinComic - https://tokenscan.io/asset/COMICBOOK - https://tokenscan.io/asset/COMICCOIN - relation to SWARM??
 
 - ~~Update SALVATION with more history and notes from JPJA - https://jpjanssen.com/salvation-2015-participatory-art-nft/~~
 
