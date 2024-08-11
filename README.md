@@ -150,7 +150,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - ~~include more on BOMB and Adeally: https://twitter.com/LiteBitCo/status/1782623256068972924 - https://twitter.com/LiteBitCo/status/1783121258252570796~~
 
-- PETAMINE, XBTC and SPECULATE: https://forums.counterparty.io/t/petamine-mine-bitcoins-with-your-counterwallet/390 - https://forums.counterparty.io/t/ann-speculate-weekly-payouts/503 - https://forums.counterparty.io/t/ann-earnfreebtc-earn-weekly-dividends/313
+- PETAMINE, EARNFREEBTC, XBTC and SPECULATE: https://forums.counterparty.io/t/petamine-mine-bitcoins-with-your-counterwallet/390 - https://forums.counterparty.io/t/ann-speculate-weekly-payouts/503 - https://forums.counterparty.io/t/ann-earnfreebtc-earn-weekly-dividends/313
 
 - Monegraph mints from Namecoin to XCP - https://nmc.vision/?trait=monegraph - October 9, 2014 (MGAAAAAAAAAAA) and March 3, 2015 (A1028163271339900500)
 
