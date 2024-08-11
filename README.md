@@ -130,7 +130,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 | OLGA Stamps            | https://x.com/jp_janssen/status/1764243065911324852    |
 
-| Counterfeit Super Rares | https://web.archive.org/web/20240617132844/https://www.counterfeitsuperfakes.wtf/ |
+| Counterfeit Super Rares | https://web.archive.org/web/20240617132844/https://www.counterfeitsuperfakes.wtf/ | https://medium.com/@NRMN_/counterfeit-super-fake-fake-rares-are-coming-soon-to-the-bitcoin-blockchain-near-you-9871cfa7c159
 
 
 
