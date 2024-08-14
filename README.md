@@ -66,23 +66,56 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - include all "green banner" xchain Token Projects until 2024?....
 
-|  17ART                  | https://17art.io/                                     |
+| 17ART | https://17art.io/ | 2022-03-30
 
-| Assetic                | https://assetic.io/                                    |
 
-| Barnyard Club          | https://barnyard.club/                                 |
+17ART is a project that invites artists to submit works that focus on 'three different themes: Critical Art, Graphite Draw and Artistic Paint'. The token that is used to submit artistic pieces is called the CriticArt token and was distributed initially to the holders of three Rare Pepe tokens including: GAMESOFTRUMP, PEPEHEFNER and WORLDOFPEPE. The submissions mainly focus on politics, pepe, bitcoin culture, religion, gematria and physical art. The website also offers an optional project specific orange border to format artist submissions.
 
-| Bitcoin War Bonds      | https://bitcoinwarbonds.law/                           |
 
-| Common Coco            | https://commoncoco.wtf/                                |
+| Assetic | https://assetic.io/ | https://web.archive.org/web/20230604171359/https://assetic.io/
 
-| CrystalsCraft          | https://crystalsuite.com/crystal_collection            |
+This project, started by Indelible, focused on 'The Arweave Secured Standard' and invited artists to submit artwork by using the Arweave blockchain and a Counterparty description to publish their art. The rules simply stated 'supply an ASS tag as your asset description and send asset ownership to a burn address'. A sample description would include ASS:'The Arweave Hash link to the artwork'|Assetic Art #69:ASS. The artwork in this directory mainly focussed on the aesthetic and beauty of the buttocks. At this time the website is only accessible with the Wayback Machine and submissions do not seem to be open anyore.
 
-| Drooling Ape Bus Club  | https://droolingapebus.club                            |
 
-| Fake Ape Club          | https://fakeapeclub.com                                |
+| Barnyard Club | https://barnyard.club/ | 2022-07-10
 
-| Fake Commons           | https://fakeraredirectory.com/fake-commons/            |
+Barnyard Club, created by Carsonated, is an extension and side-project of submissions after the Bitcorn project ended. The art included was released according to real world moon cycles and usually includes references to corn, farming, farm animals, pepe, cryptocurrency culture and graphic art. The directory includes art from many Counterparty artists and the submission token, CORNFUTURES, was dropped to all BITCORN holders in 2022. Submissions are still open at the time of writing.
+
+
+
+| Bitcoin War Bonds | https://bitcoinwarbonds.law/ | April 5, 2022
+
+Bitcoin War Bonds are a series of tokens that represent art and paintings by Tommy Marcheschi. He mentions on the project website 'THERE IS NO ROADMAP OTHER THAN MAKING ART AND PROPAGANDA... THIS IS A BITCOIN ART COLLECTION, NOTHING MORE, NOTHING LESS.' At this time the project features 13 pieces from 2022-2024 in a varying form of physical pieces including paintings, stickers, signed prints, a skateboard graphic and framed pieces. Most of the art is centered around war inspired propaganda to influence individuals to 'End Fiat' and influence the holding of Bitcoin. These pieces are backed by Counterparty tokens with Arweave descriptions to link to the digital art, but looks like in the future Bitcoin War Bonds will be 'migrating' to Ordinals.
+
+
+
+| Common Coco | https://commoncoco.wtf/ | 2023-08-14
+
+Common Coco is a project directory started by Subterranean which includes Rejected Rare Coco submissions, Kaleidoscope Cocos and Cocos from other blockchains other than Counterparty. While the original Rare Coco directory (created by Kero) invites artists to create art in the form of Coco the crocodile (which is related and somewhat derived from Pepe the frog), this 'reject' directory is similar to the Series 0 of Fake Rares in that this directory includes rejected cards from another project. To submit to this directory, an artist must submit their art, have it approved and then burn the COMNCOCOCASH token used for submissions.
+
+
+
+| CrystalsCraft | https://crystalsuite.com/crystal_collection | 2021-4-30
+
+CrystalsCraft is a series of seven different artworks by Albino-Z, Alejandro Hurtado and Herckeim minted on Counterparty, Ethereum and Klaytn. The early artwork is focused on historical projects in blockchain like GEMZ, Sarutobi and Doge and the latter general blockchain history like Mt. Gox, the genesis bitcoin block and the infamous DAO hack. Most of these artworks have extremely rare issuances, with The Doge at the highest of 15 separate 'prints'. The only one on Counterparty is the artwork commemorating Sarutobi and has 2 prints total, one of which was gifted to the developer, Christian Moss (MandelDuck).
+
+
+
+| Drooling Ape Bus Club | https://droolingapebus.club | 2021-11-29 (tweet - https://x.com/AryanJabbari/status/1462075772982771712) Jason - https://x.com/GoingParabolic/status/1462087968542363658 - include JPG of original tweet
+
+The Drooling Ape Bus Club is a series of open-submission art pieces that make fun of the well known Ethereum project 'Bored Ape Yacht Club'. The submission rules require the art to be square, a non-divisible asset with at least 69 tokens issued and mentions 'the drawing should be original, not just a copy of a Bored Ape'. Most submissions, many by existing Counterparty artists, mock Bored Apes using grotesque, raunchy or ridiculous meme trolling and generally reference Counterparty culture as well. Some submissions use GIF's and are not limited to just square images as is in the Bored Ape collection. Many of the tokens also simply include an 'imgur' image link in the description, something that was common with submissions in the Rare Pepe Collection. The project was started by Brad Mills somewhat by a single idea in a tweet posted November 20, 2021 in which people like Jason A. Williams hopped on board to join the mockery. This twitter interest would be eventually include influence by Aryan Jabbari to begin a Counterparty collection in a very quick fashion after the twitter hype. The project is currently up to series 6 and is still accepting submissions at this time.
+
+
+
+| Fake Ape Club | https://fakeapeclub.com | 2022-01-26
+
+The Fake Ape Club is a series of open-submission art pieces that make fun of the well known Ethereum project 'Bored Ape Yacht Club'. This collection was started by Doge-Style and Silk and also includes many well known Counterparty artists. As with the Drooling Ape Bus Club, it was common for pieces to mock Bored Apes using gortesque, raunchy or ridiculous meme trolling and generally reference Counterparty culture as well. The Fake Ape Club also mentions 'We were aping around on Bitcoin long before Ordinal’s, there is actually a rich history of digital art assets (NFT’s) on Bitcoin, in contrast to modern believers that ordinals are the first NFT’s on bitcoin.' The Fake Apes collection is up to series 7, still accepts submissions at this time and seems to be accepting submissions for a new sub-collection based on the asset 'FAKEMEMEZ'.
+
+
+
+| Fake Commons | https://fakeraredirectory.com/fake-commons/ | 2022-04-18?
+
+The Fake Commons Directory is a sub-collection of the Fake Rare Directory that involves destroying PEPECASH (a card/currency from Rare Pepe) to submit artwork. Very quickly the token used for Fake Rare submissions, FAKEASF, because very coveted and rapidly expensive for artists to submit to the directory. Since PEPECASH was burned by the artist for accepted submission in the historical Rare Pepe project, the expansion into Fake Commons adopted this method. This opened up many new artworks from existing Counterparty artists and openly invited all artists to submit because the process was much cheaper and had much less strict curation from the Fake Rare 'scientists'. At this time there are over 51 separate series of Fake Commons with wildly ranging themes, references to pepe the frog, political and cryptocurrency history, popular meme culture, and many hidden artistic gems. The Fake Commons collection is also nearing a time span in which this sub-collection will have been openly accepting submissions for longer than the original Rare Pepe project did. Submissions are still open at the time of this writing.
 
 | Fake Munchkin          | https://www.fakemunchkin.com/                          |
 
@@ -142,6 +175,45 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - early AI generative art on XCP (in Rare Pepe) - Deep Dream, Prisma, Piscart AI, deep art io (and others), https://youtu.be/ZjKvVYezaJ8?si=e7MUN5RZuqUe1uir
 
+  Early AI Art - (2016-10-19T16:08:01Z GMT)
+
+While the line between programmed, generative or 'Artificial Intelligence' art is somewhat blurred and hard to distiguish in artistic pieces, it is known that very early AI pieces were published using Counterparty tokens.
+
+Since Rare Pepe was a project that invited any artist from around the world to participate, many new styles of artworks appeared in 2016-2017 and this is where much of the early AI art emerges. The oldest AI artwork on Counterparty (that we know of) is a Rare Pepe token by Mr. BitcoinBeast called PEPEME which used a website AI tool called 'deepart io'. 
+
+Despite PEPEME having the oldest minting date, other pieces like PEPEALIEN by CryptoChainer, SCORPEPE, KEKSBASILISK by Katie Charm, NEUROPEPE by Alex Green, KEKTOPUS by Meme Conscious, CUBISTPEPE by Looks Rare, NAHUAL by Duncan and quite a few others have been found to use AI or AI programs. These include Deep Dream, Prism, Piscart AI or a mix between a few separate programs.
+
+This topic seems very contemporary and many questions and debates have arisen over which programs were used to create the art, what type of programming style or AI type was used in that tool, whether or not the art was copied from an earlier artist and what even constitutes as an AI tool at all.
+
+It comes as no suprise individuals now and into the future will wonder about the crossover into AI art becoming commonplace and it is evident Counterparty tokens were apart of that crossover period, but it is still unclear regarding 'which was first'.
+
+https://youtu.be/ZjKvVYezaJ8?si=c0bzpvyWOMhl1mbh
+
+
+https://tokenscan.io/asset/PEPEME
+
+
+https://tokenscan.io/asset/PEPEALIEN
+
+
+https://tokenscan.io/asset/SCORPEPE
+
+
+https://tokenscan.io/asset/KEKSBASILISK
+
+
+https://tokenscan.io/asset/NEUROPEPE
+
+
+https://tokenscan.io/asset/KEKTOPUS
+
+
+https://tokenscan.io/asset/CUBISTPEPE
+
+
+https://tokenscan.io/asset/NAHUAL
+
+
 - CrystalsCraft by EverdreamSoft 2018 - https://orbexplorer.com/collection/eCry - https://www.patreon.com/posts/crystalscraft-in-23437649 - https://www.youtube.com/watch?v=NEkOLN8akzU
 
 - The Augmentor's Game - seen on SharkTank - https://steemit.com/games/@tonylondon/the-augmentor-s-game - GENOFLIGHT as Augmentor card but also in SOG - playable in SOG! - issued by? https://xchain.io/address/1Rjkk2nrfmFbYN3fvxkdsEQi6QtJPnWKS
@@ -156,15 +228,73 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - Monegraph mints from Namecoin to XCP - https://nmc.vision/?trait=monegraph - October 9, 2014 (MGAAAAAAAAAAA) and March 3, 2015 (A1028163271339900500)
 
+  10 years ago (2014-10-09T17:01:35Z GMT)
+
+Monegraph Mints
+
+Within a prior protocol called Namecoin, Monegraphs (Monetized Graphics) were among the first blockchain collectibles with artwork and the intention of digital ownership. These assets became very popular when Sotheby's auctioned off 'Quantum' for $1.4 million dollars, the first piece in Monegraphs by Kevin McCoy. 
+
+While eighteen of these tokens were created using Namecoin, two of them by Joe Hamilton were minted using Counterparty.
+
+The first of which is a named asset called MGAAAAAAAAAAA that included a Vimeo file link, a sha256 hash, a Twitter link, ownership of the artwork and a JSON as the description. The video file included with this asset is an avante-garde video piece titled 'Regular Division'. While MGAAAAAAAAAAA is a non-divisible asset with a current supply of 1, the token issuance is not locked at this time.
+
+The second asset, A1028163271339900500, is a numeric divisible asset minted in March of 2015 that also has remained unlocked for issuance at the time of this writing. This token included much less information as MGAAAAAAAAAAA and simply includes a JSON in the description.
+
+https://joehamilton.info/regular-division.php
+
+https://amycastor.com/2022/05/28/early-history-of-nfts-monegraph-spells-of-genesis-rare-pepes/
+
+https://www.axios.com/2021/03/25/nft-sale-art-blockchain-millions
+
+https://nmc.vision/?trait=monegraph
+
+https://nmc.vision/hex/64343162383534306362616364663134363763646335643137333136646362363732633862343332333566613136636465393865373938323562363837303961
+
+https://tokenscan.io/asset/MGAAAAAAAAAAA
+
+https://tokenscan.io/asset/A1028163271339900500
+
+https://vimeo.com/108104171
+
 - First serialized NFTs for a poker website?: https://forums.counterparty.io/t/ann-bitnplay-a-new-age-for-poker-partner-tokens/676 - found from: https://jpjanssen.com/a-timeline-of-non-fungible-tokens-on-counterparty/ - Bitcointalk forum post: https://bitcointalk.org/index.php?topic=906422 - "BNPXX" token 1/1 types: https://xchain.io/search?query=BNP
 
 - THEDEVSTAR - https://x.com/jp_janssen/status/1577919227754942465
 
 - 2019-01-28 – KALEIDOSCOPE.The_worlds_first_ever_longest_digital_asset_name_and_an_experiment_of_an_experiment_on_the_blockchain_verified_forever_by_the_counterparty_protocol_and_bitcoin_OPreturn
 
+  (2018-11-21T15:57:37Z GMT)
+
+Longest Asset Name
+
+The addition of 'subassets' to named Counterparty assets opened up the possibility of many new features regarding the extension of functionality of named assets. Some of which would be used not only in historical assets like DJPEPE but also in new projects like NPCS.
+
+This specific asset is a subasset to the named token KALEIDOSCOPE, which is the genesis project token for the Kaleidoscope project. The minter of this NFT, Nathan, did not include any extra information in the description. He decided to make the token non-divisible and went on to lock the token supply at one token.
+
+The asset is simply named: 'KALEIDOSCOPE.The_worlds_first_ever_longest_digital_asset_name_and_an_experiment_of_an_experiment_on_the_blockchain_verified_forever_by_the_counterparty_protocol_and_bitcoin_OPreturn'.
+
+
+https://tokenscan.io/asset/A13888757749239221748
+
+
 - 2019-03-11 – GESAMTKUNSTW.ERK – https://medium.com/chain-of-thoughts/must-we-all-become-a-gesamtkunstwerk-b72fa6098930 - first tokenized article
 
 - 2021-06-11 – THING – first parent asset (after BITCORN.GLASSES) to be destroyed to a 1/1
+
+  
+2021-06-11 – (2021-06-11T16:22:35Z GMT) - THING – 
+
+NFT by Destroy
+
+As with BITCORN.GLASSES, in general the Counterparty community generally destroyed token supply by sending tokens to a burn address. After the Destroy Function was enabled in 2018, it would not be until THING was destroyed by Joe Looney down to a single non-divisible token unit that a named asset was destroyed into an 'NFT'.
+
+It was not uncommon for artists in previous projects like Rare Pepe to reduce circulating supply by sending to burn counterparty addresses, but THING was the first named asset to specifically use the destroy function to create an NFT after destroy was enabled on the protocol.
+
+Joe included a memo in the burn transaction on June 11 of 2021 which stated 'there can only be one'.
+
+
+https://tokenscan.io/tx/bf9be3cf843738726148c98fd2ace42111981989dae88f9ba259bd510c3c8622
+
+https://tokenscan.io/asset/THING
 
 - 2019-03-02 - https://xchain.io/asset/XCPTORCH - XCPTORCH.Chiguireitor
 
