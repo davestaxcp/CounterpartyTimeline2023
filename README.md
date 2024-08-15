@@ -117,7 +117,11 @@ The Fake Ape Club is a series of open-submission art pieces that make fun of the
 
 The Fake Commons Directory is a sub-collection of the Fake Rare Directory that involves destroying PEPECASH (a card/currency from Rare Pepe) to submit artwork. Very quickly the token used for Fake Rare submissions, FAKEASF, because very coveted and rapidly expensive for artists to submit to the directory. Since PEPECASH was burned by the artist for accepted submission in the historical Rare Pepe project, the expansion into Fake Commons adopted this method. This opened up many new artworks from existing Counterparty artists and openly invited all artists to submit because the process was much cheaper and had much less strict curation from the Fake Rare 'scientists'. At this time there are over 51 separate series of Fake Commons with wildly ranging themes, references to pepe the frog, political and cryptocurrency history, popular meme culture, and many hidden artistic gems. The Fake Commons collection is also nearing a time span in which this sub-collection will have been openly accepting submissions for longer than the original Rare Pepe project did. Submissions are still open at the time of this writing.
 
-| Fake Munchkin          | https://www.fakemunchkin.com/                          |
+
+| Fake Munchkin | https://web.archive.org/web/20231030180309/https://www.fakemunchkin.com/ | https://munchkin.game/ | https://tokenscan.io/asset/FAKETREASURE
+
+Fake Munchkin is a directory that invited artists to create custom art for trading cards in relation to a popular tabletop trading card game by Steve Jackson called 'Munchkin'. The submission process involved creating a Counterparty token and corresponding art that used templates for five different types of cards in the game: RACE, CLASS, CURSE, MONSTER or an ITEM card. At this time a total of 24 cards are accepted into the directory, with the community card FAKETREASURE, being the first in the series. Much of the accepted submissions incorporate the Fake Rare style of pepe art  with the intention of being actively used in a Series 1 mini-game sometime in the future. Many of the rejected cards from this collection would eventually be their own series in the Phunchkins project and many of the artists in both were active in the Fake Rare/Counterparty community at the time. It is unclear whether submissions are still open or if the Series 1 mini-game ever came into fruition.
+
 
 | FAUX SOGS              | https://fauxsogs.wtf                                   |
 
