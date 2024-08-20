@@ -115,59 +115,80 @@ The Fake Ape Club is a series of open-submission art pieces that make fun of the
 
 | Fake Commons | https://fakeraredirectory.com/fake-commons/ | 2022-04-18?
 
-The Fake Commons Directory is a sub-collection of the Fake Rare Directory that involves destroying PEPECASH (a card/currency from Rare Pepe) to submit artwork. Very quickly the token used for Fake Rare submissions, FAKEASF, because very coveted and rapidly expensive for artists to submit to the directory. Since PEPECASH was burned by the artist for accepted submission in the historical Rare Pepe project, the expansion into Fake Commons adopted this method. This opened up many new artworks from existing Counterparty artists and openly invited all artists to submit because the process was much cheaper and had much less strict curation from the Fake Rare 'scientists'. At this time there are over 51 separate series of Fake Commons with wildly ranging themes, references to pepe the frog, political and cryptocurrency history, popular meme culture, and many hidden artistic gems. The Fake Commons collection is also nearing a time span in which this sub-collection will have been openly accepting submissions for longer than the original Rare Pepe project did. Submissions are still open at the time of this writing.
+The Fake Commons Directory is a sub-collection of the Fake Rare Directory that involves destroying PEPECASH (a card/currency from Rare Pepe) to submit artwork. Very quickly the token used for Fake Rare submissions, FAKEASF, because very coveted and rapidly expensive for artists to submit to the directory. Since PEPECASH was burned by the artist for accepted submission in the historical Rare Pepe project, the expansion into Fake Commons adopted this method. This opened up many new artworks from existing Counterparty artists and openly invited all artists to submit because the process was much cheaper and had much less strict curation from the Fake Rare 'scientists'. At this time there are over 51 separate series of Fake Commons with wildly ranging themes, references to pepe the frog, political and cryptocurrency history, popular meme culture, and many hidden artistic gems. While Fake Rares have already hit this milestone, the Fake Commons collection has surpassed the time span in which this sub-collection will have been openly accepting submissions for longer than the original Rare Pepe project did. Submissions are still open at the time of this writing.
 
 
 | Fake Munchkin | https://web.archive.org/web/20231030180309/https://www.fakemunchkin.com/ | https://munchkin.game/ | https://tokenscan.io/asset/FAKETREASURE
 
 Fake Munchkin is a directory that invited artists to create custom art for trading cards in relation to a popular tabletop trading card game by Steve Jackson called 'Munchkin'. The submission process involved creating a Counterparty token and corresponding art that used templates for five different types of cards in the game: RACE, CLASS, CURSE, MONSTER or an ITEM card. At this time a total of 24 cards are accepted into the directory, with the community card FAKETREASURE, being the first in the series. Much of the accepted submissions incorporate the Fake Rare style of pepe art  with the intention of being actively used in a Series 1 mini-game sometime in the future. Many of the rejected cards from this collection would eventually be their own series in the Phunchkins project and many of the artists in both were active in the Fake Rare/Counterparty community at the time. It is unclear whether submissions are still open or if the Series 1 mini-game ever came into fruition.
 
+| FAUX SOGS | https://fauxsogs.wtf | 2022-07-17
 
-| FAUX SOGS              | https://fauxsogs.wtf                                   |
+Faux Sogs is an open invitation card directory for creating fake 'or faux' Spells of Genesis art. Artists are invited to continue on the legacy, memetics, art style and history of SOG by using the trading card style template and fantasy inspired characters. For example, the first card in the collection, IRLFDCARD, is directly inspired by the FDCARD. There are currently 13 total series of 21 separate Faux Sogs tokens by many various artists. Submissions are still open at this time.
 
-| FootballCoin           | https://www.footballcoin.io                            |
 
-| Gameicon               |                                                        |
+| FootballCoin | https://www.footballcoin.io | 2017-01-21 __ 2017-05-16 | https://cdn.footballcoin.io/wp-content/uploads/2018/06/WhitePaper_FootballCoin.pdf | https://www.footballcoin.io/everything-you-need-to-know-before-entering-the-footballcoin-game/
 
-| Modern Relics          | https://modernrelics.io                                |
+This innovative project, FootballCoin, originally looked to use Counterparty Tokens to give a user the chance to building a fantasy soccer team. This process included choosing real world professional players from the different leagues listed in the game, choosing formation types, relying on their real world performance to gain points, and picking players specifically backed by digital tokens in the fantasy game. Originally in 2017 the coin XFCCOIN was minted to serve as the intermediary exchange token between the subsequent 469 separate soccer players (represented with individual tokens) that users could choose to add to their team. Many of the tokens varied in issuance between 1500-5000 total token units and the XFCCOIN could be exchanged into XCP and eventually directly into Bitcoin. As described in the FootballCoin whitepaper, 'in 2018 we launched our very own blockchain' and rewarded existing holders with a '3:1 conversion of XFCCOIN from Counterparty to the new blockchain'. Since then, many new players and tokens have been created on the new XFCCOIN platform, but the originial Counterparty tokens still show as the building blocks and genesis of FootballCoin. The FootballCoin fantasy football game is still live at the time of this writing and their website includes in depth tutorials on their website on how to navigate the fanstasy FootballCoin user interface.
 
-| Pepemon                | https://pepemon.net/                                   |
+| Modern Relics | https://modernrelics.io | 2023-04-02 - https://tokenscan.io/asset/COLLECTOR - https://dogeparty.tokenscan.io/asset/COLLECTOR
 
-| PepeVote               |                                                        |
+Modern Relics is a collection of historic tokens minted Dogeparty in 2014 and Counterparty in 2015 created by Ernest and Jdog. Since both of those protocols do not allow multiple token names with the same characters, many of the early tokens were simply people reserving common names for resell value in the future. Modern Relics strove to bring new life to those early mints that commonly had little or no extra information attached to them. On their website they state, 'this project aims to breathe new life into this collection of ancient tokens by making them more appealing and tradeable, with desirable characteristics'. The distribution process for this project revolves around the COLLECTOR token (two separate tokens, one on Dogeparty and one on Counterparty). If a collector holds COLLECTOR they automatically recieve one airdrop of a monthly modern relic. These relics are early minted names like 'GREED' or 'CRAB' but Modern Relics provides a way for artists to submit art that will be added to the descriptions of these old tokens. The distribution schedule of the drops, which started in May of 2023 and continues to this day, is shown on the Modern Relics website. If an artist submission wins, they recieve 25 out of the 100 supply of these old token relics, the rest are distributed to COLLECTOR holders. According to the website, even rejected submissions will 'have the artwork minted as a custom sub-asset [of the relic token]. The artist will [also] be given full ownership of their sub-asset with the ability to issue supply, lock, etc.' The artwork submission fee for Modern Relics and their 
+'sister project' Rude Relics is a token named RELICSUBMIT that has a current supply of about 997 tokens. During the initial months of this project much of the trading and exchanging of relics used the RELICASH coin in a similar manner to the way Rare Pepe used PEPECASH to exchange value. This included trading cards that were outside of this collection for RELICASH, with the hope to acquire rarer relics.
 
-| Phunchkins             | https://phunchkins.com/                                |
 
-| Rare Bobo              | https://rarebobo.com/                                  |
+| Rude Relics | https://ruderelics.io | 2023-04-02 - https://tokenscan.io/asset/HARDCORE - https://dogeparty.tokenscan.io/asset/HARDCORE
 
-| Rare Coco              | https://rarecoco.wtf/                                  |
 
-| Rare GoGo              | https://raregogo.wtf                                   |
+Rude Relics ia collection of historic tokens minted Dogeparty in 2014 and Counterparty in 2015 created by Ernest and Jdog. Since both of those protocols do not allow multiple token names with the same characters, many of the early tokens were simply people reserving common names for resell value in the future. Rude Relics, unlike Modern Relics, is focused on mainly raunchy and 'completely inappropriate' tokens from those years. The distribution process for this project revolves around the HARDCORE token (two separate tokens, one on Dogeparty and one on Counterparty). If a collector holds HARDCORE they automatically recieve one airdrop of a monthly rude relic. These relics are early minted names like 'HERPES' or 'HEROIN' but Rude Relics provides a way for artists to submit art that will be added to the descriptions of these old tokens. The distribution schedule of the drops, which started in May of 2023 and continues to this day, is shown on the Rude Relics website. If an artist submission wins, they recieve 25 out of the 100 supply of these old token relics, the rest are distributed to COLLECTOR holders. According to the website, even rejected submissions will 'have the artwork minted as a custom sub-asset [of the relic token]. The artist will [also] be given full ownership of their sub-asset with the ability to issue supply, lock, etc.' The artwork submission fee for Rude Relics and their 
+'sister project' Modern Relics is a token named RELICSUBMIT that has a current supply of about 997 tokens. During the initial months of this project much of the trading and exchanging of relics used the RELICASH coin in a similar manner to the way Rare Pepe used PEPECASH to exchange value. This included trading cards that were outside of this collection for RELICASH, with the hope to acquire rarer relics.
 
-| Rare Lands             | https://rarelands.wtf                                  |
 
-| Rare Ordinal Directory | http://rareordinal.directory                           |
+| Rare Bobo | https://rarebobo.com/ | 2022-04-27
 
-| Rare Shadilay          | https://rareshadilay.com                               |
+Rare Bobo is a Counterparty collection dedicated to memes of 'Bobo the Bear' created by Boost. The use of this meme generally came out of the bear market of cryptocurrency from 2022-2023 and most of these tokens originated in the Dank Rare Directory first before being organized into the Rare Bobo directory. Much of the tokens in the directory include digital art but also include gifs, stamps and video. The tokens are reminiscent of the art from Rare Pepe and the Dank Rare Directory, but includes the Bobo meme instead of Pepe. 
 
-| RareSocks              | https://raresocks.xyz                                  |
+| Rare Coco | https://rarecoco.wtf/ | 2023-07-19
 
-| RetroXCP               | https://retro-xcp.art/                                 |
+Rare Coco is a collection of token artwork that centers around the 'Coco' crocodile meme created by Kero. The collection involved many existing Counterparty and Rare Pepe artists in which they were required to burn a token named COBBEE to submit artwork for review. While the submissions closed at the date of the 2024 Bitcoin halving, five series of cards were accepted totalling 213 cards.
 
-| Rude Relics            | https://ruderelics.io                                  |
+| Rare GoGo | https://raregogo.wtf | 2024-02-17
 
-| Scannable NFTs         | https://scannablenfts.com/                             |
+Rare GoGo is a collection of token artwork created by Darky that originally invited the 'Greatest Of All Time' Counterparty artists. The art centered around the subject of a goat, but many pieces readily reference Counterparty culture, cryptocurrency culture and art history. Submissions are now open to the public at this time. The rules have a strict requirement of 21 tokens and also requires artists to destroy a FAKEGREENS token, which is a Fake Commons card by Darky. 
 
-| Spamgelo               | https://spamgelo.io                                    |
+| Rare Lands | https://rarelands.wtf |
 
-| The Pepe Project       | http://pepeproject.com/                                |
+| Rare Ordinal Directory | http://rareordinal.directory |
 
-| The Wojak Way          | https://thewojakway.com/                               |
+| Rare Shadilay | https://rareshadilay.com |
 
-| Wojak NPC              | https://wojaknpc.com/                                  |
+| RareSocks | https://raresocks.xyz |
 
-| OLGA Stamps            | https://x.com/jp_janssen/status/1764243065911324852    |
+| RetroXCP | https://retro-xcp.art/ |
+
+| Scannable NFTs | https://scannablenfts.com/ |
+
+| Spamgelo | https://spamgelo.io |
+
+| The Pepe Project | http://pepeproject.com/ |
+
+| The Wojak Way | https://thewojakway.com/ |
+
+| Wojak NPC | https://wojaknpc.com/ |
+
+| OLGA Stamps | https://x.com/jp_janssen/status/1764243065911324852 |
 
 | Counterfeit Super Rares | https://web.archive.org/web/20240617132844/https://www.counterfeitsuperfakes.wtf/ | https://medium.com/@NRMN_/counterfeit-super-fake-fake-rares-are-coming-soon-to-the-bitcoin-blockchain-near-you-9871cfa7c159
+
+| Phunchkins | https://phunchkins.com/ | https://web.archive.org/web/20231208182144/https://phunchkins.com/
+
+| Pepemon | https://pepemon.net/ |
+
+| Gameicon | |
+
+| PepeVote | |
+
+
 
 ---
 
