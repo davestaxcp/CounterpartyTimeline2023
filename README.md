@@ -156,15 +156,25 @@ Rare Coco is a collection of token artwork that centers around the 'Coco' crocod
 
 Rare GoGo is a collection of token artwork created by Darky that originally invited the 'Greatest Of All Time' Counterparty artists. The art centered around the subject of a goat, but many pieces readily reference Counterparty culture, cryptocurrency culture and art history. Submissions are now open to the public at this time. The rules have a strict requirement of 21 tokens and also requires artists to destroy a FAKEGREENS token, which is a Fake Commons card by Darky. 
 
-| Rare Lands | https://rarelands.wtf |
+| Rare Lands | https://rarelands.wtf | https://web.archive.org/web/20240414002639/https://rarelands.wtf/ - 2022-05-05
 
-| Rare Ordinal Directory | http://rareordinal.directory |
+Rare Lands is an open-submission project started by DarkFarms. Much of the art involves plots of land and pepe related memetics. While the submissions seemed to remain open, the website is only accessible through the Wayback Machine. At this time, there is a total of 51 cards in series one and many well-known Counterparty artists were involved in making the art that was accepted.
 
-| Rare Shadilay | https://rareshadilay.com |
+| Rare Ordinal Directory | http://rareordinal.directory | 2023-01-29
 
-| RareSocks | https://raresocks.xyz |
+The Rare Ordinal Directory is a forward thinking way to solidify token data using the Ordinal protocol. This directory was created by Bench, Goat and Dan Anderson. The collection invites users to mint their art using Ordinal inscriptions then include that data in the description of the Counterparty asset. This extends Counterparty functionality to not only the data of the token to be inscribed in a more robust manner, but also extends the functionality of an Ordinal Inscription by creating a bigger issuance of the token and art itself. On their website the project states the purpose is to 'represent the next logical mechanism for artists to create and share their work. Using a combination of immutable, cryptographically unbreakable protocols, artists now have the ability to preserve their work eternally on the Bitcoin blockchain.' What is interesting about this project is that the Counterparty token created in this project must be a divisible token with a supply of 1, which turns the 1/1 non-divisible. This project, like Rare Pepe and Fake Commons, requires the PEPECASH token to be burned to be accepted into this collection. Submissions are still open and there is a total of 5 series of Rare Ordinals live at this time.
 
-| RetroXCP | https://retro-xcp.art/ |
+| Rare Shadilay | https://rareshadilay.com | 2022-07-19
+
+Rare Shadilay is a collection created by MikeInSpace that includes user created art submissions based around the legendary album art and song called 'Shadilay' by the Italian disco band 'P.E.P.E.' released in 1986. Much of the accepted submissions either reference the Shadilay art style, Rare Pepe history and light-hearted or fun expression of the Shadilay pepe character. Though, keep in mind it is very clear on their website that this collection is 'Not Rare Pepe. This is Rare Shadilay, baby!'. Much of the submissions involve many current and historical Counterparty artists. At this time, submissions for this project are unlikely to open again in the future and the collection ended with 3 series totalling 150 cards total.
+
+| RareSocks | https://raresocks.xyz | 2023-01-30
+
+Rare Socks is an open-invitation art directory created by RarePepeTrader of Counterparty assets related to 'socks'. This term, which is a Telegram slang term for people creating new accounts and posing as different users, makes fun of any users or scammers lurking under different names in the Counterparty community. As stated on the website, 'many Rare Socks are a twist on some classic Rare/Dank/Fake Pepe's' but 'with an original sockystyle twist'. To submit to the directory, which is currently on series 5 at this time, a user must have their submission accepted and burn a token called SOCKSCAMCASH. This directory hopes to bring 'awareness that some Telegram users are willing to go to any extreme and create hundreds of sock accounts for bad intentions'. Submissions are still open at this time.
+
+| RetroXCP | https://retro-xcp.art/ | 2022-01-24
+
+RetroXCP is an open-invitation Counterparty collection (created by Sam Kimbrough, Whoisit and Aryan J) that invited users to mix pre-2000 video game culture with Counterparty asset art. At the moment there are 2 series of 92 separate accepted pieces and submissions appear to still be open at this time. Much of the art is by well known Counterparty artists and adds a 'retro flavor to Counterparty mascots/memes' while involving some of the most legendary and respected video game culture icons from the 80's and 90's. Compared to other Counterparty collections and directories, RetroXCP does not require the burning of any other assets for a user's submission to be accepted into the directory.
 
 | Scannable NFTs | https://scannablenfts.com/ |
 
@@ -181,6 +191,8 @@ Rare GoGo is a collection of token artwork created by Darky that originally invi
 | Counterfeit Super Rares | https://web.archive.org/web/20240617132844/https://www.counterfeitsuperfakes.wtf/ | https://medium.com/@NRMN_/counterfeit-super-fake-fake-rares-are-coming-soon-to-the-bitcoin-blockchain-near-you-9871cfa7c159
 
 | Phunchkins | https://phunchkins.com/ | https://web.archive.org/web/20231208182144/https://phunchkins.com/
+
+| Fest Rares | https://festrares.siteoly.com/ |
 
 | Pepemon | https://pepemon.net/ |
 
