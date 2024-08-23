@@ -95,9 +95,9 @@ Common Coco is a project directory started by Subterranean which includes Reject
 
 
 
-| CrystalsCraft | https://crystalsuite.com/crystal_collection | 2021-4-30
+| Crystal Collection | https://crystalsuite.com/crystal_collection | 2021-4-30
 
-CrystalsCraft is a series of seven different artworks by Albino-Z, Alejandro Hurtado and Herckeim minted on Counterparty, Ethereum and Klaytn. The early artwork is focused on historical projects in blockchain like GEMZ, Sarutobi and Doge and the latter general blockchain history like Mt. Gox, the genesis bitcoin block and the infamous DAO hack. Most of these artworks have extremely rare issuances, with The Doge at the highest of 15 separate 'prints'. The only one on Counterparty is the artwork commemorating Sarutobi and has 2 prints total, one of which was gifted to the developer, Christian Moss (MandelDuck).
+Crystal Collection is a series of seven different artworks by Albino-Z, Alejandro Hurtado and Herckeim minted on Counterparty, Ethereum and Klaytn. The early artwork is focused on historical projects in blockchain history like GEMZ, Sarutobi, Doge, the genesis bitcoin block and later blockchain history like Mt. Gox and the infamous DAO hack. Most of these artworks have extremely rare issuances, with The Doge at the highest of 15 separate 'prints'. The only one on Counterparty is the artwork commemorating Sarutobi and has 2 prints total, one of which was gifted to the developer, Christian Moss (MandelDuck).
 
 
 
@@ -255,7 +255,7 @@ https://tokenscan.io/asset/CUBISTPEPE
 https://tokenscan.io/asset/NAHUAL
 
 
-- CrystalsCraft by EverdreamSoft 2018 - https://orbexplorer.com/collection/eCry - https://www.patreon.com/posts/crystalscraft-in-23437649 - https://www.youtube.com/watch?v=NEkOLN8akzU
+- Crystal Collection by EverdreamSoft 2018 - https://orbexplorer.com/collection/eCry - https://www.patreon.com/posts/crystalscraft-in-23437649 - https://www.youtube.com/watch?v=NEkOLN8akzU
 
 - The Augmentor's Game - seen on SharkTank - https://steemit.com/games/@tonylondon/the-augmentor-s-game - GENOFLIGHT as Augmentor card but also in SOG - playable in SOG! - issued by? https://xchain.io/address/1Rjkk2nrfmFbYN3fvxkdsEQi6QtJPnWKS
 
