@@ -192,9 +192,14 @@ This Counterparty project is an open-invitation token collection that involves a
 
 This project, started by Spamgelo, is an open-invitation art collection that has a great emphasis of phalic symbols. Many of the artworks include references to art history, political history, memetics and Counterparty culture using highly NSFW and raunchy imagery. The collection boasts a total of 70 separate art pieces (or as the website expresses: 69.69 pieces) designed from many different Counterparty artists. The amount of issuance for each card varies anywhere from 69-420 total tokens per card, though DICKPEPE, is as scarce as 33 total tokens and the last card in the series at this time, MCPICKLE, is 1337 total token issuance. The 'Genesis Series' is still open for submissions at this time, though you will have to make sure your art is approved by 'Spamgelo and The Disciples' before your submission can be approved and minted.
 
-| The Pepe Project | http://pepeproject.com/ |
+| The Pepe Project | http://pepeproject.com/ | 2022-01-23
 
-| The Wojak Way | https://thewojakway.com/ |
+The Pepe Project is a series open-invitation collection started by GMONEY. This collection includes highly political artwork attached to Counterparty tokens. As stated on the website these tokens help 'explore the mysterious rabbit hole' with artwork 'based on research that connect TRUMP - BITCOIN - PEPE - Q'. The first card in Series 1 is called FIRSTMARKER and links a Q post mentioning 'TEST' to the first user created asset on Counterparty named 'TEST'. Much of the art references 'Q posts', well known Trump tweets like 'covfefe', popular political culture, past Counterparty culture and also religious themes including an emphasis on gematria. At this time there are 8 different series of submissions with varying themes for each series. After starting this collection GMONEY invited a significant amount of listeners of the Rugpull Radio show he hosts, the existing Counterparty community as well as followers of the 'bullion, bitcoin & bitties w/GMONEY' groups to create art for the collection. At this time 'Series X' is still open for users to submit artwork to. The submission process is done by sending GMONEY an email shown on the website or contacting GMONEY via Telegram (@pappyG45) with the art and token information.
+
+
+| The Wojak Way | https://thewojakway.com/ | 2018-06-10
+
+The Wojak Way is an open-invitation art collection created by Abstrast Mirror that centers around the well known 'Wojak' meme character. The project states on their website they hope to see 'creative interpretations of Wojak in the form of memes, fine art, political satire, video GIFs and more'. This project aims to be 'an organic NFT collection' and that 'curation is essential'. At this time there are 6 total series with a total of 260 separate art pieces from very well-known artists, many of which from the Counterparty community. Some of the art simply includes the Wojak character similar to how it is expressed in common internet memes, but other pieces are incredible artistic endeavors with intricate content and form. Many of the pieces and artists also came together for an in-person gallery event in London during 2023. At this time submissions for this project are closed.
 
 | Wojak NPC | https://wojaknpc.com/ |
 
