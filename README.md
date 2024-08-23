@@ -218,9 +218,7 @@ This project, started by Spamgelo, is an open-invitation art collection that has
 
 - ~~Update SALVATION with more history and notes from JPJA - https://jpjanssen.com/salvation-2015-participatory-art-nft/~~
 
-- early AI generative art on XCP (in Rare Pepe) - Deep Dream, Prisma, Piscart AI, deep art io (and others), https://youtu.be/ZjKvVYezaJ8?si=e7MUN5RZuqUe1uir
-
-  Early AI Art - (2016-10-19T16:08:01Z GMT)
+- Early AI Art - (2016-10-19)
 
 While the line between programmed, generative or 'Artificial Intelligence' art is somewhat blurred and hard to distiguish in artistic pieces, it is known that very early AI pieces were published using Counterparty tokens.
 
@@ -233,33 +231,16 @@ This topic seems very contemporary and many questions and debates have arisen ov
 It comes as no suprise individuals now and into the future will wonder about the crossover into AI art becoming commonplace and it is evident Counterparty tokens were apart of that crossover period, but it is still unclear regarding 'which was first'.
 
 https://youtu.be/ZjKvVYezaJ8?si=c0bzpvyWOMhl1mbh
-
-
 https://tokenscan.io/asset/PEPEME
-
-
 https://tokenscan.io/asset/PEPEALIEN
-
-
 https://tokenscan.io/asset/SCORPEPE
-
-
 https://tokenscan.io/asset/KEKSBASILISK
-
-
 https://tokenscan.io/asset/NEUROPEPE
-
-
 https://tokenscan.io/asset/KEKTOPUS
-
-
 https://tokenscan.io/asset/CUBISTPEPE
-
-
 https://tokenscan.io/asset/NAHUAL
 
-
-- Crystal Collection by EverdreamSoft 2018 - https://orbexplorer.com/collection/eCry - https://www.patreon.com/posts/crystalscraft-in-23437649 - https://www.youtube.com/watch?v=NEkOLN8akzU
+- CrystalsCraft by EverdreamSoft 2018 - https://orbexplorer.com/collection/eCry - https://www.patreon.com/posts/crystalscraft-in-23437649 - https://www.youtube.com/watch?v=NEkOLN8akzU
 
 - The Augmentor's Game - seen on SharkTank - https://steemit.com/games/@tonylondon/the-augmentor-s-game - GENOFLIGHT as Augmentor card but also in SOG - playable in SOG! - issued by? https://xchain.io/address/1Rjkk2nrfmFbYN3fvxkdsEQi6QtJPnWKS
 
@@ -271,11 +252,7 @@ https://tokenscan.io/asset/NAHUAL
 
 - PETAMINE, EARNFREEBTC, XBTC and SPECULATE: https://forums.counterparty.io/t/petamine-mine-bitcoins-with-your-counterwallet/390 - https://forums.counterparty.io/t/ann-speculate-weekly-payouts/503 - https://forums.counterparty.io/t/ann-earnfreebtc-earn-weekly-dividends/313
 
-- Monegraph mints from Namecoin to XCP - https://nmc.vision/?trait=monegraph - October 9, 2014 (MGAAAAAAAAAAA) and March 3, 2015 (A1028163271339900500)
-
-  10 years ago (2014-10-09T17:01:35Z GMT)
-
-Monegraph Mints
+- Monegraph Mints from Namecoin to XCP - https://nmc.vision/?trait=monegraph - October 9, 2014 (MGAAAAAAAAAAA) and March 3, 2015 (A1028163271339900500)
 
 Within a prior protocol called Namecoin, Monegraphs (Monetized Graphics) were among the first blockchain collectibles with artwork and the intention of digital ownership. These assets became very popular when Sotheby's auctioned off 'Quantum' for $1.4 million dollars, the first piece in Monegraphs by Kevin McCoy. 
 
@@ -286,49 +263,34 @@ The first of which is a named asset called MGAAAAAAAAAAA that included a Vimeo f
 The second asset, A1028163271339900500, is a numeric divisible asset minted in March of 2015 that also has remained unlocked for issuance at the time of this writing. This token included much less information as MGAAAAAAAAAAA and simply includes a JSON in the description.
 
 https://joehamilton.info/regular-division.php
-
 https://amycastor.com/2022/05/28/early-history-of-nfts-monegraph-spells-of-genesis-rare-pepes/
-
 https://www.axios.com/2021/03/25/nft-sale-art-blockchain-millions
-
 https://nmc.vision/?trait=monegraph
-
 https://nmc.vision/hex/64343162383534306362616364663134363763646335643137333136646362363732633862343332333566613136636465393865373938323562363837303961
-
 https://tokenscan.io/asset/MGAAAAAAAAAAA
-
 https://tokenscan.io/asset/A1028163271339900500
-
 https://vimeo.com/108104171
 
 - First serialized NFTs for a poker website?: https://forums.counterparty.io/t/ann-bitnplay-a-new-age-for-poker-partner-tokens/676 - found from: https://jpjanssen.com/a-timeline-of-non-fungible-tokens-on-counterparty/ - Bitcointalk forum post: https://bitcointalk.org/index.php?topic=906422 - "BNPXX" token 1/1 types: https://xchain.io/search?query=BNP
 
 - THEDEVSTAR - https://x.com/jp_janssen/status/1577919227754942465
 
-- 2019-01-28 – KALEIDOSCOPE.The_worlds_first_ever_longest_digital_asset_name_and_an_experiment_of_an_experiment_on_the_blockchain_verified_forever_by_the_counterparty_protocol_and_bitcoin_OPreturn
-
-  (2018-11-21T15:57:37Z GMT)
-
-Longest Asset Name
+- Longest Asset Name - 2018-11-21 
 
 The addition of 'subassets' to named Counterparty assets opened up the possibility of many new features regarding the extension of functionality of named assets. Some of which would be used not only in historical assets like DJPEPE but also in new projects like NPCS.
 
-This specific asset is a subasset to the named token KALEIDOSCOPE, which is the genesis project token for the Kaleidoscope project. The minter of this NFT, Nathan, did not include any extra information in the description. He decided to make the token non-divisible and went on to lock the token supply at one token.
+This specific asset is a subasset to the named token KALEIDOSCOPE, which is the genesis project token for the Kaleidoscope project. The minter of this NFT, Nathan, did not include any extra information in the description. He decided to make the token non-divisible and went on to lock the token supply at one token. It was the first subasset to use the max amount of characters avaliable to that Counterparty token type.
 
 The asset is simply named: 'KALEIDOSCOPE.The_worlds_first_ever_longest_digital_asset_name_and_an_experiment_of_an_experiment_on_the_blockchain_verified_forever_by_the_counterparty_protocol_and_bitcoin_OPreturn'.
 
-
 https://tokenscan.io/asset/A13888757749239221748
-
 
 - 2019-03-11 – GESAMTKUNSTW.ERK – https://medium.com/chain-of-thoughts/must-we-all-become-a-gesamtkunstwerk-b72fa6098930 - first tokenized article
 
 - 2021-06-11 – THING – first parent asset (after BITCORN.GLASSES) to be destroyed to a 1/1
 
   
-2021-06-11 – (2021-06-11T16:22:35Z GMT) - THING – 
-
-NFT by Destroy
+- 2021-06-11 - THING – NFT by Destroy
 
 As with BITCORN.GLASSES, in general the Counterparty community generally destroyed token supply by sending tokens to a burn address. After the Destroy Function was enabled in 2018, it would not be until THING was destroyed by Joe Looney down to a single non-divisible token unit that a named asset was destroyed into an 'NFT'.
 
@@ -336,9 +298,7 @@ It was not uncommon for artists in previous projects like Rare Pepe to reduce ci
 
 Joe included a memo in the burn transaction on June 11 of 2021 which stated 'there can only be one'.
 
-
 https://tokenscan.io/tx/bf9be3cf843738726148c98fd2ace42111981989dae88f9ba259bd510c3c8622
-
 https://tokenscan.io/asset/THING
 
 - 2019-03-02 - https://xchain.io/asset/XCPTORCH - XCPTORCH.Chiguireitor
@@ -393,29 +353,17 @@ Lead Maintainers: Devon Weller 2014-2017 / John Villar 2017-2019 / Jeremy Johnso
 
 
 Dec 15, 2013 - github repository created
-
 Jan 19, 2014 - first protocol commit by jxchen
-
 Aug 17, 2014 - first commit by Adam Krellenstein
-
 Nov 01, 2015 - first commit by Ruben de Vries
-
 May 15, 2016 - first commit by Robby Dermody
-
 Jun 19, 2016 - first commit by Joe Looney
-
 Jan 22, 2016 - first commit by Devon Weller
-
 Aug 27, 2017 - first commit by John Villar
-
 Oct 08, 2017 - first commit by Dan Anderson
-
 Sep 23, 2018 - first commit by Jeremy Johnson
-
 Jun 20, 2021 - first commit by Javier Varona
-
 Dec 24, 2023 - first commit by Ouziel Slama
-
 First commit by Warren Puffett and Matt Marcello?
 
 other coders who contributed:
@@ -455,10 +403,11 @@ Matt Marcello - 2024 (github user name?)
 HOMERPEPE - $39,000 - Jan 13, 2018
 https://www.youtube.com/watch?v=L-ScVty8E_0
 https://ca.sports.yahoo.com/news/frightening-pepe-homer-simpson-trading-002107577.html
-$312,000 - Feb 28th, 2021 
+
+HOMERPEPE - $312,000 - Feb 28th, 2021 
 https://www.newsbtc.com/analysis/eth/rare-homer-simpson-pepe-nft-sells-for-312k/
 
-RAREPEPE - PEPENOPOLOUS (3.65 Million) - PEPEAIR - TokenAngels Sotheby's Auction - Oct 2021
+RAREPEPE - PEPENOPOLOUS $3.65 Million - (PEPEAIR and RAREPEPE sold separately) - TokenAngels Sotheby's Auction - Oct 2021
 https://x.com/Sothebys/status/1446208965982007302
 https://x.com/sant_xyz/status/1448721145075683331
 https://finance.yahoo.com/news/rarepepe-nft-sells-500k-sotheby-172704750.html
@@ -466,8 +415,6 @@ https://x.com/Sothebysverse/status/1453057621402034180
 
 PEPEPIZZA $35,000 - Dec, 2017
 https://x.com/rarepepenews/status/1798549077396963812
-
-OLGA?
 
 ---
 
@@ -487,20 +434,22 @@ OLGA?
 
 --- 
 
-- (In the future, an entire MLA formatted Bibliography of works cited for each entry will be included in its own document, but this is a general bibliography below)
+- (In the future, an entire MLA formatted Bibliography of works cited for each entry will be included in its own document, but this is a general bibliography below... all related links are included for each topic)
 
 ---
 
-I'd like to give a huge shoutout to all the digital archaeological digging done by [JP Janssen](https://twitter.com/jp_janssen), [Whiterabbit1111](https://twitter.com/WRabbit1111), [Doggfather](https://twitter.com/DoggfatherCrew), [HarryBTC](https://twitter.com/HarryBTC), [Blackstar](https://twitter.com/BlackstarXXI), [Jake Gallen](https://www.jakegallen.com/), [Shannon Code](https://www.linkedin.com/in/shannoncode/) and a few other people in the community like [RarePepeNews](https://twitter.com/rarepepenews), [Scrilla](https://twitter.com/ScrillaVentura), [Theo Goodman](https://twitter.com/theog__), [Joe Looney](https://twitter.com/wasthatawolf), [Nutildah/dogermint](https://twitter.com/dogermint), [Jdog](https://twitter.com/jdogresorg), [LiteBit](https://twitter.com/LiteBitCo), [Sebuh](https://twitter.com/Sebuh_com), [ZeroG](https://twitter.com/g0barry), Helene, Rob Mitchell, Dan Anderson, [Indelible Trade](https://twitter.com/SuperRareRares), [Christian Moss](https://twitter.com/MandelDuck), [Nicolas Sierro](https://twitter.com/NicolasSierro), [Shaban Shaame](https://x.com/shaban_shaame) and so many more that I have a hard time keeping track of all of the beautiful people who have helped compile this information. 
+I'd like to give a huge shoutout to digital archaeological digging done by [JP Janssen](https://twitter.com/jp_janssen).
+
+Furthermore I would like to thank so many individuals for the help and influence along the way: [Whiterabbit1111](https://twitter.com/WRabbit1111), [Doggfather](https://twitter.com/DoggfatherCrew), [Blackstar](https://twitter.com/BlackstarXXI), [Jake Gallen](https://www.jakegallen.com/), [Shannon Code](https://www.linkedin.com/in/shannoncode/), [RarePepeNews](https://twitter.com/rarepepenews), [Scrilla](https://twitter.com/ScrillaVentura), [Theo Goodman](https://twitter.com/theog__), [Joe Looney](https://twitter.com/wasthatawolf), [Nutildah/dogermint](https://twitter.com/dogermint), [Jdog](https://twitter.com/jdogresorg), [LiteBit](https://twitter.com/LiteBitCo), [Sebuh](https://twitter.com/Sebuh_com), [ZeroG](https://twitter.com/g0barry), Helene, Rob Mitchell, Dan Anderson, [Indelible Trade](https://twitter.com/SuperRareRares), [Christian Moss](https://twitter.com/MandelDuck), [Nicolas Sierro](https://twitter.com/NicolasSierro), [Shaban Shaame](https://x.com/shaban_shaame) and so many more that I have a hard time keeping track of all of the beautiful people who have helped compile this information... the list could go on and on
 
 If I haven't included your name, know I give you all the love in the world. 
-I could not have compiled all of this information without the generous and critical eye of the Counterparty Community.
+I could not have compiled all of this information without the generous and critical eye of the original and current Counterparty Community.
 
 Rest in Peace [John Villar](https://github.com/chiguireitor) <3
 
 ---
 
-I have pulled my information from many various sources:
+I have pulled my information from many various general sources:
 
 [The Bitcoin Talk Forums](https://bitcointalk.org/)
 
