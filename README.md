@@ -6,7 +6,11 @@
 
 ---
 
-This repo is dedicated to publicly organizing and critiquing a public list for Counterparty’s vast historical tokens, projects and developer updates to the Counterparty Protocol since Counterparty’s inception. 
+This repo is dedicated to publicly organizing and critiquing a public list for Counterparty’s vast historical tokens, projects, wallets, historical sales, developer updates and forks to the Counterparty Protocol since Counterparty’s inception. 
+
+The markdown files include the information shown on the Time.Graphics timeline in an easily readable manner. The JSON files include that same information in a more organized way for future use organizing and presenting the data.
+
+The Time.Graphics infographic is a visual representation of the data.
 
 ---
 ---
