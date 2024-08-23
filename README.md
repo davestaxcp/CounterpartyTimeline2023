@@ -174,7 +174,7 @@ Rare Socks is an open-invitation art directory created by 'The Sock Master' that
 
 | RetroXCP | https://retro-xcp.art/ | 2022-01-24
 
-RetroXCP is an open-invitation Counterparty collection (created by Sam Kimbrough, Whoisit and Aryan J) that invited users to mix pre-2000 video game culture with Counterparty asset art. At the moment there are 2 series of 92 separate accepted pieces and submissions appear to still be open at this time. Much of the art is by well known Counterparty artists and adds a 'retro flavor to Counterparty mascots/memes' while involving some of the most legendary and respected video game culture icons from the 80's and 90's. Compared to other Counterparty collections and directories, RetroXCP does not require the burning of any other assets for a user's submission to be accepted into the directory.
+RetroXCP, originally called 'Retroid', is an open-invitation Counterparty collection that was created by Aryan J, Sam Kimbrow, and Whoisit. The collection invites users to mix pre-2000 video game culture with Counterparty asset art. At the moment there are 2 series of 92 separate accepted pieces, the first of which was focused on games and the second based on movies. Much of the art is by well known Counterparty artists and adds a 'retro flavor to Counterparty mascots/memes' while involving some of the most legendary and respected video game culture icons from the 80's and 90's. Compared to other Counterparty collections and directories, RetroXCP does not require the burning of any other assets for a user's submission to be accepted into the directory. Submissions are still open and at this time and users are invited to submit anything pre-Y2K related for the current series. 
 
 | Scannable NFTs | https://scannablenfts.com/ |
 
