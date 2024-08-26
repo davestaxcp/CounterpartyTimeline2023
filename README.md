@@ -308,7 +308,7 @@ Tokens that need further research:
 
 - lots of tokens not mentioned related to Lets Talk Bitcoin - https://tokenscan.io/asset/BOOKKEEPER
 
-- 2019-03-11 – GESAMTKUNSTW.ERK – https://medium.com/chain-of-thoughts/must-we-all-become-a-gesamtkunstwerk-b72fa6098930 - first tokenized article
+- 2019-03-11 – GESAMTKUNSTW.ERK – https://medium.com/chain-of-thoughts/must-we-all-become-a-gesamtkunstwerk-b72fa6098930 - first tokenized article with a Nathan copymint on XCP??
 
 - First serialized NFTs for a poker website?: https://forums.counterparty.io/t/ann-bitnplay-a-new-age-for-poker-partner-tokens/676 - found from: https://jpjanssen.com/a-timeline-of-non-fungible-tokens-on-counterparty/ - Bitcointalk forum post: https://bitcointalk.org/index.php?topic=906422 - "BNPXX" token 1/1 types: https://xchain.io/search?query=BNP
 
