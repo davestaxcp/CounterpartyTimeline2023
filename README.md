@@ -130,7 +130,11 @@ Fake Munchkin is a directory that invited artists to create custom art for tradi
 
 | FAUX SOGS | https://fauxsogs.wtf | 2022-07-17
 
-Faux Sogs is an open invitation card directory created by Coinking for creating fake 'or faux' Spells of Genesis art. Artists are invited to continue on the legacy, memetics, art style and history of SOG by using the trading card style template and fantasy inspired characters from Spells of Genesis. For example, the first card in the collection, IRLFDCARD, is directly inspired by the FDCARD token. The structure of the series has an interesting 'chase card' mechanism where the idea is to collect at least 11 or more other cards in the current series of 20 to have the privilege to create the final and 21st card in the series. The process of creating the chase card through community contributions only happened for the first series (FAUXDINGCARD), the rest of the series use the chase card process. This final chase card tends to be rarer, not only by design but also with issuance (as the normal minimum for issuance is 50 total tokens per card). Sometimes the chase card is earned by artists who had a stand out card in the series and personally collected the most from the other artists in that same series. Other times it is a collector who has collected at least 11/20 of the series submission. In this case the collector works with the curators to commission a chase card artwork. Herckeim, the artist of the original Spells of Genesis token SATOSHICARD, was also comissioned to design an art piece to comemmorate Series 1 of Faux Sogs which is a subasset of the FAUXSOGS token (FAUXSOGS.21.SERIES1) which is not apart of the collection itself. There are currently 13 total series of 21 separate Faux Sogs tokens per series by many well-known Counterparty artists. Submissions are still open at this time.
+Faux Sogs is an open invitation card directory created by Coinking for creating fake 'or faux' Spells of Genesis art. Artists are invited to continue on the legacy, memetics, art style and history of SOG by using the trading card style template and fantasy inspired characters from Spells of Genesis. For example, the first card in the collection, IRLFDCARD, is directly inspired by the FDCARD token. Coinking mentioned about the collection, 'I see fauxs as an extension of SOG. It followed a similar fasion in which we received submissions and curated the collection based on what was happening at the time (both in crypto and real world) but it certainly took the seriousness off of SOGs and sprinkled lots of degeneracy you'd see from [Rare Pepes].'
+
+The structure of the series has an interesting 'chase card' mechanism where the idea is to collect at least 11 or more other cards in the current series of 20 to have the privilege to create the final and 21st card in the series. FAUXDINGCARD was the first chase card and was a collaborative effort of over 50 different artists that added to the image one after the other. The gif attached to the asset shows the progression of this process. The chase card for every series after series 1 tends to be rarer, not only by design but also with issuance (as the normal minimum for issuance is 50 total tokens per card). Sometimes the chase card is earned by artists who had a stand out card in the series and personally collected the most from the other artists in that same series. Other times it is a collector who has collected at least 11/20 of the series submission. In this specific case the collector works with the curators to commission a chase card artwork. 
+
+Herckeim, the artist of the original Spells of Genesis token SATOSHICARD, is the artist for the STSHRDX Faux Sogs submission. Herckeim was also comissioned to design an art piece to comemmorate Series 1 of Faux Sogs which is a subasset of the FAUXSOGS token (FAUXSOGS.21.SERIES1) which is not apart of the collection itself. There are a few pieces like this that are linked to Faux Sogs, but not included in the collection, such as 'FAUXDINGCARD.unfolding'. Many exisiting Counterparty artists and developers were involved in this project, such as Joe Looney, Cornholio, tomopen, MikeInSpace, Shaban Shaame, JPegKillah and many others. There are currently 13 total series of 21 separate Faux Sogs tokens per series by many well-known Counterparty artists. Submissions are still open at this time.
 
 
 | FootballCoin | https://www.footballcoin.io | 2017-01-21 __ 2017-05-16 | https://cdn.footballcoin.io/wp-content/uploads/2018/06/WhitePaper_FootballCoin.pdf | https://www.footballcoin.io/everything-you-need-to-know-before-entering-the-footballcoin-game/
@@ -201,17 +205,28 @@ The Pepe Project is a series open-invitation collection started by GMONEY. This 
 
 The Wojak Way is an open-invitation art collection created by Abstrast Mirror that centers around the well known 'Wojak' meme character. The project states on their website they hope to see 'creative interpretations of Wojak in the form of memes, fine art, political satire, video GIFs and more'. This project aims to be 'an organic NFT collection' and that 'curation is essential'. At this time there are 6 total series with a total of 260 separate art pieces from very well-known artists, many of which from the Counterparty community. Some of the art simply includes the Wojak character similar to how it is expressed in common internet memes, but other pieces are incredible artistic endeavors with intricate content and form. Many of the pieces and artists also came together for an in-person gallery event in London during 2023. At this time submissions for this project are still open, but not many spots in the collection remain.
 
-| Wojak NPC | https://wojaknpc.com/ |
 
-| OLGA Stamps | https://x.com/jp_janssen/status/1764243065911324852 |
+| OLGA Stamps | https://x.com/jp_janssen/status/1764243065911324852 | 2024-03-03
 
-| Counterfeit Super Rares | https://web.archive.org/web/20240617132844/https://www.counterfeitsuperfakes.wtf/ | https://medium.com/@NRMN_/counterfeit-super-fake-fake-rares-are-coming-soon-to-the-bitcoin-blockchain-near-you-9871cfa7c159
+OLGA Stamps is short term contest started by JP Janssen using his new STAMP encoding system ('Octet Linked Graphics & Artifacts') that was detailed in Counterparty Improvement Proposal 33. The rules involved minting in this new manner between Bitcoin block 833,000 and 834,000, minting a token supply between 1-1000, and including a design directly inspired by the original OLGA artwork. What is very interesting about this process is that JPJA included a custom tool to mint these tokens manually using the Electrum wallet (an older and very technical Bitcoin wallet). JPJA also offered a reward (PEPOLGA) for first place and the Dogeparty mint of OLGA for 'all high-effort contributions'. His original twitter thread is a great place to view all the submissions for this contest.
+
+| Counterfeit Super Fakes | https://web.archive.org/web/20240617132844/https://www.counterfeitsuperfakes.wtf/ | https://medium.com/@NRMN_/counterfeit-super-fake-fake-rares-are-coming-soon-to-the-bitcoin-blockchain-near-you-9871cfa7c159 | 2022-05-18
+
+Counterfeit Super Fakes is an open-invitation project created by Norman Comics. During a time when the Fake Rare project and the Dank Rare Directory were inviting artists to continue the individualistic submission process of Rare Pepe, Counterfeit Super Fakes invited an even more niche platform for artists to participate. Artists looking to submit required ownership and a burn of the DISINFOCZARD, needed their submission to contain a Pepe or be Pepe related, and needed a green light by the 'COUNTERFEIT SUPER FAKE FAKE RARE RARE PEPE ILLUMINATI FAKE FROG KEK-LORDS'. It is unclear if submissions are open at this time as the related website is only findable on the Wayback Machine.
+
+| Fest Rares | https://festrares.siteoly.com/ | 2023-09-27
+
+Fest Rares is a definitite first of its kind in the Counterparty Community and was created by Joe Looney. This project involves artists who showed up to Pepe related events such as Pepes in Paris (2023), NFT.NYC 2024 and Beeple's PepeFest in 2024 to create hand-drawn submissions. During these minting times at these events, all individuals interested were given a free mint pass (that covered the BTC and XCP costs for minting an asset) and a print-out template to draw their Fest Rare Pepe submission. This process also invited new users to use Joe's new mobile friendly version of Rare Pepe Wallet (rarepepewallet.wtf) to mint the pieces with a one-click, easy to upload, IPFS system for attaching art to Counterparty tokens. There are no requirements for token divisibility, token issuance and no requirements to burn tokens to be accepted into the collection. You simply had to be there (or following along with the live feeds) for a chance to be included in the Fest Rares collection.
+
+---
+
+More Research and feedback is needed before adding these collections below:
 
 | Phunchkins | https://phunchkins.com/ | https://web.archive.org/web/20231208182144/https://phunchkins.com/
 
-| Fest Rares | https://festrares.siteoly.com/ |
-
 | Pepemon | https://pepemon.net/ |
+
+| Wojak NPC | https://wojaknpc.com/ |
 
 | Gameicon | |
 
