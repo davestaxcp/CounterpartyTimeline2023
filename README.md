@@ -236,11 +236,6 @@ More Research and feedback is needed before adding these collections below:
 ---
 ---
 
-- lots of tokens not mentioned related to Lets Talk Bitcoin - https://tokenscan.io/asset/BOOKKEEPER
-
-- Bitcoin Comic https://bitcoincomic.org/ - https://x.com/BitcoinComic - https://tokenscan.io/asset/COMICBOOK - https://tokenscan.io/asset/COMICCOIN - relation to SWARM..??... seems there are a few more tokens connected to this as well as SWARM
-
-- ~~Update SALVATION with more history and notes from JPJA - https://jpjanssen.com/salvation-2015-participatory-art-nft/~~
 
 - Early AI Art - (2016-10-19)
 
@@ -256,17 +251,7 @@ https://tokenscan.io/asset/KEKTOPUS
 https://tokenscan.io/asset/CUBISTPEPE
 https://tokenscan.io/asset/NAHUAL
 
-- CrystalsCraft by EverdreamSoft 2018 - https://orbexplorer.com/collection/eCry - https://www.patreon.com/posts/crystalscraft-in-23437649 - https://www.youtube.com/watch?v=NEkOLN8akzU
-
-- The Augmentor's Game - seen on SharkTank - https://steemit.com/games/@tonylondon/the-augmentor-s-game - GENOFLIGHT as Augmentor card but also in SOG - playable in SOG! - issued by? https://xchain.io/address/1Rjkk2nrfmFbYN3fvxkdsEQi6QtJPnWKS
-
-- Rare Ordinal Directory and searching for the first XCP asset to use an Ordinal Description
-
-- SEIMEI - 2018
-
-- ~~include more on BOMB and Adeally: https://twitter.com/LiteBitCo/status/1782623256068972924 - https://twitter.com/LiteBitCo/status/1783121258252570796~~
-
-- PETAMINE, EARNFREEBTC, XBTC and SPECULATE: https://forums.counterparty.io/t/petamine-mine-bitcoins-with-your-counterwallet/390 - https://forums.counterparty.io/t/ann-speculate-weekly-payouts/503 - https://forums.counterparty.io/t/ann-earnfreebtc-earn-weekly-dividends/313
+---
 
 - Monegraph Mints from Namecoin to XCP - https://nmc.vision/?trait=monegraph - October 9, 2014 (MGAAAAAAAAAAA) and March 3, 2015 (A1028163271339900500)
 
@@ -281,9 +266,7 @@ https://tokenscan.io/asset/MGAAAAAAAAAAA
 https://tokenscan.io/asset/A1028163271339900500
 https://vimeo.com/108104171
 
-- First serialized NFTs for a poker website?: https://forums.counterparty.io/t/ann-bitnplay-a-new-age-for-poker-partner-tokens/676 - found from: https://jpjanssen.com/a-timeline-of-non-fungible-tokens-on-counterparty/ - Bitcointalk forum post: https://bitcointalk.org/index.php?topic=906422 - "BNPXX" token 1/1 types: https://xchain.io/search?query=BNP
-
-- THEDEVSTAR - https://x.com/jp_janssen/status/1577919227754942465
+---
 
 - Longest Asset Name - 2018-11-21 
 
@@ -291,10 +274,7 @@ The addition of 'subassets' to named Counterparty assets opened up the possibili
 
 https://tokenscan.io/asset/A13888757749239221748
 
-- 2019-03-11 – GESAMTKUNSTW.ERK – https://medium.com/chain-of-thoughts/must-we-all-become-a-gesamtkunstwerk-b72fa6098930 - first tokenized article
-
-- 2021-06-11 – THING – first parent asset (after BITCORN.GLASSES) to be destroyed to a 1/1
-
+---
 
 - 2021-06-11 - THING – NFT by Destroy
 
@@ -313,6 +293,38 @@ https://tokenscan.io/asset/THING
 - https://xchain.io/asset/HQLEADERS
 - https://xchain.io/asset/KEVCOIN
 - https://xchain.io/asset/NOVATOKEN
+
+---
+
+- CrystalsCraft by EverdreamSoft 2018 - https://orbexplorer.com/collection/eCry - https://www.patreon.com/posts/crystalscraft-in-23437649 - https://www.youtube.com/watch?v=NEkOLN8akzU
+
+---
+
+- Bitcoin Comic https://bitcoincomic.org/ - https://x.com/BitcoinComic - https://tokenscan.io/asset/COMICBOOK - https://tokenscan.io/asset/COMICCOIN - relation to SWARM..??... seems there are a few more tokens connected to this as well as SWARM
+
+---
+
+Tokens that need further research:
+
+- lots of tokens not mentioned related to Lets Talk Bitcoin - https://tokenscan.io/asset/BOOKKEEPER
+
+- 2019-03-11 – GESAMTKUNSTW.ERK – https://medium.com/chain-of-thoughts/must-we-all-become-a-gesamtkunstwerk-b72fa6098930 - first tokenized article
+
+- First serialized NFTs for a poker website?: https://forums.counterparty.io/t/ann-bitnplay-a-new-age-for-poker-partner-tokens/676 - found from: https://jpjanssen.com/a-timeline-of-non-fungible-tokens-on-counterparty/ - Bitcointalk forum post: https://bitcointalk.org/index.php?topic=906422 - "BNPXX" token 1/1 types: https://xchain.io/search?query=BNP
+
+- THEDEVSTAR - https://x.com/jp_janssen/status/1577919227754942465
+
+- PETAMINE, EARNFREEBTC, XBTC and SPECULATE: https://forums.counterparty.io/t/petamine-mine-bitcoins-with-your-counterwallet/390 - https://forums.counterparty.io/t/ann-speculate-weekly-payouts/503 - https://forums.counterparty.io/t/ann-earnfreebtc-earn-weekly-dividends/313
+
+- Searching for the first XCP asset to use an Ordinal Description
+
+- SEIMEI - 2018
+
+- The Augmentor's Game - seen on SharkTank - https://steemit.com/games/@tonylondon/the-augmentor-s-game - GENOFLIGHT as Augmentor card but also in SOG - playable in SOG! - issued by? https://xchain.io/address/1Rjkk2nrfmFbYN3fvxkdsEQi6QtJPnWKS
+
+- ~~include more on BOMB and Adeally: https://twitter.com/LiteBitCo/status/1782623256068972924 - https://twitter.com/LiteBitCo/status/1783121258252570796~~
+
+- ~~Update SALVATION with more history and notes from JPJA - https://jpjanssen.com/salvation-2015-participatory-art-nft/~~
 
 ---
 
