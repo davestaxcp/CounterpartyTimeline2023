@@ -283,16 +283,9 @@ As with BITCORN.GLASSES, in general the Counterparty community generally destroy
 https://tokenscan.io/tx/bf9be3cf843738726148c98fd2ace42111981989dae88f9ba259bd510c3c8622
 https://tokenscan.io/asset/THING
 
-- 2019-03-02 - https://xchain.io/asset/XCPTORCH - XCPTORCH.Chiguireitor
+---
 
-- https://xchain.io/asset/TITFORTAT
-- https://xchain.io/asset/BLINGZ
-- https://xchain.io/asset/DIAMONDBOND
-- https://xchain.io/asset/STEEMSTARS
-- https://xchain.io/asset/TAHI
-- https://xchain.io/asset/HQLEADERS
-- https://xchain.io/asset/KEVCOIN
-- https://xchain.io/asset/NOVATOKEN
+- 2019-03-02 - https://xchain.io/asset/XCPTORCH - XCPTORCH.Chiguireitor
 
 ---
 
@@ -302,29 +295,32 @@ https://tokenscan.io/asset/THING
 
 - Bitcoin Comic https://bitcoincomic.org/ - https://x.com/BitcoinComic - https://tokenscan.io/asset/COMICBOOK - https://tokenscan.io/asset/COMICCOIN - relation to SWARM..??... seems there are a few more tokens connected to this as well as SWARM
 
+
+---
+
+~~include more on BOMB and Adeally: https://twitter.com/LiteBitCo/status/1782623256068972924 - https://twitter.com/LiteBitCo/status/1783121258252570796~~
+~~Update SALVATION with more history and notes from JPJA - https://jpjanssen.com/salvation-2015-participatory-art-nft/~~
+
 ---
 
 Tokens that need further research:
 
+- https://xchain.io/asset/TITFORTAT
+- https://xchain.io/asset/BLINGZ
+- https://xchain.io/asset/DIAMONDBOND
+- https://xchain.io/asset/STEEMSTARS
+- https://xchain.io/asset/TAHI
+- https://xchain.io/asset/HQLEADERS
+- https://xchain.io/asset/KEVCOIN
+- https://xchain.io/asset/NOVATOKEN
 - lots of tokens not mentioned related to Lets Talk Bitcoin - https://tokenscan.io/asset/BOOKKEEPER
-
 - 2019-03-11 – GESAMTKUNSTW.ERK – https://medium.com/chain-of-thoughts/must-we-all-become-a-gesamtkunstwerk-b72fa6098930 - first tokenized article with a Nathan copymint on XCP??
-
 - First serialized NFTs for a poker website?: https://forums.counterparty.io/t/ann-bitnplay-a-new-age-for-poker-partner-tokens/676 - found from: https://jpjanssen.com/a-timeline-of-non-fungible-tokens-on-counterparty/ - Bitcointalk forum post: https://bitcointalk.org/index.php?topic=906422 - "BNPXX" token 1/1 types: https://xchain.io/search?query=BNP
-
 - THEDEVSTAR - https://x.com/jp_janssen/status/1577919227754942465
-
 - PETAMINE, EARNFREEBTC, XBTC and SPECULATE: https://forums.counterparty.io/t/petamine-mine-bitcoins-with-your-counterwallet/390 - https://forums.counterparty.io/t/ann-speculate-weekly-payouts/503 - https://forums.counterparty.io/t/ann-earnfreebtc-earn-weekly-dividends/313
-
 - Searching for the first XCP asset to use an Ordinal Description
-
 - SEIMEI - 2018
-
-- The Augmentor's Game - seen on SharkTank - https://steemit.com/games/@tonylondon/the-augmentor-s-game - GENOFLIGHT as Augmentor card but also in SOG - playable in SOG! - issued by? https://xchain.io/address/1Rjkk2nrfmFbYN3fvxkdsEQi6QtJPnWKS
-
-- ~~include more on BOMB and Adeally: https://twitter.com/LiteBitCo/status/1782623256068972924 - https://twitter.com/LiteBitCo/status/1783121258252570796~~
-
-- ~~Update SALVATION with more history and notes from JPJA - https://jpjanssen.com/salvation-2015-participatory-art-nft/~~
+- The Augmentor's Game - seen on SharkTank? - https://steemit.com/games/@tonylondon/the-augmentor-s-game - GENOFLIGHT as Augmentor card but also in SOG - playable in SOG! - issued by? https://xchain.io/address/1Rjkk2nrfmFbYN3fvxkdsEQi6QtJPnWKS
 
 ---
 
