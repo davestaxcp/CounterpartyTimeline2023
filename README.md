@@ -376,17 +376,29 @@ Lead Maintainers: Devon Weller 2014-2017 / John Villar 2017-2019 / Jeremy Johnso
 
 
 Dec 15, 2013 - github repository created
+
 Jan 19, 2014 - first protocol commit by jxchen
+
 Aug 17, 2014 - first commit by Adam Krellenstein
+
 Nov 01, 2015 - first commit by Ruben de Vries
+
 May 15, 2016 - first commit by Robby Dermody
+
 Jun 19, 2016 - first commit by Joe Looney
+
 Jan 22, 2016 - first commit by Devon Weller
+
 Aug 27, 2017 - first commit by John Villar
+
 Oct 08, 2017 - first commit by Dan Anderson
+
 Sep 23, 2018 - first commit by Jeremy Johnson
+
 Jun 20, 2021 - first commit by Javier Varona
+
 Dec 24, 2023 - first commit by Ouziel Slama
+
 First commit by Warren Puffett and Matt Marcello?
 
 other coders who contributed:
