@@ -289,7 +289,27 @@ https://tokenscan.io/asset/THING
 
 ---
 
-- CrystalsCraft by EverdreamSoft 2018 - https://orbexplorer.com/collection/eCry - https://www.patreon.com/posts/crystalscraft-in-23437649 - https://www.youtube.com/watch?v=NEkOLN8akzU
+- CrystalsCraft - 2018-03-13
+
+
+CrystalsCraft was a user-generated content collection created by EverdreamSoft (the same developers of Spells of Genesis). This project was similar to Rare Pepe and Memory Chain with its open invitation to all artists to submit artwork, but varied in a few ways. While Rare Pepe gave a 'magic template' for artists to use (or not use) with their submission artwork, CrystalsCraft curators invited users to strictly use a given border design and write a few words about the piece. One of the curators, Yzia, mentioned 'the idea was to have a unity in the collection'. EverdreamSoft even still has the tutorial Youtube video live that went through the entire process of how to create a Book of Orbs/BitCrystals wallet and account to submit artwork. This process also included a non-refundable submission fee payable in 20 Bitcrystals total for any entry with 10,000 token issuances. The fee was slightly higher for artists that wished to mint a smaller supply of tokens (minimum of 200 tokens per art piece). The first card in the series, GDCNOVADEMO was a demo card to the show the interested community on how the art would be shown with the CrystalsCraft specific 'trading card' design. A handful of artists participated in this open-invitation project, such as Peter Bock, who seemed to used some sort of AI tool in the MOUNTAINHOME and BUDDHAOFCOIN assets. Because the overal theme was 'Blockchain Allegories', many of these artworks involved deep political, Counterparty and cryptocurrency cultural references such as the Bitcoin block process, EOS, Spells of Genesis/Bitcrystals art, Trump, Kim Jong Un, and even CryptoPunks. Out of the 36 different artworks in this collection, 16 of them were designed by Joe Chiappetta (an artist who has been in the comic book industry for over 3 decades, best known for the 'Silly Daddy' comic series). Out of all the submissions, Joe was very successful when the CrystalsCraft collection was traded with the Book of Orbs wallet. Out of the limited editions of 200 per card, each of Joe's cards sold at least 15 copies and many sold over 50 copies. In a Patreon post, Joe mentioned, 'the Book of Orbs marketplace is available as a phone and tablet app as well as a desktop version makes it easily accessible to everyone based on personal preference!'. Joe also goes on to thank EverdreamSoft for 'releasing such a fun, user-friendly, and collector-centric marketplace.'
+
+
+https://orbexplorer.com/collection/eCry
+
+https://www.patreon.com/posts/crystalscraft-in-23437649
+
+https://www.youtube.com/watch?v=NEkOLN8akzU
+
+https://tokenscan.io/asset/GDCNOVADEMO
+
+https://x.com/joeychips
+
+https://x.com/Peter_Bock
+
+https://tokenscan.io/asset/MOUNTAINHOME
+
+https://tokenscan.io/asset/BUDDHAOFCOIN
 
 ---
 
