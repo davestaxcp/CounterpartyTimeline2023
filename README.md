@@ -285,10 +285,6 @@ https://tokenscan.io/asset/THING
 
 ---
 
-- 2019-03-02 - https://xchain.io/asset/XCPTORCH - XCPTORCH.Chiguireitor
-
----
-
 - CrystalsCraft - 2018-03-13
 
 
@@ -311,9 +307,6 @@ https://tokenscan.io/asset/MOUNTAINHOME
 
 https://tokenscan.io/asset/BUDDHAOFCOIN
 
----
-
-- Bitcoin Comic https://bitcoincomic.org/ - https://x.com/BitcoinComic - https://tokenscan.io/asset/COMICBOOK - https://tokenscan.io/asset/COMICCOIN - relation to SWARM..??... seems there are a few more tokens connected to this as well as SWARM
 
 
 ---
@@ -325,6 +318,9 @@ https://tokenscan.io/asset/BUDDHAOFCOIN
 
 Tokens that need further research:
 
+
+- XCPTORCH.Chiguireitor - 2019-03-02 - https://xchain.io/asset/XCPTORCH - related to Lightning Torch? Predated by DUTCHIE? - (1/1 NFT's passing between people who add content to the token) - influenced FAKETORCH in Fake Rares
+- Bitcoin Comic https://bitcoincomic.org/ - https://x.com/BitcoinComic - https://tokenscan.io/asset/COMICBOOK - https://tokenscan.io/asset/COMICCOIN - relation to SWARM..??... seems there are a few more tokens connected to this as well as SWARM
 - https://xchain.io/asset/TITFORTAT
 - https://xchain.io/asset/BLINGZ
 - https://xchain.io/asset/DIAMONDBOND
@@ -440,15 +436,32 @@ Matt Marcello - 2024 (github user name?)
 
 ## Add Historic Counterparty Sales
 
-PEPEPIZZA - $35,000 - Dec, 2017
+PEPEPIZZA - $35,000 - Dec, 2017 - 2018-01-09?
+
+In this era the main way to sell or swap Rare Pepe's was to use the Counterparty Decentralized Exchange and sell for PEPECASH or XCP. At this time two individuals in the Rare Pepe community, Theo Goodman and RarePepeNews, would run separate auction groups and settle manually with both parties after the auction was finished. Theo's auction house is now named 'NFT Auction' (https://t.me/nftauctions), but this historical sale of the PEPEPIZZA 1/1 Rare Pepe NFT for $35,000 was sold specifically in the auction house created by RarePepeNews which is now named WTHAuctionHouse on Telegram (https://t.me/wthauctionhouse). At this time, this was the highest USD value sale of any Rare Pepe The sending transaction to the bidding winner is mentioned in the memo of the transaction which states: 'Congratulations Dr. Katie'. To this day, RarePepeNews and Theo still run auctions in the Telegram groups mentioned and many collectors will express that these auctions are one of the best places to bid on Rare Pepe and other highly saught after Counterparty tokens for the cheapest prices.
+
+https://t.me/wthauctionhouse
+https://t.me/nftauctions
+https://tokenscan.io/asset/PEPEPIZZA
+https://tokenscan.io/tx/1161945
 https://x.com/rarepepenews/status/1798549077396963812
 
-HOMERPEPE - $39,000 - Jan 13, 2018
-https://www.youtube.com/watch?v=L-ScVty8E_0
+---
+
+HOMERPEPE - $39,000 - Jan 13, 2018 
+
+This sale for HOMERPEPE is one of the more well known and well documented sales in Counterparty history. This sale was at a live in-person auction at the Rare Digital Art Festival event in 2018 (also called RAREAF) and the auction was conducted by MemeConscious. Many well known digital collectible pioneers attended, such as Joe Looney (Rare Pepe Wallet), Shaban Shaame (Spells of Genesis), Mack Flavelle (Crypto Kitties), Bea Ramos (Dada), Matt Hall (CryptoPunks), Kieran Farr (Decentraland) and many others. There is still a video record of the last moments of this auction on Isabel Draves's Youtube page. HOMERPEPE was sold for 350,000 PEPECASH to Peter Kell, which at the time was worth $39,000. This was also the highest sale of any cryptocurrency asset/card/token in the entire crypto space (and HOMERPEPE wasn't even called an 'NFT' at the time). What's interesting about this sale is that Yahoo News published an article by Rachel Kraus titled: 'Frightening Pepe/Homer Simpson trading card sells for a ridiculous amount'. Many in the community thought this was heavily smearing the memetics, highest historical sale and underlying freedom of art in the Rare Pepe directory. This is most likely due to the heavy judgemental hand of news organizations around anything 'Pepe' related after the 2016 presidential election. Despite this press coverage, this sale would add an incredible amount of fuel and credibility to the sale of Counterpary assets and crypto related digital collectibles in general.
+
+https://www.youtube.com/watch?v=L-ScVty8E_0 
 https://ca.sports.yahoo.com/news/frightening-pepe-homer-simpson-trading-002107577.html
+https://raredigitalartfestival.splashthat.com/
+
+---
 
 HOMERPEPE - $312,000 - Feb 28th, 2021 
 https://www.newsbtc.com/analysis/eth/rare-homer-simpson-pepe-nft-sells-for-312k/
+
+---
 
 PEPENOPOLOUS $3.65 Million - (PEPEAIR and RAREPEPE sold separately) - TokenAngels Sotheby's Auction - Oct 2021
 https://x.com/Sothebys/status/1446208965982007302
