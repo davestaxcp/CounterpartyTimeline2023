@@ -343,6 +343,8 @@ Tokens that need further research:
 - Searching for the first XCP asset to use an Ordinal Description
 - SEIMEI - 2018
 - The Augmentor's Game - seen on SharkTank? - https://steemit.com/games/@tonylondon/the-augmentor-s-game - GENOFLIGHT as Augmentor card but also in SOG - playable in SOG! - issued by? https://xchain.io/address/1Rjkk2nrfmFbYN3fvxkdsEQi6QtJPnWKS
+- First Augmented Reality token? Before Fake Rare?
+- Firsts in Fake Rare? FakeDust (music player/multi layered token) - others?
 
 ---
 
