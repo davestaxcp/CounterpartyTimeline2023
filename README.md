@@ -444,9 +444,9 @@ Matt Marcello - 2024 (github user name?)
 
 ## Add Historic Counterparty Sales
 
-PEPEPIZZA - $35,000 - Dec, 2017 - 2018-01-09?
+PEPEPIZZA - $35,000 - Dec, 2017 - 2018-01-08
 
-In this era the main way to sell or swap Rare Pepe's was to use the Counterparty Decentralized Exchange and sell for PEPECASH or XCP. At this time two individuals in the Rare Pepe community, Theo Goodman and RarePepeNews, would run separate auction groups and settle manually with both parties after the auction was finished. Theo's auction house is now named 'NFT Auction' (https://t.me/nftauctions), but this historical sale of the PEPEPIZZA 1/1 Rare Pepe NFT for $35,000 was sold specifically in the auction house created by RarePepeNews which is now named WTHAuctionHouse on Telegram (https://t.me/wthauctionhouse). At this time, this was the highest USD value sale of any Rare Pepe The sending transaction to the bidding winner is mentioned in the memo of the transaction which states: 'Congratulations Dr. Katie'. To this day, RarePepeNews and Theo still run auctions in the Telegram groups mentioned and many collectors will express that these auctions are one of the best places to bid on Rare Pepe and other highly saught after Counterparty tokens for the cheapest prices.
+In this era, the main way to sell or swap Rare Pepe's was to use the Counterparty Decentralized Exchange and sell for PEPECASH or XCP. At this time two individuals in the Rare Pepe community, Theo Goodman and RarePepeNews, would run separate auction groups and settle manually with both parties after the auction was finished. Theo's auction house is now named 'NFT Auction' (https://t.me/nftauctions), but this historical sale of the PEPEPIZZA 1/1 Rare Pepe NFT for $35,000 was sold specifically in the auction house created by RarePepeNews which is now named WTHAuctionHouse on Telegram (https://t.me/wthauctionhouse). At this time, this was the highest USD value sale of any Rare Pepe or any Counterparty asset in general. The sending transaction to the bidding winner is mentioned in the memo of the transaction which states: 'Congratulations Dr. Katie'. To this day, RarePepeNews and Theo still run auctions in the Telegram groups mentioned and many collectors will express that these auctions are one of the best places to bid on Rare Pepe and other highly saught after Counterparty tokens for the cheapest prices.
 
 https://t.me/wthauctionhouse
 https://t.me/nftauctions
@@ -456,18 +456,29 @@ https://x.com/rarepepenews/status/1798549077396963812
 
 ---
 
-HOMERPEPE - $39,000 - Jan 13, 2018 
+HOMERPEPE - $39,200 - Jan 13, 2018 
 
-This sale for HOMERPEPE is one of the more well known and well documented sales in Counterparty history. This sale was at a live in-person auction at the Rare Digital Art Festival event in 2018 (also called RAREAF) and the auction was conducted by MemeConscious. Many well known digital collectible pioneers attended, such as Joe Looney (Rare Pepe Wallet), Shaban Shaame (Spells of Genesis), Mack Flavelle (Crypto Kitties), Bea Ramos (Dada), Matt Hall (CryptoPunks), Kieran Farr (Decentraland) and many others. There is still a video record of the last moments of this auction on Isabel Draves's Youtube page. HOMERPEPE was sold for 350,000 PEPECASH to Peter Kell, which at the time was worth $39,000. This was also the highest sale of any cryptocurrency asset/card/token in the entire crypto space (and HOMERPEPE wasn't even called an 'NFT' at the time). What's interesting about this sale is that Yahoo News published an article by Rachel Kraus titled: 'Frightening Pepe/Homer Simpson trading card sells for a ridiculous amount'. Many in the community thought this was heavily smearing the memetics, highest historical sale and underlying freedom of art in the Rare Pepe directory. This is most likely due to the heavy judgemental hand of news organizations around anything 'Pepe' related after the 2016 presidential election. Despite this press coverage, this sale would add an incredible amount of fuel and credibility to the sale of Counterpary assets and crypto related digital collectibles in general.
+This sale for HOMERPEPE is one of the more well known and well documented sales in Counterparty history. This sale was at the first live in-person digital collectible auction at the Rare Digital Art Festival event in 2018 (also called RAREAF) and the auction was conducted by MemeConscious. Many well known digital collectible pioneers attended, such as Joe Looney (Rare Pepe Wallet), Shaban Shaame (Spells of Genesis), Mack Flavelle (Crypto Kitties), Bea Ramos (Dada), Matt Hall (CryptoPunks), Kieran Farr (Decentraland) and many others. There is still a video record of the last moments of this auction on Isabel Draves's Youtube page. HOMERPEPE was sold for 350,000 PEPECASH to Peter Kell, which at the time was worth $39,200. This was also the highest sale of any cryptocurrency asset/card/token in the entire crypto space (and HOMERPEPE wasn't even called an 'NFT' at the time). What is super interesting about this sale is the Peter Kell and another bidder both walked on stage thinking their highest bid was the winning bid due to confusion and how loud the auction room was. Peter Kell mentions in an interview by 'The Bitcoin Express' that the other bidder and Peter literally flipped a coin for which bidder would win the HOMERPEPE at the RAREAF auction. This coinflip and more details from the event are best described by Daniel Penny of the Paris Review in his article 'How Much for That Pepe? Scenes from the First Rare Digital Art Auction.' After this sale, Peter Kell was also interviewed in the well known Pepe documentary titled 'Feels Good Man' by Arthur Jones. Another interesting cultural point about this sale is that Yahoo News published an article by Rachel Kraus titled: 'Frightening Pepe/Homer Simpson trading card sells for a ridiculous amount'. Many in the community thought this was heavily smearing the memetics, highest historical sale and underlying freedom of art in the Rare Pepe directory. This is most likely due to the heavy judgemental hand of news organizations around anything 'Pepe' related after the 2016 presidential election. Despite this press coverage, this sale would add an incredible amount of fuel and credibility to the sale of Counterpary assets and crypto related digital collectibles in general.
 
 https://www.youtube.com/watch?v=L-ScVty8E_0 
 https://ca.sports.yahoo.com/news/frightening-pepe-homer-simpson-trading-002107577.html
+https://www.theparisreview.org/blog/2018/01/23/much-pepe-scenes-first-rare-digital-art-auction/
 https://raredigitalartfestival.splashthat.com/
+https://youtu.be/vxEhzJAHvTY
+
 
 ---
 
-HOMERPEPE - $312,000 - Feb 28th, 2021 
+HOMERPEPE - $312,000 - Feb 28th, 2021 - sold for 205 ETH with emblem vault
+
+At the time, this sale was considered the highest USD sale of any cryptocurrency collectible (or NFT) ever to happen in history. This sale is not only connected to the HOMERPEPE sale at the RAREAF festival in January of 2018, but this sale used the new Emblem Vault platform to list Counterparty Rare Pepes on Ethereum marketplaces like OpenSea. Peter Kell, the owner of the HOMERPEPE before this sale, expressed how he felt about the decision in an Instagram post shortly after the 205 ETH sale (which was about $320,000 at the time of sale). He mentions on his Instagram post, 'They laughed when I bought HOMERPEPE for $39k... but when I sold it for 205 ETH....' and goes on to say 'this is an absolutely insane event in the NFT world.... More proof that NFTs are the real deal and will be a big part of how art is sold in the future.' This sale is one of the most known RarePepe sales due to its coverage on Coin Telegraph, NewsBTC and many other cryptocurrency news organizations that dove into the story of this sale. Peter was also interviewed by a couple well known Youtuber accounts such as The Bitcoin Express and Know Your Meme to give viewers some backstory on this decision and how the sale happened.
+
+
 https://www.newsbtc.com/analysis/eth/rare-homer-simpson-pepe-nft-sells-for-312k/
+https://cointelegraph.com/news/rarest-pepe-most-important-nft-in-art-history-sells-for-205-eth
+https://www.instagram.com/p/CL3EjOjFKlb/
+https://youtu.be/rzgEzWM5fDM
+https://www.youtube.com/watch?v=vxEhzJAHvTY
 
 ---
 
