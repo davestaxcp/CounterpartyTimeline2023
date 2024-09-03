@@ -490,7 +490,7 @@ https://opensea.io/assets/ethereum/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/88
 
 ---
 
-- RAREPEPE 200 - ETH - Sept 18, 2021
+- RAREPEPE - 200 - ETH - Sept 18, 2021
 
 https://opensea.io/assets/ethereum/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/2281901
 
