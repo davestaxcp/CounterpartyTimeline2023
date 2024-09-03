@@ -484,6 +484,24 @@ https://www.youtube.com/watch?v=vxEhzJAHvTY
 
 ---
 
+- FDCARD - 120 ETH - Sept 17, 2021
+
+https://opensea.io/assets/ethereum/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/8849441
+
+---
+
+- RAREPEPE 200 - ETH - Sept 18, 2021
+
+https://opensea.io/assets/ethereum/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/2281901
+
+---
+
+- SATOSHICARD - 140 ETH - Sept 18, 2021
+
+https://opensea.io/assets/ethereum/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/3738801
+
+---
+
 PEPENOPOLOUS $3.65 Million - (PEPEAIR and RAREPEPE sold separately) - TokenAngels Sotheby's Auction - Oct 21, 2021 
 
 During the last day of the 'Natively Digital 1.2: The Collectors' auction from Sotheby's, three assets (specifically Rare Pepe assets) were sold in this somewhat new 'Metaverse' style auction from this popular and respected auction house. During this auction the PEPENOPOULOS card set the record for the highest sale of any Counterparty asset in history. As explained on the official Sotheby's twitter, 'Natively Digital 1.2 is focused on the luminaries and champions of the NFT ecosystem - the collectors themselves - that have shaped the industry through their curation of early stage emerging artists, and culturally significant projects'. This auction showcased 53 digital tokens from 19 different collectors, but out of those, the collector TokenAngels, put up three cards from his Rare Pepe collection. The three included were PEPENOPOULOS, RAREPEPE and PEPEAIR. The RAREPEPE was auctioned for $240,000, PEPEAIR was sold for $52,000 and the PEPENOPOLOUS 1/1 NFT was sold for $3,650,000. On October 26, the Soetheby's twitter showed off this record sale and mentioned the 'extremely Rare Pepe', named after Andreas M. Antonopoulos, 'possesses the unique trait of mass education and the results to show for it'. This sale would ignite a renewed interest not only in NFT's but in the historical collections that lived on Counterparty. Many news organizations followed this auction closely, such as Yahoo Finance in an article by Sean Dickens published before the sale when the auction was 'teased' by Sotheby's. This is highly interesting because only a few years prior, Rachel Kraus of Yahoo called these Rare Pepe assets 'frightening' and the prices sold 'ridiculous'. Other outlets would cover this story after the auction ended such as Forkast News, Coin Rivet and many others. While the original auction page on the Sotheby's website seems to be unaccessible even with the Wayback Machine, many screenshots, such as one by sant_xyz on twitter, show the details and UI module created by Sotheby's to bid on these historical assets online. To review the entire lot history of these Natively Digital Auctions, Statista has kept the public records of all assets sold in this auction (though the data is behind a paywall to access more lot sales information of this Sotheby's auction event).
@@ -494,6 +512,18 @@ https://x.com/Sothebysverse/status/1453057621402034180
 https://forkast.news/sothebys-first-metaverse-auction-nft-record/
 https://www.statista.com/statistics/1235929/sotheby-s-metaverse-most-expensive-nfts-sold-worldwide/
 https://coinrivet.com/debut-sothebys-metaverse-auction-sees-record-breaking-nft-sales/
+
+---
+
+- Force of Will - Complete Set - 40 ETH - June 13, 2022
+
+https://opensea.io/assets/ethereum/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/15804377712242311
+
+---
+
+- NINJASUIT - 28.888 ETH - January 27, 2022
+
+https://opensea.io/assets/ethereum/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/32305414137789211
 
 ---
 
