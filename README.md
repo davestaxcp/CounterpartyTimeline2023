@@ -494,6 +494,7 @@ https://x.com/Sothebysverse/status/1453057621402034180
 https://forkast.news/sothebys-first-metaverse-auction-nft-record/
 https://www.statista.com/statistics/1235929/sotheby-s-metaverse-most-expensive-nfts-sold-worldwide/
 https://coinrivet.com/debut-sothebys-metaverse-auction-sees-record-breaking-nft-sales/
+
 ---
 
 ## Add Historic Counterparty Wallets
