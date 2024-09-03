@@ -206,9 +206,11 @@ The Pepe Project is a series open-invitation collection started by GMONEY. This 
 The Wojak Way is an open-invitation art collection created by Abstrast Mirror that centers around the well known 'Wojak' meme character. The project states on their website they hope to see 'creative interpretations of Wojak in the form of memes, fine art, political satire, video GIFs and more'. This project aims to be 'an organic NFT collection' and that 'curation is essential'. At this time there are 6 total series with a total of 260 separate art pieces from very well-known artists, many of which from the Counterparty community. Some of the art simply includes the Wojak character similar to how it is expressed in common internet memes, but other pieces are incredible artistic endeavors with intricate content and form. Many of the pieces and artists also came together for an in-person gallery event in London during 2023. At this time submissions for this project are still open, but not many spots in the collection remain.
 
 
-| OLGA Stamps | https://x.com/jp_janssen/status/1764243065911324852 | 2024-03-03
+| OLGA Stamps | 2024-03-03
 
-OLGA Stamps is short term contest started by JP Janssen using his new STAMP encoding system ('Octet Linked Graphics & Artifacts') that was detailed in Counterparty Improvement Proposal 33. The rules involved minting in this new manner between Bitcoin block 833,000 and 834,000, minting a token supply between 1-1000, and including a design directly inspired by the original OLGA artwork. What is very interesting about this process is that JPJA included a custom tool to mint these tokens manually using the Electrum wallet (an older and very technical Bitcoin wallet). JPJA also offered a reward (PEPOLGA) for first place and the Dogeparty mint of OLGA for 'all high-effort contributions'. His original twitter thread is a great place to view all the submissions for this contest.
+OLGA Stamps is short term contest started by JP Janssen using his new STAMP encoding system ('Octet Linked Graphics & Artifacts') that was detailed in Counterparty Improvement Proposal 33. This proposal, titled 'File Storage in P2WSH Outputs', was not named 'OLGA Stamps' until about 2 months after the CIP and minter tool was published by JPJA. Since this process involved a cheaper and more efficient way to create Counterparty Stamps, the Stamps community including MikeInSpace, gave it that name later commemorating JPJA's past minting of the OLGA NFT token in 2014. After this uptick in interest and popularity for CIP 33, JPJA announced this OLGA Stamps competition to invite artists to try this new process out. The rules involved minting in this new manner between Bitcoin block 833,000 and 834,000, minting a token supply between 1-1000, and including a design directly inspired by the original OLGA artwork. What is very interesting about this process is that JPJA included a custom tool to mint these tokens manually using the Electrum wallet (an older and very technical Bitcoin wallet). JPJA also offered a reward (PEPOLGA) for first place and the Dogeparty mint of OLGA for 'all high-effort contributions'. His original twitter thread is a great place to view all the submissions for this contest.
+
+https://github.com/CounterpartyXCP/Forum/blob/1e362f7f8668654d0241fe5b1f1c1c330a8b4368/cip-0033.md https://x.com/jp_janssen/status/1764243065911324852
 
 | Counterfeit Super Fakes | https://web.archive.org/web/20240617132844/https://www.counterfeitsuperfakes.wtf/ | https://medium.com/@NRMN_/counterfeit-super-fake-fake-rares-are-coming-soon-to-the-bitcoin-blockchain-near-you-9871cfa7c159 | 2022-05-18
 
@@ -483,9 +485,10 @@ https://www.youtube.com/watch?v=vxEhzJAHvTY
 ---
 
 PEPENOPOLOUS $3.65 Million - (PEPEAIR and RAREPEPE sold separately) - TokenAngels Sotheby's Auction - Oct 2021
+
 https://x.com/Sothebys/status/1446208965982007302
 https://x.com/sant_xyz/status/1448721145075683331
-https://finance.yahoo.com/news/rarepepe-nft-sells-500k-sotheby-172704750.html
+https://web.archive.org/web/20221220111058/https://finance.yahoo.com/news/rarepepe-nft-sells-500k-sotheby-172704750.html
 https://x.com/Sothebysverse/status/1453057621402034180
 
 ---
