@@ -484,13 +484,16 @@ https://www.youtube.com/watch?v=vxEhzJAHvTY
 
 ---
 
-PEPENOPOLOUS $3.65 Million - (PEPEAIR and RAREPEPE sold separately) - TokenAngels Sotheby's Auction - Oct 2021
+PEPENOPOLOUS $3.65 Million - (PEPEAIR and RAREPEPE sold separately) - TokenAngels Sotheby's Auction - Oct 21, 2021 
 
-https://x.com/Sothebys/status/1446208965982007302
-https://x.com/sant_xyz/status/1448721145075683331
-https://web.archive.org/web/20221220111058/https://finance.yahoo.com/news/rarepepe-nft-sells-500k-sotheby-172704750.html
+During the last day of the 'Natively Digital 1.2: The Collectors' auction from Sotheby's, three assets (specifically Rare Pepe assets) were sold in this somewhat new 'Metaverse' style auction from this popular and respected auction house. During this auction the PEPENOPOULOS card set the record for the highest sale of any Counterparty asset in history. As explained on the official Sotheby's twitter, 'Natively Digital 1.2 is focused on the luminaries and champions of the NFT ecosystem - the collectors themselves - that have shaped the industry through their curation of early stage emerging artists, and culturally significant projects'. This auction showcased 53 digital tokens from 19 different collectors, but out of those, the collector TokenAngels, put up three cards from his Rare Pepe collection. The three included were PEPENOPOULOS, RAREPEPE and PEPEAIR. The RAREPEPE was auctioned for $240,000, PEPEAIR was sold for $52,000 and the PEPENOPOLOUS 1/1 NFT was sold for $3,650,000. On October 26, the Soetheby's twitter showed off this record sale and mentioned the 'extremely Rare Pepe', named after Andreas M. Antonopoulos, 'possesses the unique trait of mass education and the results to show for it'. This sale would ignite a renewed interest not only in NFT's but in the historical collections that lived on Counterparty. Many news organizations followed this auction closely, such as Yahoo Finance in an article by Sean Dickens published before the sale when the auction was 'teased' by Sotheby's. This is highly interesting because only a few years prior, Rachel Kraus of Yahoo would called these Rare Pepe assets 'frightening' and the prices sold 'ridiculous'. Other outlets would cover this story after the auction ended such as Forkast News, Coin Rivet and many others. While the original auction page on the Sotheby's website seems to be unaccessible even with the Wayback Machine, many screenshots, such as one by sant_xyz on twitter, show the details and UI module created by Sotheby's to bid on these historical assets online. To review the entire lot history of these Natively Digital Auctions, Statista has kept the public records of all assets sold in this auction (though it is behind an information paywall to access more data on this Sotheby's auction event).
+
+https://x.com/Sothebys/status/1446208965982007302 
+https://x.com/sant_xyz/status/1448721145075683331 https://web.archive.org/web/20221220111058/https://finance.yahoo.com/news/rarepepe-nft-sells-500k-sotheby-172704750.html
 https://x.com/Sothebysverse/status/1453057621402034180
-
+https://forkast.news/sothebys-first-metaverse-auction-nft-record/
+https://www.statista.com/statistics/1235929/sotheby-s-metaverse-most-expensive-nfts-sold-worldwide/
+https://coinrivet.com/debut-sothebys-metaverse-auction-sees-record-breaking-nft-sales/
 ---
 
 ## Add Historic Counterparty Wallets
