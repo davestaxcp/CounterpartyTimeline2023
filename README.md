@@ -468,12 +468,11 @@ https://www.theparisreview.org/blog/2018/01/23/much-pepe-scenes-first-rare-digit
 https://raredigitalartfestival.splashthat.com/
 https://youtu.be/vxEhzJAHvTY
 
-
 ---
 
 HOMERPEPE - $312,000 - Feb 28th, 2021 - sold for 205 ETH with emblem vault
 
-At the time, this sale was considered the highest USD sale of any cryptocurrency collectible (or NFT) ever to happen in history. This sale is not only connected to the HOMERPEPE sale at the RAREAF festival in January of 2018, but this sale used the new Emblem Vault platform to list Counterparty Rare Pepes on Ethereum marketplaces like OpenSea. Peter Kell, the owner of the HOMERPEPE before this sale, expressed how he felt about the decision in an Instagram post shortly after the 205 ETH sale (which was about $320,000 at the time of sale). He mentions on his Instagram post, 'They laughed when I bought HOMERPEPE for $39k... but when I sold it for 205 ETH....' and goes on to say 'this is an absolutely insane event in the NFT world.... More proof that NFTs are the real deal and will be a big part of how art is sold in the future.' This sale is one of the most known RarePepe sales due to its coverage on Coin Telegraph, NewsBTC and many other cryptocurrency news organizations that dove into the story of this sale. Peter was also interviewed by a couple well known Youtuber accounts such as The Bitcoin Express and Know Your Meme to give viewers some backstory on this decision and how the sale happened.
+At the time, this sale was considered the highest USD sale of any Counterparty cryptocurrency collectible (or NFT) ever to happen in history. This sale is not only connected to the HOMERPEPE sale at the RAREAF festival in January of 2018, but this sale used the new Emblem Vault platform to list Counterparty Rare Pepes on Ethereum marketplaces like OpenSea. Peter Kell, the owner of the HOMERPEPE before this sale, expressed how he felt about the decision in an Instagram post shortly after the 205 ETH sale (which was about $320,000 at the time of sale). He mentions on his Instagram post, 'They laughed when I bought HOMERPEPE for $39k... but when I sold it for 205 ETH....' and goes on to say 'this is an absolutely insane event in the NFT world.... More proof that NFTs are the real deal and will be a big part of how art is sold in the future.' This sale is one of the most known RarePepe sales due to its coverage on Coin Telegraph, NewsBTC and many other cryptocurrency news organizations that dove into the story of this sale. Peter was also interviewed by a couple well known Youtuber accounts such as The Bitcoin Express and Know Your Meme to give viewers some backstory on this decision and how the sale happened.
 
 
 https://www.newsbtc.com/analysis/eth/rare-homer-simpson-pepe-nft-sells-for-312k/
@@ -481,6 +480,12 @@ https://cointelegraph.com/news/rarest-pepe-most-important-nft-in-art-history-sel
 https://www.instagram.com/p/CL3EjOjFKlb/
 https://youtu.be/rzgEzWM5fDM
 https://www.youtube.com/watch?v=vxEhzJAHvTY
+
+---
+
+- DARKPILLPEPE - $646,733.05 -  September 13, 2021
+
+https://tokenscan.io/tx/90430469725d89c1f02886199d377404ae151b84a3412be237bbaec8e91703f5
 
 ---
 
@@ -504,7 +509,7 @@ https://opensea.io/assets/ethereum/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/37
 
 PEPENOPOLOUS $3.65 Million - (PEPEAIR and RAREPEPE sold separately) - TokenAngels Sotheby's Auction - Oct 21, 2021 
 
-During the last day of the 'Natively Digital 1.2: The Collectors' auction from Sotheby's, three assets (specifically Rare Pepe assets) were sold in this somewhat new 'Metaverse' style auction from this popular and respected auction house. During this auction the PEPENOPOULOS card set the record for the highest sale of any Counterparty asset in history. As explained on the official Sotheby's twitter, 'Natively Digital 1.2 is focused on the luminaries and champions of the NFT ecosystem - the collectors themselves - that have shaped the industry through their curation of early stage emerging artists, and culturally significant projects'. This auction showcased 53 digital tokens from 19 different collectors, but out of those, the collector TokenAngels, put up three cards from his Rare Pepe collection. The three included were PEPENOPOULOS, RAREPEPE and PEPEAIR. The RAREPEPE was auctioned for $240,000, PEPEAIR was sold for $52,000 and the PEPENOPOLOUS 1/1 NFT was sold for $3,650,000. On October 26, the Soetheby's twitter showed off this record sale and mentioned the 'extremely Rare Pepe', named after Andreas M. Antonopoulos, 'possesses the unique trait of mass education and the results to show for it'. This sale would ignite a renewed interest not only in NFT's but in the historical collections that lived on Counterparty. Many news organizations followed this auction closely, such as Yahoo Finance in an article by Sean Dickens published before the sale when the auction was 'teased' by Sotheby's. This is highly interesting because only a few years prior, Rachel Kraus of Yahoo called these Rare Pepe assets 'frightening' and the prices sold 'ridiculous'. Other outlets would cover this story after the auction ended such as Forkast News, Coin Rivet and many others. While the original auction page on the Sotheby's website seems to be unaccessible even with the Wayback Machine, many screenshots, such as one by sant_xyz on twitter, show the details and UI module created by Sotheby's to bid on these historical assets online. To review the entire lot history of these Natively Digital Auctions, Statista has kept the public records of all assets sold in this auction (though the data is behind a paywall to access more lot sales information of this Sotheby's auction event).
+During the last day of the 'Natively Digital 1.2: The Collectors' auction from Sotheby's, three assets (specifically Rare Pepe assets) were sold in this somewhat new 'Metaverse' style auction from this popular and respected auction house. During this auction the PEPENOPOULOS card set the record for the highest sale of any Counterparty asset in history. As explained on the official Sotheby's twitter, 'Natively Digital 1.2 is focused on the luminaries and champions of the NFT ecosystem - the collectors themselves - that have shaped the industry through their curation of early stage emerging artists, and culturally significant projects'. This auction showcased 53 digital tokens from 19 different collectors, but out of those, the collector TokenAngels, put up three cards from his Rare Pepe collection. The three included were PEPENOPOULOS, RAREPEPE and PEPEAIR. The RAREPEPE was auctioned for $240,000, PEPEAIR was sold for $52,000 and the PEPENOPOLOUS 1/1 NFT was sold for $3,650,000. On October 26, the Sotheby's twitter showed off this record sale and mentioned the 'extremely Rare Pepe', named after Andreas M. Antonopoulos, 'possesses the unique trait of mass education and the results to show for it'. This sale would ignite a renewed interest not only in NFT's but in the historical collections that lived on Counterparty. Many news organizations followed this auction closely, such as Yahoo Finance in an article by Sean Dickens published before the sale when the auction was 'teased' by Sotheby's. This is highly interesting because only a few years prior, Rachel Kraus of Yahoo called these Rare Pepe assets 'frightening' and the prices sold 'ridiculous'. Other outlets would cover this story after the auction ended such as Forkast News, Coin Rivet and many others. While the original auction page on the Sotheby's website seems to be unaccessible even with the Wayback Machine, many screenshots such as one by sant_xyz on twitter, show the details and UI module created by Sotheby's to bid on these historical assets online. To review the entire lot history of these Natively Digital Auctions, Statista has kept the public records of all assets sold in this auction (though the data is behind a paywall to access more lot sales information of this Sotheby's auction event).
 
 https://x.com/Sothebys/status/1446208965982007302 
 https://x.com/sant_xyz/status/1448721145075683331 https://web.archive.org/web/20221220111058/https://finance.yahoo.com/news/rarepepe-nft-sells-500k-sotheby-172704750.html
@@ -512,6 +517,25 @@ https://x.com/Sothebysverse/status/1453057621402034180
 https://forkast.news/sothebys-first-metaverse-auction-nft-record/
 https://www.statista.com/statistics/1235929/sotheby-s-metaverse-most-expensive-nfts-sold-worldwide/
 https://coinrivet.com/debut-sothebys-metaverse-auction-sees-record-breaking-nft-sales/
+
+
+---
+
+- PEPEMILLION - $876,888.83 - November 20, 2021
+
+https://tokenscan.io/tx/7eee880a78d157d4e3fdf6135f5b20e30aa8d6ac9b69e96446d994cd50f123fc
+
+---
+
+- NINJASUIT - 28.888 ETH - January 27, 2022
+
+https://opensea.io/assets/ethereum/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/32305414137789211
+
+---
+
+- PEPEALASSAD - $688,179.21 - January 30, 2022
+
+https://tokenscan.io/tx/871235aaf1f48d67fc48fd824492649042ca5687b011f201ed162e85ca48aa99
 
 ---
 
@@ -521,9 +545,9 @@ https://opensea.io/assets/ethereum/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/15
 
 ---
 
-- NINJASUIT - 28.888 ETH - January 27, 2022
+- WINKELPEPE - $630,904.31 - April 14th, 2023
 
-https://opensea.io/assets/ethereum/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/32305414137789211
+https://tokenscan.io/tx/c9b8c0eebf08a3c7fe4d106194d5cda7e84701f73a24288fb9f434ae1778d748
 
 ---
 
