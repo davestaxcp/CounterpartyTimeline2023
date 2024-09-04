@@ -47,6 +47,8 @@ This timeline idea was originally published in [this Counterparty Forum post](ht
 
 It is my hope that this data below will give more inspirational education to the current and future Counterparty community, as well as give light on historical and groundbreaking projects done in the past using the Counterparty protocol.
 
+Shoutout to Damian at Rarepepes.com for [showcasing the timeline](https://rarepepes.com/timeline-xcp/).
+
 ---
 
 ## Notes From the Author
