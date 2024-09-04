@@ -70,7 +70,9 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 ---
 
-## Tokens to be Researched
+## Tokens/Projects to be Researched
+
+---
 
 - include all "green banner" xchain Token Projects until 2024?....
 
@@ -241,7 +243,7 @@ More Research and feedback is needed before adding these collections below:
 
 ---
 
-# Historic Tokens/Projects to be Added
+## Historic Tokens/Projects to be Added
 
 ---
 
@@ -387,7 +389,11 @@ Lead Maintainers: Devon Weller 2014-2017 / John Villar 2017-2019 / Jeremy Johnso
 
 - UTXO Support + Atomic Swaps - https://github.com/CounterpartyXCP/counterparty-core/issues/1939
 
+---
 
+## Developers Involved in the Protocol
+
+---
 
 Dec 15, 2013 - github repository created
 
@@ -442,6 +448,12 @@ mattmarcello - 2024,
 warrenpuffett - 2024,
 Matt Marcello - 2024 (github user name?)
 
+---
+
+## Blockchain/Github Data to be Shown Visually
+
+---
+
 - overlay Bitcoin Price above mid line
 
 - overlay XCP Price above mid line
@@ -452,7 +464,9 @@ Matt Marcello - 2024 (github user name?)
 
 ---
 
-## Add Historic Counterparty Sales
+## Historic Counterparty Sales to be Added
+
+---
 
 PEPEPIZZA - $35,000 - Dec, 2017 - 2018-01-08
 
@@ -560,7 +574,9 @@ https://tokenscan.io/tx/c9b8c0eebf08a3c7fe4d106194d5cda7e84701f73a24288fb9f434ae
 
 ---
 
-## Add Historic Counterparty Wallets
+## Historic Counterparty Wallets to be Added
+
+---
 
 - Counterwallet
 - Book of Orbs
@@ -574,8 +590,9 @@ https://tokenscan.io/tx/c9b8c0eebf08a3c7fe4d106194d5cda7e84701f73a24288fb9f434ae
 
 ---
 ---
+---
 
-## Acknowledgments
+# Acknowledgments
 
 --- 
 
