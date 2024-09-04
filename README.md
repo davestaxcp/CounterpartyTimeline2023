@@ -422,7 +422,9 @@ Jun 20, 2021 - first commit by Javier Varona
 
 Dec 24, 2023 - first commit by Ouziel Slama
 
-First commit by Warren Puffett and Matt Marcello?
+Mar 18, 2024 - first commit by Matt Marcello
+
+May 1, 2024 - first commit by Warren Puffett
 
 other coders who contributed:
 
@@ -446,10 +448,7 @@ cryptcoin-junkey - 2017,
 familymediallc - 2017, 
 mide - 2018, 
 longhoangwkm - 2020, 
-windsok - 2022, 
-mattmarcello - 2024, 
-warrenpuffett - 2024,
-Matt Marcello - 2024 (github user name?)
+windsok - 2022
 
 ---
 
