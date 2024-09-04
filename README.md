@@ -471,9 +471,9 @@ https://youtu.be/vxEhzJAHvTY
 
 ---
 
-HOMERPEPE - $312,000 - Feb 28th, 2021 - sold for 205 ETH with emblem vault
+HOMERPEPE - $312,000 - Feb 28th, 2021 - sold for 205 ETH to TokenAngels
 
-At the time, this sale was considered the highest USD sale of any cryptocurrency collectible (or NFT) ever to happen in Counterparty history. This sale is not only connected to the HOMERPEPE sale at the RAREAF festival in January of 2018, but this sale used the new Emblem Vault platform to list Counterparty Rare Pepes on Ethereum marketplaces like OpenSea. Peter Kell, the owner of the HOMERPEPE before this sale, expressed how he felt about the decision in an Instagram post shortly after the 205 ETH sale (which was about $320,000 at the time of sale). He mentions on his Instagram post, 'They laughed when I bought HOMERPEPE for $39k... but when I sold it for 205 ETH....' and goes on to say 'this is an absolutely insane event in the NFT world.... More proof that NFTs are the real deal and will be a big part of how art is sold in the future.' This sale is one of the most known RarePepe sales due to its coverage on Coin Telegraph, NewsBTC and many other cryptocurrency news organizations that dove into the story of this sale. Peter was also interviewed by a couple well known Youtuber accounts such as The Bitcoin Express and Know Your Meme to give viewers some backstory on this decision and how the sale happened.
+At the time, this sale was considered the highest USD sale of any cryptocurrency collectible (or NFT) ever to happen in Counterparty history. This sale is directly connected to the HOMERPEPE sale at the Rare Digital Art Destival in January of 2018 where Peter Kell won an auction for HOMERPEPE. This sale is also connected to a Matt Kane SuperRare art piece titled 'CRYPTOART MONETIZATION GENERATION' commemorating the epic HOMERPEPE buy by Kell in 2018. In an interview with ZeroG, Scrilla describes that he happened to be in the comment section of the the piece by Matt on SuperRare and mentioned Peter was open to selling this NFT. Story goes that TokenAngels contacted Scrilla to reach out to Peter Kell and the sale was eventually made over the counter using Joe Looney as a trusted escrow to finalize the swap. Peter expressed how he felt about the decision in an Instagram post shortly after the 205 ETH sale ($320,000 at the time) saying, 'They laughed when I bought HOMERPEPE for $39k... but when I sold it for 205 ETH....' and goes on to say 'this is an absolutely insane event in the NFT world ... More proof that NFTs are the real deal and will be a big part of how art is sold in the future.' This sale is one of the most known RarePepe sales due to its coverage on Coin Telegraph, NewsBTC and many other cryptocurrency news organizations that dove into the story. Peter was also interviewed by a couple well known Youtuber accounts such as The Bitcoin Express and Know Your Meme. These interviews give viewers some backstory on this epic sale decision and further details about the Rare Digital Art Festival and how he originally won the auction for the HOMERPEPE.
 
 
 https://www.newsbtc.com/analysis/eth/rare-homer-simpson-pepe-nft-sells-for-312k/
@@ -481,9 +481,10 @@ https://cointelegraph.com/news/rarest-pepe-most-important-nft-in-art-history-sel
 https://www.instagram.com/p/CL3EjOjFKlb/
 https://youtu.be/rzgEzWM5fDM
 https://www.youtube.com/watch?v=vxEhzJAHvTY
+https://superrare.com/artwork/eth/0xb932a70a57673d89f4acffbe830e8ed7f75fb9e0/20053
+https://www.youtube.com/shorts/9ImJ4N3X7s0?feature=share
 
 ---
-
 - DARKPILLPEPE - $646,733.05 -  September 13, 2021
 
 https://tokenscan.io/tx/90430469725d89c1f02886199d377404ae151b84a3412be237bbaec8e91703f5
