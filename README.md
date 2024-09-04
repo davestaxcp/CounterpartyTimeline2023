@@ -43,7 +43,7 @@ The markdown files include the information shown on the Time.Graphics timeline i
 
 The goal for this data is to eventually include it all into a cool infographic style Historical Timeline to be published on [Counterparty.io](https://counterparty.io/) in a new page titled “History”. 
 
-This timeline idea was originally published in [this Counterparty Forum post](https://forums.counterparty.io/t/updating-information-on-counterparty-io/6669) which was about updating the Counterparty website to include more current information. It was then moved to these two posts: [here](https://forums.counterparty.io/t/counterparty-developer-timeline-for-counterparty-io/6675) and [here](https://forums.counterparty.io/t/counterparty-token-asset-project-timeline-for-counterparty-io/6688), but now finally lives here in this repo.
+This timeline idea was originally published in [this Counterparty Forum post](https://forums.counterparty.io/t/updating-information-on-counterparty-io/6669) which was about updating the Counterparty website to include more current information. It was then moved to these two posts: [here](https://forums.counterparty.io/t/counterparty-developer-timeline-for-counterparty-io/6675) and [here](https://forums.counterparty.io/t/counterparty-token-asset-project-timeline-for-counterparty-io/6688), but now finally lives here in this Github repository.
 
 It is my hope that this data below will give more inspirational education to the current and future Counterparty community, as well as give light on historical and groundbreaking projects done in the past using the Counterparty protocol.
 
