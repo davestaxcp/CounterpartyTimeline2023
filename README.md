@@ -329,14 +329,6 @@ Tokens that need further research:
 
 - XCPTORCH.Chiguireitor - 2019-03-02 - https://xchain.io/asset/XCPTORCH - related to Lightning Torch? Predated by DUTCHIE? - (1/1 NFT's passing between people who add content to the token) - influenced FAKETORCH in Fake Rares
 - Bitcoin Comic https://bitcoincomic.org/ - https://x.com/BitcoinComic - https://tokenscan.io/asset/COMICBOOK - https://tokenscan.io/asset/COMICCOIN - relation to SWARM..??... seems there are a few more tokens connected to this as well as SWARM
-- https://xchain.io/asset/TITFORTAT
-- https://xchain.io/asset/BLINGZ
-- https://xchain.io/asset/DIAMONDBOND
-- https://xchain.io/asset/STEEMSTARS
-- https://xchain.io/asset/TAHI
-- https://xchain.io/asset/HQLEADERS
-- https://xchain.io/asset/KEVCOIN
-- https://xchain.io/asset/NOVATOKEN
 - lots of tokens not mentioned related to Lets Talk Bitcoin - https://tokenscan.io/asset/BOOKKEEPER
 - 2019-03-11 – GESAMTKUNSTW.ERK – https://medium.com/chain-of-thoughts/must-we-all-become-a-gesamtkunstwerk-b72fa6098930 - first tokenized article with a Nathan copymint on XCP??
 - First serialized NFTs for a poker website?: https://forums.counterparty.io/t/ann-bitnplay-a-new-age-for-poker-partner-tokens/676 - found from: https://jpjanssen.com/a-timeline-of-non-fungible-tokens-on-counterparty/ - Bitcointalk forum post: https://bitcointalk.org/index.php?topic=906422 - "BNPXX" token 1/1 types: https://xchain.io/search?query=BNP
@@ -348,6 +340,14 @@ Tokens that need further research:
 - First Augmented Reality token? Before Fake Rare?
 - Firsts in Fake Rare? FakeDust (music player/multi layered token) - others?
 - First 3D designed art on an XCP token?
+- https://xchain.io/asset/TITFORTAT
+- https://xchain.io/asset/BLINGZ
+- https://xchain.io/asset/DIAMONDBOND
+- https://xchain.io/asset/STEEMSTARS
+- https://xchain.io/asset/TAHI
+- https://xchain.io/asset/HQLEADERS
+- https://xchain.io/asset/KEVCOIN
+- https://xchain.io/asset/NOVATOKEN
 
 ---
 
