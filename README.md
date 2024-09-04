@@ -347,6 +347,7 @@ Tokens that need further research:
 - The Augmentor's Game - seen on SharkTank? - https://steemit.com/games/@tonylondon/the-augmentor-s-game - GENOFLIGHT as Augmentor card but also in SOG - playable in SOG! - issued by? https://xchain.io/address/1Rjkk2nrfmFbYN3fvxkdsEQi6QtJPnWKS
 - First Augmented Reality token? Before Fake Rare?
 - Firsts in Fake Rare? FakeDust (music player/multi layered token) - others?
+- First 3D designed art on an XCP token?
 
 ---
 
