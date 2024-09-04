@@ -508,27 +508,43 @@ https://superrare.com/artwork/eth/0xb932a70a57673d89f4acffbe830e8ed7f75fb9e0/200
 https://www.youtube.com/shorts/9ImJ4N3X7s0?feature=share
 
 ---
-- DARKPILLPEPE - $646,733.05 -  September 13, 2021
+
+- DARKPILLPEPE - $646,733.05 -  September 13, 2021 - 14 BTC
+
+
+While many other 1/1 Rare Pepe pieces and genesis cards from other collections gained high popularity and large single sales, DARKPILLPEPE stands out as it was apart of the genesis series of Rare Pepe. The art was created by a well known individual named 'Dan Dark Pill' and also has a quite higher issuance than other large NFT sales (1/21 piece). This DARKPILLPEPE sold for 14 BTC in a Counterparty dispenser totalling $646,733.05 at this time. Looking back at the on-chain record of early sales, this piece was first distributed in September of 2016, and was originally sold for a USD equivalent of $10.
+
 
 https://tokenscan.io/tx/90430469725d89c1f02886199d377404ae151b84a3412be237bbaec8e91703f5
+https://tokenscan.io/tx/d1da3117b1b3ad13ff3e7e355b3ab7fe097bdb6785c5b810c5b20e81fdcf74bc
 
 ---
 
-- FDCARD - 120 ETH - Sept 17, 2021
+- FDCARD - 120 ETH - Sept 17, 2021 - $433,680
+
+This is the highest historical sale for the genesis Spells of Genesis piece: FDCARD. This sale was done through Emblem Vault, which allows for Counterparty assets to be sold on Ethereum marketplaces like OpenSea. While this sale was done with the Emblem 'Legacy' Vaults, which is an older version of the vault minting process, Emblem still offers this service with a more up-to-date and robust way of authenticating and curating vaults. This FDCARD sold for a total of 120 ETH (totalling $433,680) in September of 2021. The on-chain record of the original sale of this card in 2015 was sold for a USD equivalent of $1.14.
 
 https://opensea.io/assets/ethereum/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/8849441
+https://tokenscan.io/tx/209651
+https://circuitsofvalue.com/
 
 ---
 
-- RAREPEPE - 200 - ETH - Sept 18, 2021
+- RAREPEPE - 200 - ETH - Sept 18, 2021 - $713,800
+
+This is the highest historical sale for the genesis Rare Pepe card named 'RAREPEPE'. This sale was done through Emblem Vault, which allows for Counterparty assets to be sold on Ethereum marketplaces like OpenSea. While this sale was done with the Emblem 'Legacy' Vaults, which is an older version of the vault minting process, Emblem still offers this service with a more up-to-date and robust way of authenticating and curating vaults. The on-chain record of the original sale of this card in its initial distribution was a USD equivalent of $7.
 
 https://opensea.io/assets/ethereum/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/2281901
+https://tokenscan.io/tx/5195324d6dda3a9f91e8bfb4cda864f46c725f7a4cf6f517edfafd94b74d6fbc
 
 ---
 
 - SATOSHICARD - 140 ETH - Sept 18, 2021
 
+This is the highest historical sale of the unique Spells of Genesis piece named SATOSHICARD. This sale was done through Emblem Vault, which allows for Counterparty assets to be sold on Ethereum marketplaces like OpenSea. While this sale was done with the Emblem 'Legacy' Vaults, which is an older version of the vault minting process, Emblem still offers this service with a more up-to-date and robust way of authenticating and curating vaults. The original sale of this card in its initial distribution was a USD equivalent of $180.
+
 https://opensea.io/assets/ethereum/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/3738801
+https://tokenscan.io/tx/320478
 
 ---
 
@@ -548,13 +564,20 @@ https://coinrivet.com/debut-sothebys-metaverse-auction-sees-record-breaking-nft-
 
 - PEPEMILLION - $876,888.83 - November 20, 2021
 
+This unique low issuance card (1/5) by Scrilla is a part of the first few series of Rare Pepe pieces, when the submission process was not constrained to a 1/100 minimum mint. This is one of the highest sales, especially when looking at data of Counterparty dispensers of any Rare Pepe. This card also has some deeper backstory to hip-hop history as well as a connection to the cultural significant of owning one million PEPECASH (the main currency used in Rare Pepe). Scrilla explains this influence and story of this card in an interview with ZeroG published September 2, 2022. While another PEPEMILLION was sold for 16 BTC about 6 months later, this sale for 15 BTC was a higher USD equivalent totalling $876,889. Looking at the on-chain sales data, when this card was originally distributed in 2016, the first token was sold for a USD equivalent of $42.
+
 https://tokenscan.io/tx/7eee880a78d157d4e3fdf6135f5b20e30aa8d6ac9b69e96446d994cd50f123fc
+https://www.youtube.com/shorts/rBIe5bPcTuQ?feature=share
+https://tokenscan.io/tx/ff20b0001b9921b667d1379e62c230e1a8dfef97d8791b2ad97b4da35664a818
 
 ---
 
 - NINJASUIT - 28.888 ETH - January 27, 2022
 
+This is the historical highest sale of any Sarutobi related card on Counterparty. This one is most likely sought after due to its background of being the first 'Gaming Skin NFT'. This sale was done through Emblem Vault, which allows for Counterparty assets to be sold on Ethereum marketplaces like OpenSea. While this sale was done with the Emblem 'Legacy' Vaults, which is an older version of the vault minting process, Emblem still offers this service with a more up-to-date and robust way of authenticating and curating vaults. On January 27, 2022 a single token of this card was sold for 28.888 ETH ($71,093.36 at the time of slae). Looking at the on-chain sales data of NINJASUIT, the original sale of this card in its initial distribution was a USD equivalent of $2.43.
+
 https://opensea.io/assets/ethereum/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/32305414137789211
+https://tokenscan.io/tx/483539
 
 ---
 
