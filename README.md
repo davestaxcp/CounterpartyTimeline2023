@@ -582,20 +582,30 @@ https://tokenscan.io/tx/483539
 ---
 
 - PEPEALASSAD - $688,179.21 - January 30, 2022
+ 
+This is another very low issuance Rare Pepe piece (1/3) that had a very significant USD value sale in 2022. This dispenser sale was for 18 BTC with a USD equivalent of $688,179.21. This transaction is in the top tier of the highest sales for the Counterparty protocol, especially when looking at data of dispensers of any Rare Pepe. Looking at the on-chain sales data, when this card was originally distributed in 2016, the first token was sold for a USD equivalent of $122.
 
 https://tokenscan.io/tx/871235aaf1f48d67fc48fd824492649042ca5687b011f201ed162e85ca48aa99
+https://tokenscan.io/tx/c4e8de1a5eae3e6875d1fb27468a4e2e12118c3fb89530cc8eb47c1d152a1ce5
 
 ---
 
 - Force of Will - Complete Set - 40 ETH - June 13, 2022
 
+This is the highest historical sale for tokens involved in the Force of Will project. This sale specifically was for a complete set of all the Force of Will cards in the collection. This sale was also done through Emblem Vault, which allows for Counterparty assets to be sold on Ethereum marketplaces like OpenSea. While this sale was done with the Emblem 'Legacy' Vaults, which is an older version of the vault minting process, Emblem still offers this service with a more up-to-date and robust way of authenticating and curating vaults. This sale on June 13, 2022 sold an entire Force of Will set for 40 ETH, which was a USD equivalent of $61,240. It is unknown what a full set of Force of Will cards sold for on initial distribution, but a great place to review recent and historical sales is the HNFT website.
+
 https://opensea.io/assets/ethereum/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/15804377712242311
+https://hnft.wtf/explorer/forceofwill
 
 ---
 
 - WINKELPEPE - $630,904.31 - April 14th, 2023
 
+This is one of the most recent 1/1 Counterparty NFT sales. This token, WINKELPEPE, is a card that references the famous movie 'The Shining' and the well known Winklevoss twins. It is a very early piece in the Rare Pepe collection by DanDarkPill and was originally issued with 2 tokens total (to represent the twins), but later 1 of the tokens was sent to a burn address and is unrecoverable. This dispenser sale was done by the '6529capital collection' for 20.75 BTC with a USD equivalent of $630,904.31 to purchase the remaining last card. Funny enough, this sale was shown off with a video that reads 'How to buy a RARE PEPE from a dispenser?'. This transaction is in the top tier of the highest sales for the Counterparty protocol, especially when looking at data of dispensers of any Rare Pepe. Looking at the on-chain sales data, when this card was originally distributed in 2016, the pair was sold for a USD equivalent of $85.50 for each WINKELPEPE.
+
 https://tokenscan.io/tx/c9b8c0eebf08a3c7fe4d106194d5cda7e84701f73a24288fb9f434ae1778d748
+https://tokenscan.io/tx/6f78fa5d2aa391ea9ad90b986388106c14e9cd993835b5b2a64d27ee08bc55c0
+https://x.com/phon_ro/status/1647014552817500160
 
 ---
 
