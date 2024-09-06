@@ -613,16 +613,111 @@ https://x.com/phon_ro/status/1647014552817500160
 
 ---
 
-- Counterwallet
-- Book of Orbs
-- Freewallet
-- Rare Pepe Wallet
-- CasaTookan
-- Freeport
-- IndieSquare Wallet
-- Monya
-- NinjaWallet
+- Counterwallet - Jan 2, 2014 - Jan of 2024
 
+This is historically the first Counterparty wallet and specifically was focused to be a user-friendly browser based wallet. It was offered to the community the day Counterparty was launched on Bitcointalk along with a command line interface version. This wallet was the first to showcase the use of the Counterparty Decentralized Exchange and would continue to be supported through various updates over the years such as the implementation of Segwit addresses and other key features like the destroy function. 
+
+Also, as mentioned on the Counterpary website 'When you use Counterwallet, all transactions are signed on your device and your private keys are never stored on our servers. All information sent to our servers is encrypted by your Counterwallet client for maximum security, and every trace of your session is erased when you log out. All you need is your passphrase for easy and secure access.'
+
+This wallet was working and live up until about January of 2024 when the servers hosting this wallet were taken down due to an issue with a new protocol update. The current lead developer, Adam Krellenstein, has stated that he will not be working to bring this wallet back online, nor update it to the more recent features offered with the Counterparty protocol. Instead Adam and his developing team are focusing on a new wallet called 'Horizon' under their UnspendableLabs platform.
+
+https://counterwallet.io/
+
+---
+
+- Book of Orbs - Oct 12, 2016 to May 31, 2021
+
+This wallet, built by EverdreamSoft in collaboration with IndieSqaure, was one of the most popular mobile Counterparty wallets of its time. Book of Orbs offered client-side encryption and decentralized trading using the Counterparty DEx. 
+Early on, this wallet supported an organized and colleciton specific trading interface of the most popular Counterparty projects such as Spells of Genesis, Age of Chains, Force of Will, DieCast, Sarutobi, Bitgirls, Memory Chain, Rare Pepe and more. This wallet application referred to assets/tokens/cards on Counterparty as 'Orbs' and many users in the community mention the Book of Orbs interface was their favorite user interface designs overall to trade Counterparty assets. 
+
+Sadly this wallet was discontinued and the EverdreamSoft team mentioned in a Medium article that 'its dependencies on third-part services made it very difficult to maintain the application up to date and working correctly.' The team goes on to invite users to use the new EverdreamSoft wallet 'Casa Tookan' or Freewallet to continue using Counterparty functionality into the future.
+
+https://www.bookoforbs.com/index_eng.html
+https://medium.com/book-of-orbs/project-orb-announces-the-official-launch-of-book-of-orbs-52659c88e81b
+https://everdreamsoft.medium.com/book-of-orbs-says-good-bye-452f5c8843ea
+
+---
+
+- Freewallet - Oct 13, 2017 to Present
+
+This is an open-source Counterparty wallet created by Jeremy Johnson (Jdog). The original purpose for developing Freewallet, as mentioned in his ZeroG interview, was to create a wallet he could use personally to do Counterparty actions that are accepted by the protocol, but were not offered by Counterwallet for regular users at that time.
+
+This wallet is now the most up-to-date and most commonly used wallet in the Counterparty community due to the Freewallet Desktop version offering all Counterparty functionality allowed on the protocol such as: client-side authentication and encryption, sending and receiving Bitcoin/XCP and all Counterparty assets, creating and managing tokens and token ownership, distributing dividends, broadcasting data using Counterparty broadcasts, signing messages and transactions, using the Counterparty Decentralized exchange for all asset types, an integrated exchange interface for the Counterparty DEx and Dispensers (including dispenser watchlists), multiple addresses support (including Segwit addresses), add-on password functionality, QR codes for public addresses, Counterwallet and BIP-39 seed types, reset token divisibility status, support of the BTCpay mechanisms for trading against BTC pairs on Counterparty, the Multi-send functionality and much more.
+
+While Freewallet Mobile version is avaliable on the App Store (for Mac) and Google Play Store (for Android) and many users start with the mobile wallet, but this mobile version has not been updated since March 15, 2019. So it is recommended to use the standalone Desktop version as it is updated and maintained more regularly. 
+
+The Freewallet.io website also includes a community created User Manual (written by davesta) and a community supported Telegram chat for users to ask questions regarding Freewallet functionality. Since the underlying code was and has always been public, new developers such as Noop have used the base functionality/code of Freewallet to develop NinjaWallet later in time. It is also highly recommended to verify that you as a user are downloading the correct wallet from Freewallet.io as other wallets (that do not support Counterparty) have a similar name but are not at all connected to this Counterparty specific wallet.
+
+https://freewallet.io/
+https://github.com/jdogresorg/freewallet-desktop
+https://davestaxcp.gitbook.io/freewallet.io-user-manual
+
+
+---
+
+- Rare Pepe Wallet - Oct 3, 2016? to Present
+
+This browser-based mobile-friendly wallet, created by Joe Looney, was the first Counterparty wallet to be specifically geared for use with the Rare Pepe collection. Joe explains in any interview with ZeroG that this UI was somewhat of a base layer clone of the Book of Orbs wallet, but re-skinned to be used for Rare Pepes. 
+
+Originally this was hosted on 'RarePepeWallet.com', but was later moved to the URL: 'RarePepeWallet.wtf'. The new version of this wallet also supports ease of use on a mobile device, minting tokens within the wallet using the Inter-Planetary File System (IPFS), and even was used in the Fest Rares collection to give users an in-person free mint pass to create custom pepe art. Traders using this wallet can use simple Bitcoin functionality, card for card trading using the Counterparty Decentralized Exchange, as well as buying and selling assets using PEPECASH/XCP (which was the most common way to trade Rare Pepe's in 2016-2019). 
+
+This wallet is also very known for labeling all 'non-RarePepe' assets as 'Fake Rares' as was a cultural custom in the Rare Pepe community, though access to all types of Counterparty tokens owned is supported within the user interface.
+
+https://rarepepewallet.wtf/
+https://youtu.be/fh54uwX8sKc?si=azZOi0ihboiOom_U
+
+---
+
+- CasaTookan - September 19, 2018 to Present
+
+Casa Tookan, also developed by EverdreamSoft, is the first multi-chain Counterparty wallet. The wallet offers users a place to hold tokens from both the Bitcoin and Ethereum blockchains. 
+
+Counterparty users from the BitCrystals ecosystem can also especially find themselves in a new world of cross-chain compatibility because of the ease of use with Spells of Genesis, CryptoKitties, SuperRare and other blockchain applications with Casa Tookan's built-in DApp browser. 
+
+Casa Tookan is avaliable in the App Store and Google Play store as a user-friendly mobile wallet for use on Apple and Android phones.
+
+https://crystalsuite.com/casa-tookan-wallet/
+
+---
+
+- Freeport - Feb 10, 2019 to Present
+
+This is an open-source browser-based wallet created by Joe Looney and functions as a Google Chrome extension. 
+
+Freeport supports Bitcoin functionality as well as Counterparty token functionality such as trading on the Counterparty DEX and creating tokens within the application. 
+
+While this wallet is avaliable in the Chrome Web Store, it has not been updated since 2022 and Joe will commonly focus on updating RarePepeWallet before updating Freeport. 
+
+https://github.com/loon3/Freeport-extension
+https://chromewebstore.google.com/detail/freeport/hbggjmemphljoifppaekgpohndii
+
+
+---
+
+- IndieSquare Wallet - May 3, 2015 to ?
+
+IndieSquare Wallet was the first mobile wallet of its kind to allow for the buying and selling, sending and receiving, of cryptocurrency using the counterparty protocol. 
+
+This open-source wallet was built atop of the bitcoin blockchain and offered smartphone users the ability to send and receive tokens in the Counterparty decentralized exchange with client-side encryption; as well as the ability to issue their own tokens with its value in a users' local currency. The wallet was also built with mainstream conveniences in mind, such as push notifications, touch id authorization and even Counterparty Improvement Proposal upgrades like the sweep function. 
+
+This wallet was also historically used in the Sarutobi game as well as the Takara project, but was discontinued in ?.
+
+https://github.com/IndieSquare/indiesquare-wallet
+
+---
+
+- Monya - ? to ?
+
+Monya The cryptocurrency wallet that satisfy from beginners to experts. Monya is a wallet which support Counterparty, Altparties, and many crypto currency. And it also supports atomic cross chain swap. It is the first wallet that succeeded atomic swap between Counterparty and Monaparty. And, you can send to token owner. When you type “@missmonacoin”, the address of owner of MISSMONACOIN is automatically completed
+
+---
+
+- NinjaWallet - ? to ?
+
+Explore Counterparty like a ninja!
+
+
+---
 ---
 ---
 ---
