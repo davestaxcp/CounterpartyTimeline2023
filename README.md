@@ -651,7 +651,7 @@ The Freewallet.io website also includes a community created User Manual (written
 https://freewallet.io/
 https://github.com/jdogresorg/freewallet-desktop
 https://davestaxcp.gitbook.io/freewallet.io-user-manual
-
+https://youtu.be/gcgsZmo7EJU?si=EN9OF4CIAdbXDUN_
 
 ---
 
