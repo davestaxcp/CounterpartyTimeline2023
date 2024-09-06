@@ -619,7 +619,7 @@ This is historically the first Counterparty wallet and specifically was focused 
 
 Also, as mentioned on the Counterpary website 'When you use Counterwallet, all transactions are signed on your device and your private keys are never stored on our servers. All information sent to our servers is encrypted by your Counterwallet client for maximum security, and every trace of your session is erased when you log out. All you need is your passphrase for easy and secure access.'
 
-This wallet was working and live up until about January of 2024 when the servers hosting this wallet were taken down due to an issue with a new protocol update. The current lead developer, Adam Krellenstein, has stated that he will not be working to bring this wallet back online, nor update it to the more recent features offered with the Counterparty protocol. Instead Adam and his developing team are focusing on a new wallet called 'Horizon' under their UnspendableLabs platform.
+This wallet was working and live up until January 14, 2024 when the servers hosting this wallet were taken down due to an issue with a new protocol update. While a few types of fixes were proposed at the time, the current lead developer (Adam Krellenstein) has stated that he will not be working to bring this wallet back online, nor update it to the more recent features offered with the Counterparty protocol. Instead Adam and his developing team are focusing on a new wallet called 'Horizon' under their UnspendableLabs platform.
 
 https://counterwallet.io/
 
