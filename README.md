@@ -452,6 +452,118 @@ windsok - 2022
 
 ---
 
+add Notable XCP Protocol Release updates?:
+
+---
+
+Counterparty Core v10.3.0 (2024-07-12)
+
+This version most notably introduced a major performance optimization for node API access which includes: an additional SQLite3 database that was added which tracks the current state of all Counterparty objects (in addition to the primary database that is purely log-structured). Other major changes for this version include the removal of the 'kickstart' functionality, which is possible now that 'start' is performant, and numerous tweaks and improvements to the v2 API.
+
+Ouziel Slama
+Adam Krellenstein
+Warren Puffett
+
+https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v10.3.0
+
+---
+
+Counterparty Core v10.2.0 (2024-06-11)
+
+This was a large release that included significant refactoring and redesigns of critical node components, including the CLI and logging subsystems, mempool processing, and API database connection management. It also included numerous updates and extensions to the v2 API, plus new ZeroMQ support. Of course, a large number of bugs have been resolved as well.
+
+Ouziel Slama
+Adam Krellenstein
+Warren Puffett
+Matt Marcello
+
+https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v10.2.0
+
+---
+
+Counterparty-lib - 9.61.0 - Nov 17, 2023
+
+This was a large release that included: bumbing bitcoin core version to 25.1, adding an 'origin' field to dispensers which (which allowed for refilling/closing/reopening dispensers from the origin address), added a delay to dispenser closing of 5 blocks, added a dynamic XCP fee on the sweep function, and resolved a large number of bugs.
+
+Jeremy Johnson
+
+https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v9.61.0
+
+---
+
+Counterparty-lib - 9.60.0 - Aug 29, 2022
+
+This release contains a number of bug fixes, updates, and new features such as support for CIP24 (Oracled Dispensers), and support for for CIP03 (Reset Token & Divisibility Statuses).
+
+Jeremy Johnson
+jotapea
+windsok
+
+https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v9.60.0
+
+---
+
+Counterparty-lib - 9.58.0 - Feb 3, 2020
+
+This release included 2 new major features: P2SH encoding (Allowed the arbitrary size of messages using 2 transactions to encode data inside P2SH scriptSigs), MPMA (Allowed the sending of multiple assets to multiple addresses with different quantities and memos on a single message, usually used in conjunction with P2SH).
+
+John Villar
+
+https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v9.58.0
+
+---
+
+Counterparty-lib - 9.57.0 - Oct 24, 2019
+
+This release was the first to include the Dispenser function and the Sweep function.
+
+John Villar
+
+https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v9.57.0
+
+---
+
+Counterparty-lib - 9.56.0 - Dec 27, 2018
+
+This release included SegWit support on testnet and on mainnet (effective from an activation block) as well as included all the changes proposed due to implementation of CIP19.
+
+John Villar
+
+https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v9.56.0
+
+---
+
+Counterparty-lib - 9.55.3 - Sep 28, 2017
+
+This release implemented CIP-9 Enhanced Send, CIP-11 Shorten Transaction Type ID and CIP-12 Memo Requirement through Broadcasts, and resolved a few bugs in the protocol.
+
+Devon Weller
+
+https://github.com/CounterpartyXCP/counterparty-core/releases/tag/9.55.3
+
+---
+
+Counterparty-lib - 9.55.2 - May 1, 2017
+
+This release implemented the subasset feature as proposed in CIP-4 and preliminary segwit support on testnet.
+
+Robby Dermondy
+
+https://github.com/CounterpartyXCP/counterparty-core/releases/tag/9.55.2
+
+---
+
+Counterparty-lib - 9.53.0 - Jan 24, 2016
+
+This was an incremental upgrade with numerous bug fixes and performance enhancements and also added support for 80-byte OP_RETURN.
+
+Robby Dermondy
+
+https://github.com/CounterpartyXCP/counterparty-core/releases/tag/9.53.0
+
+---
+---
+
 ## Blockchain/Github Data to be Shown Visually
 
 ---
