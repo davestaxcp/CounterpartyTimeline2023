@@ -645,16 +645,16 @@ https://circuitsofvalue.com/
 
 - RAREPEPE - 200 - ETH - Sept 18, 2021 - $713,800
 
-This is the highest historical sale for the genesis Rare Pepe card named 'RAREPEPE'. This sale was done through Emblem Vault, which allows for Counterparty assets to be sold on Ethereum marketplaces like OpenSea. While this sale was done with the Emblem 'Legacy' Vaults, which is an older version of the vault minting process, Emblem still offers this service with a more up-to-date and robust way of authenticating and curating vaults. The on-chain record of the original sale of this card in its initial distribution was a USD equivalent of $7.
+This is the highest historical sale for the genesis Rare Pepe card named 'RAREPEPE'. This sale was done through Emblem Vault, which allows for Counterparty assets to be sold on Ethereum marketplaces like OpenSea. While this sale was done with the Emblem 'Legacy' Vaults, which is an older version of the vault minting process, Emblem still offers this service with a more up-to-date and robust way of authenticating and curating vaults. This RAREPEPE token sold for 200 ETH ($713,800 USD equivalent). The on-chain record of the original sale of this card in its initial distribution was a USD equivalent of $7.
 
 https://opensea.io/assets/ethereum/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/2281901
 https://tokenscan.io/tx/5195324d6dda3a9f91e8bfb4cda864f46c725f7a4cf6f517edfafd94b74d6fbc
 
 ---
 
-- SATOSHICARD - 140 ETH - Sept 18, 2021
+- SATOSHICARD - 140 ETH - Sept 18, 2021 - $499,791
 
-This is the highest historical sale of the unique Spells of Genesis piece named SATOSHICARD. This sale was done through Emblem Vault, which allows for Counterparty assets to be sold on Ethereum marketplaces like OpenSea. While this sale was done with the Emblem 'Legacy' Vaults, which is an older version of the vault minting process, Emblem still offers this service with a more up-to-date and robust way of authenticating and curating vaults. The original sale of this card in its initial distribution was a USD equivalent of $180.
+This is the highest historical sale of the unique Spells of Genesis piece named SATOSHICARD. This sale was done through Emblem Vault, which allows for Counterparty assets to be sold on Ethereum marketplaces like OpenSea. While this sale was done with the Emblem 'Legacy' Vaults, which is an older version of the vault minting process, Emblem still offers this service with a more up-to-date and robust way of authenticating and curating vaults. This SATOSHICARD sale was for 140 ETH ($499,791 USD equivalent). The original sale of this card in its initial distribution was a USD equivalent of $180.
 
 https://opensea.io/assets/ethereum/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/3738801
 https://tokenscan.io/tx/320478
