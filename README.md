@@ -661,7 +661,7 @@ This browser-based mobile-friendly wallet, created by Joe Looney, was the first 
 
 Originally this was hosted on 'RarePepeWallet.com', but was later moved to the URL: 'RarePepeWallet.wtf'. The new version of this wallet also supports ease of use on a mobile device, minting tokens within the wallet using the Inter-Planetary File System (IPFS), and even was used in the Fest Rares collection to give users an in-person free mint pass to create custom pepe art. Traders using this wallet can use simple Bitcoin functionality, card for card trading using the Counterparty Decentralized Exchange, as well as buying and selling assets using PEPECASH/XCP (which was the most common way to trade Rare Pepe's in 2016-2019). 
 
-This wallet is also very known for labeling all 'non-RarePepe' assets as 'Fake Rares' as was a cultural custom in the Rare Pepe community, though access to all types of Counterparty tokens owned is supported within the user interface.
+This wallet is also very known for labeling all 'non-RarePepe' assets as 'Fake Rares' as was a cultural custom in the Rare Pepe community, though access to all types of Counterparty tokens owned is supported within the user interface. This wallet also historically had a 'gift-card' feature to easily gift new users a card by redeeming a one-time-use code. These codes were also commonly hidden within Rare Pepe submission art as well as image metadata.
 
 https://rarepepewallet.wtf/
 https://youtu.be/fh54uwX8sKc?si=azZOi0ihboiOom_U
