@@ -453,7 +453,7 @@ windsok - 2022
 ---
 ---
 
-##Add Notable XCP Protocol Release updates?:
+## Add Notable XCP Protocol Release updates?
 
 ---
 
