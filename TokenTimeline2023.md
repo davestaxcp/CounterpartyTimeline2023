@@ -1457,3 +1457,38 @@ Significance: This asset, [A7337447728884561000](https://www.rarestamp.xyz/stamp
 Related Links: https://github.com/mikeinspace/stamps/blob/main/BitcoinStamps.md https://www.rarestamp.xyz/stamp/A7337447728884561000 https://twitter.com/mikeinspace https://twitter.com/reinamora_137 https://twitter.com/mrarwyn https://github.com/ordinals/ord
 
 Issuer: 1GotRejB6XsGgMsM79TvcypeanDJRJbMtg
+
+---
+
+---
+
+![image](https://github.com/user-attachments/assets/2e35280c-159e-4cae-987b-64ccafce33d2)
+
+Date: **Mar 30, 2022**
+
+Timeline Asset/Project: **17ART**
+
+Significance: 17ART is a project, created by Gabriel Venezuela, where submissions are heavily based on art related to Pepe. The idea for the project was taken from the artistic base of GAMESOFTRUMP, which was one of Gabriel's submissions in the Rare Pepe project. The token that is used to submit artistic pieces is called the CriticArt (CRITICART) token and was distributed initially to the holders of three Rare Pepe tokens including: GAMESOFTRUMP, PEPEHEFNER and WORLDOFPEPE. 17ART was created with the idea of ​​creating critical art that expresses content, information, news, and other types of graphic ideas that generate a global thought. Gabriel mentioned, 'we want to spread important or interesting messages through art that allow people to express their ideas artistically through Bitcoin NFTs in Counterparty.' The submissions, which are still open at this time, mainly focus on: politics, pepe, bitcoin culture, religion, gematria and physical art. The website also offers an optional project specific orange border to format artist submissions.
+
+Related Links: https://17art.io/ 
+
+Issuer: Gabriel Venezuela
+
+---
+
+uploadpic
+
+Date: **Jun 3, 2023**
+
+Timeline Asset/Project: **Assetic**
+
+Significance: This project, started by Indelible, focused on 'The Arweave Secured Standard' and invited artists to submit artwork by using the Arweave blockchain and a Counterparty description to publish their art. It was started as somewhat of a response to the expensive nature of minting Stamps using Counterparty at the time and set an example for using Arweave to maintain an 'on-chain' data reference while also including high resolution images. The rules simply stated 'supply an ASS tag as your asset description and send asset ownership to a burn address'. A sample description would include ASS:'The Arweave Hash link to the artwork'|Assetic Art #69:ASS. The burn address is also a 'vanity' burn address and is as follows: 1AsseticXXXXXXXXXXXXXXXXXXXXY69xbC. The artwork in this directory mainly focused on the aesthetic and beauty of the buttocks. Many of the submissions also include very high resolution images, gifs and videos. At this time the website is only accessible with the Wayback Machine and submissions do not seem to be open anymore.
+
+Related Links: https://web.archive.org/web/20230604171359/https://assetic.io/ 
+
+Issuer: Indelible
+
+---
+
+
+
