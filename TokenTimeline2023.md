@@ -1476,7 +1476,7 @@ Issuer: Gabriel Venezuela
 
 ---
 
-uploadpic
+![image](https://github.com/user-attachments/assets/cc09702a-a6aa-407b-98a0-76631d790347)
 
 Date: **Jun 3, 2023**
 
