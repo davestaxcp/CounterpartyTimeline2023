@@ -548,7 +548,7 @@ Counterparty-lib - 9.55.2 - May 1, 2017
 
 This release implemented the subasset feature as proposed in CIP-4 and preliminary segwit support on testnet.
 
-Robby Dermondy
+Robby Dermody
 
 https://github.com/CounterpartyXCP/counterparty-core/releases/tag/9.55.2
 
@@ -558,7 +558,7 @@ Counterparty-lib - 9.53.0 - Jan 24, 2016
 
 This was an incremental upgrade with numerous bug fixes and performance enhancements and also added support for 80-byte OP_RETURN.
 
-Robby Dermondy
+Robby Dermody
 
 https://github.com/CounterpartyXCP/counterparty-core/releases/tag/9.53.0
 
