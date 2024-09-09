@@ -818,16 +818,27 @@ https://github.com/IndieSquare/indiesquare-wallet
 
 ---
 
-- Monya - ? to ?
+- Monya - Jan 3, 2018 to Present
 
-Monya The cryptocurrency wallet that satisfy from beginners to experts. Monya is a wallet which support Counterparty, Altparties, and many crypto currency. And it also supports atomic cross chain swap. It is the first wallet that succeeded atomic swap between Counterparty and Monaparty. And, you can send to token owner. When you type “@missmonacoin”, the address of owner of MISSMONACOIN is automatically completed
+Monya is a Japanese wallet created to interact with Counterparty and a protocol that forked the counterparty code called Monaparty. Monya offers a browser style wallet, an app in the Apple Mac store and an app in the Google Play store. This wallet is cross-platform and offers support for Bitcoin (including Segwit addresses), Counterparty and Monaparty. Monya also offers support for BIP44/49, BIP39, Multi-sig transactions, on-chain messaging, token creation, sending by simply typing an '@name' instead of manual address sends and more. As mentioned on their github, the name 'Monya' comes from a tweet where 'Kanemitsu Midori, who is CFO of bitFlyer, said Monya' in relation to the company bitFlyer offering Monacoin support in October of 2017.
+
+
+https://github.com/monya-wallet/monya
 
 ---
 
-- NinjaWallet - ? to ?
+- NinjaWallet - ? to Present
 
-Explore Counterparty like a ninja!
+NinjaWallet is a closed-source browser based wallet specifically geared towards the Counterparty Stamp and SRC20 ecosystem. This wallet was developed by Noop and was originally formed from the open-source code from the Freewallet Desktop Github. 
 
+NinjaWallet includes support for simple Bitcoin transactions and complex Counterparty functions such as: sending and receiving numeric assets (stamps), the minting of stamps within collections, bulk minting custom-made individual stamps, trading stamps using dispensers or using the Counterparty Decentralized Exchange, multi-send functionality, destruction/burning of stamps, minting/deploying/transferring SRC20 tokens, and a transaction accelerator. 
+
+A great place to learn about this wallet and all of its features is the User Manual/FAQ included on the StampedNinja website.
+
+https://stamped.ninja/
+https://stampedninja.gitbook.io/stamped.ninja/ninjawallet-faq
+https://wallet.stamped.ninja/
+https://wallet.xcp.ninja/
 
 ---
 ---
