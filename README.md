@@ -233,6 +233,8 @@ Fest Rares is a definitive first of its kind in the Counterparty Community and w
 
 More Research and feedback is needed before adding these collections below:
 
+| The Nakamotos | thenakamotos.club | Unique PFPs tied to each of the Nakamotos cards (RAREPEPE) 
+
 | Phunchkins | https://phunchkins.com/ | https://web.archive.org/web/20231208182144/https://phunchkins.com/
 
 | Pepemon | https://pepemon.net/ |
@@ -242,6 +244,7 @@ More Research and feedback is needed before adding these collections below:
 | Gameicon | EverdreamSoft?? | https://x.com/CounterpartyMkt/status/1833075805536080280
 
 | PepeVote | |
+
 
 
 ---
