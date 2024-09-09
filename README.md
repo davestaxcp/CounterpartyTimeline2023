@@ -110,7 +110,7 @@ Common Coco is a project directory started by Subterranean which includes Reject
 
 | Crystal Collection | https://crystalsuite.com/crystal_collection | 2021-4-30
 
-Crystal Collection is a series of seven different artworks by Albino-Z, Alejandro Hurtado and Herckeim minted on Counterparty, Ethereum and Klaytn. The early artwork is focused on historical projects in blockchain history like GEMZ, Sarutobi, Doge, the genesis bitcoin block and later blockchain history like Mt. Gox and the infamous DAO hack. Most of these artworks have extremely rare issuances, with The Doge at the highest of 15 separate 'prints'. The only one on Counterparty is the artwork commemorating Sarutobi and has 2 prints total, one of which was gifted to the developer, Christian Moss (MandelDuck).
+Crystal Collection is a series of seven different artworks by Albino-Z, Alejandro Hurtado and Herckeim minted on Counterparty, Ethereum and Klaytn. The early artwork is focused on historical projects in blockchain history like GEMZ, Sarutobi, Doge, the genesis bitcoin block and later blockchain history like Mt. Gox and the infamous DAO hack. Most of these artworks have extremely rare token issuances, with The Doge at the highest of 15 separate 'prints'. The only one on Counterparty is the artwork commemorating Sarutobi and has 2 prints total, one of which was gifted to the developer, Christian Moss (MandelDuck).
 
 
 
@@ -302,13 +302,13 @@ https://tokenscan.io/asset/THING
 - CrystalsCraft - 2018-03-13
 
 
-CrystalsCraft was a user-generated content collection created by EverdreamSoft (the same developers of Spells of Genesis). This project was similar to Rare Pepe and Memory Chain with its open invitation to all artists to submit artwork, but varied in a few ways. While Rare Pepe gave a 'magic template' for artists to use (or not use) with their submission artwork, CrystalsCraft curators invited users to strictly use a given border design and write a few words about the piece. One of the curators (and Community Manager of EverdreamSoft), Yzia, mentioned 'the idea was to have a unity in the collection'. EverdreamSoft even still has the tutorial Youtube video live that went through the entire process of how to create a Book of Orbs/BitCrystals wallet and account to submit artwork. 
+CrystalsCraft was a user-generated content collection created by EverdreamSoft (the same developers of Spells of Genesis). This project was similar to Rare Pepe and Memory Chain with its open invitation to all artists to submit artwork, but varied in a few ways. While Rare Pepe gave a 'magic template' for artists to use (or not use) with their submission artwork, CrystalsCraft curators invited users to strictly use a given border design and write a few words about the piece. One of the curators (and Community Manager of EverdreamSoft), Yzia, mentioned 'the idea was to have unity in the collection'. EverdreamSoft even still has the tutorial Youtube video live that went through the entire process of how to create a Book of Orbs/BitCrystals wallet and account to submit artwork.
 
-This process also included a non-refundable submission fee payable in 20 Bitcrystals total for any entry with 10,000 token issuances. The fee was slightly higher for artists that wished to mint a smaller supply of tokens (minimum of 200 tokens per art piece). The first card in the series, GDCNOVADEMO was a demo card to the show the interested community on how the art would be shown with the CrystalsCraft specific 'trading card' design. 
+This process also included a non-refundable submission fee payable in 20 Bitcrystals total for any entry with 10,000 token issuances. The fee was slightly higher for artists that wished to mint a smaller supply of tokens (minimum of 200 tokens per art piece). The first card in the series, GDCNOVADEMO was a demo card to show the interested community on how the art would be shown with the CrystalsCraft specific 'trading card' design.
 
-A handful of artists participated in this open-invitation project, such as Peter Bock, who seemed to used some sort of AI tool in the MOUNTAINHOME and BUDDHAOFCOIN assets. Because the overall theme was 'Blockchain Allegories', many of these artworks involved deep political, Counterparty and cryptocurrency cultural references such as the Bitcoin block process, EOS, Spells of Genesis/Bitcrystals art, Trump, Kim Jong Un, and even CryptoPunks. 
+A handful of artists participated in this open-invitation project, such as Peter Bock, who seemed to use some sort of AI tool in the MOUNTAINHOME and BUDDHAOFCOIN assets. Because the overall theme was 'Blockchain Allegories', many of these artworks involved deep political, Counterparty and cryptocurrency cultural references such as the Bitcoin block process, EOS, Spells of Genesis/Bitcrystals art, Trump, Kim Jong Un, and even CryptoPunks.
 
-Out of the 36 different artworks in this collection, 16 of them were designed by Joe Chiappetta (an artist who has been in the comic book industry for over 3 decades, best known for the 'Silly Daddy' comic series). Out of all the submissions, Joe was very successful when the CrystalsCraft collection was traded with the Book of Orbs wallet. Out of the limited editions of 200 per card, each of Joe's cards sold at least 15 copies and many sold over 50 copies. In a Patreon post, Joe mentioned, 'the Book of Orbs marketplace is available as a phone and tablet app as well as a desktop version makes it easily accessible to everyone based on personal preference!'. Joe also goes on to thank EverdreamSoft for 'releasing such a fun, user-friendly, and collector-centric marketplace.'
+Out of the 36 different artworks in this collection, 16 of them were designed by Joe Chiappetta (an artist who has been in the comic book industry for over 3 decades, best known for the 'Silly Daddy' comic series). Out of all the submissions, Joe was very successful when the CrystalsCraft collection was traded with the Book of Orbs wallet. Out of the limited editions of 200 per card, each of Joe's cards sold at least 15 copies and many sold over 50 copies. In a Patreon post, Joe mentioned, 'the Book of Orbs marketplace is available as a phone and tablet app as well as a desktop version [making] it easily accessible to everyone based on personal preference!'. Joe also goes on to thank EverdreamSoft for 'releasing such a fun, user-friendly, and collector-centric marketplace.'
 
 
 https://orbexplorer.com/collection/eCry
@@ -740,14 +740,12 @@ https://counterwallet.io/
 
 - Book of Orbs - Oct 12, 2016 to May 31, 2021
 
-This wallet, built by EverdreamSoft in collaboration with IndieSqaure, was one of the most popular mobile Counterparty wallets of its time. Book of Orbs offered client-side encryption and decentralized trading using the Counterparty DEx. 
-Early on, this wallet supported an organized and colleciton specific trading interface of the most popular Counterparty projects such as Spells of Genesis, Age of Chains, Force of Will, DieCast, Sarutobi, Bitgirls, Memory Chain, Rare Pepe and more. This wallet application referred to assets/tokens/cards on Counterparty as 'Orbs' and many users in the community mention the Book of Orbs interface was their favorite user interface designs overall to trade Counterparty assets. 
+This wallet, built by EverdreamSoft in collaboration with IndieSqaure, was one of the most popular mobile Counterparty wallets of its time. Book of Orbs offered client-side encryption and decentralized trading using the Counterparty DEx. Early on, this wallet supported an organized and collection specific trading interface of the most popular Counterparty projects such as Spells of Genesis, Age of Chains, Force of Will, DieCast, Sarutobi, Bitgirls, Memory Chain, Rare Pepe and more. This wallet application referred to assets/tokens/cards on Counterparty as 'Orbs' and many users in the community mention the Book of Orbs interface as their favorite user interface designs overall to trade Counterparty assets.
 
 Sadly this wallet was discontinued and the EverdreamSoft team mentioned in a Medium article that 'its dependencies on third-part services made it very difficult to maintain the application up to date and working correctly.' The team goes on to invite users to use the new EverdreamSoft wallet 'Casa Tookan' or Freewallet to continue using Counterparty functionality into the future.
 
-https://www.bookoforbs.com/index_eng.html
-https://medium.com/book-of-orbs/project-orb-announces-the-official-launch-of-book-of-orbs-52659c88e81b
-https://everdreamsoft.medium.com/book-of-orbs-says-good-bye-452f5c8843ea
+Related Links:
+https://www.bookoforbs.com/index_eng.html https://medium.com/book-of-orbs/project-orb-announces-the-official-launch-of-book-of-orbs-52659c88e81b https://everdreamsoft.medium.com/book-of-orbs-says-good-bye-452f5c8843ea
 
 ---
 
@@ -783,12 +781,13 @@ https://youtu.be/fh54uwX8sKc?si=azZOi0ihboiOom_U
 
 - CasaTookan - September 19, 2018 to Present
 
-Casa Tookan, also developed by EverdreamSoft, is the first multi-chain Counterparty wallet. The wallet offers users a place to hold tokens from both the Bitcoin and Ethereum blockchains. 
+Casa Tookan, also developed by EverdreamSoft, is the first multi-chain Counterparty wallet. The wallet offers users a place to hold tokens from both the Bitcoin and Ethereum blockchains.
 
-Counterparty users from the BitCrystals ecosystem can also especially find themselves in a new world of cross-chain compatibility because of the ease of use with Spells of Genesis, CryptoKitties, SuperRare and other blockchain applications with Casa Tookan's built-in DApp browser. 
+Counterparty users from the BitCrystals ecosystem can also especially find themselves in a new world of cross-chain compatibility because of the ease of use with Spells of Genesis, CryptoKitties, SuperRare and other blockchain applications with Casa Tookan's built-in DApp browser.
 
-Casa Tookan is avaliable in the App Store and Google Play store as a user-friendly mobile wallet for use on Apple and Android phones.
+Casa Tookan is available in the App Store and Google Play store as a user-friendly mobile wallet for use on Apple and Android phones.
 
+Related Links:
 https://crystalsuite.com/casa-tookan-wallet/
 
 ---
