@@ -1742,5 +1742,61 @@ Issuer: Bench, Goat and Dan Anderson
 
 ---
 
+![image](https://github.com/user-attachments/assets/edefa581-f646-4948-8650-63d60d9f06be)
+
+Date: **Jul 19, 2022**
+
+Timeline Asset/Project: **Rare Shadilay**
+
+Significance: Rare Shadilay is a collection created by MikeInSpace that includes user created art submissions based around the legendary album art and song called 'Shadilay' by the Italian disco band 'P.E.P.E.' released in 1986. Much of the accepted submissions either reference the Shadilay art style, Rare Pepe history and light-hearted or fun expression of the Shadilay pepe character. Though, keep in mind it is very clear on their website that this collection is 'Not Rare Pepe. This is Rare Shadilay, baby!'. Much of the submissions involve many current and historical Counterparty artists. At this time, submissions for this project are unlikely to open again in the future and the collection ended with 3 series totalling 150 cards total.
+
+Related Links: https://rareshadilay.com
+
+Issuer: MikeInSpace
+
+---
+
+![image](https://github.com/user-attachments/assets/582a8f80-9546-436a-8d00-58fc78bb8f80)
+
+Date: **Jan 30, 2023**
+
+Timeline Asset/Project: **RareSocks**
+
+Significance: Rare Socks is an open-invitation art directory created by 'The Sock Master' that includes Counterparty assets related to 'socks'. This term, which is a Telegram slang term for people creating new accounts and posing as different users, makes fun of any users or scammers lurking under different names in the Counterparty community. As stated on the website, 'many Rare Socks are a twist on some classic Rare/Dank/Fake Pepe's' but 'with an original sockystyle twist'. To submit to the directory, which is currently on series 5 at this time, a user must have their submission accepted and burn a token called SOCKSCAMCASH. This directory hopes to bring 'awareness that some Telegram users are willing to go to any extreme and create hundreds of sock accounts for bad intentions'. Submissions are still open at this time.
+
+Related Links: https://raresocks.xyz 
+
+Issuer: The Sock Master
+
+---
+
+![image](https://github.com/user-attachments/assets/a416ff85-9ad2-4a55-b915-2cb0877f3f39)
+
+Date: **Jan 10, 2022**
+
+Timeline Asset/Project: **RetroXCP**
+
+Significance: RetroXCP, originally called 'Retroid', is an open-invitation Counterparty collection that was created by Aryan J, Sam Kimbrow, and Whoisit. The collection invites users to mix pre-2000 video game culture with Counterparty asset art. At the moment there are 2 series of 92 separate accepted pieces, the first of which was focused on games and the second based on movies. Much of the art is by well known Counterparty artists and adds a 'retro flavor to Counterparty mascots/memes' while involving some of the most legendary and respected video game culture icons from the 80's and 90's. Compared to other Counterparty collections and directories, RetroXCP does not require the burning of any other assets for a user's submission to be accepted into the directory. Submissions are still open and at this time and users are invited to submit anything pre-Y2K related for the current series.
+
+Related Links: https://retro-xcp.art/
+
+Issuer: Aryan J, Sam Kimbrow and Whoisit
+
+---
+
+add image
+
+Date: ****
+
+Timeline Asset/Project: ****
+
+Significance: 
+
+Related Links: 
+
+Issuer: 
+
+---
+
 
 
