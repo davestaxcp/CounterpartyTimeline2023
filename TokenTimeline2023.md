@@ -1624,5 +1624,53 @@ Issuer: Coinking and Cornholio
 
 ---
 
+![image](https://github.com/user-attachments/assets/57fe6205-d666-4b93-9121-1e375dc64de8)
+
+Date: **Jan 21, 2017**
+
+Timeline Asset/Project: **FootballCoin**
+
+Significance: This innovative project, FootballCoin, originally looked to use Counterparty Tokens to give a user the chance to building a fantasy soccer team. This process included choosing real world professional players from the different leagues listed in the game, choosing formation types, relying on their real world performance to gain points, and picking players specifically backed by digital tokens in the fantasy game. Originally in 2017 the coin XFCCOIN was minted to serve as the intermediary exchange token between the subsequent 469 separate soccer players (represented with individual tokens) that users could choose to add to their team. Many of the tokens varied in issuance between 1500-5000 total token units and the XFCCOIN could be exchanged into XCP and eventually directly into Bitcoin. As described in the FootballCoin whitepaper, 'in 2018 we launched our very own blockchain' and rewarded existing holders with a '3:1 conversion of XFCCOIN from Counterparty to the new blockchain'. Since then, many new players and tokens have been created on the new XFCCOIN platform, but the originial Counterparty tokens still show as the building blocks and genesis of FootballCoin. The FootballCoin fantasy football game is still live at the time of this writing and their website includes in depth tutorials on their website on how to navigate the fanstasy FootballCoin user interface.
+
+Related Links: https://www.footballcoin.io
+https://cdn.footballcoin.io/wp-content/uploads/2018/06/WhitePaper_FootballCoin.pdf
+https://www.footballcoin.io/everything-you-need-to-know-before-entering-the-footballcoin-game/
+
+Issuer: 1APRQVhd1yVrFX78juXpr5Nq924s1v9nV5
+
+---
+
+![image](https://github.com/user-attachments/assets/3e710c36-a918-4535-be07-174254010a8d)
+
+Date: **Apr 2, 2023**
+
+Timeline Asset/Project: **Modern Relics**
+
+Significance: Modern Relics is a collection of historic tokens minted Dogeparty in 2014 and Counterparty in 2015 created by Ernest and Jdog. Since both of those protocols do not allow multiple token names with the same characters, many of the early tokens were simply people reserving common names for resell value in the future. Modern Relics strove to bring new life to those early mints that commonly had little or no extra information attached to them. On their website they state, 'this project aims to breathe new life into this collection of ancient tokens by making them more appealing and tradeable, with desirable characteristics'. The distribution process for this project revolves around the COLLECTOR token (two separate tokens, one on Dogeparty and one on Counterparty). If a collector holds COLLECTOR they automatically recieve one airdrop of a monthly modern relic. These relics are early minted names like 'GREED' or 'CRAB' but Modern Relics provides a way for artists to submit art that will be added to the descriptions of these old tokens. The distribution schedule of the drops, which started in May of 2023 and continues to this day, is shown on the Modern Relics website. If an artist submission wins, they recieve 25 out of the 100 supply of these old token relics, the rest are distributed to COLLECTOR holders. According to the website, even rejected submissions will 'have the artwork minted as a custom sub-asset [of the relic token]. The artist will [also] be given full ownership of their sub-asset with the ability to issue supply, lock, etc.' The artwork submission fee for Modern Relics and their 'sister project' Rude Relics is a token named RELICSUBMIT that has a current supply of about 997 tokens. During the initial months of this project much of the trading and exchanging of relics used the RELICASH coin in a similar manner to the way Rare Pepe used PEPECASH to exchange value. This included trading cards that were outside of this collection for RELICASH, with the hope to acquire rarer relics.
+
+Related Links: https://modernrelics.io
+https://tokenscan.io/asset/COLLECTOR
+https://dogeparty.tokenscan.io/asset/COLLECTOR
+
+Issuer: Ernest and Jdog
+
+---
+
+![image](https://github.com/user-attachments/assets/517d763f-9ba9-4136-ba5a-fe900b56acb8)
+
+Date: **Apr 2, 2023**
+
+Timeline Asset/Project: **Rude Relics**
+
+Significance: Rude Relics ia collection of historic tokens minted Dogeparty in 2014 and Counterparty in 2015 created by Ernest and Jdog. Since both of those protocols do not allow multiple token names with the same characters, many of the early tokens were simply people reserving common names for resell value in the future. Rude Relics, unlike Modern Relics, is focused on mainly raunchy and 'completely inappropriate' tokens from those years. The distribution process for this project revolves around the HARDCORE token (two separate tokens, one on Dogeparty and one on Counterparty). If a collector holds HARDCORE they automatically recieve one airdrop of a monthly rude relic. These relics are early minted names like 'HERPES' or 'HEROIN' but Rude Relics provides a way for artists to submit art that will be added to the descriptions of these old tokens. The distribution schedule of the drops, which started in May of 2023 and continues to this day, is shown on the Rude Relics website. If an artist submission wins, they recieve 25 out of the 100 supply of these old token relics, the rest are distributed to COLLECTOR holders. According to the website, even rejected submissions will 'have the artwork minted as a custom sub-asset [of the relic token]. The artist will [also] be given full ownership of their sub-asset with the ability to issue supply, lock, etc.' The artwork submission fee for Rude Relics and their 'sister project' Modern Relics is a token named RELICSUBMIT that has a current supply of about 997 tokens. During the initial months of this project much of the trading and exchanging of relics used the RELICASH coin in a similar manner to the way Rare Pepe used PEPECASH to exchange value. This included trading cards that were outside of this collection for RELICASH, with the hope to acquire rarer relics.
+
+Related Links: https://ruderelics.io 
+https://tokenscan.io/asset/HARDCORE
+https://dogeparty.tokenscan.io/asset/HARDCORE
+
+Issuer: Ernest and Jdog
+
+---
+
 
 
