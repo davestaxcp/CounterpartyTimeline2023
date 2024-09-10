@@ -1672,5 +1672,75 @@ Issuer: Ernest and Jdog
 
 ---
 
+![image](https://github.com/user-attachments/assets/27a98215-a09e-4430-85bd-6f783d67a947)
+
+Date: **Apr 27, 2022**
+
+Timeline Asset/Project: **Rare Bobo**
+
+Significance: Rare Bobo is a Counterparty collection created by Neo and is dedicated to memes of 'Bobo the Bear'. The use of this meme generally came out of the bear market of cryptocurrency from 2018, but most of these tokens in this specific collection originated in the Dank Rare Directory first before being organized into the Rare Bobo directory. Much of the art in the directory include digital art but also include gifs, stamps and video. The tokens are reminiscent of the art from Rare Pepe and the Dank Rare Directory, but includes the Bobo meme instead of Pepe. 
+
+Related Links: https://rarebobo.com/
+
+Issuer: Neo
+
+---
+
+![image](https://github.com/user-attachments/assets/4fc8daae-cc24-437c-915f-865057b5d360)
+
+Date: **Jul 19, 2023**
+
+Timeline Asset/Project: **Rare Coco**
+
+Significance: Rare Coco is a collection of token artwork that centers around the 'Coco' crocodile meme created by Kero. The collection involved many existing Counterparty and Rare Pepe artists in which they were required to burn a token named COBBEE to submit artwork for review. While the submissions closed at the date of the 2024 Bitcoin halving, five series of cards were accepted totalling 213 cards.
+
+Related Links: https://rarecoco.wtf/
+
+Issuer: Kero
+
+---
+
+![image](https://github.com/user-attachments/assets/4c74d0e7-8619-4a43-a872-47ab9b54f1b7)
+
+Date: **Feb 17, 2024**
+
+Timeline Asset/Project: **Rare GoGo**
+
+Significance: Rare GoGo is a collection of token artwork created by Darky that originally invited the 'Greatest Of All Time' Counterparty artists. The art centered around the subject of a goat, but many pieces readily reference Counterparty culture, cryptocurrency culture and art history. Submissions are now open to the public at this time. The rules have a strict requirement of 21 tokens and also requires artists to destroy a FAKEGREENS token, which is a Fake Commons card by Darky.
+
+Related Links: https://raregogo.wtf 
+
+Issuer: Darky
+
+---
+
+![image](https://github.com/user-attachments/assets/ba63d543-be07-4810-9718-5366a1c8d357)
+
+Date: **May 5, 2022**
+
+Timeline Asset/Project: **Rare Lands**
+
+Significance: Rare Lands is an open-submission project started by DarkFarms. Much of the art involves plots of land and pepe related memetics. While the submissions seemed to remain open, the website is only accessible through the Wayback Machine. At this time, there is a total of 51 cards in series one and many well-known Counterparty artists were involved in making the art that was accepted.
+
+Related Links: https://web.archive.org/web/20240414002639/https://rarelands.wtf/
+
+Issuer: DarkFarms
+
+---
+
+![image](https://github.com/user-attachments/assets/e012598e-9fb5-4aeb-8b5f-d6167a4c939c)
+
+Date: **Jan 29, 2023**
+
+Timeline Asset/Project: **Rare Ordinal Directory**
+
+Significance: The Rare Ordinal Directory is a forward thinking way to solidify token data using the Ordinal protocol. This directory was created by Bench, Goat and Dan Anderson. The collection invites users to mint their art using Ordinal inscriptions then include that data in the description of the Counterparty asset. This extends Counterparty functionality to not only the data of the token to be inscribed in a more robust manner, but also extends the functionality of an Ordinal Inscription by creating a bigger issuance of the token and art itself. On their website the project states the purpose is to 'represent the next logical mechanism for artists to create and share their work. Using a combination of immutable, cryptographically unbreakable protocols, artists now have the ability to preserve their work eternally on the Bitcoin blockchain.' What is interesting about this project is that the Counterparty token created in this project must be a divisible token with a supply of 1, which turns the 1/1 non-divisible. This project, like Rare Pepe and Fake Commons, requires the PEPECASH token to be burned to be accepted into this collection. Submissions are still open and there is a total of 5 series of Rare Ordinals live at this time.
+
+Related Links: http://rareordinal.directory 
+
+Issuer: Bench, Goat and Dan Anderson
+
+---
+
 
 
