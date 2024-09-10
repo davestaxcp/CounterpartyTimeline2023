@@ -723,6 +723,16 @@ https://x.com/phon_ro/status/1647014552817500160
 
 ---
 
+- TEST - $41,173.75 - 2022-01-15
+
+TEST is the first user-created token on the Counterparty protocol and is considered the first asset on Counterparty after the XCP token. This dispenser sale in January of 2022 was for 0.95 BTC with a USD equivalent of $41,173.75. This transaction is in the top tier of the highest sales for the Counterparty protocol, and is the highest sale in history for a TEST. Looking at the on-chain sales data, when this card was used to originally test the Counterparty Decentralized Exchange in 2014, 10 units sold for 0.004 XCP each. When this token was seriously distributed to interested buyers in 2021, the base cost for each unit was 5 XCP. This cost, at the time, was equivalent to $99.20 USD.
+
+https://tokenscan.io/tx/243075d4b62719a0e97ec8cd26bba61cd72cd585c0bd83743ca85f656e94d316
+https://tokenscan.io/tx/1764646
+https://tokenscan.io/tx/1007
+
+---
+
 ## Historic Counterparty Wallets to be Added
 
 ---
