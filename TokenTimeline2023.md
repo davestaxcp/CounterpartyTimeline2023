@@ -1784,17 +1784,103 @@ Issuer: Aryan J, Sam Kimbrow and Whoisit
 
 ---
 
+![image](https://github.com/user-attachments/assets/db232316-74b4-478b-87f6-e9164c79bcab)
+
+Date: **Jan 5, 2022**
+
+Timeline Asset/Project: **Scannable NFTs**
+
+Significance: This Counterparty project is an open-invitation token collection created by mightbemike that involves art that can be scannable as a QR code. The requirements of the submissions is that all pieces in the collection 'must be scannable using a phone camera'. While there is 'no limit to the number of QR codes you can use' in the artwork, there is strict guidelines for image dimensions and size. There are also strict guidelines for what the QR code can link the user to, such as not using link shortener services nor forwarding to NSFW content. There are also different collection genres a user can form their art towards such as famous artists, charity, music, geography and others. Some of the collections have been locked and cannot be submitted to and others are still open for submissions at this time. Each closed and 'locked' collection involves anywhere from 8-18 pieces and composing of many existing Counterparty artists and wildly creative ways to creatively show a QR code. Many of the pieces go to great artistic length to reference worldwide art history, memetic culture, Counterparty culture, and highly intricate uses of moving images (gifs) while still being scannable by a standard phone camera.
+
+Related Links: https://scannablenfts.com/ 
+
+Issuer: mightbemike
+
+---
+
+![image](https://github.com/user-attachments/assets/89c0f7e1-2a43-4958-a606-08f9a6328f32)
+
+Date: **Mar 8, 2022**
+
+Timeline Asset/Project: **Spamgelo**
+
+Significance: This project, started by Spamgelo, is an open-invitation art collection that has a great emphasis of phalic symbols. Many of the artworks include references to art history, political history, memetics and Counterparty culture using highly NSFW and raunchy imagery. The collection boasts a total of 70 separate art pieces (or as the website expresses: 69.69 pieces) designed from many different Counterparty artists. The amount of issuance for each card varies anywhere from 69-420 total tokens per card, though DICKPEPE, is as scarce as 33 total tokens and the last card in the series at this time, MCPICKLE, is 1337 total token issuance. The 'Genesis Series' is still open for submissions at this time, though you will have to make sure your art is approved by 'Spamgelo and The Disciples' before your submission can be approved and minted.
+
+Related Links: https://spamgelo.io 
+
+Issuer: Spamgelo
+
+---
+
+![image](https://github.com/user-attachments/assets/f47deac3-a899-4f1b-9d7f-f82591be54c7)
+
+Date: **Jan 23, 2022**
+
+Timeline Asset/Project: **The Pepe Project**
+
+Significance: The Pepe Project is a series open-invitation collection started by GMONEY. This collection includes highly political artwork attached to Counterparty tokens. As stated on the website these tokens help 'explore the mysterious rabbit hole' with artwork 'based on research that connect TRUMP - BITCOIN - PEPE - Q'. The first card in Series 1 is called FIRSTMARKER and links a Q post mentioning 'TEST' to the first user created asset on Counterparty named 'TEST'. Much of the art references 'Q posts', well known Trump tweets like 'covfefe', popular political culture, past Counterparty culture and also religious themes including an emphasis on gematria. At this time there are 8 different series of submissions with varying themes for each series. After starting this collection GMONEY invited a significant amount of listeners of the Rugpull Radio show he hosts, the existing Counterparty community as well as followers of the 'bullion, bitcoin & bitties w/GMONEY' groups to create art for the collection. At this time 'Series X' is still open for users to submit artwork to. The submission process is done by sending GMONEY an email shown on the website or contacting GMONEY via Telegram (@pappyG45) with the art and token information.
+
+Related Links: http://pepeproject.com/ 
+
+Issuer: GMONEY
+
+---
+
 add image
 
-Date: ****
+Date: **Jun 10, 2018**
 
-Timeline Asset/Project: ****
+Timeline Asset/Project: **The Wojak Way**
 
-Significance: 
+Significance: The Wojak Way is an open-invitation art collection created by Abstrast Mirror that centers around the well known 'Wojak' meme character. The project states on their website they hope to see 'creative interpretations of Wojak in the form of memes, fine art, political satire, video GIFs and more'. This project aims to be 'an organic NFT collection' and that 'curation is essential'. At this time there are 6 total series with a total of 260 separate art pieces from very well-known artists, many of which from the Counterparty community. Some of the art simply includes the Wojak character similar to how it is expressed in common internet memes, but other pieces are incredible artistic endeavors with intricate content and form. Many of the pieces and artists also came together for an in-person gallery event in London during 2023. At this time submissions for this project are still open, but not many spots in the collection remain.
 
-Related Links: 
+Related Links: https://thewojakway.com/ 
 
-Issuer: 
+Issuer: Abstract Mirror
+
+---
+
+![image](https://github.com/user-attachments/assets/8363fada-745d-4a2a-80a1-5ee5f7d49d62)
+
+Date: **Nar 3, 2024**
+
+Timeline Asset/Project: **OLGA Stamps**
+
+Significance: OLGA Stamps is short term contest started by JP Janssen using his new STAMP encoding system ('Octet Linked Graphics & Artifacts') that was detailed in Counterparty Improvement Proposal 33. This proposal, titled 'File Storage in P2WSH Outputs', was not named 'OLGA Stamps' until about 2 months after the CIP and minter tool was published by JPJA. Since this process involved a cheaper and more efficient way to create Counterparty Stamps, the Stamps community including MikeInSpace, gave it that name later commemorating JPJA's past minting of the OLGA NFT token in 2014. After this uptick in interest and popularity for CIP 33, JPJA announced this OLGA Stamps competition to invite artists to try this new process out. The rules involved minting in this new manner between Bitcoin block 833,000 and 834,000, minting a token supply between 1-1000, and including a design directly inspired by the original OLGA artwork. What is very interesting about this process is that JPJA included a custom tool to mint these tokens manually using the Electrum wallet (an older and very technical Bitcoin wallet). JPJA also offered a reward (PEPOLGA) for first place and the Dogeparty mint of OLGA for 'all high-effort contributions'. His original twitter thread is a great place to view all the submissions for this contest.
+
+Related Links: https://github.com/CounterpartyXCP/Forum/blob/1e362f7f8668654d0241fe5b1f1c1c330a8b4368/cip-0033.md 
+https://x.com/jp_janssen/status/1764243065911324852
+
+Issuer: JP Janssen
+
+---
+
+![image](https://github.com/user-attachments/assets/a3972b7c-1bcb-4953-bbd7-5f17ddda4f80)
+
+Date: **Mar 18, 2022**
+
+Timeline Asset/Project: **Counterfeit Super Fakes**
+
+Significance: Counterfeit Super Fakes is an open-invitation project created by Norman Comics. During a time when the Fake Rare project and the Dank Rare Directory were inviting artists to continue the individualistic submission process of Rare Pepe, Counterfeit Super Fakes invited an even more niche platform for artists to participate. Artists looking to submit required ownership and a burn of the DISINFOCZARD, needed their submission to contain a Pepe or be Pepe related, and needed a green light by the 'COUNTERFEIT SUPER FAKE FAKE RARE RARE PEPE ILLUMINATI FAKE FROG KEK-LORDS'. It is unclear if submissions are open at this time as the related website is only findable on the Wayback Machine.
+
+Related Links: https://web.archive.org/web/20240617132844/https://www.counterfeitsuperfakes.wtf/
+https://medium.com/@NRMN_/counterfeit-super-fake-fake-rares-are-coming-soon-to-the-bitcoin-blockchain-near-you-9871cfa7c159
+
+Issuer: Norman Comics
+
+---
+
+![image](https://github.com/user-attachments/assets/6e4f3d19-f3d1-442a-a095-c780a53630d3)
+
+Date: **Sep 27, 2023**
+
+Timeline Asset/Project: **Fest Rares**
+
+Significance: Fest Rares is a definitive first of its kind in the Counterparty Community and was created by Joe Looney. This project involves artists who showed up to Pepe related events such as Pepes in Paris (2023), NFT.NYC 2024 and Beeple's PepeFest in 2024 to create hand-drawn submissions. During these minting times at the events listed above, all individuals interested were given a free mint pass (that covered the BTC and XCP costs for minting an asset) and a print-out template to draw their Fest Rare Pepe submission. This process also invited new users to use Joe's new mobile friendly version of Rare Pepe Wallet (rarepepewallet.wtf) to mint the pieces with a one-click, easy to upload, IPFS system for attaching art to Counterparty tokens. There are no requirements for token divisibility, token issuance and no requirements to burn tokens to be accepted into the collection. You simply had to be there (or following along with the live feeds) for a chance to be included in the Fest Rares collection. The website that shows off all these submissions was a community made venture by archivist.eth (@punk3606 on Twitter) and Subterranean to document all the cards submitted and organize them by series.
+
+Related Links: https://festrares.siteoly.com/ 
+
+Issuer: Joe Looney, archivist.eth, Subterranean
 
 ---
 
