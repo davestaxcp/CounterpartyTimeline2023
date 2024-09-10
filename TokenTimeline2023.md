@@ -2136,7 +2136,7 @@ Issuer: Force of Will
 
 ---
 
-add image
+![image](https://github.com/user-attachments/assets/0957492d-2823-4670-9180-1a9943408b10)
 
 Date: **Apr 14, 2023**
 
@@ -2147,6 +2147,22 @@ Significance: This is one of the most recent 1/1 Counterparty NFT sales. This to
 Related Links: https://tokenscan.io/tx/c9b8c0eebf08a3c7fe4d106194d5cda7e84701f73a24288fb9f434ae1778d748 https://tokenscan.io/tx/6f78fa5d2aa391ea9ad90b986388106c14e9cd993835b5b2a64d27ee08bc55c0 https://x.com/phon_ro/status/1647014552817500160
 
 Issuer: DanDarkPill
+
+---
+
+![image](https://github.com/user-attachments/assets/0cf580af-813e-4303-af73-c07f0a8c7639)
+
+Date: **Jan 15, 2022**
+
+Timeline Asset/Project: **TEST**
+
+Significance: TEST is the first user-created token on the Counterparty protocol and is considered the first asset on Counterparty after the XCP token. This dispenser sale in January of 2022 was for 0.95 BTC with a USD equivalent of $41,173.75. This transaction is in the top tier of the highest sales for the Counterparty protocol, and is the highest sale in history for a TEST. Looking at the on-chain sales data, when this card was used to originally test the Counterparty Decentralized Exchange in 2014, 10 units sold for 0.004 XCP each. When this token was seriously distributed to interested buyers in 2021, the base cost for each unit was 5 XCP. This cost, at the time, was equivalent to $99.20 USD.
+
+Related Links: https://tokenscan.io/tx/243075d4b62719a0e97ec8cd26bba61cd72cd585c0bd83743ca85f656e94d316
+https://tokenscan.io/tx/1764646
+https://tokenscan.io/tx/1007
+
+Issuer: 1MPtWb2WkrEaL1vznGNBtLkTvYgq3hL3g4
 
 ---
 
