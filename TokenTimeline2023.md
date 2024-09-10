@@ -2080,20 +2080,74 @@ Issuer: 1M2s9RVhuHhc5G1TUnSoSPuVpygGcyfAnA
 
 ---
 
-add image
+![image](https://github.com/user-attachments/assets/9613f3d2-cbdb-46eb-881b-0dddd5f5c7ef)
 
-Date: ****
+Date: **Nov 20, 2021**
 
-Timeline Asset/Project: ****
+Timeline Asset/Project: **PEPEMILLION**
 
-Significance: 
+Significance: This unique low issuance card (1/5) by Scrilla is a part of the first few series of Rare Pepe pieces, when the submission process was not constrained to a 1/100 minimum mint. This is one of the highest sales, especially when looking at data of Counterparty dispensers of any Rare Pepe. This card also has some deeper backstory to hip-hop history as well as a connection to the cultural significant of owning one million PEPECASH (the main currency used in Rare Pepe). Scrilla explains this influence and story of this card in an interview with ZeroG published September 2, 2022. While another PEPEMILLION was sold for 16 BTC about 6 months later, this sale for 15 BTC was a higher USD equivalent totalling $876,889. Looking at the on-chain sales data, when this card was originally distributed in 2016, the first token was sold for a USD equivalent of $42.
 
-Related Links: 
+Related Links: https://tokenscan.io/tx/7eee880a78d157d4e3fdf6135f5b20e30aa8d6ac9b69e96446d994cd50f123fc https://www.youtube.com/shorts/rBIe5bPcTuQ?feature=share https://tokenscan.io/tx/ff20b0001b9921b667d1379e62c230e1a8dfef97d8791b2ad97b4da35664a818
 
-Issuer: 
+Issuer: Scrilla
 
 ---
 
+![image](https://github.com/user-attachments/assets/ddee783d-f96f-40cf-8e35-5dc69736f757)
 
+Date: **Jan 27, 2022**
+
+Timeline Asset/Project: **NINJASUIT**
+
+Significance: This is the historical highest sale of any Sarutobi related card on Counterparty. This one is most likely sought after due to its background of being the first 'Gaming Skin NFT'. This sale was done through Emblem Vault, which allows for Counterparty assets to be sold on Ethereum marketplaces like OpenSea. While this sale was done with the Emblem 'Legacy' Vaults, which is an older version of the vault minting process, Emblem still offers this service with a more up-to-date and robust way of authenticating and curating vaults. On January 27, 2022 a single token of this card was sold for 28.888 ETH ($71,093.36 at the time of slae). Looking at the on-chain sales data of NINJASUIT, the original sale of this card in its initial distribution was a USD equivalent of $2.43.
+
+Related Links: https://opensea.io/assets/ethereum/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/32305414137789211 https://tokenscan.io/tx/483539
+
+Issuer: Christian Moss
+
+---
+
+![image](https://github.com/user-attachments/assets/e60ddd50-4f79-4a8f-88ee-edd9222de558)
+
+Date: **Jan 30, 2022**
+
+Timeline Asset/Project: **PEPEALASSAD**
+
+Significance: This is another very low issuance Rare Pepe piece (1/3) that had a very significant USD value sale in 2022. This dispenser sale was for 18 BTC with a USD equivalent of $688,179.21. This transaction is in the top tier of the highest sales for the Counterparty protocol, especially when looking at data of dispensers of any Rare Pepe. Looking at the on-chain sales data, when this card was originally distributed in 2016, the first token was sold for a USD equivalent of $122.
+
+Related Links: https://tokenscan.io/tx/871235aaf1f48d67fc48fd824492649042ca5687b011f201ed162e85ca48aa99 https://tokenscan.io/tx/c4e8de1a5eae3e6875d1fb27468a4e2e12118c3fb89530cc8eb47c1d152a1ce5
+
+Issuer: 1C7vXRxsTFjwB1fKkrC6Qi7wYpgw66zLhZ
+
+---
+
+![image](https://github.com/user-attachments/assets/bc3e7401-4730-4692-aca7-4dbb1dfa50f7)
+
+Date: **Jun 13, 2022**
+
+Timeline Asset/Project: **Force of Will - Complete Set**
+
+Significance: This is the highest historical sale for tokens involved in the Force of Will project. This sale specifically was for a complete set of all the Force of Will cards in the collection. This sale was also done through Emblem Vault, which allows for Counterparty assets to be sold on Ethereum marketplaces like OpenSea. While this sale was done with the Emblem 'Legacy' Vaults, which is an older version of the vault minting process, Emblem still offers this service with a more up-to-date and robust way of authenticating and curating vaults. This sale on June 13, 2022 sold an entire Force of Will set for 40 ETH, which was a USD equivalent of $61,240. It is unknown what a full set of Force of Will cards sold for on initial distribution, but a great place to review recent and historical sales is the HNFT website.
+
+Related Links: https://opensea.io/assets/ethereum/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/15804377712242311 https://hnft.wtf/explorer/forceofwill
+
+Issuer: Force of Will
+
+---
+
+add image
+
+Date: **Apr 14, 2023**
+
+Timeline Asset/Project: **WINKELPEPE**
+
+Significance: This is one of the most recent 1/1 Counterparty NFT sales. This token, WINKELPEPE, is a card that references the famous movie 'The Shining' and the well known Winklevoss twins. It is a very early piece in the Rare Pepe collection by DanDarkPill and was originally issued with 2 tokens total (to represent the twins), but later 1 of the tokens was sent to a burn address and is unrecoverable. This dispenser sale was done by the '6529capital collection' for 20.75 BTC with a USD equivalent of $630,904.31 to purchase the remaining last card. Funny enough, this sale was shown off with a video that reads 'How to buy a RARE PEPE from a dispenser?'. This transaction is in the top tier of the highest sales for the Counterparty protocol, especially when looking at data of dispensers of any Rare Pepe. Looking at the on-chain sales data, when this card was originally distributed in 2016, the pair was sold for a USD equivalent of $85.50 for each WINKELPEPE.
+
+Related Links: https://tokenscan.io/tx/c9b8c0eebf08a3c7fe4d106194d5cda7e84701f73a24288fb9f434ae1778d748 https://tokenscan.io/tx/6f78fa5d2aa391ea9ad90b986388106c14e9cd993835b5b2a64d27ee08bc55c0 https://x.com/phon_ro/status/1647014552817500160
+
+Issuer: DanDarkPill
+
+---
 
 
