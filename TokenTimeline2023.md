@@ -1982,6 +1982,104 @@ Issuer: 1LhvzjdcRFkPVapJbyCKCWHLeRqXSy5FWC
 
 ---
 
+![image](https://github.com/user-attachments/assets/05cdc34b-6003-4846-a5e0-4656a1dfdf55)
+
+Date: **Jan 13, 2018**
+
+Timeline Asset/Project: **HOMERPEPE**
+
+Significance: This sale for HOMERPEPE is one of the more well known and well documented sales in Counterparty history. This sale was at the first live in-person digital collectible auction at the Rare Digital Art Festival event in 2018 (also called RAREAF) and the auction was conducted by MemeConscious. Many well known digital collectible pioneers attended, such as Joe Looney (Rare Pepe Wallet), Shaban Shaame (Spells of Genesis), Mack Flavelle (Crypto Kitties), Bea Ramos (Dada), Matt Hall (CryptoPunks), Kieran Farr (Decentraland) and many others. There is still a video record of the last moments of this auction on Isabel Draves's Youtube page. HOMERPEPE was sold for 350,000 PEPECASH to Peter Kell, which at the time was worth $39,200. This was also the highest sale of any cryptocurrency asset/card/token in the entire crypto space (and HOMERPEPE wasn't even called an 'NFT' at the time). What is super interesting about this sale is the Peter Kell and another bidder both walked on stage thinking their highest bid was the winning bid due to confusion and how loud the auction room was. Peter Kell mentions in an interview by 'The Bitcoin Express' that the other bidder and Peter literally flipped a coin for which bidder would win the HOMERPEPE at the RAREAF auction. This coinflip and more details from the event are best described by Daniel Penny of the Paris Review in his article 'How Much for That Pepe? Scenes from the First Rare Digital Art Auction.' After this sale, Peter Kell was also interviewed in the well known Pepe documentary titled 'Feels Good Man' by Arthur Jones. Another interesting cultural point about this sale is that Yahoo News published an article by Rachel Kraus titled: 'Frightening Pepe/Homer Simpson trading card sells for a ridiculous amount'. Many in the community thought this was heavily smearing the memetics, highest historical sale and underlying freedom of art in the Rare Pepe directory. This is most likely due to the heavy judgemental hand of news organizations around anything 'Pepe' related after the 2016 presidential election. Despite this press coverage, this sale would add an incredible amount of fuel and credibility to the sale of Counterpary assets and crypto related digital collectibles in general.
+
+Related Links: https://www.youtube.com/watch?v=L-ScVty8E_0 https://ca.sports.yahoo.com/news/frightening-pepe-homer-simpson-trading-002107577.html https://www.theparisreview.org/blog/2018/01/23/much-pepe-scenes-first-rare-digital-art-auction/ https://raredigitalartfestival.splashthat.com/ https://youtu.be/vxEhzJAHvTY
+
+Issuer: 1JAuET9GmkADQarX5ZsgHXuHjJzwesfAKg
+
+---
+
+![image](https://github.com/user-attachments/assets/bf31e382-5d99-4b13-9c23-7ba13c9084be)
+
+Date: **Feb 28, 2021**
+
+Timeline Asset/Project: **HOMERPEPE**
+
+Significance: At the time, this sale was considered the highest USD sale of any cryptocurrency collectible (or NFT) ever to happen in Counterparty history. This sale is directly connected to the HOMERPEPE sale at the Rare Digital Art Destival in January of 2018 where Peter Kell won an auction for HOMERPEPE. This sale is also connected to a Matt Kane SuperRare art piece titled 'CRYPTOART MONETIZATION GENERATION' commemorating the epic HOMERPEPE buy by Kell in 2018. In an interview with ZeroG, Scrilla describes that he happened to be in the comment section of the the piece by Matt on SuperRare and mentioned Peter was open to selling this NFT. Story goes that TokenAngels contacted Scrilla to reach out to Peter Kell and the sale was eventually made over the counter using Joe Looney as a trusted escrow to finalize the swap. Peter expressed how he felt about the decision in an Instagram post shortly after the 205 ETH sale ($320,000 at the time) saying, 'They laughed when I bought HOMERPEPE for $39k... but when I sold it for 205 ETH....' and goes on to say 'this is an absolutely insane event in the NFT world ... More proof that NFTs are the real deal and will be a big part of how art is sold in the future.' This sale is one of the most known RarePepe sales due to its coverage on Coin Telegraph, NewsBTC and many other cryptocurrency news organizations that dove into the story. Peter was also interviewed by a couple well known Youtuber accounts such as The Bitcoin Express and Know Your Meme. These interviews give viewers some backstory on this epic sale decision and further details about the Rare Digital Art Festival and how he originally won the auction for the HOMERPEPE.
+
+Related Links: https://www.newsbtc.com/analysis/eth/rare-homer-simpson-pepe-nft-sells-for-312k/ https://cointelegraph.com/news/rarest-pepe-most-important-nft-in-art-history-sells-for-205-eth https://www.instagram.com/p/CL3EjOjFKlb/ https://youtu.be/rzgEzWM5fDM https://www.youtube.com/watch?v=vxEhzJAHvTY https://superrare.com/artwork/eth/0xb932a70a57673d89f4acffbe830e8ed7f75fb9e0/20053 https://www.youtube.com/shorts/9ImJ4N3X7s0?feature=share
+
+Issuer: 1JAuET9GmkADQarX5ZsgHXuHjJzwesfAKg
+
+---
+
+![image](https://github.com/user-attachments/assets/34287724-f2ec-4838-9a7d-24bfabd9387c)
+
+Date: **Sep 13, 2021**
+
+Timeline Asset/Project: **DARKPILLPEPE**
+
+Significance: While many other 1/1 Rare Pepe pieces and genesis cards from other collections gained high popularity and large single sales, DARKPILLPEPE stands out as it was apart of the genesis series of Rare Pepe. The art was created by a well known individual named 'Dan Dark Pill' and also has a quite higher issuance than other large NFT sales (1/21 piece). This DARKPILLPEPE sold for 14 BTC in a Counterparty dispenser totalling $646,733.05 at this time. Looking back at the on-chain record of early sales, this piece was first distributed in September of 2016, and was originally sold for a USD equivalent of $10.
+
+Related Links: https://tokenscan.io/tx/90430469725d89c1f02886199d377404ae151b84a3412be237bbaec8e91703f5 https://tokenscan.io/tx/d1da3117b1b3ad13ff3e7e355b3ab7fe097bdb6785c5b810c5b20e81fdcf74bc
+
+Issuer: DanDarkPill
+
+---
+
+![image](https://github.com/user-attachments/assets/270d8ba8-93e5-4fdb-85e7-f308ab6b7c47)
+
+Date: **Sep 17, 2021**
+
+Timeline Asset/Project: **FDCARD**
+
+Significance: This is the highest historical sale for the genesis Spells of Genesis piece: FDCARD. This sale was done through Emblem Vault, which allows for Counterparty assets to be sold on Ethereum marketplaces like OpenSea. While this sale was done with the Emblem 'Legacy' Vaults, which is an older version of the vault minting process, Emblem still offers this service with a more up-to-date and robust way of authenticating and curating vaults. This FDCARD sold for a total of 120 ETH (totalling $433,680) in September of 2021. The on-chain record of the original sale of this card in 2015 was sold for a USD equivalent of $1.14.
+
+Related Links: https://opensea.io/assets/ethereum/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/8849441 https://tokenscan.io/tx/209651 https://circuitsofvalue.com/
+
+Issuer: 1PWqaoM6xhfmbHWFMqcLGMeAXcx8DvT3iK
+
+---
+
+![image](https://github.com/user-attachments/assets/b757c2d2-451f-42ec-8a34-d68adeb7c6ba)
+
+Date: **Sept 18, 2021**
+
+Timeline Asset/Project: **RAREPEPE**
+
+Significance: This is the highest historical sale for the genesis Rare Pepe card named 'RAREPEPE'. This sale was done through Emblem Vault, which allows for Counterparty assets to be sold on Ethereum marketplaces like OpenSea. While this sale was done with the Emblem 'Legacy' Vaults, which is an older version of the vault minting process, Emblem still offers this service with a more up-to-date and robust way of authenticating and curating vaults. This RAREPEPE token sold for 200 ETH ($713,800 USD equivalent). The on-chain record of the original sale of this card in its initial distribution was a USD equivalent of $7.
+
+Related Links: https://opensea.io/assets/ethereum/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/2281901 https://tokenscan.io/tx/5195324d6dda3a9f91e8bfb4cda864f46c725f7a4cf6f517edfafd94b74d6fbc
+
+Issuer: Mike
+
+---
+
+![image](https://github.com/user-attachments/assets/c5abe613-24d2-4295-baba-01e484c145af)
+
+Date: **Sep 18, 2021**
+
+Timeline Asset/Project: **SATOSHICARD**
+
+Significance: This is the highest historical sale of the unique Spells of Genesis piece named SATOSHICARD. This sale was done through Emblem Vault, which allows for Counterparty assets to be sold on Ethereum marketplaces like OpenSea. While this sale was done with the Emblem 'Legacy' Vaults, which is an older version of the vault minting process, Emblem still offers this service with a more up-to-date and robust way of authenticating and curating vaults. This SATOSHICARD sale was for 140 ETH ($499,791 USD equivalent). The original sale of this card in its initial distribution was a USD equivalent of $180.
+
+Related Links: https://opensea.io/assets/ethereum/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/3738801 https://tokenscan.io/tx/320478
+
+Issuer: 1EewCNrN1oypSYZE81HBiqrjuhkLcz1qXR
+
+---
+
+![image](https://github.com/user-attachments/assets/fcd7bdd4-dd53-48c8-a944-9d284791f3c3)
+
+Date: **Oct 21, 2021**
+
+Timeline Asset/Project: **PEPENOPOULOS**
+
+Significance: During the last day of the 'Natively Digital 1.2: The Collectors' auction from Sotheby's, three assets (specifically Rare Pepe assets) were sold in this somewhat new 'Metaverse' style auction from this popular and respected auction house. During this auction the PEPENOPOULOS card set the record for the highest sale of any Counterparty asset in history. As explained on the official Sotheby's twitter, 'Natively Digital 1.2 is focused on the luminaries and champions of the NFT ecosystem - the collectors themselves - that have shaped the industry through their curation of early stage emerging artists, and culturally significant projects'. This auction showcased 53 digital tokens from 19 different collectors, but out of those, the collector TokenAngels, put up three cards from his Rare Pepe collection. The three included were PEPENOPOULOS, RAREPEPE and PEPEAIR. The RAREPEPE was auctioned for $240,000, PEPEAIR was sold for $52,000 and the PEPENOPOULOS 1/1 NFT was sold for $3,650,000. On October 26, the Sotheby's twitter showed off this record sale and mentioned the 'extremely Rare Pepe', named after Andreas M. Antonopoulos, 'possesses the unique trait of mass education and the results to show for it'. This sale would ignite a renewed interest not only in NFT's but in the historical collections that lived on Counterparty. Many news organizations followed this auction closely, such as Yahoo Finance in an article by Sean Dickens published before the sale when the auction was 'teased' by Sotheby's. This is highly interesting because only a few years prior, Rachel Kraus of Yahoo called these Rare Pepe assets 'frightening' and the prices sold 'ridiculous'. Other outlets would cover this story after the auction ended such as Forkast News, Coin Rivet and many others. While the original auction page on the Sotheby's website seems to be unaccessible even with the Wayback Machine, many screenshots such as one by sant_xyz on twitter, show the details and UI module created by Sotheby's to bid on these historical assets online. To review the entire lot history of these Natively Digital Auctions, Statista has kept the public records of all assets sold in this auction (though the data is behind a paywall to access more lot sales information of this Sotheby's auction event).
+
+Related Links: https://x.com/Sothebys/status/1446208965982007302 https://x.com/sant_xyz/status/1448721145075683331 https://web.archive.org/web/20221220111058/https://finance.yahoo.com/news/rarepepe-nft-sells-500k-sotheby-172704750.html https://x.com/Sothebysverse/status/1453057621402034180 https://forkast.news/sothebys-first-metaverse-auction-nft-record/ https://www.statista.com/statistics/1235929/sotheby-s-metaverse-most-expensive-nfts-sold-worldwide/ https://coinrivet.com/debut-sothebys-metaverse-auction-sees-record-breaking-nft-sales/
+
+Issuer: 1M2s9RVhuHhc5G1TUnSoSPuVpygGcyfAnA
+
+---
+
 add image
 
 Date: ****
