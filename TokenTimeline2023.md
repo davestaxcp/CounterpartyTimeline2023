@@ -1884,5 +1884,83 @@ Issuer: Joe Looney, archivist.eth and Subterranean
 
 ---
 
+![image](https://github.com/user-attachments/assets/c125e914-ebaf-475c-9c95-579eb4bda708)
+
+Date: **Oct 19, 2016**
+
+Timeline Asset/Project: **Early AI Art**
+
+Significance: While the line between programmed, generative or 'Artificial Intelligence' art is somewhat blurred and hard to distiguish in artistic pieces, it is known that very early AI pieces were published using Counterparty tokens. Since Rare Pepe was a project that invited any artist from around the world to participate, many new styles of artworks appeared in 2016-2017 and this is where much of the early AI art emerges. The oldest AI artwork on Counterparty (that we know of) is a Rare Pepe token by Mr. BitcoinBeast called PEPEME which used a website AI tool called 'deepart io'. Despite PEPEME having the oldest minting date, other pieces like PEPEALIEN by CryptoChainer, SCORPEPE, KEKSBASILISK by Katie Charm, NEUROPEPE by Alex Green, KEKTOPUS by Meme Conscious, CUBISTPEPE by Looks Rare, NAHUAL by Duncan and quite a few others have been found to use AI or AI programs. These include Deep Dream, Prism, Piscart AI or a mix between a few separate programs. This topic seems very contemporary and many questions and debates have arisen over which programs were used to create the art, what type of programming style or AI type was used in that tool, whether or not the art was copied from an earlier artist and what even constitutes as an AI tool at all. It comes as no suprise individuals now and into the future will wonder about the crossover into AI art becoming commonplace and it is evident Counterparty tokens were apart of that crossover period, but it is still unclear regarding 'which was first'.
+
+Related Links: https://youtu.be/ZjKvVYezaJ8?si=c0bzpvyWOMhl1mbh https://tokenscan.io/asset/PEPEME https://tokenscan.io/asset/PEPEALIEN https://tokenscan.io/asset/SCORPEPE https://tokenscan.io/asset/KEKSBASILISK https://tokenscan.io/asset/NEUROPEPE https://tokenscan.io/asset/KEKTOPUS https://tokenscan.io/asset/CUBISTPEPE https://tokenscan.io/asset/NAHUAL
+
+Issuer: Multiple Artists
+
+---
+
+![image](https://github.com/user-attachments/assets/4e1cd424-bc66-4f80-9832-0ae4b0ef0d79)
+
+Date: **Oct 9, 2014**
+
+Timeline Asset/Project: **Monegraph Mints from Namecoin**
+
+Significance: Within a prior protocol called Namecoin, Monegraphs (Monetized Graphics) were among the first blockchain collectibles with artwork and the intention of digital ownership. These assets became very popular when Sotheby's auctioned off the first piece in Monegraphs by Kevin McCoy, 'Quantum', for $1.4 million dollars. While eighteen of these tokens were created using Namecoin, two of them by Joe Hamilton were minted using Counterparty. The first of which is a named asset called MGAAAAAAAAAAA that included a Vimeo file link, a sha256 hash, a Twitter link, ownership of the artwork and a JSON as the description. The video file included with this asset is an avante-garde video piece titled 'Regular Division'. While MGAAAAAAAAAAA is a non-divisible asset with a current supply of 1, the token issuance is not locked at this time. The second asset, A1028163271339900500, is a numeric divisible asset minted in March of 2015 that also has remained unlocked for issuance at the time of this writing. This token included much less information as MGAAAAAAAAAAA and simply includes a JSON in the description.
+
+Related Links: https://joehamilton.info/regular-division.php https://amycastor.com/2022/05/28/early-history-of-nfts-monegraph-spells-of-genesis-rare-pepes/ https://www.axios.com/2021/03/25/nft-sale-art-blockchain-millions https://nmc.vision/?trait=monegraph https://nmc.vision/hex/64343162383534306362616364663134363763646335643137333136646362363732633862343332333566613136636465393865373938323562363837303961 https://tokenscan.io/asset/MGAAAAAAAAAAA https://tokenscan.io/asset/A1028163271339900500 https://vimeo.com/108104171
+
+Issuer: Joe Hamilton
+
+---
+
+Date: **Nov 21. 2018**
+
+Timeline Asset/Project: **Longest Asset Name**
+
+Significance: The addition of 'subassets' to named Counterparty assets opened up the possibility of many new features regarding the extension of functionality of named assets. Some of which would be used not only in historical assets like DJPEPE but also in new projects like NPCS. This specific asset is a subasset to the named token KALEIDOSCOPE, which is the genesis project token for the Kaleidoscope project. The minter of this NFT, Nathan, did not include any extra information in the description. He decided to make the token non-divisible and went on to lock the token supply at one token. It was the first subasset to use the max amount of characters avaliable to that Counterparty token type. The asset is simply named: 'KALEIDOSCOPE.The_worlds_first_ever_longest_digital_asset_name_and_an_experiment_of_an_experiment_on_the_blockchain_verified_forever_by_the_counterparty_protocol_and_bitcoin_OPreturn'.
+
+Related Links: https://tokenscan.io/asset/A13888757749239221748
+
+Issuer: Nathan Sonic
+
+---
+
+Date: **Jun 11, 2021**
+
+Timeline Asset/Project: **THING**
+
+Significance: As with BITCORN.GLASSES, in general the Counterparty community generally destroyed token supply by sending tokens to a burn address. After the Destroy Function was enabled in 2018, it would not be until THING was destroyed by Joe Looney down to a single non-divisible token unit that a named asset was destroyed into an 'NFT'. It was not uncommon for artists in previous projects like Rare Pepe to reduce circulating supply by sending to burn counterparty addresses, but THING was the first named asset to specifically use the destroy function to create an NFT after destroy was enabled on the protocol. Joe included a memo in the burn transaction on June 11 of 2021 which stated 'there can only be one'.
+
+Related Links: https://tokenscan.io/tx/bf9be3cf843738726148c98fd2ace42111981989dae88f9ba259bd510c3c8622 https://tokenscan.io/asset/THING
+
+Issuer: Joe Looney
+
+---
+
+![image](https://github.com/user-attachments/assets/1cc6d07a-10fd-4ebf-857b-b1225d05647c)
+
+Date: **Mar 13, 2018**
+
+Timeline Asset/Project: **CrystalsCraft**
+
+Significance: CrystalsCraft was a user-generated content collection created by EverdreamSoft (the same developers of Spells of Genesis). This project was similar to Rare Pepe and Memory Chain with its open invitation to all artists to submit artwork, but varied in a few ways. While Rare Pepe gave a 'magic template' for artists to use (or not use) with their submission artwork, CrystalsCraft curators invited users to strictly use a given border design and write a few words about the piece. One of the curators (and Community Manager of EverdreamSoft), Yzia, mentioned 'the idea was to have unity in the collection'. EverdreamSoft even still has the tutorial Youtube video live that went through the entire process of how to create a Book of Orbs/BitCrystals wallet and account to submit artwork.
+
+This process also included a non-refundable submission fee payable in 20 Bitcrystals total for any entry with 10,000 token issuances. The fee was slightly higher for artists that wished to mint a smaller supply of tokens (minimum of 200 tokens per art piece). The first card in the series, GDCNOVADEMO was a demo card to show the interested community on how the art would be shown with the CrystalsCraft specific 'trading card' design.
+
+A handful of artists participated in this open-invitation project, such as Peter Bock, who seemed to use some sort of AI tool in the MOUNTAINHOME and BUDDHAOFCOIN assets. Because the overall theme was 'Blockchain Allegories', many of these artworks involved deep political, Counterparty and cryptocurrency cultural references such as the Bitcoin block process, EOS, Spells of Genesis/Bitcrystals art, Trump, Kim Jong Un, and even CryptoPunks.
+
+Out of the 36 different artworks in this collection, 16 of them were designed by Joe Chiappetta (an artist who has been in the comic book industry for over 3 decades, best known for the 'Silly Daddy' comic series). Out of all the submissions, Joe was very successful when the CrystalsCraft collection was traded with the Book of Orbs wallet. Out of the limited editions of 200 per card, each of Joe's cards sold at least 15 copies and many sold over 50 copies. In a Patreon post, Joe mentioned, 'the Book of Orbs marketplace is available as a phone and tablet app as well as a desktop version [making] it easily accessible to everyone based on personal preference!'. Joe also goes on to thank EverdreamSoft for 'releasing such a fun, user-friendly, and collector-centric marketplace.'
+
+Related Links: https://orbexplorer.com/collection/eCry
+https://www.patreon.com/posts/crystalscraft-in-23437649
+https://www.youtube.com/watch?v=NEkOLN8akzU
+https://tokenscan.io/asset/GDCNOVADEMO
+https://x.com/joeychips
+https://x.com/Peter_Bock
+https://tokenscan.io/asset/MOUNTAINHOME
+https://tokenscan.io/asset/BUDDHAOFCOIN
+
+Issuer: EverdreamSoft
+
+---
 
 
