@@ -1518,5 +1518,63 @@ Issuer: Tommy Marcheschi
 
 ---
 
+![image](https://github.com/user-attachments/assets/c219bb7d-0dd4-414c-8419-1fbdefa18f04)
+
+Date: **Aug 14, 2023**
+
+Timeline Asset/Project: **Common Coco**
+
+Significance: Common Coco is a project directory started by Subterranean which includes Rejected Rare Coco submissions, Kaleidoscope Cocos and Cocos from other blockchains other than Counterparty. While the original Rare Coco directory (created by Kero) invites artists to create art in the form of Coco the crocodile (which is related and somewhat derived from Pepe the frog), this 'reject' directory is similar to the Series 0 of Fake Rares and Phunchkins in that this directory includes rejected cards from another project. To submit to this directory, an artist must submit their art, have it approved and then burn the COMNCOCOCASH token used for submissions.
+
+Related Links: https://commoncoco.wtf/
+
+Issuer: Subterranean
+
+---
+
+![image](https://github.com/user-attachments/assets/aa9c1dcd-6162-4da3-bc6e-27343584676a)
+
+Date: **Apr 30, 2021**
+
+Timeline Asset/Project: **Crystal Collection**
+
+Significance: Crystal Collection is a series of seven different artworks by Albino-Z, Alejandro Hurtado and Herckeim minted on Counterparty, Ethereum and Klaytn. The early artwork is focused on historical projects in blockchain history like GEMZ, Sarutobi, Doge, the genesis bitcoin block and later blockchain history like Mt. Gox and the infamous DAO hack. Most of these artworks have extremely rare token issuances, with The Doge at the highest of 15 separate 'prints'. The only one on Counterparty is the artwork commemorating Sarutobi and has 2 prints total, one of which was gifted to the developer, Christian Moss (MandelDuck).
+
+Related Links: https://crystalsuite.com/crystal_collection
+
+Issuer: EverdreamSoft
+
+---
+
+![image](https://github.com/user-attachments/assets/423a64cc-d0eb-4eb8-8109-7550f1881445)
+
+Date: **Nov 29, 2021**
+
+Timeline Asset/Project: **Drooling Ape Bus Club**
+
+Significance: The Drooling Ape Bus Club is a series of open-submission art pieces that make fun of the well known Ethereum project 'Bored Ape Yacht Club'. The project was started by Brad Mills somewhat by a single idea in a tweet posted November 20, 2021. Brad was upset and annoyed from all of the celebrity interest and fake popularity spike of the Bored Apes, calling them 'sham jpgs' and invited any artist to create memes to make fun of them. He offered to pay 10 million satoshis per art piece sent to him that made fun of Bored Apes. Brad explains he was angry that people like Jason A. Williams, who is a very Bitcoin centered voice in the community, hopped on board to the Bored Apes hype. Eventually Jason also tweeted something similar to Brad and influenced a very large twitter audience that he would give 10 million satoshis per art piece as well. This twitter interest and satoshi incentive not only inspired many indiviudals to create 'Drooling Apes', but would be eventually include influence by Aryan Jabbari to create a Telegram group to record all the art and start a Counterparty community. Aryan Jabbari also began the work to start Counterparty collection/website and MikeInSpace would also be involved as a curator of the project. Later in time, Joe Looney and Aryan would be accepted on as curators for DABC. This happened in a very quick fashion after the twitter hype, to which Brad was frustrated and said "these are not NFT's, they are JPGs". He originally thought it was hypocritical to start an NFT project with art making fun of an NFT project, but the artists and admins eventually kicked Brad out because he was against the idea of minting these pieces or even calling them NFTs. The project is currently up to series 6 and is still accepting submissions at this time, though few spots remain. The submission rules require the art to be square, a non-divisible asset with at least 69 tokens issued and mentions 'the drawing should be original, not just a copy of a Bored Ape'. Most submissions, many by existing Counterparty artists, mock Bored Apes using grotesque, raunchy or ridiculous meme trolling and generally reference Counterparty culture as well. Some submissions use GIF's and are not limited to just square images as is in the Bored Ape collection. Many of the tokens also simply include an 'imgur' image link in the description, something that was common with submissions in the Rare Pepe Collection during 2016.
+
+Related Links: https://droolingapebus.club 
+https://x.com/AryanJabbari/status/1462075772982771712 
+https://x.com/GoingParabolic/status/1462087968542363658 https://www.loom.com/share/1d5091b75e444219b9da57cdce813180
+
+Issuer: Brad Mills, Aryan Jabbari, MikeInSpace
+
+---
+
+![image](https://github.com/user-attachments/assets/0db4be8e-c25f-49ec-9d49-6b60218204ba)
+
+Date: **Jan 26, 2022**
+
+Timeline Asset/Project: **Fake Ape Club**
+
+Significance: The Fake Ape Club is a series of open-submission art pieces that make fun of the well known Ethereum project 'Bored Ape Yacht Club'. This collection was started by Doge-Style and Silk and also includes many well known Counterparty artists. As with the Drooling Ape Bus Club, it was common for pieces to mock Bored Apes using gortesque, raunchy or ridiculous meme trolling and generally reference Counterparty culture as well. The Fake Ape Club also mentions 'We were aping around on Bitcoin long before Ordinal’s, there is actually a rich history of digital art assets (NFT’s) on Bitcoin, in contrast to modern believers that ordinals are the first NFTs on bitcoin.' The Fake Apes collection is up to series 7, still accepts submissions at this time and seems to be accepting submissions for a new sub-collection based on the asset 'FAKEMEMEZ'.
+
+Related Links: https://fakeapeclub.com
+
+Issuer: Doge-Style and Silk
+
+---
+
 
 
