@@ -245,8 +245,6 @@ More Research and feedback is needed before adding these collections below:
 
 | PepeVote | |
 
-
-
 ---
 
 ## Historic Tokens/Projects to be Added
