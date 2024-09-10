@@ -1962,5 +1962,40 @@ https://tokenscan.io/asset/BUDDHAOFCOIN
 Issuer: EverdreamSoft
 
 ---
+---
+
+## Historic Counterparty Sales
+
+---
+
+![image](https://github.com/user-attachments/assets/43e0763f-3c87-4ed2-b96b-d8796ef03ec8)
+
+Date: **Jan 8, 2018**
+
+Timeline Asset/Project: **PEPEPIZZA**
+
+Significance: In this era, the main way to sell or swap Rare Pepe's was to use the Counterparty Decentralized Exchange and sell for PEPECASH or XCP. At this time two individuals in the Rare Pepe community, Theo Goodman and RarePepeNews, would run separate auction groups and settle manually with both parties after the auction was finished. Theo's auction house is now named 'NFT Auction' (https://t.me/nftauctions), but this historical sale of the PEPEPIZZA 1/1 Rare Pepe NFT for $35,000 (320,000 PEPECASH) was sold specifically in the auction house created by RarePepeNews which is now named WTHAuctionHouse on Telegram (https://t.me/wthauctionhouse). At this time, this was the highest USD value sale of any Rare Pepe or any Counterparty asset in general. The sending transaction to the bidding winner (Katie Charm) is mentioned in the memo of the transaction which states: 'Congratulations Dr. Katie'. To this day, RarePepeNews and Theo still run auctions in the Telegram groups mentioned and many collectors will express that these auctions are one of the best places to this day to bid on Rare Pepe and other highly saught after Counterparty tokens for the cheapest prices.
+
+Related Links: https://t.me/wthauctionhouse https://t.me/nftauctions https://tokenscan.io/asset/PEPEPIZZA https://tokenscan.io/tx/1161945 https://x.com/rarepepenews/status/1798549077396963812
+
+Issuer: 1LhvzjdcRFkPVapJbyCKCWHLeRqXSy5FWC
+
+---
+
+add image
+
+Date: ****
+
+Timeline Asset/Project: ****
+
+Significance: 
+
+Related Links: 
+
+Issuer: 
+
+---
+
+
 
 
