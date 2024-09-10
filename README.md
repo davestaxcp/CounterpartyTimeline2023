@@ -165,7 +165,7 @@ Rude Relics ia collection of historic tokens minted Dogeparty in 2014 and Counte
 
 | Rare Bobo | https://rarebobo.com/ | 2022-04-27
 
-Rare Bobo is a Counterparty collection dedicated to memes of 'Bobo the Bear' created by Boost. The use of this meme generally came out of the bear market of cryptocurrency from 2022-2023 and most of these tokens originated in the Dank Rare Directory first before being organized into the Rare Bobo directory. Much of the tokens in the directory include digital art but also include gifs, stamps and video. The tokens are reminiscent of the art from Rare Pepe and the Dank Rare Directory, but includes the Bobo meme instead of Pepe. 
+Rare Bobo is a Counterparty collection created by Neo and is dedicated to memes of 'Bobo the Bear'. The use of this meme generally came out of the bear market of cryptocurrency from 2018, but most of these tokens in this specific collection originated in the Dank Rare Directory first before being organized into the Rare Bobo directory. Much of the art in the directory include digital art but also include gifs, stamps and video. The tokens are reminiscent of the art from Rare Pepe and the Dank Rare Directory, but includes the Bobo meme instead of Pepe. 
 
 | Rare Coco | https://rarecoco.wtf/ | 2023-07-19
 
