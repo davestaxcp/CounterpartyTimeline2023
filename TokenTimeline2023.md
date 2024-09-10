@@ -1826,7 +1826,7 @@ Issuer: GMONEY
 
 ---
 
-add image
+![image](https://github.com/user-attachments/assets/7dc4b05c-322d-4f52-b9ff-3b7f51375c15)
 
 Date: **Jun 10, 2018**
 
@@ -1880,7 +1880,7 @@ Significance: Fest Rares is a definitive first of its kind in the Counterparty C
 
 Related Links: https://festrares.siteoly.com/ 
 
-Issuer: Joe Looney, archivist.eth, Subterranean
+Issuer: Joe Looney, archivist.eth and Subterranean
 
 ---
 
