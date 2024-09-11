@@ -865,6 +865,10 @@ https://wallet.xcp.ninja/
 
 - Ordinal Protocol Begins - January 21, 2023
 
+- Mastercoin (Colored Coins with Omni Protocol) - July 31, 2013
+
+- First DNS names on Emercoin - July 26, 2014
+
 
 ---
 ---
