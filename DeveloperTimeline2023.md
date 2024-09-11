@@ -585,6 +585,18 @@ Author: Devon Weller
 
 ---
 
+Date: **Not Active Yet - Drafted: Jan 26, 2024**
+
+Timeline Topic: **PSBT Support via attaching assets to UTXOs**
+
+Significance: This CIP is intends to add new functionality to the Counterparty send function that allows assets to be bound to and unbound from UTXOs. Derp explains in the CIP style Github Discussion post, 'This functionality will allow for interoperability of counterparty assets in the ordinals ecosystem' which means the main marketplaces and wallets that facilitate trading ordinals will be compatible with Counterparty assets bound to UTXOs. As stated in the discussion: 'These browser based wallets that are commonly used with ordinals rely on PSBTs with single transaction finality.' This upgrade would allow 'Counterparty assets to be compliant with the ordinals trading transactional structure, allowing the large players in the ordinals ecosystem to seamlessly integrate counterparty assets.'
+
+Related Links: https://github.com/CounterpartyXCP/Forum/discussions/134
+
+Author: Derp Herpenstein
+
+---
+
 Date: **Not Active Yet - Drafted: May 11, 2023**
 
 Timeline Topic: **Taproot Address Support**
@@ -612,27 +624,29 @@ Author: Adam Krellenstein, Ouziel Slama and MikeInSpace
 
 ---
 
-Date: **Not Active Yet - Drafted: **
+Date: **Not Active Yet - Drafted: May 31, 2024**
 
-Timeline Topic: ****
+Timeline Topic: **Eliminate Fee on Subasset Registration**
 
-Significance: 
+Significance: This protocol change looks to eliminate the XCP fee associated with creating a subasset. Since many of early arguments for having an XCP on named asset creation was centered on an 'anti-squatting' mechanism, the community argues that this is not needed for subasset registrations since the creator already owns the main named asset used. This update also pairs well with the introduction of subasset creation with numeric tokens as well as the Glyphs proposal by MikeInSpace.
 
-Related Links: 
+Related Links: https://github.com/CounterpartyXCP/counterparty-core/issues/1840
 
-Author: 
+Author: Adam Krellenstein
 
 ---
 
-Date: **Not Active Yet - Drafted: **
+Date: **Not Active Yet - Drafted: May 31, 20**
 
-Timeline Topic: ****
+Timeline Topic: **Subassets on Numerics**
 
-Significance: 
+Significance: This proposal invites the Counterparty protocol to introduce subassets on numeric tokens. While this is already possible with named assets and is somewhat of a simple upgrade, this proposal mainly incorporates a new token 'meta-protocol' that introduces a 'runes-like' functionality with subassets on numerics. This means these numeric subassets 'can be leveraged to create Runes-like, but better, tokenization standard'. This proposal brings together the Fair Mint proposal, Elimination of Fees on Subassets and this Subassets on Numerics porposal to introduce an new contemporary token standard using Counterparty.
 
-Related Links: 
+Related Links: https://github.com/CounterpartyXCP/counterparty-core/issues/1842
+https://github.com/CounterpartyXCP/counterparty-core/pull/2195
+https://github.com/mikeinspace/Glyphs/blob/main/README.md
 
-Author: 
+Author: MikeInSpace
 
 ---
 ---
