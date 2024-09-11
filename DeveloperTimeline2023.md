@@ -584,6 +584,57 @@ Related Links: https://github.com/CounterpartyXCP/cips/blob/master/cip-0013.md
 Author: Devon Weller
 
 ---
+
+Date: **Not Active Yet - Drafted: May 11, 2023**
+
+Timeline Topic: **Taproot Address Support**
+
+Significance: This update aims to add support for Taproot (bech32m, prefix bc1p) and multisig seqwit (bech32, bc1q) to be used in the Counterparty protocol. This would open the door for contemporary bitcoin addresses and commonly used Ordinal addresses to be used with the entirety of the features supported by the Counterparty protocol. This update also poses the question on how many bytes of information are used for each address type and a specific discussion regarding taproot encoding.
+
+Related Links: https://github.com/CounterpartyXCP/counterparty-core/pull/1236
+https://github.com/CounterpartyXCP/counterparty-core/issues/1241
+
+Author: Javier Varona and JP Janssen
+
+---
+
+Date: **Not Active Yet - Drafted: May 31, 2024**
+
+Timeline Topic: **Fair Minting**
+
+Significance: This proposal looks to add a 'fair minting' function in a decentralized manner to the Counterparty protocol. In a gist proposal by Ouziel, he references the Joe Looney 'XCP-20 Fair Mint model' written in 2023 regarding setting up a dispenser on a burn address to distribute tokens without the deployer involved. This proposal suggests it is 'desirable to create a native mechanism' so that 'a burn address isn't used'. This update would open the doors to minting, pre-minting and free-minting in a similar manner to how Ethereum, Runes, Ordinals and BRC-20 projects offer this mechanism to deployers and users. This proposal also invites functions like a 'soft cap' mechanism to establish a minimum amount of token to be issued, an optional start and end date at Bitcoin block heights and a 'commission' function sent to the creator for 'each mint operation'.
+
+Related Links: https://github.com/CounterpartyXCP/counterparty-core/issues/1843
+https://gist.github.com/ouziel-slama/9eb05ff9890eb402cd9adb4e166a5469
+https://xcp20.wtf/
+
+Author: Adam Krellenstein, Ouziel Slama and MikeInSpace
+
+---
+
+Date: **Not Active Yet - Drafted: **
+
+Timeline Topic: ****
+
+Significance: 
+
+Related Links: 
+
+Author: 
+
+---
+
+Date: **Not Active Yet - Drafted: **
+
+Timeline Topic: ****
+
+Significance: 
+
+Related Links: 
+
+Author: 
+
+---
 ---
 
 ## Developers Involved in the Protocol
