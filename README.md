@@ -391,8 +391,6 @@ Lead Maintainers: Devon Weller 2014-2017 / John Villar 2017-2019 / Jeremy Johnso
 
 - Subasset on Numerics and Glyphs - https://github.com/CounterpartyXCP/counterparty-core/issues/1842
 
-- UTXO Support + Atomic Swaps - https://github.com/CounterpartyXCP/counterparty-core/issues/1939
-
 ---
 
 ## Developers Involved in the Protocol
