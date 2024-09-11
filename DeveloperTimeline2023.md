@@ -589,7 +589,7 @@ Date: **Not Active Yet - Drafted: May 11, 2023**
 
 Timeline Topic: **Taproot Address Support**
 
-Significance: This update aims to add support for Taproot (bech32m, prefix bc1p) and multisig seqwit (bech32, bc1q) to be used in the Counterparty protocol. This would open the door for contemporary bitcoin addresses and commonly used Ordinal addresses to be used with the entirety of the features supported by the Counterparty protocol. This update also poses the question on how many bytes of information are used for each address type and a specific discussion regarding taproot encoding.
+Significance: This update aims to add support for Taproot (bech32m, prefix bc1p) and Multisig Segwit (bech32, bc1q) address types to be used in the Counterparty protocol. This would open the door for contemporary bitcoin addresses and commonly used Ordinal addresses to be used with the entirety of the features supported by the Counterparty protocol. This update also poses the question on how many bytes of information are used for each address type and a specific discussion regarding taproot encoding.
 
 Related Links: https://github.com/CounterpartyXCP/counterparty-core/pull/1236
 https://github.com/CounterpartyXCP/counterparty-core/issues/1241
