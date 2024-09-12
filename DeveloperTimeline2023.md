@@ -849,7 +849,7 @@ https://youtu.be/fh54uwX8sKc?si=azZOi0ihboiOom_U
 
 CasaTookan - September 19, 2018 to Present
 
-Casa Tookan, also developed by EverdreamSoft, is the first multi-chain Counterparty wallet. The wallet offers users a place to hold tokens from both the Bitcoin and Ethereum blockchains.
+Casa Tookan, also developed by EverdreamSoft, is one of the first multi-chain Counterparty wallets. The wallet offers users a place to hold tokens from both the Bitcoin and Ethereum blockchains.
 
 Counterparty users from the BitCrystals ecosystem can also especially find themselves in a new world of cross-chain compatibility because of the ease of use with Spells of Genesis, CryptoKitties, SuperRare and other blockchain applications with Casa Tookan's built-in DApp browser.
 
