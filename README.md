@@ -363,6 +363,7 @@ Tokens that need further research:
 - https://xchain.io/asset/KEVCOIN
 - https://xchain.io/asset/NOVATOKEN
 - Tatiana Coin - original art replacement,  go into more about later albums and art - Everyday Earth designed logo
+- Tokenly wallet - Tokenly Pockets - included dispensers, DEx etc etc
 
 ---
 
