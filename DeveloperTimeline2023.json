@@ -1,8 +1,8 @@
 [
-{
+    {
         "Date": "2014-01-02",
         "Time": "1388620800",
-        "Proposal":false,
+        "Proposal": false,
         "Event": "Counterparty Launched on Bitcointalk",
         "Significance": "Counterparty Co-Founder user 'PhantomPhreak' posts the first Official Thread on the Bitcointalk Forums for creating Counterparty. In doing so, the post officially started the publishing of the project and offered Counterwallet as a space to experiment with the technology used on top of Bitcoin.",
         "links": [
@@ -21,10 +21,10 @@
         ],
         "Author": "Adam Krellenstein"
     },
-{
+    {
         "Date": "2014-02-02",
         "Time": "1391299200",
-        "Proposal":false,
+        "Proposal": false,
         "Event": "2,648,755 XCP Created in Proof of Burn",
         "Significance": "In order to give the Counterparty project maximum legitimacy right from the start, it was considered fundamentally important that all new XCP cryptocurrency coins are distributed fairly and proportionally. Read more about this process and why XCP creators used Proof of Burn.",
         "links": [
@@ -35,10 +35,10 @@
         ],
         "Author": "Counterparty Community"
     },
-{
+    {
         "Date": "2014-04-15",
         "Time": "1397520000",
-        "Proposal":false,
+        "Proposal": false,
         "Event": "Counterparty Codebase Audited by Sergio Lerner",
         "Significance": "Focusing on the security of counterpartyd and the Counterparty protocol, this audit was completed by professional cryptographer Sergio Demian Lerner between February 24 and April 5 of 2014. Sergio has discovered numerous serious bugs in Bitcoin, and is extremely experienced both developing and evaluating cryptocurrencies. Read more about this audit here. Author: Counterparty Community and Sergio Demian Lerner",
         "links": [
@@ -53,10 +53,10 @@
         ],
         "Author": "Counterparty Community"
     },
-{
+    {
         "Date": "2014-04-15",
         "Time": "1397520001",
-        "Proposal":false,
+        "Proposal": false,
         "Event": "Dividend Payments Added",
         "Significance": "With this Counterparty upgrade, users could not only issue stocks (Assets) but also now pay dividends in BTC, XCP and any Counterparty Asset to shareholders, automatically and trustlessly. The shareholders do not even need to run a Counterparty client to receive such dividends.",
         "links": [
@@ -67,10 +67,10 @@
         ],
         "Author": "Adam Krellenstein"
     },
-{
+    {
         "Date": "2014-07-13",
         "Time": "1405209600",
-        "Proposal":false,
+        "Proposal": false,
         "Event": "Fully Trustless Games",
         "Significance": "Though early and experimental, a 'rock-paper-scissors' type game was introduced using the Counterparty protocol to do so. It was the first step towards trustless multiplayer games (such as poker and chess) that are fully decentralized.",
         "links": [
@@ -81,10 +81,10 @@
         ],
         "Author": "Dan Anderson"
     },
-{
+    {
         "Date": "2014-11-28",
         "Time": "1417132800",
-        "Proposal":false,
+        "Proposal": false,
         "Event": "Free Numeric Assets and Multi-signature Support",
         "Significance": "Counterwallet now supports the creation of free asset names (now called Numeric Assets) and also now supports the creation of multi-signature addresses.",
         "links": [
@@ -95,10 +95,10 @@
         ],
         "Author": "Adam Krellenstein"
     },
-{
+    {
         "Date": "2015-10-29",
         "Time": "1446076800",
-        "Proposal":false,
+        "Proposal": false,
         "Event": "Counterparty Improvement Proposals Started",
         "Significance": "A Counterparty Improvement Proposal is a design document providing information to the Counterparty community, or describing a new feature for Counterparty or its processes or environment. CIPs became the primary mechanisms for proposing new features, for collecting community input on an issue, and for documenting the design decisions that will go into Counterparty.",
         "links": [
@@ -109,10 +109,10 @@
         ],
         "Author": "Devon Weller"
     },
-{
+    {
         "Date": "2015-11-04",
         "Time": "1446595200",
-        "Proposal":false,
+        "Proposal": false,
         "Event": "BIP 21 URI on Counterparty",
         "Significance": "Counterparty Improvement Proposal #2 is based off of Bitcoin BIP 21 by Nils Schneider and Matt Corallo. The purpose of this URI scheme on Counterparty is to enable users to easily make payments by simply clicking links on webpages or scanning QR Codes.",
         "links": [
@@ -127,10 +127,10 @@
         ],
         "Author": "Devon Weller"
     },
-{
+    {
         "Date": "2016-01-24",
         "Time": "1453593600",
-        "Proposal":false,
+        "Proposal": false,
         "Event": "Support for 80-byte OP_RETURN",
         "Significance": "This Counterparty update doubled the amount of data that could fit in an OP_RETURN from 40-bytes to 80-bytes.",
         "links": [
@@ -141,10 +141,10 @@
         ],
         "Author": "Ruben de Vries"
     },
-{
+    {
         "Date": "2017-03-15",
         "Time": "1458000000",
-        "Proposal":false,
+        "Proposal": false,
         "Event": "Implementation Bounties Established",
         "Significance": "Prior to this process, implementation of Counterparty Improvement Proposals via bounties was performed somewhat ad-hoc. This raised some confusion and exposed several ambiguities, such as potential mismatches in expectations between the individuals donating to the effort and the parties implementing the effort. This CIP removed these and other potential points of conflict to institute a process that maximizes the chance of success while remaining as lightweight as possible.",
         "links": [
@@ -155,10 +155,10 @@
         ],
         "Author": "Robby Dermody"
     },
-{
+    {
         "Date": "2017-05-01",
         "Time": "1493596800",
-        "Proposal":false,
+        "Proposal": false,
         "Event": "Added Subassets",
         "Significance": "This Counterparty Improvement Proposal established a protocol for issuing subassets to enable named asset owners the ability and flexibility to issue new easily identified and related named assets (ex: Asset = BACON, Subasset = BACON.crispy).",
         "links": [
@@ -169,10 +169,10 @@
         ],
         "Author": "Jeremy Johnson"
     },
-{
+    {
         "Date": "2017-09-28",
         "Time": "1506556800",
-        "Proposal":false,
+        "Proposal": false,
         "Event": "Enhanced sends with memo field support",
         "Significance": "An asset send transaction during this time required a P2PKH output to the receiver of an asset. This is in addition to the message data output (encoded in OP_RETURN). The additional output was an unnecessary burden that, on average, was five times more expensive to spend than it's worth. The primary use case for a memo field is to identify transactions to merchants and exchanges. This Counterparty Improvement Proposal reduced the cost associated with accepting or listing XCP and Counterparty assets.",
         "links": [
@@ -183,10 +183,10 @@
         ],
         "Author": "Joe Looney & needmoney90"
     },
-{
+    {
         "Date": "2017-09-28",
         "Time": "1506556800",
-        "Proposal":false,
+        "Proposal": false,
         "Event": "Shortened Transaction Type ID Namespace",
         "Significance": "At this time, each Counterparty message allocated 4 bytes to the message type ID. But it was noted that Counterparty only uses 14 of the 4 billion possible message types. This Counterparty Improvement Proposal shortened the message type ID to 1 byte. This saved 3 bytes in every transaction.",
         "links": [
@@ -197,10 +197,10 @@
         ],
         "Author": "Devon Weller"
     },
-{
+    {
         "Date": "2017-09-28",
         "Time": "1506556800",
-        "Proposal":false,
+        "Proposal": false,
         "Event": "Memo Requirement through Broadcasts",
         "Significance": "This Counterparty Improvement Proposal allowed any user to be able to mark an address under their control as memo-required. This allowed an exchange to mark their address as memo-required, and to reject sends without a memo. Which reduced their support costs. Enforcing a memo requirement at the protocol level also has the added benefit that it can discourage predatory behavior by exchanges, such as allowing sends without a memo, and ignoring any support requests by customers who made a deposit without a memo.",
         "links": [
@@ -211,10 +211,10 @@
         ],
         "Author": "Jeremy Johnson"
     },
-{
+    {
         "Date": "2018-12-28",
         "Time": "1545955200",
-        "Proposal":false,
+        "Proposal": false,
         "Event": "Segwit Support",
         "Significance": "This Counterparty Improvement Proposal supported spending and creating segwit outputs for Counterparty transactions. By utilizing P2WPKH and P2WSH scripts to send assets, users can spend less on transaction fees sent from counterparty-lib and counterwallet. This adding of segwit compatibility to counterparty-lib also enabled potential future enhancements.",
         "links": [
@@ -225,10 +225,10 @@
         ],
         "Author": "Devon Weller"
     },
-{
+    {
         "Date": "2018-12-28",
         "Time": "1545955200",
-        "Proposal":false,
+        "Proposal": false,
         "Event": "Upgrade of Counterparty to use latest Bitcoin and Indexd",
         "Significance": "This Counterparty Improvement Proposal presented the necessary steps to get XCP codebase up to date with the latest Bitcoin technology to take advantage of the latest developments in the space including: Faster blockchain sync and parsing, Segwit support for lower fees, Hash Timelocked Contracts (to enable atomic swaps and lightning) and better fee estimation overall.",
         "links": [
@@ -239,10 +239,10 @@
         ],
         "Author": "John Villar"
     },
-{
+    {
         "Date": "2019-10-24",
         "Time": "1571875200",
-        "Proposal":false,
+        "Proposal": false,
         "Event": "P2SH data encoding",
         "Significance": "By chaining 2 transactions together it is possible to embed data in the scriptSigs of P2SH outputs. With this method, explained in the Counterparty Improvement Proposal, Counterparty Users could easily put in a lot more data than the other methods used at the time by Counterparty.",
         "links": [
@@ -253,10 +253,10 @@
         ],
         "Author": "Ruben de Vries"
     },
-{
+    {
         "Date": "2019-10-24",
         "Time": "1571875200",
-        "Proposal":false,
+        "Proposal": false,
         "Event": "Multi-Peer Multi-Asset Sends (MPMA)",
         "Significance": "Multiple transactions using Counterparty were seeming to be wasteful when the sender already knows who are the recipients and how much of each asset each one needs to receive. This Counterparty Improvement Proposal established a new send message type geared towards batch processing to send multiple assets to multiple addresses.",
         "links": [
@@ -267,10 +267,10 @@
         ],
         "Author": "John Villar & Javier Varona"
     },
-{
+    {
         "Date": "2019-10-24",
         "Time": "1571875200",
-        "Proposal":false,
+        "Proposal": false,
         "Event": "Sweep Support",
         "Significance": "Moving assets and ownerships between addresses in large batches had been cumbersome and costly in the past due to how Counterparty addresses are encoded. The 'address sweep' message, implemented by this Counterparty Improvement Proposal, solved this by sending all the assets owned and ownerships to a target address in one single operation.",
         "links": [
@@ -281,10 +281,10 @@
         ],
         "Author": "John Villar"
     },
-{
+    {
         "Date": "2020-03-03",
         "Time": "1583193600",
-        "Proposal":false,
+        "Proposal": false,
         "Event": "Asset Dispenser Support",
         "Significance": "The Dispenser mechanism, introduced in this Counterparty Improvement Proposal, created a new mechanism called 'Dispensers' to swap tokens for on-chain BTC without the need for a third signed message, unlike BTCPay which had already been implemented on Counterparty. A dispenser gives out a fixed amount of tokens for a given amount of on-chain BTC.",
         "links": [
@@ -295,10 +295,10 @@
         ],
         "Author": "John Villar"
     },
-{
+    {
         "Date": "2021-01-11",
         "Time": "1610323200",
-        "Proposal":false,
+        "Proposal": false,
         "Event": "Updated fednode stack to use addrindexrs",
         "Significance": "This Counterparty Improvement Proposal changed the underlying address index implementation from the currently unmaintained 'indexd' service to 'addrindexrs' to simplify deployment and make software more responsive.",
         "links": [
@@ -309,10 +309,10 @@
         ],
         "Author": "John Villar"
     },
-{
+    {
         "Date": "2021-01-27",
         "Time": "1611705600",
-        "Proposal":false,
+        "Proposal": false,
         "Event": "Bug fixes on non-divisible dividends and 0 quantity credits",
         "Significance": "This Counterparty Improvement Proposal fixed the issue when creating dividends where the payment is done with non-divisible assets over a divisible asset. Also, it changed the protocol to not write 0 quantity dividend credits.",
         "links": [
@@ -323,10 +323,10 @@
         ],
         "Author": "John Villar"
     },
-{
+    {
         "Date": "2022-08-31",
         "Time": "1661904000",
-        "Proposal":false,
+        "Proposal": false,
         "Event": "Oracled Dispensers",
         "Significance": "The price assigned to a dispenser is fixed to the given bitcoin amount when opening it, making price swings problematic for dispenser offerings. This Counterparty Improvement Proposal created 'Oracled Dispensers' by allowing pegging the value of a dispenser to a variable feed multiplier (USD value for example), letting users specify the price of a given dispenser to a multiplier of a feed.",
         "links": [
@@ -337,10 +337,10 @@
         ],
         "Author": "John Villar, Jeremy Johnson, Javier Varona"
     },
-{
+    {
         "Date": "2022-08-31",
         "Time": "1661904000",
-        "Proposal":false,
+        "Proposal": false,
         "Event": "Reset Token & Divisibility Statuses for Unused Asset",
         "Significance": "If a Counterparty Asset Owner holds the entire supply and the asset is not locked, this Counterparty Improvement Proposal, allowed the owner to reset the supply (e.g. set the supply at zero) and change the divisibility status.",
         "links": [
@@ -351,310 +351,906 @@
         ],
         "Author": "JP Janssen"
     },
-{
+    {
         "Date": "2017-06-08",
         "Time": "1496880000",
-        "Proposal":true,
+        "Proposal": true,
         "Event": "MPMA Send from Multiple Addresses",
         "Significance": "This Counterparty Improvement Proposal allows for multiple transactions from multiple addresses to be grouped together in one transaction.",
         "links": [
             {
                 "label": "This Counterparty Improvement Proposal",
-                "href":"https://github.com/deweller/cips/blob/cip-13-mcat/cip-0013.md"
+                "href": "https://github.com/deweller/cips/blob/cip-13-mcat/cip-0013.md"
             }
         ],
         "Author": "Devon Weller"
     },
-{
+    {
         "Date": "2017-06-08",
         "Time": "1496880000",
-        "Proposal":true,
+        "Proposal": true,
         "Event": "Instant Lottery",
         "Significance": "This Counterparty Improvement Proposal Suggests stimulating usage of the Counterparty betting system by having lotteries always available and to not require a human counterparty, nor a trusted human oracle to do so. This would increase demand for XCP from players, and have an automated player that accumulates XCP over time (to a burn address), effectively reducing the supply.",
         "links": [
             {
                 "label": "This Counterparty Improvement Proposal",
-                "href":"https://github.com/Jpja/cips/blob/master/cip-0014.md"
+                "href": "https://github.com/Jpja/cips/blob/master/cip-0014.md"
             }
         ],
         "Author": "JP Janssen"
     },
-{
+    {
         "Date": "2017-05-17",
         "Time": "1494979200",
-        "Proposal":true,
+        "Proposal": true,
         "Event": "Virtual Machines (non-turing complete)",
         "Significance": "This Counterparty Improvement Proposal looks to develop a minimal pure python Virtual Machine tailored specifically for counterparty.",
         "links": [
             {
                 "label": "This Counterparty Improvement Proposal",
-                "href":"https://forums.counterparty.io/t/proof-of-concept-vm-development/3031"
+                "href": "https://forums.counterparty.io/t/proof-of-concept-vm-development/3031"
             }
         ],
         "Author": "John Villar"
     },
-{
+    {
         "Date": "2017-07-26",
         "Time": "1501027200",
-        "Proposal":true,
+        "Proposal": true,
         "Event": "Serialized Tokens",
         "Significance": "The idea for this Counterparty Improvement Proposal is to be able to assign each token a unique ID which is tracked through the tokens lifecycle. So if a token is a 1/300, you could track which specific 1/300 out of the rest of the 299 with a unique serial.",
         "links": [
             {
                 "label": "this Counterparty Improvement Proposal",
-                "href":"https://forums.counterparty.io/t/serialized-tokens/3486"
+                "href": "https://forums.counterparty.io/t/serialized-tokens/3486"
             }
         ],
         "Author": "Jeremy Johnson"
     },
-{
+    {
         "Date": "2023-07-19",
         "Time": "1689724800",
-        "Proposal":true,
+        "Proposal": true,
         "Event": "Atomic Swaps",
         "Significance": "This Counterparty Improvement Proposal suggests adding Atomic Swaps. Which enable direct peer-to-peer asset exchange by utilizing Hash Time Locked Contracts to ensure secure and trustless transactions. The proposal suggests using Atomic Swaps to eliminate vulnerabilities of dispensers and XCP DEx limitations.",
         "links": [
             {
                 "label": "This Counterparty Improvement Proposal",
-                "href":"https://github.com/CounterpartyXCP/cips/discussions/100"
+                "href": "https://github.com/CounterpartyXCP/cips/discussions/100"
             }
         ],
         "Author": "Keyuno"
     },
-{
+    {
         "Date": "2023-07-11",
         "Time": "1689033600",
-        "Proposal":true,
+        "Proposal": true,
         "Event": "Taproot Support",
         "Significance": "This Counterparty Improvement Proposal looks to include taproot addresses in the creation and parsing of counterparty transactions. Taproot addresses have become increasingly popular with the creation of Ordinals and many users look to also manage Counterparty assets on these types of addresses.",
         "links": [
             {
                 "label": "This Counterparty Improvement Proposal",
-                "href":"https://github.com/CounterpartyXCP/cips/blob/master/cip-0030.md"
+                "href": "https://github.com/CounterpartyXCP/cips/blob/master/cip-0030.md"
             }
         ],
         "Author": "Javier Varona and Jeremy Johnson"
     },
-{
+    {
         "Date": "2017-03-16",
         "Time": "1489622400",
-        "Proposal":true,
+        "Proposal": true,
         "Event": "Picopayments",
         "Significance": "It was proposed to implement this open source idea to create a decentral micropayment hub for counterparty assets.",
         "links": [
             {
                 "label": "open source idea",
-                "href":"https://github.com/CounterpartyXCP/picopayments-hub"
+                "href": "https://github.com/CounterpartyXCP/picopayments-hub"
             }
         ],
         "Author": "Fabian Barkhau"
     },
-{
+    {
         "Date": "2016-03-21",
         "Time": "1458518400",
-        "Proposal":true,
+        "Proposal": true,
         "Event": "Voting Meta Protocol through Broadcasts",
         "Significance": "With this idea, any user should be able to initiate a vote for all holders of a Counterparty asset. Holders of the asset could broadcast their vote and all Counterparty nodes would be able to tally the votes. With the lack of PoW 'voting' by miners there's no good way to reach / poll for consensus on changes to the protocol that aren't completely uncontroversial. Using this proposed protocol, Counterparty developers can initiate a vote to all XCP holders to learn the will of the community in a decentralized way.",
         "links": [
             {
                 "label": "this idea",
-                "href":"https://github.com/CounterpartyXCP/cips/blob/master/cip-0005.md"
+                "href": "https://github.com/CounterpartyXCP/cips/blob/master/cip-0005.md"
             }
         ],
         "Author": "Ruben de Vries"
     },
-{
+    {
         "Date": "2016-08-31",
         "Time": "1472601600",
-        "Proposal":true,
+        "Proposal": true,
         "Event": "Blockchain Validated Asset Metadata (BVAM)",
         "Significance": "In this idea, Blockchain Validated Asset Metadata would provide a mechanism to define detailed information about a Counterparty asset. A hash of the information is stored in the bitcoin blockchain as proof that the metadata is validated by the issuer of the asset. The enhanced asset info standard requires a static URL and a trusted data source. It cannot be used for serverless peer-to-peer sharing of asset metadata. The BVAM standard is more detailed, extensible and does not rely on a single central web server to host the asset metadata file. BVAM provides optional identity validation to prove ownership of a token. The BVAM format is a superset of the enhanced asset info standard and maintains backwards compatibility.",
         "links": [
             {
                 "label": "In this idea",
-                "href":"https://github.com/CounterpartyXCP/cips/blob/master/cip-0007.md"
+                "href": "https://github.com/CounterpartyXCP/cips/blob/master/cip-0007.md"
             }
         ],
         "Author": "Devon Weller"
     },
-{
+    {
         "Date": "2018-03-15",
         "Time": "1521072000",
-        "Proposal":true,
+        "Proposal": true,
         "Event": "Scheduled Distributions",
         "Significance": "This idea allows dividends to be scheduled to activate on locked assets, by defining future block height and escrowing funds.",
         "links": [
             {
                 "label": "This idea",
-                "href":"https://github.com/CounterpartyXCP/cips/blob/master/cip-0016.md"
+                "href": "https://github.com/CounterpartyXCP/cips/blob/master/cip-0016.md"
             }
         ],
         "Author": "Dan Anderson"
     },
-{
+    {
         "Date": "2017-09-14",
         "Time": "1505347200",
-        "Proposal":true,
+        "Proposal": true,
         "Event": "Automated Feed with Bitcoin and Counterparty Data",
         "Significance": "This idea would set up a betting feed with relevant Bitcoin and Counterparty data. This opens up for managing risks, as well as for speculation. This utilizes the existing betting system. Minor protocol changes are required. This proposal will integrate an oracle in the protocol, eliminating the need for a trusted middleman (for data derived from the blockchain). The automated oracle will periodically broadcast values that have real economic impact on users of Counterparty and Bitcoin. This includes the fee level and the XCP/BTC price. In addition it's trivial to add a random number feed which will enable betting on any probability, and potentially be used for future smart contracts.",
         "links": [
             {
                 "label": "This idea",
-                "href":"https://github.com/CounterpartyXCP/cips/blob/master/cip-0017.md"
+                "href": "https://github.com/CounterpartyXCP/cips/blob/master/cip-0017.md"
             }
         ],
         "Author": "JP Janssen"
     },
-{
+    {
         "Date": "2022-09-13",
         "Time": "1663027200",
-        "Proposal":true,
+        "Proposal": true,
         "Event": "Enhanced Asset Information Specification",
         "Significance": "Counterparty provides a simple standard for enhanced asset info. This standard is useful, but is limited. By standardizing an additional set of fields which can be defined in the asset enhancement info JSON file, we can allow for much more information to be associated with an asset in a standardized way.",
         "links": [
             {
                 "label": "additional set of fields",
-                "href":"https://github.com/CounterpartyXCP/cips/blob/master/cip-0025.md"
+                "href": "https://github.com/CounterpartyXCP/cips/blob/master/cip-0025.md"
             }
         ],
         "Author": "Jeremy Johnson"
     },
-{
+    {
         "Date": "2023-05-14",
         "Time": "1684022400",
-        "Proposal":true,
+        "Proposal": true,
         "Event": "Broadcast Token Naming System (BTNS)",
         "Significance": "This idea establishes a new token naming system via Broadcasts. By establishing 3 pre-defined broadcast formats, users can DEPLOY, MINT, and TRANSFER tokens. With these 3 functions we can create tokens, allow users to mint them in a decentralized 'fair' way, and allow for the moving of these new tokens between addresses. This spec can be extended in the future to allow for additional options and formats. This spec was inspired in part by BRC-20 and SRC-20 and seeing the desire to experiment with new token naming systems.",
         "links": [
             {
                 "label": "This idea",
-                "href":"https://github.com/CounterpartyXCP/cips/blob/master/cip-0028.md"
+                "href": "https://github.com/CounterpartyXCP/cips/blob/master/cip-0028.md"
             }
         ],
         "Author": "Jeremy Johnson"
     },
-{
+    {
         "Date": "2023-07-26",
         "Time": "1690329600",
-        "Proposal":true,
+        "Proposal": true,
         "Event": "Crypto Address Messaging System (CryptoMessages)",
         "Significance": "This idea, establishes an address messaging system via Broadcasts. This would allow users to pass messages between addresses. This spec can be extended in the future to allow for additional options and formats.",
         "links": [
             {
                 "label": "This idea",
-                "href":"https://github.com/jdogresorg/CryptoMessages/tree/master/docs"
+                "href": "https://github.com/jdogresorg/CryptoMessages/tree/master/docs"
             }
         ],
         "Author": "Jeremy Johnson & Javier Varona"
     },
-{
+    {
         "Date": "2023-05-30",
         "Time": "1685404800",
-        "Proposal":true,
+        "Proposal": true,
         "Event": "Asset Issuance Fees",
         "Significance": "This idea aims to balance the cost of issuing assets with that of running nodes/infrastructure, and to encourage use of broadcasts when issuances are not strictly needed. The CIP suggests a fee of 0.10 XCP for a registering a numeric assets (which are free to mint at this time and only require a btc fee for the transaction).",
         "links": [
             {
                 "label": "This idea",
-                "href":"https://github.com/CounterpartyXCP/cips/blob/master/cip-0029.md"
+                "href": "https://github.com/CounterpartyXCP/cips/blob/master/cip-0029.md"
             }
         ],
         "Author": "JP Janssen"
     },
-{
+    {
         "Date": "2023-03-05",
         "Time": "1677974400",
-        "Proposal":true,
+        "Proposal": true,
         "Event": "Ordinal Envelopes",
         "Significance": "Ordinal numbers are serial numbers for satoshis, assigned in the order in which they are mined, and preserved across transactions. They are described in Bitcoin BIP pr1408 and implemented with ord. By integrating Ordinal numbers into the Counterparty federated node stack, they can be viewed through the lens of Counterparty’s account model as one-time use addresses. Ordinal theory is similar to Counterparty in terms of platform consensus. They are both smart contracts deployed as node software rather than as on-chain logic (EVM). Connecting the Ordinal and Counterparty ecosystems is prudent for increasing interoperability within the broader bitcoin ecosystem.",
         "links": [
             {
                 "label": "pr1408",
-                "href":"https://github.com/bitcoin/bips/pull/1408"
+                "href": "https://github.com/bitcoin/bips/pull/1408"
             },
             {
                 "label": "ord",
-                "href":"https://github.com/casey/ord"
+                "href": "https://github.com/casey/ord"
             },
             {
                 "label": "Connecting the Ordinal and Counterparty ecosystems",
-                "href":"https://forums.counterparty.io/t/ordinal-envelopes/6504"
+                "href": "https://forums.counterparty.io/t/ordinal-envelopes/6504"
             }
         ],
         "Author": "Joe Looney"
     },
-{
+    {
         "Date": "2023-04-17",
         "Time": "1681689600",
-        "Proposal":true,
+        "Proposal": true,
         "Event": "Lock Description",
         "Significance": "This idea looks to add the function 'LOCK ASSET DESCRIPTION'. While it is good to be able to change an asset description to update broken links and other technical issues... In many cases a permanent as possible option for the asset description is wanted by token creators and holders. Most people that own counterparty assets assume that the description is permanently unchangeable. This update would allow the -option- for asset owners to LOCK the description for all blockchain eternity. ",
         "links": [
             {
                 "label": "This idea",
-                "href":"https://github.com/CounterpartyXCP/cips/commit/58268b60fb49a019955847ca8cedd034145d0948"
+                "href": "https://github.com/CounterpartyXCP/cips/commit/58268b60fb49a019955847ca8cedd034145d0948"
             }
         ],
         "Author": "Theo Goodman"
     },
-{
+    {
         "Date": "2023-12-19",
         "Time": "1702944000",
-        "Proposal":true,
+        "Proposal": true,
         "Event": "File Storage in P2WSH Outputs",
         "Significance": "This CIP introduces a method for storing a file alongside a Counterparty issuance or broadcast transaction. This is achieved by breaking the file into chunks that make up multiple P2WSH outputs that are added after the Counterparty op_return message inside the same Bitcoin transaction. This idea aims to use less space than the 'stamps' (CIP25 and CIP26) method while also encoding the data of the file directly onchain to represent an issuance or broadcast. JP noted in CIP33, 'With Stamps the Bitcoin transaction is three times larger than the file, and for each byte of the file 26 satoshis are burnt. With CIP33 the tx is just 50% larger than the file, and only 11 sats are burnt per byte. This makes CIP33 more than 50% cheaper than Stamps.' JP even invited users and devs to test the functionality with an open source XCP op_return Builder for the Electrum wallet.",
         "links": [
             {
                 "label": "noted in CIP33",
-                "href":"https://github.com/CounterpartyXCP/cips/blob/master/cip-0033.md"
+                "href": "https://github.com/CounterpartyXCP/cips/blob/master/cip-0033.md"
             }
         ],
         "Author": "JP Janssen"
     },
-{
+    {
         "Date": "2023-10-02",
         "Time": "1696204800",
-        "Proposal":true,
+        "Proposal": true,
         "Event": "Dispenser Reservation",
         "Significance": "This Counterparty Improvement Proposal looks to include an optional and backwards compatible way for sellers to reserve dispensers in a decentralized way for a buyer to complete payment within 10 bitcoin blocks. JP mentions in this proposal that 'dispensers have increasingly been used beyond the designed scope... Whether this is due to convenience or ignorance, significant losses have occurred.' He goes on to state in CIP32, 'Allowing for the reservation of a dispenser will make dispensers safe for any amount of value.'",
         "links": [
             {
                 "label": "goes on to state in CIP32",
-                "href":"https://github.com/CounterpartyXCP/cips/blob/master/cip-0032.md"
+                "href": "https://github.com/CounterpartyXCP/cips/blob/master/cip-0032.md"
             }
         ],
         "Author": "JP Janssen"
     },
-{
+    {
         "Date": "2023-04-20",
         "Time": "1681948800",
-        "Proposal":true,
+        "Proposal": true,
         "Event": "STAMP Protocol",
         "Significance": "This proposal (CIP 26), looked to standardize a way in which the Counterparty Protocol dealt with the proccess of enabling the 'linking of a file to an asset via a stamp.' The terminology and coding dynamics for a 'Stamp' or multiple Stamps connecting their data to a Counterparty asset was laid out in full in this proposal. While CIP27 (STAMP Filesystem) is withdrawn as a CIP, this STAMP Protocol remains in the Counterparty Github as a Drafted proposal. It is explained in the rationale of this proposal that while the 'Bitcoin Stamps spec first proposed the basic guidelines for how to create a stamp, but CIP26 'aimed to clarify the technical process to stamp a file to any asset, and remove any project-specific requirements from the protocol.'",
         "links": [
             {
                 "label": "This proposal (CIP 26)",
-                "href":"https://github.com/CounterpartyXCP/cips/blob/master/cip-0026.md"
+                "href": "https://github.com/CounterpartyXCP/cips/blob/master/cip-0026.md"
             },
             {
                 "label": "Bitcoin Stamps",
-                "href":"https://github.com/mikeinspace/stamps/blob/main/BitcoinStamps.md"
+                "href": "https://github.com/mikeinspace/stamps/blob/main/BitcoinStamps.md"
             }
         ],
         "Author": "MikeInSpace & Jeremy Johnson"
     },
-{
+    {
         "Date": "2017-06-08",
         "Time": "1496880000",
-        "Proposal":true,
+        "Proposal": true,
         "Event": "Multiparty Counterparty Aggregate Transaction (MCAT)",
         "Significance": "This Counterparty Improvement Proposal would create a system that allows for multiple transactions from multiple addresses to be grouped together in one transaction using 3rd party MCAP servers. Devon explained the rational behind the proposal stating, 'MCAT servers may choose to include multiple sends in a single large transaction based on the fee offered by the sender. Because the MCAT server can save space by combining multiple transactions, it can potentially spend less bitcoin in transaction fees than it receives in asset fees and operate at a profit.' Devon also went on to express this proposal is 'an extension of CIP10 by John Villar and Javier Varona'.",
         "links": [
             {
                 "label": "This Counterparty Improvement Proposal",
-                "href":"https://github.com/CounterpartyXCP/cips/blob/master/cip-0013.md"
+                "href": "https://github.com/CounterpartyXCP/cips/blob/master/cip-0013.md"
             }
         ],
         "Author": "Devon Weller"
-    }
+    },
+    {
+        "Date": "2024-01-26",
+        "Time": "1706227200",
+        "Proposal": true,
+        "Event": "PSBT Support via attaching assets to UTXOs",
+        "Significance": "This CIP is intends to add new functionality to the Counterparty send function that allows assets to be bound to and unbound from UTXOs. Derp explains in the CIP style Github Discussion post, 'This functionality will allow for interoperability of counterparty assets in the ordinals ecosystem' which means the main marketplaces and wallets that facilitate trading ordinals will be compatible with Counterparty assets bound to UTXOs. As stated in the discussion: 'These browser based wallets that are commonly used with ordinals rely on PSBTs with single transaction finality.' This upgrade would allow 'Counterparty assets to be compliant with the ordinals trading transactional structure, allowing the large players in the ordinals ecosystem to seamlessly integrate counterparty assets.'",
+        "links": [
+            {
+                "label": "CIP style Github Discussion post",
+                "href": "https://github.com/CounterpartyXCP/Forum/discussions/134"
+            }
+        ],
+        "Author": "Derp Herpenstein"
+    },
+    {
+        "Date": "2023-05-11",
+        "Time": "1683763200",
+        "Proposal": true,
+        "Event": "Taproot Address Support",
+        "Significance": "This update aims to add support for Taproot (bech32m, prefix bc1p) and Multisig Segwit (bech32, bc1q) address types to be used in the Counterparty protocol. This would open the door for contemporary bitcoin addresses and commonly used Ordinal addresses to be used with the entirety of the features supported by the Counterparty protocol. This update also poses the question on how many bytes of information are used for each address type and a specific discussion regarding taproot encoding.",
+        "links": [
+            {
+                "label": "This update",
+                "href": "https://github.com/CounterpartyXCP/counterparty-core/pull/1236"
+            },
+            {
+                "label": "also poses the question",
+                "href": "https://github.com/CounterpartyXCP/counterparty-core/issues/1241"
+            }
+        ],
+        "Author": "Javier Varona and JP Janssen"
+    },
+    {
+        "Date": "2024-05-31",
+        "Time": "1717113600",
+        "Proposal": true,
+        "Event": "Fair Minting",
+        "Significance": "This proposal looks to add a 'fair minting' function in a decentralized manner to the Counterparty protocol. In a gist proposal by Ouziel, he references the Joe Looney 'XCP-20 Fair Mint model' written in 2023 regarding setting up a dispenser on a burn address to distribute tokens without the deployer involved. This proposal suggests it is 'desirable to create a native mechanism' so that 'a burn address isn't used'. This update would open the doors to minting, pre-minting and free-minting in a similar manner to how Ethereum, Runes, Ordinals and BRC-20 projects offer this mechanism to deployers and users. This proposal also invites functions like a 'soft cap' mechanism to establish a minimum amount of token to be issued, an optional start and end date at Bitcoin block heights and a 'commission' function sent to the creator for 'each mint operation'.",
+        "links": [
+            {
+                "label": "This proposal",
+                "href": "https://github.com/CounterpartyXCP/counterparty-core/issues/1843"
+            },
+            {
+                "label": "a gist proposal by Ouziel",
+                "href": "https://gist.github.com/ouziel-slama/9eb05ff9890eb402cd9adb4e166a5469"
+            },
+            {
+                "label": "XCP-20 Fair Mint model",
+                "href": "https://xcp20.wtf/"
+            }
+        ],
+        "Author": "Adam Krellenstein, Ouziel Slama and MikeInSpace"
+    },
+    {
+        "Date": "2024-05-31",
+        "Time": "1717113602",
+        "Proposal": true,
+        "Event": "Eliminate Fee on Subasset Registration",
+        "Significance": "This protocol change looks to eliminate the XCP fee associated with creating a subasset. Since many of early arguments for having an XCP on named asset creation was centered on an 'anti-squatting' mechanism, the community argues that this is not needed for subasset registrations since the creator already owns the main named asset used. This update also pairs well with the introduction of subasset creation with numeric tokens as well as the Glyphs proposal by MikeInSpace.",
+        "links": [
+            {
+                "label": "This protocol change",
+                "href": "https://github.com/CounterpartyXCP/counterparty-core/issues/1840"
+            }
+        ],
+        "Author": "Adam Krellenstein"
+    },
+    {
+        "Date": "2024-05-31",
+        "Time": "1717113601",
+        "Proposal": true,
+        "Event": "Subassets on Numerics",
+        "Significance": "This proposal invites the Counterparty protocol to introduce subassets on numeric tokens. While this is already possible with named assets and is somewhat of a simple upgrade, this proposal also includes documentation for using this new functionality for 'Glyphs'. Issuing subassets on Numerics, MikeInSpace proposes, incorporates a new token 'meta-protocol' that can introduce a 'runes-like' functionality with subassets on numerics. This means these numeric subassets 'can be leveraged to create a Runes-like, but better, tokenization standard'. This proposal brings together the Fair Mint proposal, Elimination of Fees on Subassets and this much simpler Subassets on Numerics porposal to introduce an new contemporary token standard using Counterparty.",
+        "links": [
+            {
+                "label": "'Glyphs'",
+                "href": "https://github.com/mikeinspace/Glyphs/blob/main/README.md"
+            },
+            {
+                "label": "This proposal",
+                "href": "https://github.com/CounterpartyXCP/counterparty-core/issues/1842"
+            },
+            {
+                "label": "introduce subassets on numeric tokens",
+                "href": "https://github.com/CounterpartyXCP/counterparty-core/pull/2195"
+            }
+        ],
+        "Author": "Adam Krellenstein and MikeInSpace"
+    },
+    {
+        "Date": "2013-12-15",
+        "Time": "1387065600",
+        "Commits": true,
+        "Event": "Counterparty Github Repository Created"
+    },
+    {
+        "Date": "2014-08-17",
+        "Time": "1408233600",
+        "Commits": true,
+        "Event": "first commit by Adam Krellenstein"
+    },
+    {
+        "Date": "2015-11-01",
+        "Time": "1446336000",
+        "Commits": true,
+        "Event": "first commit by Ruben de Vries"
+    },
+    {
+        "Date": "2016-05-15",
+        "Time": "1463270400",
+        "Commits": true,
+        "Event": "first commit by Robby Dermody"
+    },
+    {
+        "Date": "2016-06-19",
+        "Time": "1466294400",
+        "Commits": true,
+        "Event": "first commit by Joe Looney"
+    },
+    {
+        "Date": "2016-01-22",
+        "Time": "1453420800",
+        "Commits": true,
+        "Event": "first commit by Devon Weller"
+    },
+    {
+        "Date": "2017-08-27",
+        "Time": "1503792000",
+        "Commits": true,
+        "Event": "first commit by John Villar"
+    },
+    {
+        "Date": "2017-10-08",
+        "Time": "1507420800",
+        "Commits": true,
+        "Event": "first commit by Dan Anderson"
+    },
+    {
+        "Date": "2018-09-23",
+        "Time": "1537660800",
+        "Commits": true,
+        "Event": "first commit by Jeremy Johnson"
+    },
+    {
+        "Date": "2021-06-20",
+        "Time": "1624147200",
+        "Commits": true,
+        "Event": "first commit by Javier Varona"
+    },
+    {
+        "Date": "2023-12-24",
+        "Time": "1703376000",
+        "Commits": true,
+        "Event": "first commit by Ouziel Slama"
+    },
+    {
+        "Date": "2024-03-18",
+        "Time": "1710720000",
+        "Commits": true,
+        "Event": "first commit by Matt Marcello"
+    },
+    {
+        "Date": "2024-05-01",
+        "Time": "1714521600",
+        "Commits": true,
+        "Event": "first commit by Warren Puffett"
+    },
+    {
+        "Date": "2013-06-15",
+        "Time": "1651363200",
+        "Commits": true,
+        "Event": "Other Contributors",
+        "Significance": "kanzure - 2014, Rippler - 2014, cjcole 2014, Frozenlock 2014, khan-faiz 2014, Ignat99 - 2014, larskluge - 2014, btcdrak - 2014, leishman - 2014, ivanaszuber - 2014, Millz0r - 2014, unsystemizer - 2015, gotcha - 2015, unsynstemizer - 2015, cryptonaut420 - 2015, littleskunk - 2016, cryptcoin-junkey - 2017, familymediallc - 2017, mide - 2018, longhoangwkm - 2020, windsok - 2022"
+    },
+    {
+        "Date": "2024-07-12",
+        "Time": "1720742400",
+        "Release": true,
+        "Event": "counterparty-core v10.3.0",
+        "Significance": "This version most notably introduced a major performance optimization for node API access which includes: an additional SQLite3 database that was added which tracks the current state of all Counterparty objects (in addition to the primary database that is purely log-structured). Other major changes for this version include the removal of the 'kickstart' functionality, which is possible now that 'start' is performant, and numerous tweaks and improvements to the v2 API.",
+        "links": [
+            {
+                "label": "This version",
+                "href": "https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v10.3.0"
+            }
+        ],
+        "Author": "Ouziel Slama, Adam Krellenstein and Warren Puffett"
+    },
+    {
+        "Date": "2024-06-11",
+        "Time": "1718064000",
+        "Release": true,
+        "Event": "counterparty-core v10.2.0",
+        "Significance": "This was a large release that included significant refactoring and redesigns of critical node components, including the CLI and logging subsystems, mempool processing, and API database connection management. It also included numerous updates and extensions to the v2 API, plus new ZeroMQ support. Of course, a large number of bugs have been resolved as well.",
+        "links": [
+            {
+                "label": "a large release",
+                "href": "https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v10.2.0"
+            }
+        ],
+        "Author": "Ouziel Slama, Adam Krellenstein, Warren Puffett and Matt Marcello"
+    },
+    {
+        "Date": "2023-11-17",
+        "Time": "1700179200",
+        "Release": true,
+        "Event": "counterparty-lib v9.61.0",
+        "Significance": "This was a large release that included: updating bitcoin core version to 25.1, adding an 'origin' field to dispensers which (which allowed for refilling/closing/reopening dispensers from the origin address), added a delay to dispenser closing of 5 blocks, added a dynamic XCP fee on the sweep function, and resolved a large number of bugs.",
+        "links": [
+            {
+                "label": "a large release",
+                "href": "https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v9.61.0"
+            }
+        ],
+        "Author": "Jeremy Johnson"
+    },
+    {
+        "Date": "2022-08-29",
+        "Time": "1661731200",
+        "Release": true,
+        "Event": "counterparty-lib v9.60.0",
+        "Significance": "This release contains a number of bug fixes, updates, and new features such as support for CIP24 (Oracled Dispensers), and support for for CIP03 (Reset Token & Divisibility Statuses).",
+        "links": [
+            {
+                "label": "This release",
+                "href": "https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v9.60.0"
+            }
+        ],
+        "Author": "Jeremy Johnson, jotapea, windsok"
+    },
+    {
+        "Date": "2020-02-03",
+        "Time": "1580688000",
+        "Release": true,
+        "Event": "counterparty-lib v9.58.0",
+        "Significance": "This release included 2 new major features: P2SH encoding (Allowed the arbitrary size of messages using 2 transactions to encode data inside P2SH scriptSigs), MPMA (Allowed the sending of multiple assets to multiple addresses with different quantities and memos on a single message, usually used in conjunction with P2SH).",
+        "links": [
+            {
+                "label": "This release",
+                "href": "https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v9.58.0"
+            }
+        ],
+        "Author": "John Villar"
+    },
+    {
+        "Date": "2019-10-24",
+        "Time": "1571875200",
+        "Release": true,
+        "Event": "counterparty-lib v9.57.0",
+        "Significance": "This release was the first to include the Dispenser function and the Sweep function.",
+        "links": [
+            {
+                "label": "This release",
+                "href": "https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v9.57.0"
+            }
+        ],
+        "Author": "John Villar"
+    },
+    {
+        "Date": "2018-12-27",
+        "Time": "1545868800",
+        "Release": true,
+        "Event": "counterparty-lib v9.56.0",
+        "Significance": "This release included SegWit support on testnet and on mainnet (effective from an activation block) as well as included all the changes proposed due to implementation of CIP19.",
+        "links": [
+            {
+                "label": "This release",
+                "href": "https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v9.56.0"
+            }
+        ],
+        "Author": "John Villar"
+    },
+    {
+        "Date": "2017-09-28",
+        "Time": "1506556800",
+        "Release": true,
+        "Event": "counterparty-lib v9.55.3",
+        "Significance": "This release implemented CIP-9 Enhanced Send, CIP-11 Shorten Transaction Type ID and CIP-12 Memo Requirement through Broadcasts, and resolved a few bugs in the protocol.",
+        "links": [
+            {
+                "label": "This release",
+                "href": "https://github.com/CounterpartyXCP/counterparty-core/releases/tag/9.55.3"
+            }
+        ],
+        "Author": "Devon Weller"
+    },
+  {
+    "dateRange": {
+      "start": "2014-01-02",
+      "end": "2024-01-14"
+    },
+    "timeRange": {
+      "start": 1388620800,
+      "end": 1705190400
+    },
+    "Wallet": true,
+    "Event": "Counterwallet",
+    "Significance": "This is historically the first Counterparty wallet and specifically was focused to be a user-friendly browser based wallet. It was offered to the community the day Counterparty was launched on Bitcointalk along with a command line interface version. This wallet was the first to showcase the use of the Counterparty Decentralized Exchange and would continue to be supported through various updates over the years such as the implementation of Segwit addresses and other key features like the destroy function. Also, as mentioned on the Counterpary website 'When you use Counterwallet, all transactions are signed on your device and your private keys are never stored on our servers. All information sent to our servers is encrypted by your Counterwallet client for maximum security, and every trace of your session is erased when you log out. All you need is your passphrase for easy and secure access.' This wallet was working and live up until January 14, 2024 when the servers hosting this wallet were taken down due to an issue with a new protocol update. While a few types of fixes were proposed at the time, the current lead developer (Adam Krellenstein) has stated that he will not be working to bring this wallet back online, nor update it to the more recent features offered with the Counterparty protocol. Instead Adam and his developing team are focusing on a new wallet called 'Horizon' under their UnspendableLabs platform.",
+    "links": [
+      {
+        "label": "the first Counterparty wallet",
+        "href": "https://counterwallet.io/"
+      }
+    ]
+  },
+  {
+    "dateRange": {
+      "start": "2016-10-12",
+      "end": "2021-05-31"
+    },
+    "timeRange": {
+      "start": 1476230400,
+      "end": 1622419200
+    },
+    "Wallet": true,
+    "Event": "Book of Orbs",
+    "Significance": "This wallet, built by EverdreamSoft in collaboration with IndieSqaure, was one of the most popular mobile Counterparty wallets of its time. Book of Orbs offered client-side encryption and decentralized trading using the Counterparty DEx. Early on, this wallet supported an organized and collection specific trading interface of the most popular Counterparty projects such as Spells of Genesis, Age of Chains, Force of Will, DieCast, Sarutobi, Bitgirls, Memory Chain, Rare Pepe and more. This wallet application referred to assets/tokens/cards on Counterparty as 'Orbs' and many users in the community mention the Book of Orbs interface as their favorite user interface designs overall to trade Counterparty assets. Sadly this wallet was discontinued and the EverdreamSoft team mentioned in a Medium article that 'its dependencies on third-part services made it very difficult to maintain the application up to date and working correctly.' The team goes on to invite users to use the new EverdreamSoft wallet 'Casa Tookan' or Freewallet to continue using Counterparty functionality into the future.",
+    "links": [
+      {
+        "label": "This wallet",
+        "href": "https://www.bookoforbs.com/index_eng.html"
+      },
+      {
+        "label": "one of the most popular mobile Counterparty wallets",
+        "href": "https://medium.com/book-of-orbs/project-orb-announces-the-official-launch-of-book-of-orbs-52659c88e81b"
+      },
+      {
+        "label": "this wallet was discontinued",
+        "href": "https://everdreamsoft.medium.com/book-of-orbs-says-good-bye-452f5c8843ea"
+      }
+    ]
+  },
+  {
+    "dateRange": {
+      "start": "2017-10-13",
+      "end": null
+    },
+    "timeRange": {
+      "start": 1507852800,
+      "end": null
+    },
+    "Wallet": true,
+    "Event": "Freewallet",
+    "Significance": "This is an open-source Counterparty wallet created by Jeremy Johnson (Jdog). The original purpose for developing Freewallet, as mentioned in his ZeroG interview, was to create a wallet he could use personally to do Counterparty actions that are accepted by the protocol, but were not offered by Counterwallet for regular users at that time. This wallet is now the most up-to-date and most commonly used wallet in the Counterparty community due to the Freewallet Desktop version offering all Counterparty functionality allowed on the protocol such as: client-side authentication and encryption, sending and receiving Bitcoin/XCP and all Counterparty assets, creating and managing tokens and token ownership, distributing dividends, broadcasting data using Counterparty broadcasts, signing messages and transactions, using the Counterparty Decentralized exchange for all asset types, an integrated exchange interface for the Counterparty DEx and Dispensers (including dispenser watchlists), multiple addresses support (including Segwit addresses), add-on password functionality, QR codes for public addresses, Counterwallet and BIP-39 seed types, reset token divisibility status, support of the BTCpay mechanisms for trading against BTC pairs on Counterparty, the Multi-send functionality and much more. Freewallet Mobile version is avaliable on the App Store (for Mac) and Google Play Store (for Android) and many users start with the mobile wallet, but this mobile version has not been updated since March 15, 2019 and does not include a vast majority of Counterparty features. So it is recommended to use the standalone Desktop version as it is updated and maintained more regularly. The Freewallet.io website also includes a community created User Manual (written by davesta) and a community supported Telegram chat for users to ask questions regarding Freewallet functionality. Since the underlying code was and has always been public, new developers such as Noop have used the base functionality/code of Freewallet to develop NinjaWallet later in time. It is also highly recommended to verify that you as a user are downloading the correct wallet from Freewallet.io as other wallets (that do not support Counterparty) have a similar name but are not at all connected to this Counterparty specific wallet.",
+    "links": [
+      {
+        "label": "This wallet is now the most up-to-date and most commonly used wallet",
+        "href": "https://freewallet.io/"
+      },
+      {
+        "label": "open-source Counterparty wallet",
+        "href": "https://github.com/jdogresorg/freewallet-desktop"
+      },
+      {
+        "label": "a community created User Manual",
+        "href": "https://davestaxcp.gitbook.io/freewallet.io-user-manual"
+      },
+      {
+        "label": "as mentioned in his ZeroG interview",
+        "href": "https://www.youtube.com/watch?v=gcgsZmo7EJU"
+      }
+    ]
+  },
+  {
+    "dateRange": {
+      "start": "2016-10-03",
+      "end": null
+    },
+    "timeRange": {
+      "start": 1475452800,
+      "end": null
+    },
+    "Wallet": true,
+    "Event": "Rare Pepe Wallet",
+    "Significance": "This browser-based mobile-friendly wallet, created by Joe Looney, was the first Counterparty wallet to be specifically geared for use with the Rare Pepe collection. Joe explains in an interview with ZeroG that this UI was somewhat of a base layer clone of the Book of Orbs wallet, but re-skinned to be used for Rare Pepes. Originally this was hosted on 'RarePepeWallet.com', but was later moved to the URL: 'RarePepeWallet.wtf'. The new version of this wallet also supports ease of use on a mobile device, minting tokens within the wallet using the Inter-Planetary File System (IPFS), and even was used in the Fest Rares collection to give users an in-person free mint pass to create custom pepe art. Traders using this wallet can use simple Bitcoin functionality, card for card trading using the Counterparty Decentralized Exchange, as well as buying and selling assets using PEPECASH/XCP (which was the most common way to trade Rare Pepe's in 2016-2019). This wallet is also very known for labeling all 'non-RarePepe' assets as 'Fake Rares' as was a cultural custom in the Rare Pepe community, though access to all types of Counterparty tokens owned is supported within the user interface. This wallet also historically had a 'gift-card' feature to easily gift new users a card by redeeming a one-time-use code. These codes were also commonly hidden within Rare Pepe submission art as well as image metadata.",
+    "links": [
+      {
+        "label": "browser-based mobile-friendly wallet",
+        "href": "https://rarepepewallet.wtf/"
+      },
+      {
+        "label": "in an interview with ZeroG",
+        "href": "https://youtu.be/fh54uwX8sKc?si=cUqx7bv78lDTAbAB"
+      }
+    ]
+  },
+  {
+    "dateRange": {
+      "start": "2018-09-19",
+      "end": null
+    },
+    "timeRange": {
+      "start": 1537315200,
+      "end": null
+    },
+    "Wallet": true,
+    "Event": "CasaTookan",
+    "Significance": "Casa Tookan, also developed by EverdreamSoft, is one of the first multi-chain Counterparty wallets. The wallet offers users a place to hold tokens from both the Bitcoin and Ethereum blockchains. Counterparty users from the BitCrystals ecosystem can also especially find themselves in a new world of cross-chain compatibility because of the ease of use with Spells of Genesis, CryptoKitties, SuperRare and other blockchain applications with Casa Tookan's built-in DApp browser. Casa Tookan is available in the App Store and Google Play store as a user-friendly mobile wallet for use on Apple and Android phones.",
+    "links": [
+      {
+        "label": "one of the first multi-chain Counterparty wallets",
+        "href": "https://crystalsuite.com/casa-tookan-wallet/"
+      }
+    ]
+  },
+  {
+    "dateRange": {
+      "start": "2019-02-10",
+      "end": null
+    },
+    "timeRange": {
+      "start": 1549756800,
+      "end": null
+    },
+    "Wallet": true,
+    "Event": "Freeport",
+    "Significance": "This is an open-source browser-based wallet created by Joe Looney and functions as a Google Chrome extension. Freeport supports Bitcoin functionality as well as Counterparty token functionality such as trading on the Counterparty DEX and creating tokens within the application. While this wallet is avaliable in the Chrome Web Store, it has not been updated since 2022 and Joe will commonly focus on updating RarePepeWallet before updating Freeport.",
+    "links": [
+      {
+        "label": "open-source browser-based wallet",
+        "href": "https://github.com/loon3/Freeport-extension"
+      },
+      {
+        "label": "is avaliable in the Chrome Web Store",
+        "href": "https://chromewebstore.google.com/detail/freeport/hbggjmemphljoifppaekgpohndiinfeb"
+      }
+    ]
+  },
+  {
+    "dateRange": {
+      "start": "2015-05-03",
+      "end": "2019-11-01"
+    },
+    "timeRange": {
+      "start": 1430611200,
+      "end": 1572566400
+    },
+    "Wallet": true,
+    "Event": "IndieSquare Wallet",
+    "Significance": "IndieSquare Wallet was the first mobile wallet of its kind to allow for the buying/selling/sending/receiving of cryptocurrency tokens using the Counterparty protocol. This open-source wallet was built atop of the bitcoin blockchain and offered smartphone users the ability to send and receive Bitcoin/Tokens and use the Counterparty decentralized exchange with client-side encryption. This wallet also offered the ability to issue their own tokens and display fiat values in a users' local currency. The wallet was built with mainstream conveniences in mind, such as push notifications, touch id authorization and even contemporary updates to Counterparty at the time like the sweep function. This wallet was also historically used in the Sarutobi game as well as the Takara project, but was discontinued in late 2019. While the company and its resources ran into hard times in 2018, this wallet was very significant to the Counterparty ecosystem and definitely historically notable.",
+    "links": [
+      {
+        "label": "IndieSquare Wallet",
+        "href": "https://github.com/IndieSquare/indiesquare-wallet"
+      }
+    ]
+  },
+  {
+    "dateRange": {
+      "start": "2018-01-03",
+      "end": null
+    },
+    "timeRange": {
+      "start": 1514937600,
+      "end": null
+    },
+    "Wallet": true,
+    "Event": "Monya",
+    "Significance": "Monya is a browser-based wallet created to interact with Counterparty and a historic Japanese protocol that forked the counterparty code called Monaparty. Monya offers a browser style wallet, an app in the Apple Mac store and an app in the Google Play store. This wallet is cross-platform and offers support for Bitcoin (including Segwit addresses), Counterparty and Monaparty. Monya also offers support for BIP44/49, BIP39, Multi-sig transactions, on-chain messaging, token creation, sending by simply typing an '@name' instead of manual address sends and more. As mentioned on their github, the name 'Monya' comes from a tweet where 'Kanemitsu Midori, who is CFO of bitFlyer, said Monya' in relation to the company bitFlyer offering Monacoin support in October of 2017.",
+    "links": [
+      {
+        "label": "Monya is a browser-based wallet",
+        "href": "https://github.com/IndieSquare/indiesquare-wallet"
+      }
+    ]
+  },
+  {
+    "dateRange": {
+      "start": "2023-08-15",
+      "end": null
+    },
+    "timeRange": {
+      "start": 1692057600,
+      "end": null
+    },
+    "Wallet": true,
+    "Event": "NinjaWallet",
+    "Significance": "NinjaWallet is a closed-source browser based wallet specifically geared towards the Counterparty Stamp and SRC20 ecosystem. This wallet was developed by Noop and was originally formed from the open-source code from the Freewallet Desktop Github. NinjaWallet includes support for simple Bitcoin transactions and complex Counterparty functions such as: sending and receiving numeric assets (stamps), the minting of stamps within collections, bulk minting custom-made individual stamps, trading stamps using dispensers or using the Counterparty Decentralized Exchange, multi-send functionality, destruction/burning of stamps, minting/deploying/transferring SRC20 tokens, and a transaction accelerator. A great place to learn about this wallet and all of its features is the User Manual/FAQ included on the StampedNinja website. This wallet has a version specifically geared towards Stamps and SRC20, and another version for all XCP assets as well as Stamps and SRC20.",
+    "links": [
+      {
+                "label": "the User Manual/FAQ included",
+                "href": "https://stampedninja.gitbook.io/stamped.ninja/ninjawallet-faq"
+            },
+            {
+                "label": "StampedNinja website",
+                "href": "https://stamped.ninja/"
+            },
+            {
+                "label": "a version specifically geared towards Stamps and SRC20",
+                "href": "https://wallet.stamped.ninja/"
+            },
+            {
+                "label": "another version for all XCP assets",
+                "href": "https://wallet.xcp.ninja/"
+            }
+        ]
+    },
+    {
+        "Date": "2014-10-07",
+        "Time": "1412640000",
+        "Fork": true,
+        "Event": "Overstock",
+        "Significance": "Originally posted on the Counterparty website, CEO of Overstock.com Patrick Byrne decided to hire Counterparty Developers to create a blockchain based system for Overstock. They created a project code-named Medici, which was a 'front-end and portal to the decentralized stock exchange of the Counterparty platform'. Since the Counterparty Decentralized Exchange had become popular at this time, this cryptographic layer aimed to re-create the Counterparty Decentralized Exchange while also going through a private process of regulatory compliance. In a Coindesk article Byrne said, '[Counterparty] is true to the ethics of bitcoin, true to the open-source nature, they're true to the principles.' While this venture was closed in April of 2021, Overstock stated in the press release, 'We remain bullish on blockchain technology and are excited for Medici Ventures to enter this new post-closing phase' and also go on to mention they would be shifting focus to their 'core e-commerce business'.",
+        "links": [
+            {
+                "label": "In a Coindesk article",
+                "href": "https://www.coindesk.com/markets/2014/10/07/overstock-hires-counterparty-developers-to-build-cryptosecurity-stock-exchange/"
+            },
+            {
+                "label": "in the press release",
+                "href": "https://www.sec.gov/Archives/edgar/data/1130713/000119312521130399/d150210dex991.htm"
+            },
+            {
+                "label": "Originally posted on the Counterparty website",
+                "href": "https://web.archive.org/web/20230930085411/https://counterparty.io/news/counterparty-and-overstock-to-create-decentralized-stock-exchange/"
+            }
+        ]
+    },
+    {
+        "Date": "2014-10-07",
+        "Time": "1412640000",
+        "Fork": true,
+        "Event": "Monaparty",
+        "Significance": "Monaparty was launched on top of Monacoin, which was considered Japan's first cryptocurrency. It is modeled from the Counterparty protocol and is similar to 2014 Dogecoin token asset platform Dogeparty. Monacoin is a Proof-of-Work Blockchain that operates off of the Lyra2RE(v2) algorithm with a 1.5 Minute Block Time and a reward of 12.5 MONA. This platform is considered historical in the Counterparty Community as it was one of the first to use Counterparty's open source code to create an entirely separate platform. This platform allows the Monaparty community to issue unique tokens inclusive of Art, Music, Trading Cards, Community Tokens, Unlock Tokens, and much more.",
+        "links": [
+            {
+                "label": "Monaparty community",
+                "href": "https://x.com/MonapartyXMP"
+            },
+            {
+                "label": "Japan's first cryptocurrency",
+                "href": "https://monacoin.org/"
+            },
+            {
+                "label": "token asset platform Dogeparty",
+                "href": "https://dogeparty.net/"
+            },
+            {
+                "label": "Monacoin",
+                "href": "https://github.com/monacoinproject/monacoin"
+            }
+        ]
+    },
+  {
+    "dateRange": {
+      "start": "2013-12-15",
+      "end": "2018-01-01"
+    },
+    "timeRange": {
+      "start": "1387065600",
+      "end": "1514764800"
+    },
+    "Leaddev": true,
+    "Event": "Devon Weller",
+    "Significance": "Devon Weller was the Lead Maintainer for Counterparty Protocol and Github from 2013-2018"
+  },
+  {
+    "dateRange": {
+      "start": "2018-01-02",
+      "end": "2019-12-13"
+    },
+    "timeRange": {
+      "start": "1514851200",
+      "end": "1576195200"
+    },
+    "Leaddev": true,
+    "Event": "John Villar",
+    "Significance": "John Villar was the Lead Maintainer for Counterparty Protocol and Github from 2018-2019"
+  },
+  {
+    "dateRange": {
+      "start": "2019-12-14",
+      "end": "2024-01-01"
+    },
+    "timeRange": {
+      "start": "1576281600",
+      "end": "1704067200"
+    },
+    "Leaddev": true,
+    "Event": "Jeremy Johnson",
+    "Significance": "Jeremy Johnson was the Lead Maintainer for Counterparty Protocol and Github from 2019-2024"
+  },
+  {
+    "dateRange": {
+      "start": "2024-01-01",
+      "end": null
+    },
+    "timeRange": {
+      "start": "1576281600",
+      "end": null
+    },
+    "Leaddev": true,
+    "Event": "Adam Krellenstein",
+    "Significance": "Adam Krellenstein is the Lead Maintainer for Counterparty Protocol/Github from 2024 till the present."
+  }
 ]
