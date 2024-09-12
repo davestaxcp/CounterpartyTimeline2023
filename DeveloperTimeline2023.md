@@ -899,3 +899,52 @@ https://stamped.ninja/ https://stampedninja.gitbook.io/stamped.ninja/ninjawallet
 
 ---
 ---
+
+## Protocol Forks of Counterparty
+
+---
+
+Overstock - 2014-10-07
+
+Significance: Originally posted on the Counterparty website, CEO of Overstock.com Patrick Byrne decided to hire Counterparty Developers to create a blockchain based system for Overstock. They created a project code-named Medici, which was a 'front-end and portal to the decentralized stock exchange of the Counterparty platform'. Since the Counterparty Decentralized Exchange had become popular at this time, this cryptographic layer aimed to re-create the Counterparty Decentralized Exchange while also going through a private process of regulatory compliance. In a Coindesk article Byrne said, '[Counterparty] is true to the ethics of bitcoin, true to the open-source nature, they're true to the principles.' While this venture was closed in April of 2021, Overstock stated in the press release, 'We remain bullish on blockchain technology and are excited for Medici Ventures to enter this new post-closing phase' and also go on to mention they would be shifting focus to their 'core e-commerce business'.
+
+Related Links: https://www.coindesk.com/markets/2014/10/07/overstock-hires-counterparty-developers-to-build-cryptosecurity-stock-exchange/ 
+https://www.sec.gov/Archives/edgar/data/1130713/000119312521130399/d150210dex991.htm
+https://web.archive.org/web/20230930085411/https://counterparty.io/news/counterparty-and-overstock-to-create-decentralized-stock-exchange/
+
+---
+
+Monaparty - 2014-10-07
+
+Significance: Monaparty was launched on top of Monacoin, which was considered Japan's first cryptocurrency. It is modeled from the Counterparty protocol and is similar to 2014 Dogecoin token asset platform Dogeparty. Monacoin is a Proof-of-Work Blockchain that operates off of the Lyra2RE(v2) algorithm with a 1.5 Minute Block Time and a reward of 12.5 MONA. This platform is considered historical in the Counterparty Community as it was one of the first to use Counterparty's open source code to create an entirely separate platform. This platform allows the Monaparty community to issue unique tokens inclusive of Art, Music, Trading Cards, Community Tokens, Unlock Tokens, and much more.
+
+Related Links: https://x.com/MonapartyXMP
+https://monacoin.org/
+https://dogeparty.net/
+https://github.com/monacoinproject/monacoin
+
+---
+---
+
+## Lead Developers of Counterparty
+
+---
+
+Devon Weller - Dec 15, 2013 to Jan 1, 2018
+
+---
+
+John Villar - Jan 2, 2018 to Dec 13, 2019
+
+---
+
+Jeremy Johnson - Dec 14, 2019 to Jan 1, 2024
+
+---
+
+Adam Krellenstein - Jan 1, 2024 to present
+
+---
+---
+
+
