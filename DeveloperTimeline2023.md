@@ -891,13 +891,9 @@ https://github.com/monya-wallet/monya
 
 ---
 
-NinjaWallet - ? to Present
+NinjaWallet - August 15, 2023? to Present
 
-NinjaWallet is a closed-source browser based wallet specifically geared towards the Counterparty Stamp and SRC20 ecosystem. This wallet was developed by Noop and was originally formed from the open-source code from the Freewallet Desktop Github.
-
-NinjaWallet includes support for simple Bitcoin transactions and complex Counterparty functions such as: sending and receiving numeric assets (stamps), the minting of stamps within collections, bulk minting custom-made individual stamps, trading stamps using dispensers or using the Counterparty Decentralized Exchange, multi-send functionality, destruction/burning of stamps, minting/deploying/transferring SRC20 tokens, and a transaction accelerator.
-
-A great place to learn about this wallet and all of its features is the User Manual/FAQ included on the StampedNinja website.
+NinjaWallet is a closed-source browser based wallet specifically geared towards the Counterparty Stamp and SRC20 ecosystem. This wallet was developed by Noop and was originally formed from the open-source code from the Freewallet Desktop Github. NinjaWallet includes support for simple Bitcoin transactions and complex Counterparty functions such as: sending and receiving numeric assets (stamps), the minting of stamps within collections, bulk minting custom-made individual stamps, trading stamps using dispensers or using the Counterparty Decentralized Exchange, multi-send functionality, destruction/burning of stamps, minting/deploying/transferring SRC20 tokens, and a transaction accelerator. A great place to learn about this wallet and all of its features is the User Manual/FAQ included on the StampedNinja website. This wallet has a version specifically geared towards Stamps and SRC20, and another version for all XCP assets as well as Stamps and SRC20.
 
 https://stamped.ninja/ https://stampedninja.gitbook.io/stamped.ninja/ninjawallet-faq https://wallet.stamped.ninja/ https://wallet.xcp.ninja/
 
