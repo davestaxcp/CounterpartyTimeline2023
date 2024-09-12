@@ -836,7 +836,7 @@ https://youtu.be/gcgsZmo7EJU?si=EN9OF4CIAdbXDUN_
 
 Rare Pepe Wallet - Oct 3, 2016? to Present
 
-This browser-based mobile-friendly wallet, created by Joe Looney, was the first Counterparty wallet to be specifically geared for use with the Rare Pepe collection. Joe explains in any interview with ZeroG that this UI was somewhat of a base layer clone of the Book of Orbs wallet, but re-skinned to be used for Rare Pepes.
+This browser-based mobile-friendly wallet, created by Joe Looney, was the first Counterparty wallet to be specifically geared for use with the Rare Pepe collection. Joe explains in an interview with ZeroG that this UI was somewhat of a base layer clone of the Book of Orbs wallet, but re-skinned to be used for Rare Pepes.
 
 Originally this was hosted on 'RarePepeWallet.com', but was later moved to the URL: 'RarePepeWallet.wtf'. The new version of this wallet also supports ease of use on a mobile device, minting tokens within the wallet using the Inter-Planetary File System (IPFS), and even was used in the Fest Rares collection to give users an in-person free mint pass to create custom pepe art. Traders using this wallet can use simple Bitcoin functionality, card for card trading using the Counterparty Decentralized Exchange, as well as buying and selling assets using PEPECASH/XCP (which was the most common way to trade Rare Pepe's in 2016-2019).
 
