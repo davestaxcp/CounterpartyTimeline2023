@@ -640,7 +640,7 @@ Date: **Not Active Yet - Drafted: May 31, 2024**
 
 Timeline Topic: **Subassets on Numerics**
 
-Significance: This proposal invites the Counterparty protocol to introduce subassets on numeric tokens. While this is already possible with named assets and is somewhat of a simple upgrade, this proposal mainly incorporates a new token 'meta-protocol' that introduces a 'runes-like' functionality with subassets on numerics. This means these numeric subassets 'can be leveraged to create Runes-like, but better, tokenization standard'. This proposal brings together the Fair Mint proposal, Elimination of Fees on Subassets and this Subassets on Numerics porposal to introduce an new contemporary token standard using Counterparty.
+Significance: This proposal invites the Counterparty protocol to introduce subassets on numeric tokens. While this is already possible with named assets and is somewhat of a simple upgrade, this proposal also includes documentation for using this new functionality for 'Glyphs'. Issuing subassets on Numerics, MikeInSpace proposes, incorporates a new token 'meta-protocol' that can introduce a 'runes-like' functionality with subassets on numerics. This means these numeric subassets 'can be leveraged to create a Runes-like, but better, tokenization standard'. This proposal brings together the Fair Mint proposal, Elimination of Fees on Subassets and this much simpler Subassets on Numerics porposal to introduce an new contemporary token standard using Counterparty.
 
 Related Links: https://github.com/CounterpartyXCP/counterparty-core/issues/1842
 https://github.com/CounterpartyXCP/counterparty-core/pull/2195
