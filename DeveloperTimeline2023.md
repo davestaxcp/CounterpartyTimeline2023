@@ -636,7 +636,7 @@ Author: Adam Krellenstein
 
 ---
 
-Date: **Not Active Yet - Drafted: May 31, 20**
+Date: **Not Active Yet - Drafted: May 31, 2024**
 
 Timeline Topic: **Subassets on Numerics**
 
