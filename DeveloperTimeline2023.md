@@ -712,7 +712,7 @@ https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v10.2.0
 
 counterparty-lib v9.61.0 - Nov 17, 2023
 
-This was a large release that included: bumbing bitcoin core version to 25.1, adding an 'origin' field to dispensers which (which allowed for refilling/closing/reopening dispensers from the origin address), added a delay to dispenser closing of 5 blocks, added a dynamic XCP fee on the sweep function, and resolved a large number of bugs.
+This was a large release that included: updating bitcoin core version to 25.1, adding an 'origin' field to dispensers which (which allowed for refilling/closing/reopening dispensers from the origin address), added a delay to dispenser closing of 5 blocks, added a dynamic XCP fee on the sweep function, and resolved a large number of bugs.
 
 Jeremy Johnson
 
