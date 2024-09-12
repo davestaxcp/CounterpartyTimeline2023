@@ -885,7 +885,7 @@ https://github.com/IndieSquare/indiesquare-wallet
 
 Monya - Jan 3, 2018 to Present
 
-Monya is a Japanese wallet created to interact with Counterparty and a protocol that forked the counterparty code called Monaparty. Monya offers a browser style wallet, an app in the Apple Mac store and an app in the Google Play store. This wallet is cross-platform and offers support for Bitcoin (including Segwit addresses), Counterparty and Monaparty. Monya also offers support for BIP44/49, BIP39, Multi-sig transactions, on-chain messaging, token creation, sending by simply typing an '@name' instead of manual address sends and more. As mentioned on their github, the name 'Monya' comes from a tweet where 'Kanemitsu Midori, who is CFO of bitFlyer, said Monya' in relation to the company bitFlyer offering Monacoin support in October of 2017.
+Monya is a browser-based wallet created to interact with Counterparty and a historic Japanese protocol that forked the counterparty code called Monaparty. Monya offers a browser style wallet, an app in the Apple Mac store and an app in the Google Play store. This wallet is cross-platform and offers support for Bitcoin (including Segwit addresses), Counterparty and Monaparty. Monya also offers support for BIP44/49, BIP39, Multi-sig transactions, on-chain messaging, token creation, sending by simply typing an '@name' instead of manual address sends and more. As mentioned on their github, the name 'Monya' comes from a tweet where 'Kanemitsu Midori, who is CFO of bitFlyer, said Monya' in relation to the company bitFlyer offering Monacoin support in October of 2017.
 
 https://github.com/monya-wallet/monya
 
