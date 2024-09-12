@@ -867,7 +867,7 @@ Freeport supports Bitcoin functionality as well as Counterparty token functional
 
 While this wallet is avaliable in the Chrome Web Store, it has not been updated since 2022 and Joe will commonly focus on updating RarePepeWallet before updating Freeport.
 
-https://github.com/loon3/Freeport-extension https://chromewebstore.google.com/detail/freeport/hbggjmemphljoifppaekgpohndii
+https://github.com/loon3/Freeport-extension https://chromewebstore.google.com/detail/freeport/hbggjmemphljoifppaekgpohndiinfeb
 
 ---
 
