@@ -871,13 +871,13 @@ https://github.com/loon3/Freeport-extension https://chromewebstore.google.com/de
 
 ---
 
-IndieSquare Wallet - May 3, 2015 to ?
+IndieSquare Wallet - May 3, 2015 to (Mid to late 2019)
 
-IndieSquare Wallet was the first mobile wallet of its kind to allow for the buying and selling, sending and receiving, of cryptocurrency using the counterparty protocol.
+IndieSquare Wallet was the first mobile wallet of its kind to allow for the buying/selling/sending/receiving of cryptocurrency tokens using the Counterparty protocol.
 
-This open-source wallet was built atop of the bitcoin blockchain and offered smartphone users the ability to send and receive tokens in the Counterparty decentralized exchange with client-side encryption; as well as the ability to issue their own tokens with its value in a users' local currency. The wallet was also built with mainstream conveniences in mind, such as push notifications, touch id authorization and even Counterparty Improvement Proposal upgrades like the sweep function.
+This open-source wallet was built atop of the bitcoin blockchain and offered smartphone users the ability to send and receive Bitcoin/Tokens and use the Counterparty decentralized exchange with client-side encryption. This wallet also offered the ability to issue their own tokens and display fiat values in a users' local currency. The wallet was built with mainstream conveniences in mind, such as push notifications, touch id authorization and even contemporary updates to Counterparty at the time like the sweep function.
 
-This wallet was also historically used in the Sarutobi game as well as the Takara project, but was discontinued in ?.
+This wallet was also historically used in the Sarutobi game as well as the Takara project, but was discontinued in late 2019. While the company and its resources ran into hard times in 2018, this wallet was very significant to the Counterparty ecosystem and definitely historically notable. 
 
 https://github.com/IndieSquare/indiesquare-wallet
 
