@@ -29,11 +29,13 @@ The markdown files include the information shown on the Time.Graphics timeline i
 ---
 
 [Counterparty Developer Timeline Data in Markdown Format](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/DeveloperTimelineEntries.md)
+
 [Counterparty Developer Timeline Data (JSON version)](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/DeveloperTimelineEntries.json)
 
 ---
 
 [Counterparty Token/Project Timeline Data in Markdown Format](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/TokenTimelineEntries.md)
+
 [Counterparty Token/Project Timeline Data (JSON version)](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/TokenTimelineEntries.json)
 
 ---
