@@ -231,22 +231,6 @@ Fest Rares is a definitive first of its kind in the Counterparty Community and w
 
 ---
 
-More Research and feedback is needed before adding these collections below:
-
-| The Nakamotos | thenakamotos.club | Unique PFPs tied to each of the Nakamotos cards (RAREPEPE) 
-
-| Phunchkins | https://phunchkins.com/ | https://web.archive.org/web/20231208182144/https://phunchkins.com/
-
-| Pepemon | https://pepemon.net/ |
-
-| Wojak NPC | https://wojaknpc.com/ |
-
-| Gameicon | EverdreamSoft?? | https://x.com/CounterpartyMkt/status/1833075805536080280
-
-| PepeVote | |
-
----
-
 ## Historic Tokens/Projects to be Added
 
 ---
@@ -327,72 +311,6 @@ https://x.com/Peter_Bock
 https://tokenscan.io/asset/MOUNTAINHOME
 
 https://tokenscan.io/asset/BUDDHAOFCOIN
-
-
-
----
-
-~~include more on BOMB and Adeally: https://twitter.com/LiteBitCo/status/1782623256068972924 - https://twitter.com/LiteBitCo/status/1783121258252570796~~
-~~Update SALVATION with more history and notes from JPJA - https://jpjanssen.com/salvation-2015-participatory-art-nft/~~
-
----
-
-Tokens that need further research:
-
-
-- XCPTORCH.Chiguireitor - 2019-03-02 - https://xchain.io/asset/XCPTORCH - related to Lightning Torch? Predated by DUTCHIE? - (1/1 NFT's passing between people who add content to the token) - influenced FAKETORCH in Fake Rares
-- Bitcoin Comic https://bitcoincomic.org/ - https://x.com/BitcoinComic - https://tokenscan.io/asset/COMICBOOK - https://tokenscan.io/asset/COMICCOIN - relation to SWARM..??... seems there are a few more tokens connected to this as well as SWARM
-- lots of tokens not mentioned related to Lets Talk Bitcoin - https://tokenscan.io/asset/BOOKKEEPER
-- 2019-03-11 – GESAMTKUNSTW.ERK – https://medium.com/chain-of-thoughts/must-we-all-become-a-gesamtkunstwerk-b72fa6098930 - first tokenized article with a Nathan copymint on XCP??
-- CoinAndPeace blog (and token gated access to read it) by Koji (https://tokenscan.io/asset/CNPCOIN)
-- First serialized NFTs for a poker website?: https://forums.counterparty.io/t/ann-bitnplay-a-new-age-for-poker-partner-tokens/676 - found from: https://jpjanssen.com/a-timeline-of-non-fungible-tokens-on-counterparty/ - Bitcointalk forum post: https://bitcointalk.org/index.php?topic=906422 - "BNPXX" token 1/1 types: https://xchain.io/search?query=BNP
-- THEDEVSTAR - https://x.com/jp_janssen/status/1577919227754942465
-- PETAMINE, EARNFREEBTC, XBTC and SPECULATE: https://forums.counterparty.io/t/petamine-mine-bitcoins-with-your-counterwallet/390 - https://forums.counterparty.io/t/ann-speculate-weekly-payouts/503 - https://forums.counterparty.io/t/ann-earnfreebtc-earn-weekly-dividends/313
-- Searching for the first XCP asset to use an Ordinal Description
-- SEIMEI - 2018
-- The Augmentor's Game - seen on SharkTank? - https://steemit.com/games/@tonylondon/the-augmentor-s-game - GENOFLIGHT as Augmentor card but also in SOG - playable in SOG! - issued by? https://xchain.io/address/1Rjkk2nrfmFbYN3fvxkdsEQi6QtJPnWKS
-- First Augmented Reality token? Before Fake Rare?
-- Firsts in Fake Rare? FakeDust (music player/multi layered token) - others?
-- First 3D designed art on an XCP token?
-- https://xchain.io/asset/TITFORTAT
-- https://xchain.io/asset/BLINGZ
-- https://xchain.io/asset/DIAMONDBOND
-- https://xchain.io/asset/STEEMSTARS
-- https://xchain.io/asset/TAHI
-- https://xchain.io/asset/HQLEADERS
-- https://xchain.io/asset/KEVCOIN
-- https://xchain.io/asset/NOVATOKEN
-- Tatiana Coin - original art replacement,  go into more about later albums and art - Everyday Earth designed logo - launched by bidding on a daily basis - less bids more tokens, more bids less tokens (CoinPowers? also ran through tatiana site) - first person to see Ross in jail from XCP community - attention to political prisoner and contentious topic, influenced artist freedom rights for selling uncensorable tokens
-- Tokenly wallet by Adam Levine- 'Tokenly Pockets' - included dispensers, DEx etc etc
-
----
-
-## Development Drafts to be Added
-
-- ~~since CIP's are now archived, all CIP links will need to be re-linked: https://github.com/CounterpartyXCP/Forum/tree/1e362f7f8668654d0241fe5b1f1c1c330a8b4368~~
-
-- ~~almost all historical Counterparty News Updates and Roadmap posts have been removed (or moved somehwhere I cannot find) on the Counterparty website: https://web.archive.org/web/20230602061352/https://counterparty.io/roadmap/~~
-
-- ~~add previously unmentioned CIP drafts: CIP 3 (Reset Token & Divisibility Statuses for Unused Asset)~~
-
-- ~~updating information for CIP 5: Voting Meta Protocol through Broadcasts~~
-
-- ~~add story of "Destroy" function and relation to BITCORN.GLASSES: [https://github.com/CounterpartyXCP/counterparty-core/pull/1006](https://github.com/CounterpartyXCP/counterparty-core/pull/1006)~~
-
-- ~~include return of Adam Krellenstein and team and include Counterparty Whitepaper https://krellenstein.com/adam/get/counterparty-whitepaper_2024-03-29.pdf~~
-
-- ~~Include maintainer list (new color shematic) and dev's who have contributed commits: https://github.com/CounterpartyXCP/counterparty-core/graphs/contributors
-Lead Maintainers: Devon Weller 2014-2017 / John Villar 2017-2019 / Jeremy Johnson 2019-2024 / Adam Krellenstein 2024-Present~~
-
-- ~~add [PSBT Support via attaching assets to UTXOs](https://github.com/CounterpartyXCP/Forum/discussions/134) even though it was not 'officially' a CIP since CIP discussions are now archived - introduce in relation to The Counterparty Whitepaper by Adam~~
-
-- taproot address support - https://github.com/CounterpartyXCP/counterparty-core/issues/1241
-
-- fair minting - https://github.com/CounterpartyXCP/counterparty-core/issues/1843
-
-- eliminate fee on subasset registration - https://github.com/CounterpartyXCP/counterparty-core/issues/1840
-
-- Subasset on Numerics and Glyphs - https://github.com/CounterpartyXCP/counterparty-core/issues/1842
 
 ---
 
@@ -563,21 +481,6 @@ This was an incremental upgrade with numerous bug fixes and performance enhancem
 Robby Dermody
 
 https://github.com/CounterpartyXCP/counterparty-core/releases/tag/9.53.0
-
----
----
-
-## Blockchain/Github Data to be Shown Visually
-
----
-
-- overlay Bitcoin Price above mid line
-
-- overlay XCP Price above mid line
-
-- overlay Commits graphic below mid line: ![Untitled](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/1dd41766-f0ee-427c-a708-297b2e350cc0)
-
-- overlay Number of XCP transactions below mid line
 
 ---
 
@@ -873,6 +776,100 @@ https://wallet.xcp.ninja/
 
 
 ---
+---
+
+## Blockchain/Github Data to be Shown Visually
+
+---
+
+- overlay Bitcoin Price above mid line
+
+- overlay XCP Price above mid line
+
+- overlay Commits graphic below mid line: ![Untitled](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/1dd41766-f0ee-427c-a708-297b2e350cc0)
+
+- overlay Number of XCP transactions below mid line
+
+---
+
+## Development Drafts to be Added
+
+- ~~since CIP's are now archived, all CIP links will need to be re-linked: https://github.com/CounterpartyXCP/Forum/tree/1e362f7f8668654d0241fe5b1f1c1c330a8b4368~~
+
+- ~~almost all historical Counterparty News Updates and Roadmap posts have been removed (or moved somehwhere I cannot find) on the Counterparty website: https://web.archive.org/web/20230602061352/https://counterparty.io/roadmap/~~
+
+- ~~add previously unmentioned CIP drafts: CIP 3 (Reset Token & Divisibility Statuses for Unused Asset)~~
+
+- ~~updating information for CIP 5: Voting Meta Protocol through Broadcasts~~
+
+- ~~add story of "Destroy" function and relation to BITCORN.GLASSES: [https://github.com/CounterpartyXCP/counterparty-core/pull/1006](https://github.com/CounterpartyXCP/counterparty-core/pull/1006)~~
+
+- ~~include return of Adam Krellenstein and team and include Counterparty Whitepaper https://krellenstein.com/adam/get/counterparty-whitepaper_2024-03-29.pdf~~
+
+- ~~Include maintainer list (new color shematic) and dev's who have contributed commits: https://github.com/CounterpartyXCP/counterparty-core/graphs/contributors
+Lead Maintainers: Devon Weller 2014-2017 / John Villar 2017-2019 / Jeremy Johnson 2019-2024 / Adam Krellenstein 2024-Present~~
+
+- ~~add [PSBT Support via attaching assets to UTXOs](https://github.com/CounterpartyXCP/Forum/discussions/134) even though it was not 'officially' a CIP since CIP discussions are now archived - introduce in relation to The Counterparty Whitepaper by Adam~~
+
+- taproot address support - https://github.com/CounterpartyXCP/counterparty-core/issues/1241
+
+- fair minting - https://github.com/CounterpartyXCP/counterparty-core/issues/1843
+
+- eliminate fee on subasset registration - https://github.com/CounterpartyXCP/counterparty-core/issues/1840
+
+- Subasset on Numerics and Glyphs - https://github.com/CounterpartyXCP/counterparty-core/issues/1842
+
+---
+
+Tokens that need further research:
+
+
+- XCPTORCH.Chiguireitor - 2019-03-02 - https://xchain.io/asset/XCPTORCH - related to Lightning Torch? Predated by DUTCHIE? - (1/1 NFT's passing between people who add content to the token) - influenced FAKETORCH in Fake Rares
+- Bitcoin Comic https://bitcoincomic.org/ - https://x.com/BitcoinComic - https://tokenscan.io/asset/COMICBOOK - https://tokenscan.io/asset/COMICCOIN - relation to SWARM..??... seems there are a few more tokens connected to this as well as SWARM
+- lots of tokens not mentioned related to Lets Talk Bitcoin - https://tokenscan.io/asset/BOOKKEEPER
+- 2019-03-11 – GESAMTKUNSTW.ERK – https://medium.com/chain-of-thoughts/must-we-all-become-a-gesamtkunstwerk-b72fa6098930 - first tokenized article with a Nathan copymint on XCP??
+- CoinAndPeace blog (and token gated access to read it) by Koji (https://tokenscan.io/asset/CNPCOIN)
+- First serialized NFTs for a poker website?: https://forums.counterparty.io/t/ann-bitnplay-a-new-age-for-poker-partner-tokens/676 - found from: https://jpjanssen.com/a-timeline-of-non-fungible-tokens-on-counterparty/ - Bitcointalk forum post: https://bitcointalk.org/index.php?topic=906422 - "BNPXX" token 1/1 types: https://xchain.io/search?query=BNP
+- THEDEVSTAR - https://x.com/jp_janssen/status/1577919227754942465
+- PETAMINE, EARNFREEBTC, XBTC and SPECULATE: https://forums.counterparty.io/t/petamine-mine-bitcoins-with-your-counterwallet/390 - https://forums.counterparty.io/t/ann-speculate-weekly-payouts/503 - https://forums.counterparty.io/t/ann-earnfreebtc-earn-weekly-dividends/313
+- Searching for the first XCP asset to use an Ordinal Description
+- SEIMEI - 2018
+- The Augmentor's Game - seen on SharkTank? - https://steemit.com/games/@tonylondon/the-augmentor-s-game - GENOFLIGHT as Augmentor card but also in SOG - playable in SOG! - issued by? https://xchain.io/address/1Rjkk2nrfmFbYN3fvxkdsEQi6QtJPnWKS
+- First Augmented Reality token? Before Fake Rare?
+- Firsts in Fake Rare? FakeDust (music player/multi layered token) - others?
+- First 3D designed art on an XCP token?
+- https://xchain.io/asset/TITFORTAT
+- https://xchain.io/asset/BLINGZ
+- https://xchain.io/asset/DIAMONDBOND
+- https://xchain.io/asset/STEEMSTARS
+- https://xchain.io/asset/TAHI
+- https://xchain.io/asset/HQLEADERS
+- https://xchain.io/asset/KEVCOIN
+- https://xchain.io/asset/NOVATOKEN
+- Tatiana Coin - original art replacement,  go into more about later albums and art - Everyday Earth designed logo - launched by bidding on a daily basis - less bids more tokens, more bids less tokens (CoinPowers? also ran through tatiana site) - first person to see Ross in jail from XCP community - attention to political prisoner and contentious topic, influenced artist freedom rights for selling uncensorable tokens
+- Tokenly wallet by Adam Levine- 'Tokenly Pockets' - included dispensers, DEx etc etc
+
+---
+
+More Research and feedback is needed before adding these collections below:
+
+| The Nakamotos | thenakamotos.club | Unique PFPs tied to each of the Nakamotos cards (RAREPEPE) 
+
+| Phunchkins | https://phunchkins.com/ | https://web.archive.org/web/20231208182144/https://phunchkins.com/
+
+| Pepemon | https://pepemon.net/ |
+
+| Wojak NPC | https://wojaknpc.com/ |
+
+| Gameicon | EverdreamSoft?? | https://x.com/CounterpartyMkt/status/1833075805536080280
+
+| PepeVote | |
+
+---
+
+~~include more on BOMB and Adeally: https://twitter.com/LiteBitCo/status/1782623256068972924 - https://twitter.com/LiteBitCo/status/1783121258252570796~~
+~~Update SALVATION with more history and notes from JPJA - https://jpjanssen.com/salvation-2015-participatory-art-nft/~~
+
 ---
 
 # Acknowledgments
