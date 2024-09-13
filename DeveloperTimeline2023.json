@@ -1,4 +1,5 @@
-[
+{
+  "IntegratedDevelopments": [
     {
         "Date": "2014-01-02",
         "Time": "1388620800",
@@ -350,7 +351,9 @@
             }
         ],
         "Author": "JP Janssen"
-    },
+    }
+  ],
+  "DraftedDevelopments": [
     {
         "Date": "2017-06-08",
         "Time": "1496880000",
@@ -746,7 +749,9 @@
             }
         ],
         "Author": "Adam Krellenstein and MikeInSpace"
-    },
+    }
+  ],
+  "DevelopersInvolved": [
     {
         "Date": "2013-12-15",
         "Time": "1387065600",
@@ -831,7 +836,9 @@
         "Commits": true,
         "Event": "Other Contributors",
         "Significance": "kanzure - 2014, Rippler - 2014, cjcole 2014, Frozenlock 2014, khan-faiz 2014, Ignat99 - 2014, larskluge - 2014, btcdrak - 2014, leishman - 2014, ivanaszuber - 2014, Millz0r - 2014, unsystemizer - 2015, gotcha - 2015, unsynstemizer - 2015, cryptonaut420 - 2015, littleskunk - 2016, cryptcoin-junkey - 2017, familymediallc - 2017, mide - 2018, longhoangwkm - 2020, windsok - 2022"
-    },
+    }
+  ],
+  "NotableReleases": [
     {
         "Date": "2024-07-12",
         "Time": "1720742400",
@@ -943,7 +950,9 @@
             }
         ],
         "Author": "Devon Weller"
-    },
+    }
+  ],
+  "HistoricWallets": [
   {
     "dateRange": {
       "start": "2014-01-02",
@@ -1154,7 +1163,9 @@
                 "href": "https://wallet.xcp.ninja/"
             }
         ]
-    },
+    }
+  ],
+  "ProtocolForks": [
     {
         "Date": "2014-10-07",
         "Time": "1412640000",
@@ -1200,7 +1211,9 @@
                 "href": "https://github.com/monacoinproject/monacoin"
             }
         ]
-    },
+    }
+  ],
+  "LeadDevelopers": [
   {
     "dateRange": {
       "start": "2013-12-15",
@@ -1253,4 +1266,5 @@
     "Event": "Adam Krellenstein",
     "Significance": "Adam Krellenstein is the Lead Maintainer for Counterparty Protocol/Github from 2024 till the present."
   }
-]
+  ]
+}
