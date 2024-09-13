@@ -1,4 +1,4 @@
-# Counterparty Developer Timeline and Asset Timeline (2014-2021)
+# Counterparty Developer Timeline and Asset Timeline (2014-2024)
 
 ---
 
@@ -24,15 +24,17 @@ The markdown files include the information shown on the Time.Graphics timeline i
 
 ---
 
-[Counterparty Developer Timeline Data](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/DeveloperTimeline2023.md)
-
-[Counterparty Developer Timeline Data (JSON version)](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/DeveloperTimeline2023.json)
+[All Data Included in the Timeline in JSON format](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/TimelineData.json)
 
 ---
 
-[Counterparty Token/Project Timeline Data](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/TokenTimeline2023.md)
+[Counterparty Developer Timeline Data in Markdown Format](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/DeveloperTimelineEntries.md)
+[Counterparty Developer Timeline Data (JSON version)](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/DeveloperTimelineEntries.json)
 
-[Counterparty Token/Project Timeline Data (JSON version)](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/TokenTimeline2023.json)
+---
+
+[Counterparty Token/Project Timeline Data in Markdown Format](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/TokenTimelineEntries.md)
+[Counterparty Token/Project Timeline Data (JSON version)](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/TokenTimelineEntries.json)
 
 ---
 ---
@@ -59,11 +61,7 @@ This is still a public draft.
 
 The process of gathering blockchain information, organizing the data correctly and getting critiques is still underway.
 
-Some assets post-2021 have been included, but since so many projects and notable assets have been made since 2021, a significant amount of the recent Counterparty projects have been omitted to focus on the previous historical developments of the older tokens. 
-
-~~Some developer updates that are still underway (or pre-drafted) are yet to be included until they are officially in the~~ [Counterparty CIP list](https://github.com/CounterpartyXCP/Forum/tree/1e362f7f8668654d0241fe5b1f1c1c330a8b4368). 
-
-Since Adam Krellenstein recently archived and paused the CIP process, CIP data from before that date of archival is included in the CIP list above.
+Since Adam Krellenstein recently archived and paused the CIP process, CIP data from before that date of archival is included in the [CIP list](https://github.com/CounterpartyXCP/Forum/tree/1e362f7f8668654d0241fe5b1f1c1c330a8b4368).
 
 Proposal data from the community has now been moved to the [Counterparty Github Forums](https://github.com/CounterpartyXCP/Forum/discussions), or to be found somewhere in the [Milestones](https://github.com/CounterpartyXCP/counterparty-core/milestones) section of counterparty-core.
 
