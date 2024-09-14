@@ -294,6 +294,11 @@ Lead Maintainers: Devon Weller 2014-2017 / John Villar 2017-2019 / Jeremy Johnso
 - Subasset on Numerics and Glyphs - https://github.com/CounterpartyXCP/counterparty-core/issues/1842
 
 ---
+---
+
+## Tokens that need further research:
+
+---
 
 Next ones to research:
 - lots of tokens not mentioned related to Lets Talk Bitcoin - https://tokenscan.io/asset/BOOKKEEPER
@@ -303,8 +308,6 @@ Next ones to research:
 | Gameicon | EverdreamSoft?? | https://x.com/CounterpartyMkt/status/1833075805536080280
 
 ---
-
-Tokens that need further research:
 
 - XCPTORCH.Chiguireitor - 2019-03-02 - https://xchain.io/asset/XCPTORCH - related to Lightning Torch? Predated by DUTCHIE? - (1/1 NFT's passing between people who add content to the token) - influenced FAKETORCH in Fake Rares
 - Bitcoin Comic https://bitcoincomic.org/ - https://x.com/BitcoinComic - https://tokenscan.io/asset/COMICBOOK - https://tokenscan.io/asset/COMICCOIN - relation to SWARM..??... seems there are a few more tokens connected to this as well as SWARM
