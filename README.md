@@ -821,14 +821,20 @@ Lead Maintainers: Devon Weller 2014-2017 / John Villar 2017-2019 / Jeremy Johnso
 
 ---
 
-Tokens that need further research:
+Next ones to research:
+- lots of tokens not mentioned related to Lets Talk Bitcoin - https://tokenscan.io/asset/BOOKKEEPER
+- CoinAndPeace blog (and token gated access to read it) by Koji (https://tokenscan.io/asset/CNPCOIN) (other Tokens by Koji?)
+- - Tatiana Coin - original art replacement,  go into more about later albums and art - Everyday Earth designed logo - launched by bidding on a daily basis - less bids more tokens, more bids less tokens (CoinPowers? also ran through tatiana site) - first person to see Ross in jail from XCP community - attention to political prisoner and contentious topic, influenced artist freedom rights for selling uncensorable tokens
+- Tokenly wallet by Adam Levine- 'Tokenly Pockets' - included dispensers, DEx etc etc
+| Gameicon | EverdreamSoft?? | https://x.com/CounterpartyMkt/status/1833075805536080280
 
+---
+
+Tokens that need further research:
 
 - XCPTORCH.Chiguireitor - 2019-03-02 - https://xchain.io/asset/XCPTORCH - related to Lightning Torch? Predated by DUTCHIE? - (1/1 NFT's passing between people who add content to the token) - influenced FAKETORCH in Fake Rares
 - Bitcoin Comic https://bitcoincomic.org/ - https://x.com/BitcoinComic - https://tokenscan.io/asset/COMICBOOK - https://tokenscan.io/asset/COMICCOIN - relation to SWARM..??... seems there are a few more tokens connected to this as well as SWARM
-- lots of tokens not mentioned related to Lets Talk Bitcoin - https://tokenscan.io/asset/BOOKKEEPER
 - 2019-03-11 – GESAMTKUNSTW.ERK – https://medium.com/chain-of-thoughts/must-we-all-become-a-gesamtkunstwerk-b72fa6098930 - first tokenized article with a Nathan copymint on XCP??
-- CoinAndPeace blog (and token gated access to read it) by Koji (https://tokenscan.io/asset/CNPCOIN)
 - First serialized NFTs for a poker website?: https://forums.counterparty.io/t/ann-bitnplay-a-new-age-for-poker-partner-tokens/676 - found from: https://jpjanssen.com/a-timeline-of-non-fungible-tokens-on-counterparty/ - Bitcointalk forum post: https://bitcointalk.org/index.php?topic=906422 - "BNPXX" token 1/1 types: https://xchain.io/search?query=BNP
 - THEDEVSTAR - https://x.com/jp_janssen/status/1577919227754942465
 - PETAMINE, EARNFREEBTC, XBTC and SPECULATE: https://forums.counterparty.io/t/petamine-mine-bitcoins-with-your-counterwallet/390 - https://forums.counterparty.io/t/ann-speculate-weekly-payouts/503 - https://forums.counterparty.io/t/ann-earnfreebtc-earn-weekly-dividends/313
@@ -846,8 +852,6 @@ Tokens that need further research:
 - https://xchain.io/asset/HQLEADERS
 - https://xchain.io/asset/KEVCOIN
 - https://xchain.io/asset/NOVATOKEN
-- Tatiana Coin - original art replacement,  go into more about later albums and art - Everyday Earth designed logo - launched by bidding on a daily basis - less bids more tokens, more bids less tokens (CoinPowers? also ran through tatiana site) - first person to see Ross in jail from XCP community - attention to political prisoner and contentious topic, influenced artist freedom rights for selling uncensorable tokens
-- Tokenly wallet by Adam Levine- 'Tokenly Pockets' - included dispensers, DEx etc etc
 
 ---
 
@@ -861,9 +865,7 @@ More Research and feedback is needed before adding these collections below:
 
 | Wojak NPC | https://wojaknpc.com/ |
 
-| Gameicon | EverdreamSoft?? | https://x.com/CounterpartyMkt/status/1833075805536080280
-
-| PepeVote | |
+| PepeVote | NeedMoney99? |
 
 ---
 
