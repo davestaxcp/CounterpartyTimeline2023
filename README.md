@@ -20,7 +20,7 @@ The markdown files include the information shown on the Time.Graphics timeline i
 
 [Counterparty Developer/Token Timeline Visual Infographic](https://time.graphics/line/858561)
 
-![image](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/cd5d6e10-b642-4dea-974e-a9683e3e39a3)
+![screenshotoftimeline9 15 24](https://github.com/user-attachments/assets/58a088c9-4bc1-4bb0-8b55-674d3e98a389)
 
 ---
 
