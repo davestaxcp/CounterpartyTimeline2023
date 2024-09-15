@@ -118,7 +118,7 @@ Next ones to research:
 - CoinAndPeace blog (and token gated access to read it) by Koji (https://tokenscan.io/asset/CNPCOIN) (other Tokens by Koji?)
 - - Tatiana Coin - original art replacement,  go into more about later albums and art - Everyday Earth designed logo - launched by bidding on a daily basis - less bids more tokens, more bids less tokens (CoinPowers? also ran through tatiana site) - first person to see Ross in jail from XCP community - attention to political prisoner and contentious topic, influenced artist freedom rights for selling uncensorable tokens
 - Tokenly wallet by Adam Levine- 'Tokenly Pockets' - included dispensers, DEx etc etc
-| Gameicon | EverdreamSoft?? | https://x.com/CounterpartyMkt/status/1833075805536080280
+- | Gameicon | EverdreamSoft?? | https://x.com/CounterpartyMkt/status/1833075805536080280
 - 2014-06-11	JPGOLD - earliest Limited Locked Scarce token
 
 ---
