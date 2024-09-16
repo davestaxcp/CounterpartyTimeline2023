@@ -152,7 +152,7 @@ Next ones to research:
 - | Phunchkins | https://phunchkins.com/ | https://web.archive.org/web/20231208182144/https://phunchkins.com/
 - | Pepemon | https://pepemon.net/ |
 - | Wojak NPC | https://wojaknpc.com/ |
-- | PepeVote | NeedMoney99? |
+- | PepeVote | needmoney90? |
 
 ---
 
