@@ -73,6 +73,11 @@ I invite you to verify, critique and pull request this information to perfect th
 Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter](https://twitter.com/davesta_xcp) if you need to request changes to information or would like to contribute to the data included here.
 
 ---
+---
+
+## Updates in Progress
+
+---
 
 ## Add Other Notable Blockchain Events
 
@@ -94,7 +99,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 ---
 ---
 
-## Blockchain/Github Data to be Shown Visually
+### Blockchain/Github Data to be Shown Visually
 
 ---
 
@@ -109,7 +114,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 ---
 ---
 
-## Tokens that need further research:
+### Tokens that need further research:
 
 ---
 
@@ -125,7 +130,7 @@ Next ones to research:
 
 - XCPTORCH.Chiguireitor - 2019-03-02 - https://xchain.io/asset/XCPTORCH - related to Lightning Torch? Predated by DUTCHIE? - (1/1 NFT's passing between people who add content to the token) - influenced FAKETORCH in Fake Rares
 - Bitcoin Comic https://bitcoincomic.org/ - https://x.com/BitcoinComic - https://tokenscan.io/asset/COMICBOOK - https://tokenscan.io/asset/COMICCOIN - relation to SWARM..??... seems there are a few more tokens connected to this as well as SWARM
-- 2019-03-11 – GESAMTKUNSTW.ERK – https://medium.com/chain-of-thoughts/must-we-all-become-a-gesamtkunstwerk-b72fa6098930 - first tokenized article with a Nathan copymint on XCP??
+- 2019-03-11 – GESAMTKUNSTW.ERK – https://medium.com/chain-of-thoughts/must-we-all-become-a-gesamtkunstwerk-b72fa6098930 - tokenized article with a Nathan copymint on XCP
 - First serialized NFTs for a poker website?: https://forums.counterparty.io/t/ann-bitnplay-a-new-age-for-poker-partner-tokens/676 - found from: https://jpjanssen.com/a-timeline-of-non-fungible-tokens-on-counterparty/ - Bitcointalk forum post: https://bitcointalk.org/index.php?topic=906422 - "BNPXX" token 1/1 types: https://xchain.io/search?query=BNP
 - THEDEVSTAR - https://x.com/jp_janssen/status/1577919227754942465
 - PETAMINE, EARNFREEBTC, XBTC and SPECULATE: https://forums.counterparty.io/t/petamine-mine-bitcoins-with-your-counterwallet/390 - https://forums.counterparty.io/t/ann-speculate-weekly-payouts/503 - https://forums.counterparty.io/t/ann-earnfreebtc-earn-weekly-dividends/313
@@ -143,20 +148,11 @@ Next ones to research:
 - https://xchain.io/asset/HQLEADERS
 - https://xchain.io/asset/KEVCOIN
 - https://xchain.io/asset/NOVATOKEN
-
----
-
-More Research and feedback is needed before adding these collections below:
-
-| The Nakamotos | thenakamotos.club | Unique PFPs tied to each of the Nakamotos cards (RAREPEPE) 
-
-| Phunchkins | https://phunchkins.com/ | https://web.archive.org/web/20231208182144/https://phunchkins.com/
-
-| Pepemon | https://pepemon.net/ |
-
-| Wojak NPC | https://wojaknpc.com/ |
-
-| PepeVote | NeedMoney99? |
+- | The Nakamotos | thenakamotos.club | Unique PFPs tied to each of the Nakamotos cards (RAREPEPE) 
+- | Phunchkins | https://phunchkins.com/ | https://web.archive.org/web/20231208182144/https://phunchkins.com/
+- | Pepemon | https://pepemon.net/ |
+- | Wojak NPC | https://wojaknpc.com/ |
+- | PepeVote | NeedMoney99? |
 
 ---
 
