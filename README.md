@@ -68,7 +68,7 @@ Since Adam Krellenstein recently archived and paused the CIP process, CIP data f
 
 Proposal data from the community has now been moved to the [Counterparty Github Forums](https://github.com/CounterpartyXCP/Forum/discussions), or to be found somewhere in the [Milestones](https://github.com/CounterpartyXCP/counterparty-core/milestones) section of counterparty-core.
 
-I invite you to verify, critique and pull request this information to perfect this list so all can benefit off of the goal of publishing this content on [Counterparty.io](Counterparty.io) and for any educational purposes beyond that.
+I invite you to verify, critique and fork this information to perfect this list so all can benefit off of the goal of publishing this content on [Counterparty.io](Counterparty.io) and for any educational purposes beyond that.
 
 Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter](https://twitter.com/davesta_xcp) if you need to request changes to information or would like to contribute to the data included here.
 
