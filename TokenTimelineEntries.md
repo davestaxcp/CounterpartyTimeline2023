@@ -598,7 +598,7 @@ Issuer: Kevin Ferreira
 
 ![blackbox_square_new](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/28b17b9e-2831-44f4-9895-277c5b1e2785)
 
-Date: **Mar 20, 2015**
+Date: **Feb 3, 2021**
 
 Timeline Asset/Project: **BLACKBOX**
 
