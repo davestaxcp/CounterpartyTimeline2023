@@ -1529,6 +1529,28 @@
         "Issuer": "JP Janssen"
     },
 {
+        "Date": "2014-06-11",
+        "Time": "1402444800",
+        "imageURL": "https://user-images.githubusercontent.com/136373423/279542959-29566f5a-a986-4cef-b4d6-1eb766b723ba.jpg",
+        "Event": "JPGOLD",
+        "Significance": "JPGOLD is the first token created by JP Janssen.  At a protocol level this was the first locked supply token that had a low issuance at the time of minting. Though in contemporary times, minting 1000 of a token might not seem limited, at the time it very much was. As described by JPJA on his website: 'Although Counterparty was already half a year old and 1147 assets had been issued so far, none had a low, locked supply. None were even close. The lowest by then was 100,000 tokens – one hundred times more!' He goes on to say, 'you may find collectibles with earlier initial issuance. But all of these have had some economic parameters changed later, meaning been locked and/or had tokens destroyed.' An interesting fact about this token is the embedded pdf file minted alongside this token. JPJA mentioned on his website, 'On the day of issuing JPGOLD I wrote a short notice in my blog. A few months later, in October 2014, I copied the blog into a pdf, and then embedded the file’s checksum in a bitcoin transaction.' Yet another usage case for this token was the Dividend option JPJA was given when minting this token. Within the image embedded publicly on the Bitcoin blockchain was a motive for collectors. JPJA writes in the pdf, 'just for fun I minted my own coin', 'it can be transferred as easily as Bitcoin', 'it is better than Bitcoin in one aspect', 'I can chose to pay every holder of JPGOLD a dividend...'.",
+        "links": [
+            {
+                "label": "JPGOLD",
+                "href": "https://tokenscan.io/asset/JPGOLD"
+            },
+            {
+                "label": "JP Janssen",
+                "href": "https://twitter.com/jp_janssen"
+            },
+            {
+                "label": "described by JPJA on his website",
+                "href": "https://jpjanssen.com/list-of-historic-nfts-with-scarce-initial-supply/ "
+            }
+        ],
+        "Issuer": "JP Janssen"
+    },
+{
         "Date": "2014-06-15",
         "Time": "1402531200",
         "imageURL": "",
