@@ -124,7 +124,6 @@ Next ones to research:
 - - Tatiana Coin - original art replacement,  go into more about later albums and art - Everyday Earth designed logo - launched by bidding on a daily basis - less bids more tokens, more bids less tokens (CoinPowers? also ran through tatiana site) - first person to see Ross in jail from XCP community - attention to political prisoner and contentious topic, influenced artist freedom rights for selling uncensorable tokens
 - Tokenly wallet by Adam Levine- 'Tokenly Pockets' - included dispensers, DEx etc etc
 - | Gameicon | EverdreamSoft?? | https://x.com/CounterpartyMkt/status/1833075805536080280
-- 2014-06-11	JPGOLD - earliest Limited Locked Scarce token
 
 ---
 
@@ -154,11 +153,6 @@ Next ones to research:
 - | Wojak NPC | https://wojaknpc.com/ |
 - | PepeVote | needmoney90? |
 - 2021-11-21 - punkfrens - 1st generative art collection on xcp? - https://punkfrens.com/
-
----
-
-~~include more on BOMB and Adeally: https://twitter.com/LiteBitCo/status/1782623256068972924 - https://twitter.com/LiteBitCo/status/1783121258252570796~~
-~~Update SALVATION with more history and notes from JPJA - https://jpjanssen.com/salvation-2015-participatory-art-nft/~~
 
 ---
 
