@@ -153,6 +153,7 @@ Next ones to research:
 - | Pepemon | https://pepemon.net/ |
 - | Wojak NPC | https://wojaknpc.com/ |
 - | PepeVote | needmoney90? |
+- 2021-11-21 - punkfrens - 1st generative art collection on xcp? - https://punkfrens.com/
 
 ---
 
