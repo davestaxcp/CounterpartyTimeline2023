@@ -1896,7 +1896,7 @@ Issuer: Abstract Mirror
 
 ![image](https://github.com/user-attachments/assets/8363fada-745d-4a2a-80a1-5ee5f7d49d62)
 
-Date: **Nar 3, 2024**
+Date: **Mar 3, 2024**
 
 Timeline Asset/Project: **OLGA Stamps**
 
@@ -1906,6 +1906,21 @@ Related Links: https://github.com/CounterpartyXCP/Forum/blob/1e362f7f8668654d024
 https://x.com/jp_janssen/status/1764243065911324852
 
 Issuer: JP Janssen
+
+---
+
+![image](https://github.com/user-attachments/assets/d89f78f7-2ae9-4222-9c03-3bf6deed8807)
+
+Date: **Nov 21, 2021**
+
+Timeline Asset/Project: **PunkFrens**
+
+Significance: Punkfrens, created by Fabrique, is a project that includes the first generative pfp collection on XCP. The tokens in the collection were manually issued as 1/1 locked named assets in November 2021 starting at block 710,754. The art for the tokens was created by a generative seed to determine random attributes with various rarity. Some of these attributes include subtle tributes to XCP history, such as the 'pepekachu hat' and 'pepe' attributes. During the initial distribution, these assets were sold for 0.0001 BTC each.
+
+Related Links: https://punkfrens.com/
+
+Issuer: Fabrique
+
 
 ---
 
