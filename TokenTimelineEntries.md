@@ -724,13 +724,24 @@ Date: **Dec 19, 2015**
 
 Timeline Asset/Project: **SARUTOBICARD**
 
-Significance: A young iOS developer in Australia by the name of [Christian Moss](https://twitter.com/MandelDuck) released a game on the App Store called [SaruTobi](https://mandelduck.com/sarutobi/) where players tapped the screen to spin a monkey to see how far they could get him to fly. Christian wanted to let SaruTobi players purchase in-game items with Bitcoin but Apple’s iOS App Store terms didn't allow it. Instead he let players collect small amounts of Bitcoin as they played. At the time, Christian was working with [IndieSquare](https://indiesquare.co.jp/) on wallet implementation and helping with the development of [Book of Orbs](https://www.bookoforbs.com/index_eng.html). In June of 2016, Christian implemented this blockchain functionality by making the [Spells of Genesis](https://spellsofgenesis.com/) SATOSHICARD, [SARUTOBICARD](https://xchain.io/asset/SARUTOBICARD), and CNPCARD playable in Sarutobi. These three assets marked the first instances of a Counterparty tokenized asset becoming interoperable between two independent games. SARUTOBICARD in this circumstance would be singled out to be a cultural and tokenized representation of SaruTobi and eventually a separate game called [SaruTobi's Island](https://mandelduck.com/sarutobiisland/) which allowed players to use proof of ownership of Counterparty assets to generate playable characters in SaruTobi's Island. Christian noted about the decision saying, "Koji mentioned a japanese game called Monster Farmer, where you could generate monsters by putting any CD in your game system", which inspired Christian to "give some utility to any token a user may have".
+Significance: A young iOS developer in Australia by the name of Christian Moss released a game on the App Store called SaruTobi where players tapped the screen to spin a monkey to see how far they could get him to fly. 
+
+Christian wanted to let SaruTobi players purchase in-game items with Bitcoin but Apple’s iOS App Store terms didn't allow it. Instead he let players collect small amounts of Bitcoin as they played. At the time, Christian was working with IndieSquare on wallet implementation and helping with the development of Book of Orbs. 
+
+In June of 2016, Christian implemented this blockchain functionality by making the Spells of Genesis CNPCARD, SARUTOBICARD and SHUMAICARD playable in Sarutobi. Eventually, SARUTOBICARD would also be playable in the game as well. These first three assets, though, marked the first instances of a Counterparty tokenized asset becoming interoperable between two independent games. 
+
+SARUTOBICARD in this circumstance would be singled out to be a cultural and tokenized representation of SaruTobi. This card would also be incorporated into a separate game called SaruTobi's Island which allowed players to use proof of ownership of Counterparty assets to generate playable characters in SaruTobi's Island. 
+
+Christian noted about the developing decision of Sarutobi's Island saying, 'Koji mentioned a japanese game called Monster Farmer, where you could generate monsters by putting any CD in your game system', which inspired Christian to 'give some utility to any token a user may have'.
+
+Issuer: Christian Moss
 
 Related Links: https://xchain.io/asset/SARUTOBICARD
 https://spellsofgenesis.com/
 https://mandelduck.com/sarutobi/
 https://indiesquare.co.jp/
 https://www.bookoforbs.com/index_eng.html
+https://blog.indiesquare.me/sarutobi-android-release-and-cross-game-promotion-through-tokens-59a1c58cc7b1
 
 Issuer: Christian Moss
 
