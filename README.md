@@ -121,7 +121,6 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 Next ones to research:
 - lots of tokens not mentioned related to Lets Talk Bitcoin - https://tokenscan.io/asset/BOOKKEEPER
 - CoinAndPeace blog (and token gated access to read it) by Koji (https://tokenscan.io/asset/CNPCOIN) (other Tokens by Koji?)
-- - Tatiana Coin - original art replacement,  go into more about later albums and art - Everyday Earth designed logo - launched by bidding on a daily basis - less bids more tokens, more bids less tokens (CoinPowers? also ran through tatiana site) - first person to see Ross in jail from XCP community - attention to political prisoner and contentious topic, influenced artist freedom rights for selling uncensorable tokens
 - Tokenly wallet by Adam Levine- 'Tokenly Pockets' - included dispensers, DEx etc etc
 - | Gameicon | EverdreamSoft?? | https://x.com/CounterpartyMkt/status/1833075805536080280
 
@@ -152,7 +151,6 @@ Next ones to research:
 - | Pepemon | https://pepemon.net/ |
 - | Wojak NPC | https://wojaknpc.com/ |
 - | PepeVote | needmoney90? |
-- 2021-11-21 - punkfrens - 1st generative art collection on xcp? - https://punkfrens.com/
 
 ---
 
