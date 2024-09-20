@@ -479,6 +479,23 @@ Issuer: LiteBit
 
 ---
 
+![CNPCOIN](https://github.com/user-attachments/assets/117986bf-560b-4745-9688-e1e18c33da18)
+
+Date: **Nov 1, 2014**
+
+Timeline Asset/Project: **CNPCOIN**
+
+Significance: Inspired by the Let's Talk Bitcoin project (and LTBCOIN), Koji Higashi issued CNPCOIN in November of 2014 to help promote his personal Bitcoin blog. The description of the coin states, 'Currency for Coin and Peace blog', but the early usage and distribution of this token even caught the eye of CoinDesk journalists. Koji offered shares of this token to any individual who retweeted his articles at that time period. Koji mentiones, 'Say I write an article, update my blog and tweet about it. If someone retweets it I follow up and say, 'You retweeted my article – if you can create a Counterparty wallet and tell me your address, I can give you X amount of my coin'. After this initial CNPCOIN distribution, Koji would later add token-gated access to some articles in the blog. This is a great blockchain example of 'Premium' content to token holders. Corin Faife, in his Coindesk Article, writes: 'CNPCoin started to take on a demonstrable value as an access token, which let Higashi move into the next phase: setting up a system where readers could tip him in bitcoin if they enjoyed his blog posts – and receive CNPCoin in exchange.' In the article, Koji even mentions his suprise at the success of CNPCOIN saying, 'It started off as a pure experiment, just to see what would happen, but I actually got quite a lot of tips from it.' CNPCOIN would also go on to influence the art and purpose of the Spells of Genesis card CNPCARD. This Spells of Genesis card commemorating Koji (CNPCARD) would eventually be used by Christian Moss in the Sarutobi game for in-game upgrades and would be apart of the cross-functionality of SOG and Sarutobi. This token (CNPCOIN) is now considered one of the pioneer tokens for representing written articles independently within Counterparty tokens and could possibly be 'the earliest token on blockchain [that was issued] in Japan'.
+
+Related Links: https://tokenscan.io/asset/CNPCOIN
+https://medium.com/@coin_and_peace/history-of-vintage-nfts-in-japan-the-almost-forgotten-part-of-nft-history-5f15ce50a828
+https://x.com/Coin_and_Peace
+https://www.coindesk.com/markets/2017/01/22/blockchain-for-journalism-how-a-big-funding-idea-is-starting-small/
+
+Issuer: Koji Higashi
+
+---
+
 ![GEMS_square_new](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/3c4ccf12-ad7b-47c4-afd9-99433a544bb7)
 
 Date: **Nov 7, 2014**
