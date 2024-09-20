@@ -120,7 +120,6 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 Next ones to research:
 - lots of tokens not mentioned related to Lets Talk Bitcoin - https://tokenscan.io/asset/BOOKKEEPER
-- CoinAndPeace blog (and token gated access to read it) by Koji (https://tokenscan.io/asset/CNPCOIN) (other Tokens by Koji?)
 - Tokenly wallet by Adam Levine- 'Tokenly Pockets' - included dispensers, DEx etc etc
 - | Gameicon | EverdreamSoft?? | https://x.com/CounterpartyMkt/status/1833075805536080280
 
