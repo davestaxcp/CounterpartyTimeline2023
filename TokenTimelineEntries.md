@@ -1497,9 +1497,18 @@ Date: **Mar 7, 2023**
 
 Timeline Asset/Project: **A7337447728884561000**
 
-Significance: This asset, [A7337447728884561000](https://www.rarestamp.xyz/stamp/A7337447728884561000), is the first stamp in the [Bitcoin Stamps](https://github.com/mikeinspace/stamps/blob/main/BitcoinStamps.md) project originally theorized by [MikeinSpace](https://twitter.com/mikeinspace) and implemented by [Kevin](https://twitter.com/reinamora_137) and [Arwyn](https://twitter.com/mrarwyn). It was inspired by the creation of [Ordinals](https://github.com/ordinals/ord) that it was possible to create "on-chain" art by leveraging Counterparty based on the bare-multisig quirk that bypasses OP_RETURN. This stamp in particular in considered quite simple and experimental compared to the art that would be developed in later stamps. Since the size of the image is limited to 24x24 pixels, most of the stamps are considered true 'pixel' art.
+Significance: This asset, A7337447728884561000, is the first stamp in the Bitcoin Stamps project originally theorized by MikeinSpace and implemented by Kevin and Arwyn. 
+
+It was inspired by the creation of Ordinals that it was possible to create 'on-chain' art by leveraging Counterparty based on the bare-multisig quirk that bypasses OP_RETURN. 
+
+This stamp in particular in considered quite simple and experimental compared to the art that would be developed in later stamps. 
+
+Since the size of the image is limited to 24x24 pixels, most of the stamps are considered true 'pixel' art, though many later stamps would include art that was much more technical, of greater definition and even in .gif format.
+
+When looking through a historical lens at the first stamp that was issued, a plethora of tokens and projects have started since using the STAMP format. So many projects that including them all would cause this timeline to be quite bulky after this date. A great place to view all the projects included in stamps would be the Stamped Ninja marketplace.
 
 Related Links: https://github.com/mikeinspace/stamps/blob/main/BitcoinStamps.md https://www.rarestamp.xyz/stamp/A7337447728884561000 https://twitter.com/mikeinspace https://twitter.com/reinamora_137 https://twitter.com/mrarwyn https://github.com/ordinals/ord
+https://stamped.ninja/
 
 Issuer: 1GotRejB6XsGgMsM79TvcypeanDJRJbMtg
 
