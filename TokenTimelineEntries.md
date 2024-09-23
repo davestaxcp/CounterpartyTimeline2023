@@ -831,6 +831,7 @@ Significance: Gamicon, conceived by EverdreamSoft in 2018, emerged as a pioneeri
 Related Links: https://www.orbexplorer.com/collection/eGam
 https://tokenscan.io/asset/YUMMYPICNIC
 https://gdconf.com/
+https://x.com/shaban_shaame/status/1833079293049438240
 
 Issuer: EverdreamSoft
 
