@@ -121,7 +121,6 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 Next ones to research:
 - lots of tokens not mentioned related to Lets Talk Bitcoin - https://tokenscan.io/asset/BOOKKEEPER
 - Tokenly wallet by Adam Levine- 'Tokenly Pockets' - included dispensers, DEx etc etc
-- | Gameicon | EverdreamSoft?? | https://x.com/CounterpartyMkt/status/1833075805536080280
 
 ---
 
@@ -157,7 +156,7 @@ Next ones to research:
 
 --- 
 
-- (In the future, an entire MLA formatted Bibliography of works cited for each entry will be included in its own document, but this is a general bibliography below... all related links are included for each topic)
+- An entire [Bibliography](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/Bibliography.md) is included of all works cited in a modified version of the APA style. 
 
 ---
 
