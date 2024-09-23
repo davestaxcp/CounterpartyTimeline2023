@@ -2507,6 +2507,32 @@
         "Issuer": "1AssetiB9oec9pmbTThvCLFqBPcLSaQGjB"
     },
 {
+        "Date": "2018-11-21",
+        "Time": "",
+        "imageURL": "",
+        "Event": "Gamicon",
+        "Significance": "Gamicon, conceived by EverdreamSoft in 2018, emerged as a pioneering vision in blockchain gaming. Introduced at the Game Developers Conference, it aimed to democratize blockchain technology in the gaming industry by creating a shared ecosystem for game developers to issue collectibles on Counterparty. Despite initial market hesitation, the project pressed on, focusing on onboarding Swiss game developers as early adopters. The first asset, YUMMYPICNIC, was issued on November 21, 2018, related to atablegames, with subsequent submissions from other developers like Karios Games. Today, Gamicon assets stand as artifacts of NFT gaming history, representing a time when the fusion of blockchain and gaming was revolutionary. This collection, designed to showcase the ease of tokenizing game assets, now serves as a digital time capsule from the dawn of blockchain gaming.",
+        "links": [
+            {
+                "label": "Game Developers Conference",
+                "href": "https://gdconf.com/"
+            },
+            {
+                "label": "Gamicon",
+                "href": "https://www.orbexplorer.com/collection/eGam"
+            },
+            {
+                "label": "Gamicon",
+                "href": "https://www.orbexplorer.com/collection/eGam"
+            },
+            {
+                "label": "a pioneering vision in blockchain gaming",
+                "href": "https://x.com/shaban_shaame/status/1833079293049438240"
+            }
+        ],
+        "Issuer": "EverdreamSoft"
+    },
+{
         "Date": "2016-07-26",
         "Time": "1469491200",
         "imageURL": "https://user-images.githubusercontent.com/136373423/279544254-fa652abe-cd67-40e1-8bac-e6ca4e1aedf1.jpg",
