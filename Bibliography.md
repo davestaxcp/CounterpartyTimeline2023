@@ -342,7 +342,7 @@
 - SALVATION. (2015, August 6). https://xchain.io/asset/SALVATION
 - Sale Video. (2023, April 14). https://x.com/phon_ro/status/1647014552817500160
 - SARUTOBICARD. (2015, December 19). https://xchain.io/asset/SARUTOBICARD
-- SaruTobi. (n.d.). https://mandelduck.com/sarutobi/
+- SaruTobi. (2016, December 19 - Present). https://mandelduck.com/sarutobi/
 - SaruTobi's Island. (n.d.). https://mandelduck.com/sarutobiisland/
 - SATOSHICARD. (2015, June 24). https://xchain.io/asset/SATOSHICARD
 - SATOSHICARD. (2021, September 18). https://opensea.io/assets/ethereum/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/3738801
@@ -472,7 +472,6 @@
 ## Historic Wallets
 - Counterwallet. (2014, January 2 - 2024, January 14). https://counterwallet.io/
 - Book of Orbs. (2016, October 12 - 2021, May 31). https://www.bookoforbs.com/index_eng.html
-- SaruTobi. (2016, December 19 - Present). https://mandelduck.com/sarutobi/
 - CasaTookan. (2018, September 19 - Present). https://crystalsuite.com/casa-tookan-wallet/
 - Freeport. (2019, February 10 - Present).
   - GitHub Repository: https://github.com/loon3/Freeport-extension
