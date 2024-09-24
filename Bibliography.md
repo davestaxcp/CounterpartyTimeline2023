@@ -337,3 +337,175 @@
 - ROGUEMECH. (n.d.). https://xchain.io/asset/ROGUEMECH
 - Ross Ulbricht. (n.d.). https://freeross.org/
 - RUSTBITS. (2017, May 5). https://xchain.io/asset/RUSTBITS
+
+## S
+- SALVATION. (2015, August 6). https://xchain.io/asset/SALVATION
+- Sale Video. (2023, April 14). https://x.com/phon_ro/status/1647014552817500160
+- SARUTOBICARD. (2015, December 19). https://xchain.io/asset/SARUTOBICARD
+- SaruTobi. (n.d.). https://mandelduck.com/sarutobi/
+- SaruTobi's Island. (n.d.). https://mandelduck.com/sarutobiisland/
+- SATOSHICARD. (2015, June 24). https://xchain.io/asset/SATOSHICARD
+- SATOSHICARD. (2021, September 18). https://opensea.io/assets/ethereum/0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab/3738801
+- Satoshi Dice. (n.d.). https://satoshidice.com/
+- SATOSHIDICE. (2021, December 15). https://xchain.io/asset/SATOSHIDICE
+- SATOSHINFT. (2021, March 6). https://xchain.io/asset/SATOSHINFT
+- SCARAB. (2015, March 16). https://xchain.io/asset/SCARAB
+- SCARABART. (n.d.). https://xchain.io/asset/SCARABART
+- Scannable NFTs. (2022, January 5). https://scannablenfts.com/
+- SCORPEPE. (n.d.). https://tokenscan.io/asset/SCORPEPE
+- SEBUH. (2014, June 15). https://xchain.io/asset/SEBUH
+- Sebuh. (n.d.). https://twitter.com/Sebuh_com
+- Sebuh interview. (n.d.). https://youtu.be/06EgYWxpxzw
+- SEC Filing. (2021, April 23). https://www.sec.gov/Archives/edgar/data/1130713/000119312521130399/d150210dex991.htm
+- SFMSTOCK. (2014, February 8). https://xchain.io/asset/SFMSTOCK
+- Shaban Shaame Tweet. (2024, March 6). https://x.com/shaban_shaame/status/1833079293049438240
+- Short Video. (n.d.). https://www.youtube.com/shorts/9ImJ4N3X7s0?feature=share
+- SJCX. (2014, July 11). https://xchain.io/asset/SJCX
+- Skara - The Blade Remains. (n.d.). http://skarathebladeremains.com/
+- Slama, O. (2023, December 24). First commit by Ouziel Slama [GitHub commit].
+- Sotheby's Announcement Tweet. (2021, October 4). https://x.com/Sothebys/status/1446208965982007302
+- Sotheby's Sale Announcement. (2021, October 26). https://x.com/Sothebysverse/status/1453057621402034180
+- Spamgelo. (2022, March 8). https://spamgelo.io
+- Spells of Genesis. (n.d.). https://spellsofgenesis.com/
+- SPONSORLTB. (2014, August 11). https://xchain.io/asset/SPONSORLTB
+- Statista Auction Data. (n.d.). https://www.statista.com/statistics/1235929/sotheby-s-metaverse-most-expensive-nfts-sold-worldwide/
+- STORJ. (n.d.). https://www.storj.io/
+- Subterranean Medium article. (n.d.). https://subterranean.medium.com/the-penisium-project-3a032d56c431
+- SUPERBOWLFAL and SUPERBOWLPAT. (2017, January 23). https://xchain.io/asset/SUPERBOWLFAL
+- SuperRare Artwork. (n.d.). https://superrare.com/artwork/eth/0xb932a70a57673d89f4acffbe830e8ed7f75fb9e0/20053
+- SWARM. (2014, May 28). https://xchain.io/asset/SWARM
+- Swarm official website. (n.d.). https://swarm.com/
+
+## T
+- Takara Diecast Token Giveaway. (2017, February). https://medium.com/book-of-orbs/takara-diecast-token-giveaway-campaign-details-14e5ffe6922d
+- TAKANEZUKAMI. (2021, September 25). https://xchain.io/asset/TAKANEZUKAMI
+- TATIANACOIN. (2014, June 4). https://xchain.io/asset/TATIANACOIN
+- TATIANACARD. (n.d.). https://xchain.io/asset/TATIANACARD
+- Tatiana Moroz website. (n.d.). https://www.tatianamoroz.com/tatiana-coin/
+- TEST. (2014, January 13). https://xchain.io/asset/TEST
+- TEST. (2022, January 15). https://tokenscan.io/tx/243075d4b62719a0e97ec8cd26bba61cd72cd585c0bd83743ca85f656e94d316
+- The Bitcoin Game. (n.d.). https://soundcloud.com/the-bitcoin-game
+- The Diecast Club. (n.d.). https://collectablediecast.com/
+- The Pepe Project. (2022, January 23). http://pepeproject.com/
+- The Scarab Experiment. (n.d.). https://www.thescarabexperiment.org/
+- The Wojak Way. (2018, June 10). https://thewojakway.com/
+- THING. (2021, June 11). https://tokenscan.io/tx/bf9be3cf843738726148c98fd2ace42111981989dae88f9ba259bd510c3c8622
+- THING Asset. (n.d.). https://tokenscan.io/asset/THING
+- Token.fm. (n.d.). https://web.archive.org/web/20220311051125/https://token.fm/
+- tomotomo9696. (n.d.). https://rarejapanesenfts.com/ja/artist/tomotomo9696-ja/
+- TOPCOIN. (2014, September 23). https://xchain.io/asset/TOPCOIN
+- TopCoin. (2014, September 23). https://domaingang.com/wp-content/uploads/2017/12/topcoin-whitepaper.pdf
+- TRIGGERS. (2016, July 13). https://xchain.io/asset/TRIGGERS
+- Tutorial YouTube Video. (2018, March 13). https://www.youtube.com/watch?v=NEkOLN8akzU
+
+## U
+- UFOPEPE. (2016, September 26). https://xchain.io/asset/UFOPEPE
+- UMBRELLA. (2014, November 5). https://xchain.io/asset/UMBRELLA
+- UMBRELLA.ORIGINS. (n.d.). https://xchain.io/asset/UMBRELLA.ORIGINS
+- UNIT. (2014, April 8). https://xchain.io/asset/UNIT
+
+## V
+- Varona, J. (2021, June 20). First commit by Javier Varona [GitHub commit].
+- VICE magazine article. (2017, February 9). https://www.vice.com/en/article/aejvdb/collectors-are-using-the-blockchain-to-keep-rare-pepes-rare
+- VICE Article. (n.d.). https://www.vice.com/en/article/dypj37/rare-pepe-nft-is-not-rare-enough-dollar500k-lawsuit-alleges
+- VICEPEPE. (2017, February 11). https://xchain.io/asset/VICEPEPE
+- Villar, J. (2017, August 27). First commit by John Villar [GitHub commit].
+- Vimeo Video. (2014, October 9). https://vimeo.com/108104171
+- VOATBURGER. (n.d.). https://xchain.io/asset/VOATBURGER
+
+## W
+- WACHHELM. (2017, November 23). https://xchain.io/asset/WACHHELM
+- WACKNAKAMOTO. (2017, April 8). https://xchain.io/asset/KEEPSAKE
+- "Weird n' Wild" collection. (2015, November 24).
+- Weller, D. (2016, January 22). First commit by Devon Weller [GitHub commit].
+- Whiterabbit1111 Medium Article. (n.d.). https://whiterabbit1111.medium.com/the-origin-digital-antiquities-market-nfts-1ea9b69c03f9
+- Whiterabbit1111 Medium article. (n.d.). https://whiterabbit1111.medium.com/the-origin-digital-antiquities-market-nfts-1ea9b69c03f9
+- WILLCOIN. (2016, August 9). https://xchain.io/asset/WILLCOIN
+- WINKELPEPE. (2023, April 14). https://tokenscan.io/tx/c9b8c0eebf08a3c7fe4d106194d5cda7e84701f73a24288fb9f434ae1778d748
+- WTHAuctionHouse Telegram. (n.d.). https://t.me/wthauctionhouse
+
+## X
+- XCPBET. (2014, February 9). https://xchain.io/asset/XCPBET
+- XCPinata. (2015, March 16). https://www.xcpinata.com/
+
+## Y
+- YACHTDOCK. (n.d.). https://xchain.io/asset/YACHTDOCK
+- Yahoo Finance Article. (2021, October). https://web.archive.org/web/20221220111058/https://finance.yahoo.com/news/rarepepe-nft-sells-500k-sotheby-172704750.html
+- Yahoo News Article. (2018, January 14). https://ca.sports.yahoo.com/news/frightening-pepe-homer-simpson-trading-002107577.html
+
+## Z
+- ZeroG Interview. (2022, September 2). https://www.youtube.com/shorts/rBIe5bPcTuQ?feature=share
+
+## Other Contributors
+- kanzure - 2014
+- Rippler - 2014
+- cjcole - 2014
+- Frozenlock - 2014
+- khan-faiz - 2014
+- Ignat99 - 2014
+- larskluge - 2014
+- btcdrak - 2014
+- leishman - 2014
+- ivanaszuber - 2014
+- Millz0r - 2014
+- unsystemizer - 2015
+- gotcha - 2015
+- unsynstemizer - 2015
+- cryptonaut420 - 2015
+- littleskunk - 2016
+- cryptcoin-junkey - 2017
+- familymediallc - 2017
+- mide - 2018
+- longhoangwkm - 2020
+- windsok - 2022
+
+## Notable Releases
+- counterparty-core v10.3.0. (2024, July 12). https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v10.3.0
+- counterparty-core v10.2.0. (2024, June 11). https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v10.2.0
+- counterparty-lib v9.61.0. (2023, November 17). https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v9.61.0
+- counterparty-lib v9.60.0. (2022, August 29). https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v9.60.0
+- counterparty-lib v9.58.0. (2020, February 3). https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v9.58.0
+- counterparty-lib v9.57.0. (2019, October 24). https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v9.57.0
+- counterparty-lib v9.56.0. (2018, December 27). https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v9.56.0
+- counterparty-lib v9.55.3. (2017, September 28). https://github.com/CounterpartyXCP/counterparty-core/releases/tag/9.55.3
+
+## Historic Wallets
+- Counterwallet. (2014, January 2 - 2024, January 14). https://counterwallet.io/
+- Book of Orbs. (2016, October 12 - 2021, May 31). https://www.bookoforbs.com/index_eng.html
+- SaruTobi. (2016, December 19 - Present). https://mandelduck.com/sarutobi/
+- CasaTookan. (2018, September 19 - Present). https://crystalsuite.com/casa-tookan-wallet/
+- Freeport. (2019, February 10 - Present).
+  - GitHub Repository: https://github.com/loon3/Freeport-extension
+  - Chrome Web Store: https://chromewebstore.google.com/detail/freeport/hbggjmemphljoifppaekgpohndiinfeb
+- IndieSquare Wallet. (2015, May 3 - 2019, November 1). https://github.com/IndieSquare/indiesquare-wallet
+- Monya. (2018, January 3 - Present). https://github.com/IndieSquare/indiesquare-wallet
+- NinjaWallet. (2023, August 15 - Present).
+  - User Manual/FAQ: https://stampedninja.gitbook.io/stamped.ninja/ninjawallet-faq
+  - StampedNinja website: https://stamped.ninja/
+  - Stamps and SRC20 version: https://wallet.stamped.ninja/
+  - XCP assets version: https://wallet.xcp.ninja/
+- Freewallet. (2017, October 13 - Present).
+  - Website: https://freewallet.io/
+  - GitHub Repository: https://github.com/jdogresorg/freewallet-desktop
+  - User Manual: https://davestaxcp.gitbook.io/freewallet.io-user-manual
+  - ZeroG Interview: https://www.youtube.com/watch?v=gcgsZmo7EJU
+- Rare Pepe Wallet. (2016, October 3 - Present).
+  - Website: https://rarepepewallet.com/
+  - ZeroG Interview: https://youtu.be/fh54uwX8sKc?si=cUqx7bv78lDTAbAB
+
+## Protocol Forks
+- Overstock. (2014, October 7).
+  - Coindesk Article: https://www.coindesk.com/markets/2014/10/07/overstock-hires-counterparty-developers-to-build-cryptosecurity-stock-exchange/
+  - SEC Filing: https://www.sec.gov/Archives/edgar/data/1130713/000119312521130399/d150210dex991.htm
+  - Counterparty Website Archive: https://web.archive.org/web/20230930085411/https://counterparty.io/news/counterparty-and-overstock-to-create-decentralized-stock-exchange/
+- Monaparty. (2014, October 7).
+  - Monaparty Twitter: https://twitter.com/MonapartyXMP
+  - Monacoin: https://monacoin.org/
+  - Dogeparty: https://dogeparty.net/
+  - Monacoin GitHub: https://github.com/monacoinproject/monacoin
+
+## Lead Developers
+- Devon Weller. (2013, December 15 - 2018, January 1).
+- John Villar. (2018, January 2 - 2019, December 13).
+- Jeremy Johnson. (2019, December 14 - 2024, January 1).
+- Adam Krellenstein. (2024, January 1 - Present).
