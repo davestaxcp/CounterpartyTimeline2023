@@ -2035,7 +2035,7 @@
         "Time": "1416528000",
         "imageURL": "",
         "Event": "MYSOUL",
-        "Significance": "Artist, Rhea Myers tokenized her soul conceptually with the asset MYSOUL on the Counterparty platform. She had done this minting as well on the Dogeparty Protocol a few days prior with the same asset name. She simply put in the description of both 'My soul.' Not a single MYSOUL was ever traded nor did the Asset Ownership ever change hands on either chain it was minted. Rhea still holds the entire supply of her soul. She commented on Twitter, 'They weren’t sold because my wife objected'. Rhea was an early innovator with art and blockchain and many of her works are seen as artistic milestones in the cryptocurrency community.",
+        "Significance": "Artist, Rhea Myers tokenized her soul conceptually with the asset MYSOUL on the Counterparty platform. She had done this minting as well on the Dogeparty Protocol a few days prior with the same asset name. She simply put in the description of both 'My soul.' Not a single MYSOUL was ever traded nor did the Asset Ownership ever change hands on either chain it was minted. Rhea still holds the entire supply of her soul. She commented on Twitter, 'They weren’t sold because my wife objected'. Rhea was an early innovator with art and blockchain. Many of her tokenized works are seen as artistic milestones in the cryptocurrency community. To find more about Rhea and her story, check out the episode linked of The Adam McBride Show where she explains her background and overall perspective on cryptographic artwork.",
         "links": [
             {
                 "label": "Rhea Myers",
@@ -2050,7 +2050,11 @@
                 "href": "https://x.com/rheaplex/status/1719562194139132404?s=20"
             },
             {
-                "label": "many of her works",
+                "label": "The Adam McBride Show",
+                "href": "https://podcasters.spotify.com/pod/show/costarica/episodes/Leading-with-Art---Rhea-Myers-e1lme9k"
+            },
+            {
+                "label": "many of her tokenized works",
                 "href": "https://rhea.art/art/index.html"
             }
         ],
