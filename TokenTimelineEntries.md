@@ -172,18 +172,22 @@ Significance: Tatiana Moroz, a graduate of Berklee College of Music, has been a 
 
 TATIANACOIN is considered 'the first musical artist coin and the alpha for the concept of artist tokens'. Owning this coin meant you were funding the recording of Tatiana’s 'Keep The Faith' album.
 
-The original TATIANACOIN logo was originally designed by Everyday Earth, but the eventual album cover is made from an original signed artwork by Ross Ulbricht drawn for Tatiana. He gave it to her as a birthday gift after Tatiana visited Ross in prison. Tatiana has been a long time vocal advocate for not only Ross but Bitcoin in general and was one of the first individuals to visit him from the Bitcoin community.
+The first TATIANACOIN logo was designed by Everyday Earth, but the eventual album cover is made from an original signed artwork by Ross Ulbricht drawn for Tatiana. He gave it to her as a birthday gift after Tatiana visited Ross in prison. Tatiana has been a long time vocal advocate for not only Ross but Bitcoin in general and was one of the first individuals to visit him from the Bitcoin community.
 
 As mentioned on her website, 'From as early as 2015, Tatiana had conceived of a token that would contain her combined music and artwork. She minted a run of 100 tokens for this purpose in 2015. Then in 2017, she minted tokens to contain all her albums to date.' These include the TATIANAMOROZ (100 coins), minted Oct 10, 2015 and the TATIANAALBUM (900 coins), minted on Feb 10, 2017, among others.'
 
 The original distribution of this token was done through her website and used the 'CoinPowers' software to launch bidding for the token on a daily basis. The less bids that were in on that day, the more tokens were given to the bidders.
 
-Tatiana would also be referenced later in a Spells of Genesis card designed around her story and musical background named: TATIANACARD. This token and subsequent music and album tokens after sparked an interest and importance for artist freedom and selling uncensorable tokens.
+Tatiana would also be referenced later in a Spells of Genesis card designed around her story and musical background named: TATIANACARD. This token and subsequent music and album tokens after sparked an interest and importance for artist freedom and selling uncensorable tokens. To find out more about Tatiana's music, TATIANACOIN and other initiatives check out her interviews on Exploring the Vintage NFT Space with ZeroG, The Adam McBride Show, Art On the Blockchain with Scrilla and HODLCast with Sasha Hodder.
 
 Related Links: https://xchain.io/asset/TATIANACOIN
 https://www.tatianamoroz.com/tatiana-coin/
 https://sonicscoop.com/bitcoin-musicians-tatiana-moroz-makes-case-artist-coins/
 https://xchain.io/asset/TATIANACARD
+https://soundcloud.com/artontheblockchain/episode-12-a-conversation-with-tatiana-moroz
+https://podcasters.spotify.com/pod/show/costarica/episodes/Crypto-Musician---Tatiana-Moroz-e1upd4l
+https://www.podchaser.com/podcasts/hodlcast-727871/episodes/hodlcast-ep-101-with-tatiana-m-52603843
+https://youtu.be/AwK2p6HuLFw
 
 Issuer: Tatiana Moroz
 
