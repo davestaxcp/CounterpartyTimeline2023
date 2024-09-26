@@ -2473,11 +2473,27 @@
         "Time": "1452038400",
         "imageURL": "https://user-images.githubusercontent.com/136373423/279544125-e5c14ed4-bd7a-4b52-9aa7-48d94c99210c.png",
         "Event": "MTM Series",
-        "Significance": "The Mind To Matter series is a collection of tokens which are considered one the first examples of true cryptographic music ownership (or music NFT's) on the Counterparty protocol. The tokens included were MTMALBUM, MTMPRODUCER, MTMCOLLECTOR and MTMSONG which represented tokenized ownership of Adam B. Levine's EP titled 'A Little Color'. The process included buying and owning one of the tokens above to access Adam's album. At the time the cost was either $5 in bitcoin, $7 with credit/debit, $2.50 worth of LTBCOIN and a couple other payment options. It was an early use of 'token controlled access' that allowed token holders to prove they held the token to access the music.",
+        "Significance": "The Mind To Matter series is a collection of tokens which are considered one the first examples of true cryptographic music ownership (or music NFT's) on the Counterparty protocol. The tokens included were MTMALBUM, MTMPRODUCER, MTMCOLLECTOR and MTMSONG which represented tokenized ownership of Adam B. Levine's EP titled 'A Little Color'. The process included buying and owning one of the tokens mentioned above to access Adam's album and recieve unique perks for each token. At the time the cost of the album was either $5 in bitcoin, $7 with credit/debit, $2.50 worth of LTBCOIN and a couple other payment options. It was an early use of 'token controlled access' that allowed token holders to prove they held the token to access the music. To learn more about Adam, his story and his viewpoints on the early tokenization of art, check out the first episode of Art on the Blockchain, his interview on The Adam McBride show, his interview on The Charlie Shrem Show and of course the Let's Talk Bitcoin podcast which he was a host of.",
         "links": [
             {
                 "label": "Mind To Matter series",
                 "href": "https://www.mtmseries.io/"
+            },
+            {
+                "label": "Let's Talk Bitcoin podcast",
+                "href": "https://www.podchaser.com/podcasts/the-original-lets-talk-bitcoin-2803203"
+            },
+            {
+                "label": "Art on the Blockchain",
+                "href": "https://soundcloud.com/artontheblockchain/art-on-the-blockchain-ep1"
+            },
+            {
+                "label": "The Charlie Shrem Show",
+                "href": "https://www.youtube.com/watch?v=dxPnQS6PBbA"
+            },
+            {
+                "label": "The Adam McBride Show",
+                "href": "https://podcasters.spotify.com/pod/show/costarica/episodes/Blockchain-Explorer---Adam-B--Levine-e1eq8i6"
             },
             {
                 "label": "MTMALBUM",
