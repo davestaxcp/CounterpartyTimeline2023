@@ -1373,11 +1373,27 @@
         "Time": "1394582400",
         "imageURL": "https://user-images.githubusercontent.com/136373423/279542869-7485a6d2-1ab1-4251-a527-09f1c9acb306.png",
         "Event": "LTBCOIN",
-        "Significance": "Let's Talk Bitcoin was a bitcoin centered podcast and website created in April of 2013. Adam B. Levine, Andreas Antonopoulos, and Stephanie Murphy are the most well-known contributors at Let’s Talk Bitcoin, but the network was comprised of a multitude of freelance (autonomous) editors, contributors, and sponsors, plus their rapidly growing audience. The idea behind LTBcoin was to generate a finite number of coins and then distribute those coins over a five year period based on a pre-defined distribution protocol. In this manner, contributors, members of the audience, and every other stakeholder can earn LTBcoins while maintaining a vested interest in the overall health of the network. LTBcoins were earned by producing or consuming content on the website and used as currency to buy items such as merchandise and advertising on podcasts. LTBCOIN was also listed on major centralized cryptocurrency exchanges at the time, including Bittrex and Poloniex. It may be considered one of the first 'altcoins' made on the Counterparty Platform.",
+        "Significance": "Let's Talk Bitcoin was a bitcoin centered podcast and website created in April of 2013. Adam B. Levine, Andreas Antonopoulos, and Stephanie Murphy are the most well-known contributors at Let’s Talk Bitcoin, but the network was comprised of a multitude of freelance (autonomous) editors, contributors, and sponsors, plus their rapidly growing audience. The idea behind LTBcoin was to generate a finite number of coins and then distribute those coins over a five year period based on a pre-defined distribution protocol. In this manner, contributors, members of the audience, and every other stakeholder can earn LTBcoins while maintaining a vested interest in the overall health of the network. LTBcoins were earned by producing or consuming content on the website and used as currency to buy items such as merchandise and advertising on podcasts. LTBCOIN was also listed on major centralized cryptocurrency exchanges at the time, including Bittrex and Poloniex. It may be considered one of the first 'altcoins' made on the Counterparty Platform and is one of the more documented projects from the early days of Counterparty. While the original website still holds a good deal of historic content, the best place to learn about this era is by listening to the original Let's Talk Bitcoin Show (now called 'Speaking of Bitcoin'). Other great overviews of this era with Adam B. Levine can found on the first episode of Art on the Blockchain, The Adam McBride Show, and The Charlie Shrem Show.",
         "links": [
             {
                 "label": "podcast and website",
                 "href": "https://web.archive.org/web/20230131224146/https://letstalkbitcoin.com/"
+            },
+            {
+                "label": "the original Let's Talk Bitcoin Show",
+                "href": "https://www.podchaser.com/podcasts/the-original-lets-talk-bitcoin-2803203"
+            },
+            {
+                "label": "the first episode of Art on the Blockchain",
+                "href": "https://soundcloud.com/artontheblockchain/art-on-the-blockchain-ep1"
+            },
+            {
+                "label": "The Adam McBride Show",
+                "href": "https://podcasters.spotify.com/pod/show/costarica/episodes/Blockchain-Explorer---Adam-B--Levine-e1eq8i6"
+            },
+            {
+                "label": "The Charlie Shrem Show",
+                "href": "https://www.youtube.com/watch?v=dxPnQS6PBbA"
             },
             {
                 "label": "LTBCOIN",
