@@ -148,7 +148,7 @@ Next ones to research:
 - | Phunchkins | https://phunchkins.com/ | https://web.archive.org/web/20231208182144/https://phunchkins.com/
 - | Pepemon | https://pepemon.net/ |
 - | Wojak NPC | https://wojaknpc.com/ |
-- | PepeVote | needmoney90? |
+- | PepeVote | needmoney90? | https://soundcloud.com/unconfirmed-transactions/xcp-on-blast-pepe-vote
 
 ---
 
@@ -188,6 +188,8 @@ These Podcasts:
 [Bitcoin Uncensored](https://www.mixcloud.com/bitcoinuncensored/uploads/?order=oldest)
 
 [HODLCast](https://www.podchaser.com/podcasts/hodlcast-727871/episodes/recent)
+
+[unconfirmed transactions](https://soundcloud.com/unconfirmed-transactions)
 
 ---
 
