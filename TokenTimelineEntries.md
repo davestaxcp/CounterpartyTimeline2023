@@ -519,10 +519,11 @@ Date: **Nov 21, 2014**
 
 Timeline Asset/Project: **MYSOUL**
 
-Significance: Artist, [Rhea Myers](https://twitter.com/rheaplex/) tokenized her soul conceptually with the asset MYSOUL on the Counterparty platform. She had done this minting as well on the Dogeparty Protocol [a few days prior](https://dogeparty.xchain.io/tx/26551) with the same asset name. She simply put in the description of both "My soul." Not a single MYSOUL was ever traded nor did the Asset Ownership ever change hands on either chain it was minted. Rhea still holds the entire supply of her soul. She commented [on Twitter](https://x.com/rheaplex/status/1719562194139132404?s=20), "They weren’t sold because my wife objected". Rhea was an early innovator with art and blockchain and [many of her works](https://rhea.art/art/index.html) are seen as artistic milestones in the cryptocurrency community.
+Significance: Artist, [Rhea Myers](https://twitter.com/rheaplex/) tokenized her soul conceptually with the asset MYSOUL on the Counterparty platform. She had done this minting as well on the Dogeparty Protocol [a few days prior](https://dogeparty.xchain.io/tx/26551) with the same asset name. She simply put in the description of both "My soul." Not a single MYSOUL was ever traded nor did the Asset Ownership ever change hands on either chain it was minted. Rhea still holds the entire supply of her soul. She commented [on Twitter](https://x.com/rheaplex/status/1719562194139132404?s=20), "They weren’t sold because my wife objected". Rhea was an early innovator with art and blockchain. [Many of her tokenized works](https://rhea.art/art/index.html) are seen as artistic milestones in the cryptocurrency community. To find more about Rhea and her story, check out the episode linked of The Adam McBride Show where she explains her background and overall perspective on cryptographic artwork.
 
 Related Links: https://xchain.io/asset/MYSOUL
 https://rhea.art/art/index.html
+https://podcasters.spotify.com/pod/show/costarica/episodes/Leading-with-Art---Rhea-Myers-e1lme9k
 
 Issuer: Rhea Myers
 
