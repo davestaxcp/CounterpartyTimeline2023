@@ -187,6 +187,8 @@ These Podcasts:
 
 [Bitcoin Uncensored](https://www.mixcloud.com/bitcoinuncensored/uploads/?order=oldest)
 
+[HODLcast](https://www.podchaser.com/podcasts/hodlcast-727871/episodes/recent)
+
 ---
 
 These Interviews:
