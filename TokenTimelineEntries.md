@@ -788,13 +788,17 @@ Date: **Jan 6, 2016**
 
 Timeline Asset/Project: **MTM Series**
 
-Significance: The [Mind To Matter series](https://www.mtmseries.io/) is a collection of tokens which are considered one the first examples of true cryptographic music ownership (or music NFT's) on the Counterparty protocol. The tokens included were [MTMALBUM](https://xchain.io/asset/MTMALBUM), [MTMPRODUCER](https://xchain.io/asset/MTMPRODUCER), [MTMCOLLECTOR](https://xchain.io/asset/MTMCOLLECTOR) and [MTMSONG](https://xchain.io/asset/MTMSONG) which represented tokenized ownership of Adam B. Levine's EP titled "A Little Color". The process included buying and owning one of the tokens above to access Adam's album. At the time the cost was either $5 in bitcoin, $7 with credit/debit, $2.50 worth of LTBCOIN and a couple other payment options. It was an early use of 'token controlled access' that allowed token holders to prove they held the token to access the music.
+Significance: The [Mind To Matter series](https://www.mtmseries.io/) is a collection of tokens which are considered one the first examples of true cryptographic music ownership (or music NFT's) on the Counterparty protocol. The tokens included were [MTMALBUM](https://xchain.io/asset/MTMALBUM), [MTMPRODUCER](https://xchain.io/asset/MTMPRODUCER), [MTMCOLLECTOR](https://xchain.io/asset/MTMCOLLECTOR) and [MTMSONG](https://xchain.io/asset/MTMSONG) which represented tokenized ownership of Adam B. Levine's EP titled "A Little Color". The process included buying and owning one of the tokens mentioned above to access Adam's album and recieve unique perks for each token. At the time the cost of the album was either $5 in bitcoin, $7 with credit/debit, $2.50 worth of LTBCOIN and a couple other payment options. It was an early use of 'token controlled access' that allowed token holders to prove they held the token to access the music. To learn more about Adam, his story and his viewpoints on the early tokenization of art, check out the first episode of Art on the Blockchain, his interview on The Adam McBride show, his interview on The Charlie Shrem Show and of course the Let's Talk Bitcoin podcast which he was a host of.
 
 Related Links: https://www.mtmseries.io/
 https://xchain.io/asset/MTMALBUM
 https://xchain.io/asset/MTMPRODUCER
 https://xchain.io/asset/MTMCOLLECTOR
 https://xchain.io/asset/MTMSONG
+https://podcasters.spotify.com/pod/show/costarica/episodes/Blockchain-Explorer---Adam-B--Levine-e1eq8i6
+https://www.youtube.com/watch?v=dxPnQS6PBbA
+https://soundcloud.com/artontheblockchain/art-on-the-blockchain-ep1
+https://www.podchaser.com/podcasts/the-original-lets-talk-bitcoin-2803203
 
 Issuer: Adam Levine
 
