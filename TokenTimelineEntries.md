@@ -1066,11 +1066,15 @@ Date: **Jan 23, 2017**
 
 Timeline Asset/Project: **SUPERBOWLFAL and SUPERBOWLPAT**
 
-Significance: Minted by Theo Goodman, these tokens name [SUPERBOWLFAL](https://xchain.io/asset/SUPERBOWLFAL) and [SUPERBOWLPAT](https://xchain.io/asset/SUPERBOWLPAT) were one of the first uses of a [Counterparty based betting platform](https://theogoodman.medium.com/a-historic-super-bowl-87f8016e51b3). They were used for the 2017 American Football Super Bowl between the Atlanta Falcons and the New England Patriots. Owners of the winning team could redeem them on the Counterparty Decentralized Exchange using PEPECASH from the Rare Pepe project.
+Significance: Minted by Theo Goodman, these tokens name [SUPERBOWLFAL](https://xchain.io/asset/SUPERBOWLFAL) and [SUPERBOWLPAT](https://xchain.io/asset/SUPERBOWLPAT) were one of the first uses of a [Counterparty based betting platform](https://theogoodman.medium.com/a-historic-super-bowl-87f8016e51b3). They were used for the 2017 American Football Super Bowl between the Atlanta Falcons and the New England Patriots. Owners of the winning team could redeem the tokens for PEPECASH on the Counterparty Decentralized Exchange because each were put up for sale on the DEX at a price to reflect the odds. As explained in Theo's article, 'if pats win [the token is] worth 2000 pepecash' and 'if the falcons win then [the token is] worth 2000 pepecash'. Theo also mentions at the time that Joe Looney helped by adding 'a front end' user interface for the tokens to the legendary Rare Pepe Wallet to make betting easier. To learn more about Theo Goodman, check out his interview with ZeroG, his Art on the Blockchain interview, and his interview on the Unconfirmed Transactions podcast.
 
 Related Links: https://theogoodman.medium.com/a-historic-super-bowl-87f8016e51b3
 https://xchain.io/asset/SUPERBOWLFAL
 https://xchain.io/asset/SUPERBOWLPAT
+https://youtu.be/jip8MfUCJt8?si=eqTXhvxu5xaSgtyv
+https://soundcloud.com/artontheblockchain/art-on-the-blockchain-episode-2-feat-theo-goodman
+https://soundcloud.com/unconfirmed-transactions/bitsesh-theo-goodman
+
 
 Issuer: Theo Goodman
 
