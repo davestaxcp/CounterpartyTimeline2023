@@ -251,11 +251,13 @@ Date: **Jun 28, 2014**
 
 Timeline Asset/Project: **JPJA**
 
-Significance: [JPJA](https://xchain.io/asset/JPJA) is one of the first tokens to give "shares" for a separate outside product within a Counterparty Asset. On June 28th the description of JPJA was changed to "1 share = 1 % of eBook tips. See JPJA.net" which provided a way to 'own' a piece of an eBook titled 'The Economics of Bitcoin' by JP Janssen. This is also the [first reference to an eBook](https://jpjanssen.com/jpja-2014-book-nft-defi-pioneer/) on any Counterparty Transaction or Asset. This was published on [the Bitcointalk forums](https://bitcointalk.org/index.php?topic=395761.msg7542184#msg7542184) as an experiment and funds were distributed to holders according to terms set on the asset.
+Significance: [JPJA](https://xchain.io/asset/JPJA) is one of the first tokens to give "shares" for a separate outside product within a Counterparty Asset. On June 28th the description of JPJA was changed to "1 share = 1 % of eBook tips. See JPJA.net" which provided a way to 'own' a piece of an eBook titled 'The Economics of Bitcoin' by JP Janssen. This is also the [first reference to an eBook](https://jpjanssen.com/jpja-2014-book-nft-defi-pioneer/) on any Counterparty Transaction or Asset. This was published on [the Bitcointalk forums](https://bitcointalk.org/index.php?topic=395761.msg7542184#msg7542184) as an experiment and funds were distributed to holders according to terms set on the asset. To learn more about the JPJA token and JP Janssen's story behind his early issuances on Counterparty, check out his interview on The Adam McBride Show.
+
 
 Related Links: https://xchain.io/asset/JPJA
 https://bitcointalk.org/index.php?topic=395761.msg7542184#msg7542184
 https://jpjanssen.com/jpja-2014-book-nft-defi-pioneer/
+https://podcasters.spotify.com/pod/show/costarica/episodes/Early-Counterpart-NFTs---JP-Janssen-e1e2pi7
 
 Issuer: JP Janssen
 
