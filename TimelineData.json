@@ -4297,7 +4297,7 @@
     "Time": "1412812800",
     "imageURL": "https://github.com/user-attachments/assets/4e1cd424-bc66-4f80-9832-0ae4b0ef0d79",
     "Event": "Monegraph Mints from Namecoin",
-    "Significance": "Within a prior protocol called Namecoin, Monegraphs (Monetized Graphics) were among the first blockchain collectibles with artwork and the intention of digital ownership. These assets became very popular when Sotheby's auctioned off the first piece in Monegraphs by Kevin McCoy, 'Quantum', for $1.4 million dollars. While eighteen of these tokens were created using Namecoin, two of them by Joe Hamilton were minted using Counterparty. The first of which is a named asset called MGAAAAAAAAAAA that included a Vimeo file link, a sha256 hash, a Twitter link, ownership of the artwork and a JSON as the description. The video file included with this asset is an avante-garde video piece titled 'Regular Division'. While MGAAAAAAAAAAA is a non-divisible asset with a current supply of 1, the token issuance is not locked at this time. The second asset, A1028163271339900500, is a numeric divisible asset minted in March of 2015 that also has remained unlocked for issuance at the time of this writing. This token included much less information than MGAAAAAAAAAAA and simply includes a JSON in the description.",
+    "Significance": "Within a prior protocol called Namecoin, Monegraphs (Monetized Graphics) were among the first blockchain collectibles with artwork and the intention of digital ownership. These assets became very popular when Sotheby's auctioned off the first piece in Monegraphs by Kevin McCoy, 'Quantum', for $1.4 million dollars. While eighteen of these tokens were created using Namecoin, two of them by Joe Hamilton were minted using Counterparty. The first of which is a named asset called MGAAAAAAAAAAA that included a Vimeo file link, a sha256 hash, a Twitter link, ownership of the artwork and a JSON as the description. The video file included with this asset is an avante-garde video piece titled 'Regular Division'. While MGAAAAAAAAAAA is a non-divisible asset with a current supply of 1, the token issuance is not locked at this time. The second asset, A1028163271339900500, is a numeric divisible asset minted in March of 2015 that also has remained unlocked for issuance at the time of this writing. This other numeric token included much less information than MGAAAAAAAAAAA and simply includes a JSON in the description. To learn more about Regular Division and Joe Hamilton's backstory, check out his interview on The Adam McBride Show.",
     "links": [
       {
         "label": "Joe Hamilton Website",
@@ -4326,6 +4326,10 @@
       {
         "label": "A1028163271339900500 Token",
         "href": "https://tokenscan.io/asset/A1028163271339900500"
+      },
+      {
+        "label": "his interview on The Adam McBride Show",
+        "href": "https://podcasters.spotify.com/pod/show/costarica/episodes/Early-Bitcoin-NFT-Artist---Joe-Hamilton-e1b717h"
       },
       {
         "label": "Vimeo Video",
