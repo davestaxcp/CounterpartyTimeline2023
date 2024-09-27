@@ -2041,9 +2041,10 @@ Date: **Nov 21. 2018**
 
 Timeline Asset/Project: **Longest Asset Name**
 
-Significance: The addition of 'subassets' to named Counterparty assets opened up the possibility of many new features regarding the extension of functionality of named assets. Some of which would be used not only in historical assets like DJPEPE but also in new projects like NPCS. This specific asset is a subasset to the named token KALEIDOSCOPE, which is the genesis project token for the Kaleidoscope project. The minter of this NFT, Nathan, did not include any extra information in the description. He decided to make the token non-divisible and went on to lock the token supply at one token. It was the first subasset to use the max amount of characters avaliable to that Counterparty token type. The asset is simply named: 'KALEIDOSCOPE.The_worlds_first_ever_longest_digital_asset_name_and_an_experiment_of_an_experiment_on_the_blockchain_verified_forever_by_the_counterparty_protocol_and_bitcoin_OPreturn'.
+Significance: The addition of 'subassets' to named Counterparty assets opened up the possibility of many new features regarding the extension of functionality of named assets. Some of which would be used not only in historical assets like DJPEPE but also in new projects like NPCS. This specific asset is a subasset to the named token KALEIDOSCOPE, which is the genesis project token for the Kaleidoscope project. The minter of this NFT, Nathan, did not include any extra information in the description. He decided to make the token non-divisible and went on to lock the token supply at one token. It was the first subasset to use the max amount of characters avaliable to that Counterparty token type. The asset is simply named: 'KALEIDOSCOPE.The_worlds_first_ever_longest_digital_asset_name_and_an_experiment_of_an_experiment_on_the_blockchain_verified_forever_by_the_counterparty_protocol_and_bitcoin_OPreturn'. To learn more about Nathan, check out his interview with ZeroG.
 
 Related Links: https://tokenscan.io/asset/A13888757749239221748
+https://youtu.be/BLsT7xP1xdM
 
 Issuer: Nathan Sonic
 
