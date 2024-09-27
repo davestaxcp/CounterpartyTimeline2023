@@ -1695,7 +1695,7 @@
         "Time": "1404691200",
         "imageURL": "",
         "Event": "BEEP",
-        "Significance": "Each unit of this unique Counterparty token, named BEEP, was made to be a token that could always be redeemed for a unique sound. This token was minted by Theo Goodman and the original directions to redeem your 'unique sound' was to send the BEEP to a specific address, in which you would receive an 'echo'. In the original bitcoin talk forum post the directions gave an example transaction which contained a sample transaction for the echo effect to show interested users. The user was then to take the base64 included in that echo and play the file in a program that converted that specific information into a unique sound. This is a very interesting and early use of 'token controlled access' while also integrating a unique base64 code on-chain for the 'echo' of this BEEP token. It definitely was a unique chord struck in Counterparty asset history and one of the first to use base64 and musical integration on the Counterparty platform.",
+        "Significance": "Each unit of this unique Counterparty token, named BEEP, was made to be a token that could always be redeemed for a unique sound. This token was minted by Theo Goodman and the original directions to redeem your 'unique sound' was to send the BEEP to a specific address, in which you would receive an 'echo'. In the original bitcoin talk forum post the directions gave an example transaction which contained a sample transaction for the echo effect to show interested users. The user was then to take the base64 included in that echo and play the file in a program that converted that specific information into a unique sound. This is a very interesting and early use of 'token controlled access' while also integrating a unique base64 code on-chain for the 'echo' of this BEEP token. It definitely was a unique chord struck in Counterparty asset history and one of the first to use base64 and musical integration on the Counterparty platform. To learn more about Theo Goodman, check out his interview with ZeroG, his Art on the Blockchain interview, and his interview on the Unconfirmed Transactions podcast.",
         "links": [
             {
                 "label": "BEEP",
@@ -1708,6 +1708,18 @@
             {
                 "label": "bitcoin talk forum post",
                 "href": "https://bitcointalk.org/index.php?topic=729719.msg8248468#msg8248468"
+            },
+            {
+                "label": "interview with ZeroG",
+                "href": "https://youtu.be/jip8MfUCJt8?si=eqTXhvxu5xaSgtyv"
+            },
+            {
+                "label": "his Art on the Blockchain interview",
+                "href": "https://soundcloud.com/artontheblockchain/art-on-the-blockchain-episode-2-feat-theo-goodman"
+            },
+            {
+                "label": "his interview on the Unconfirmed Transactions podcast",
+                "href": "https://soundcloud.com/unconfirmed-transactions/bitsesh-theo-goodman"
             },
             {
                 "label": "an example transaction",
