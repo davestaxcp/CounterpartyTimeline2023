@@ -1300,11 +1300,12 @@ Date: **Mar 23, 2018**
 
 Timeline Asset/Project: **KALEIDOSCOPE**
 
-Significance: One of the more underground and unknown projects is [KaleidoscopeXCP](https://www.kaleidoscopexcp.com/). This project is known for accepting literally any asset that is submitted. It was created by [nathansonic](https://twitter.com/nathansonic) and is largely regarded as possessing a unique mysteriousness. [KALEIDOSCOPE](https://xchain.io/asset/KALEIDOSCOPE) was the official first asset in the directory. Because of the 'open arms' ruleset, some tokens with earlier mint dates, such as [BITROCK](https://xchain.io/asset/BITROCK) are also apart of this directory.
+Significance: One of the more underground and unknown projects is [KaleidoscopeXCP](https://www.kaleidoscopexcp.com/). This project is known for accepting literally any asset that is submitted. It was created by [nathansonic](https://twitter.com/nathansonic) and is largely regarded as possessing a unique mysteriousness. [KALEIDOSCOPE](https://xchain.io/asset/KALEIDOSCOPE) was the official first asset in the directory. Because of the 'open arms' ruleset, some tokens with earlier mint dates, such as [BITROCK](https://xchain.io/asset/BITROCK) are also apart of this directory. To learn more about Nathan and the story behind KALEIDOSCOPE, check out his interview with ZeroG.
 
 Related Links: https://www.kaleidoscopexcp.com/
 https://xchain.io/asset/KALEIDOSCOPE
 https://twitter.com/nathansonic
+https://youtu.be/BLsT7xP1xdM
 
 Issuer: nathansonic
 
