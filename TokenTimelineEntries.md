@@ -218,12 +218,12 @@ Date: **Jun 15, 2014**
 
 Timeline Asset/Project: **SEBUH**
 
-Significance: Even though [SEBUH](https://xchain.io/asset/SEBUH) was minted 2 days before on June 13, 2014, the updating of the description with { ";image";: ";http://sebuh.com/images"; } was the first instance of a token including an image reference with a Counterparty Asset. The description has been changed since and now links to "sebuh.com". At the time [Sebuh](https://twitter.com/Sebuh_com) used this locked, non-divisible asset and [sold them for 0.144 BTC](https://forums.counterparty.io/t/ann-sebuh-token-rockminer-rbox-group-buy-and-investment-option/327) in which you could redeem the SEBUH tokens for a RBox Rockminer through his website. Years later in 2022 he stated "a collector messaged me on Facebook. He was after some really old Bitcoin miners. We traded a few miners with them for SEBUH tokens. So I shipped a Prospero X1, Ice fury, Redfury, and Technobit NF1, to Equador. It's now part of a museum." This token is also considered one of the earliest tokens to include a physical item related to a Counterparty Asset. Learn more about Sebuh and [his story here](https://youtu.be/06EgYWxpxzw). 
+Significance: Even though [SEBUH](https://xchain.io/asset/SEBUH) was minted 2 days before on June 13, 2014, the updating of the description with { ";image";: ";http://sebuh.com/images"; } was the first instance of a token including an image reference with a Counterparty Asset. The description has been changed since and now links to "sebuh.com". At the time [Sebuh](https://twitter.com/Sebuh_com) used this locked, non-divisible asset and [sold them for 0.144 BTC](https://forums.counterparty.io/t/ann-sebuh-token-rockminer-rbox-group-buy-and-investment-option/327) in which you could redeem the SEBUH tokens for a RBox Rockminer through his website. Years later in 2022 he stated "a collector messaged me on Facebook. He was after some really old Bitcoin miners. We traded a few miners with them for SEBUH tokens. So I shipped a Prospero X1, Ice fury, Redfury, and Technobit NF1, to Equador. It's now part of a museum." This token is also considered one of the earliest tokens to include a physical item related to a Counterparty Asset. To learn more about SEBUH, check out his interview on Exploring the Vintage NFT Space with ZeroG.
 
 Related Links: https://xchain.io/asset/SEBUH
 https://twitter.com/Sebuh_com
 https://forums.counterparty.io/t/ann-sebuh-token-rockminer-rbox-group-buy-and-investment-option/327
-https://youtu.be/06EgYWxpxzw
+https://youtu.be/06EgYWxpxzw?si=WmxaxETk3RTYkNK0
 
 Issuer: Sebuh
 
