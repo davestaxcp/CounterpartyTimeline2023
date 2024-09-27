@@ -3351,7 +3351,7 @@
         "Time": "1521763200",
         "imageURL": "https://user-images.githubusercontent.com/136373423/279544935-b0a413d2-2161-4c70-a0c0-34bf3d321e8b.png",
         "Event": "KALEIDOSCOPE",
-        "Significance": "One of the more underground and unknown projects is KaleidoscopeXCP. This project is known for accepting literally any asset that is submitted. It was created by nathansonic and is largely regarded as possessing a unique mysteriousness. KALEIDOSCOPE was the official first asset in the directory. Because of the 'open arms' ruleset, some tokens with earlier mint dates, such as BITROCK are also apart of this directory.",
+        "Significance": "One of the more underground and unknown projects is KaleidoscopeXCP. This project is known for accepting literally any asset that is submitted. It was created by nathansonic and is largely regarded as possessing a unique mysteriousness. KALEIDOSCOPE was the official first asset in the directory. Because of the 'open arms' ruleset, some tokens with earlier mint dates, such as BITROCK are also apart of this directory. To learn more about Nathan and the story behind KALEIDOSCOPE, check out his interview with ZeroG.",
         "links": [
             {
                 "label": "KaleidoscopeXCP",
@@ -3364,6 +3364,10 @@
             {
                 "label": "KALEIDOSCOPE",
                 "href": "https://xchain.io/asset/KALEIDOSCOPE"
+            },
+            {
+                "label": "his interview with ZeroG",
+                "href": "https://youtu.be/BLsT7xP1xdM"
             },
             {
                 "label": "BITROCK",
