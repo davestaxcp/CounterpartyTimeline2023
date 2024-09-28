@@ -1392,10 +1392,11 @@ Date: **Mar 23, 2020**
 
 Timeline Asset/Project: **A11136359864833872787**
 
-Significance: [This numeric asset](https://xchain.io/asset/A11136359864833872787) was a token Scrilla gave away to people who pre ordered the album: [Sound Money](https://rarescrilla.bandcamp.com/album/sound-money). As was the case with the GORILLAGLUE token, this was integrated into [the album's bandcamp page](https://rarescrilla.bandcamp.com/album/sound-money). Only two users total claimed this token within the pre-order window from the redeemable token key. Scrilla also held on to two units of this token and saved one for the artist ankhlejohn who was featured on the single cover art. The cover art was also minted to the description using the JSON format at the time of issuance. Scrilla mentioned he was "was trying to get people a free 'proof of early support' token that showed they were early in supporting the album."
+Significance: [This numeric asset](https://xchain.io/asset/A11136359864833872787) was a token Scrilla gave away to people who pre ordered the album: [Sound Money](https://rarescrilla.bandcamp.com/album/sound-money). As was the case with the GORILLAGLUE token, this was integrated into [the album's bandcamp page](https://rarescrilla.bandcamp.com/album/sound-money). Only two users total claimed this token within the pre-order window from the redeemable token key. Scrilla also held on to two units of this token and saved one for the artist ankhlejohn who was featured on the single cover art. The cover art was also minted to the description using the JSON format at the time of issuance. Scrilla mentioned he was "was trying to get people a free 'proof of early support' token that showed they were early in supporting the album." To learn more about Scrilla and Sound Money, check out his interview on HODLCast with Sasha Hodder.
 
 Related Links: https://rarescrilla.bandcamp.com/album/sound-money
 https://xchain.io/asset/A11136359864833872787
+https://www.podchaser.com/podcasts/hodlcast-727871/episodes/hodlcast-ep-112-with-dj-j-cril-57738611
 
 Issuer: Scrilla
 
