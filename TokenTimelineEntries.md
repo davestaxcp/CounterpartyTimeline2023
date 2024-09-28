@@ -710,21 +710,21 @@ Date: **Jun 24, 2015**
 
 Timeline Asset/Project: **SATOSHICARD**
 
-Significance: Through a collaboration between Spells of Genesis and SaruTobi, the SATOSHICARD is recognized as the oldest tokenized metaverse asset on the Counterparty Protocol. 
-
-SATOSHICARD was integrated into both of the two blockchain games by two different developers, providing different utility in each. The first game with use for SATOSHICARD was not Spells of Genesis initially, but the Sarutobi game by Christian Moss. A great article by IndieSquare Wallet is linked to get a good overview of how owning this asset gave players an extra powerup (Power +50).
-
-This token is considered part of the humble birth of "metaverse" cryptographic tokens, and according to Whiterabbit1111 SATOSHICARD "served to be the first crack in the walled gardens of the multibillion dollar gaming industry". 
-
-A few examples of tokens similar in functionality to SATOSHICARD at the genesis of being included into Sarutobi are CNPCARD and SHUMAICARD.
-
-Of course, SATOSHICARD would eventually become a staple in the Spells of Genesis game when it was released in April 20, 2017. Yet it is quite interesting this card was already being used for in-game items in a separate game on May 18, 2016.
+Significance: Through a collaboration between Spells of Genesis and SaruTobi, the SATOSHICARD is recognized as the oldest tokenized metaverse asset on the Counterparty Protocol. SATOSHICARD was integrated into both of the two blockchain games by two different developers, providing different utility in each. The first game with use for SATOSHICARD was not Spells of Genesis initially, but the Sarutobi game by Christian Moss. A great article by IndieSquare Wallet is linked to get a good overview of how owning this asset gave players an extra powerup (Power +50). This token is considered part of the humble birth of 'metaverse' cryptographic tokens, and according to Whiterabbit1111 SATOSHICARD 'served to be the first crack in the walled gardens of the multibillion dollar gaming industry'. A few examples of tokens similar in functionality to SATOSHICARD at the genesis of being included into Sarutobi are CNPCARD and SHUMAICARD. Of course, SATOSHICARD would eventually become a staple in the Spells of Genesis game when it was released in April 20, 2017. Yet it is quite interesting this card was already being used for in-game items in a separate game on May 18, 2016. To learn more about SATOSHICARD and Spells of Genesis, check out Shaban Shaame's interview with Adam McBride, Shaban's interview with ZeroG, The Birth of the Metaverse interview with Adam McBride, Nicolas Sierro's interview with ZeroG, and a joint recorded twitter space with Shaban, Christian Moss and Koji Higashi. For more information about Sarutobi and how Christian Moss originally linked this asset, check out his interview with Adam McBride, Episode 23 of Art on the Blockchain, and his ZeroG interview.
 
 Related Links: https://mandelduck.com/sarutobi/
 https://spellsofgenesis.com/
 https://xchain.io/asset/SATOSHICARD
 https://www.redlion.news/article/the-legend-of-sarutobi
 https://blog.indiesquare.me/sarutobi-android-release-and-cross-game-promotion-through-tokens-59a1c58cc7b1
+https://podcasters.spotify.com/pod/show/costarica/episodes/NFT-Play-to-Earn-and-Interoperability-Pioneer---Christian-Moss-e18pg83
+https://soundcloud.com/artontheblockchain/episode-23-a-conversation-w-christian-moss-of-indie-square-mandel-duck
+https://youtu.be/7QPXSrcEu0E?si=yAZFGI9ONwfLuXR3
+https://podcasters.spotify.com/pod/show/costarica/episodes/Spells-of-Genesis---Shaban-Shaame-e1b6uav
+https://youtu.be/0AVioHs_arc
+https://podcasters.spotify.com/pod/show/costarica/episodes/Birth-of-the-Metaverse---The-Founders-of-Spells-of-Genesis-and-SaruTobi-e1ae3nv
+https://podcasters.spotify.com/pod/show/costarica/episodes/NFT-Legends-Christian-Moss--Koji-Higashi--and-Shaban-Shaame-e19eur0
+
 
 Issuer: 1EewCNrN1oypSYZE81HBiqrjuhkLcz1qXR
 
