@@ -772,7 +772,7 @@ Significance: A young iOS developer in Australia by the name of Christian Moss r
 
 Christian wanted to let SaruTobi players purchase in-game items with Bitcoin but Apple’s iOS App Store terms didn't allow it. Instead he let players collect small amounts of Bitcoin as they played. At the time, Christian was working with IndieSquare on wallet implementation and helping with the development of Book of Orbs. 
 
-In June of 2016, Christian implemented this blockchain functionality by making the Spells of Genesis CNPCARD, SARUTOBICARD and SHUMAICARD playable in Sarutobi. Eventually, SARUTOBICARD would also be playable in the game as well. These first three assets, though, marked the first instances of a Counterparty tokenized asset becoming interoperable between two independent games. 
+In June of 2016, Christian implemented this blockchain functionality by making the Spells of Genesis assets CNPCARD, SARUTOBICARD and SHUMAICARD playable in Sarutobi. These first three assets, though, marked the first instances of a Counterparty tokenized asset becoming interoperable between two independent games. 
 
 SARUTOBICARD in this circumstance would be singled out to be a cultural and tokenized representation of SaruTobi. This card would also be incorporated into a separate game called SaruTobi's Island which allowed players to use proof of ownership of Counterparty assets to generate playable characters in SaruTobi's Island. 
 
