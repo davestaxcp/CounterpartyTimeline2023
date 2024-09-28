@@ -853,8 +853,13 @@ Originally this was hosted on 'RarePepeWallet.com', but was later moved to the U
 
 This wallet is also very known for labeling all 'non-RarePepe' assets as 'Fake Rares' as was a cultural custom in the Rare Pepe community, though access to all types of Counterparty tokens owned is supported within the user interface. The wallet logo was even designed by Scrilla. This wallet also historically had a 'gift-card' feature to easily gift new users a card by redeeming a one-time-use code. These codes were also commonly hidden within Rare Pepe submission art as well as image metadata.
 
+To learn more about Joe Looney and Rare Pepe Wallet, check out Episode 4 of Art on the Blockchain, Joe's interview on the Unconfirmed Transactions podcast, his ZeroG interview, or his interview on HODLCast with Sasha Hodder.
+
 https://rarepepewallet.wtf/ 
-https://youtu.be/fh54uwX8sKc?si=azZOi0ihboiOom_U
+https://soundcloud.com/artontheblockchain/aotb-episode-4-featuring-joe-looney
+https://youtu.be/SOJbyK9SkKA?si=vhXJ9qhmS1vnxrbg
+https://youtu.be/fh54uwX8sKc?si=ee5KbbH69WlWNVSA
+https://soundcloud.com/unconfirmed-transactions/bitsesh-joe-looney
 
 ---
 
