@@ -1233,9 +1233,13 @@ Date: **Aug 7, 2017**
 
 Timeline Asset/Project: **COVALC**
 
-Significance: Despite the Counterparty community being so intertwined with [Emblem Vault](https://emblem.finance/) in the modern day, [this project](https://bitcointalk.org/index.php?topic=1652345.msg16601030#msg16601030), which looked to 'combine different blockchain wallets into a single tradable NFT token' was started many years before on the Counterparty protocol. Their token, [COVAL](https://coinmarketcap.com/currencies/circuits-of-value/) was traded on Bittrex and experienced many times of high volume trading and interest. The historical token here to look at on Counterparty is specifically [COVALC](https://xchain.io/asset/COVALC). When XCP and similar projects were delisted off the major exchanges during 2017-2018, this project was exchangeless for 6-18 months and then re-emerged on the ETH blockchain using smart contracts to wrap XCP tokens (and many other chains) into a single 'vault' to store digital assets. This project is now centerfold and a staple in the ecosystem with users exchanging not only historical XCP assets, but many types of tokens across many different blockchains.
+Significance: Despite the Counterparty community being so intertwined with [Emblem Vault](https://emblem.finance/) in the modern day, [this project](https://bitcointalk.org/index.php?topic=1652345.msg16601030#msg16601030), which looked to 'combine different blockchain wallets into a single tradable NFT token' was started many years before on the Counterparty protocol. Their token, [COVAL](https://coinmarketcap.com/currencies/circuits-of-value/) was traded on Bittrex and experienced many times of high volume trading and interest. The historical token here to look at on Counterparty is specifically [COVALC](https://xchain.io/asset/COVALC). When XCP and similar projects were delisted off the major exchanges during 2017-2018, this project was exchangeless for 6-18 months and then re-emerged on the ETH blockchain using smart contracts to wrap XCP tokens (and many other chains) into a single 'vault' to store digital assets. This project is now centerfold and a staple in the ecosystem with users exchanging not only historical XCP assets, but many types of tokens across many different blockchains. To learn more about the story and background of COVALC, check out the Shannon Code interview on The Adam McBride Show.
 
-Related Links: https://bitcointalk.org/index.php?topic=1652345.0 https://xchain.io/asset/COVALC https://emblem.finance/ https://coinmarketcap.com/currencies/circuits-of-value/
+Related Links: https://bitcointalk.org/index.php?topic=1652345.0 
+https://xchain.io/asset/COVALC 
+https://emblem.finance/ 
+https://coinmarketcap.com/currencies/circuits-of-value/
+https://podcasters.spotify.com/pod/show/costarica/episodes/Cross-Chain-NFTs---Shannon-Code-from-Emblem-Vault-e18a8gr
 
 Issuer: 15ykXwkQQuc9vLNHSoMid7PGPF1Mc8xYrR
 
