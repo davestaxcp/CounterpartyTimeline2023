@@ -1288,7 +1288,7 @@ Date: **Jan 15, 2018**
 
 Timeline Asset/Project: **BITCORN**
 
-Significance: [BITCORN](https://xchain.io/asset/BITCORN) is an asset and in-game currency tied to the blockchain based game called '[Bitcorns](https://bitcorns.com/rules)'. This project borrows elements of its game play from idle games, like [AdVenture Capitalist](https://www.hyperhippo.ca/adventure-capitalist), board games like [Monopoly](https://www.hasbro.com/en-us/brands/monopoly) and [Risk](https://www.ubisoft.com/en-us/game/risk/), and app games, like [Farmville](https://www.facebook.com/FarmVille/), but [combines them](https://medium.com/@droplister/how-counterparty-xcp-works-a5d81256de5c) on the blockchain using the Counterparty Protocol. The first asset's in the Bitcorns project, [HELIPAD](https://xchain.io/asset/HELIPAD), [YACHTDOCK](https://xchain.io/asset/YACHTDOCK) and [LAMBOGARAGE](https://xchain.io/asset/LAMBOGARAGE) were released as a 'trio drop'. This project also invited any artist to create their own asset to be included in the project, which would ultimately be included in the game mechanics as well if accepted. The project required a burn of 1000 BITCORN to submit. Another asset worth mentioning is the final asset of the project, which is [BRAGGING](https://xchain.io/asset/BRAGGING) and was a 1/1 'Non-Fungible Token' distributed as a prize at the end of the project to the largest holder of BITCORN.
+Significance: [BITCORN](https://xchain.io/asset/BITCORN) is an asset and in-game currency tied to the blockchain based game called '[Bitcorns](https://bitcorns.com/rules)'. This project borrows elements of its game play from idle games, like [AdVenture Capitalist](https://www.hyperhippo.ca/adventure-capitalist), board games like [Monopoly](https://www.hasbro.com/en-us/brands/monopoly) and [Risk](https://www.ubisoft.com/en-us/game/risk/), and app games, like [Farmville](https://www.facebook.com/FarmVille/), but [combines them](https://medium.com/@droplister/how-counterparty-xcp-works-a5d81256de5c) on the blockchain using the Counterparty Protocol. The first asset's in the Bitcorns project, [HELIPAD](https://xchain.io/asset/HELIPAD), [YACHTDOCK](https://xchain.io/asset/YACHTDOCK) and [LAMBOGARAGE](https://xchain.io/asset/LAMBOGARAGE) were released as a 'trio drop'. This project also invited any artist to create their own asset to be included in the project, which would ultimately be included in the game mechanics as well if accepted. The project required a burn of 1000 BITCORN to submit. Another asset worth mentioning is the final asset of the project, which is [BRAGGING](https://xchain.io/asset/BRAGGING) and was a 1/1 'Non-Fungible Token' distributed as a prize at the end of the project to the largest holder of BITCORN. To learn more about this project, check out the interview with Dan Anderson in Episode 13 of Art on the Blockchain or on the HODLCast podcast with Sasha Hodder.
 
 Related Links: https://bitcorns.com/
 https://xchain.io/asset/BITCORN
@@ -1296,6 +1296,8 @@ https://xchain.io/asset/HELIPAD
 https://xchain.io/asset/YACHTDOCK
 https://xchain.io/asset/LAMBOGARAGE
 https://xchain.io/asset/BRAGGING
+https://soundcloud.com/artontheblockchain/episode-13-featuring-brian-hoffman-of-open-bazaar-dan-anderson-of-bitcorns
+https://www.podchaser.com/podcasts/hodlcast-727871/episodes/hodlcast-episode-43-corning-ar-32107251
 
 Issuer: 19QWXpMXeLkoEKEJv2xo9rn8wkPCyxACSX
 
