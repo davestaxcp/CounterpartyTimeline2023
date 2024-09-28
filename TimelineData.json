@@ -1041,15 +1041,27 @@
     },
     "Wallet": true,
     "Event": "Rare Pepe Wallet",
-    "Significance": "This browser-based mobile-friendly wallet, created by Joe Looney, was the first Counterparty wallet to be specifically geared for use with the Rare Pepe collection. Joe explains in an interview with ZeroG that this UI was somewhat of a base layer clone of the Book of Orbs wallet, but re-skinned to be used for Rare Pepes. Originally this was hosted on 'RarePepeWallet.com', but was later moved to the URL: 'RarePepeWallet.wtf'. The new version of this wallet also supports ease of use on a mobile device, minting tokens within the wallet using the Inter-Planetary File System (IPFS), and even was used in the Fest Rares collection to give users an in-person free mint pass to create custom pepe art. Traders using this wallet can use simple Bitcoin functionality, card for card trading using the Counterparty Decentralized Exchange, as well as buying and selling assets using PEPECASH/XCP (which was the most common way to trade Rare Pepe's in 2016-2019). This wallet is also very known for labeling all 'non-RarePepe' assets as 'Fake Rares' as was a cultural custom in the Rare Pepe community, though access to all types of Counterparty tokens owned is supported within the user interface. This wallet also historically had a 'gift-card' feature to easily gift new users a card by redeeming a one-time-use code. These codes were also commonly hidden within Rare Pepe submission art as well as image metadata.",
+    "Significance": "This browser-based mobile-friendly wallet, created by Joe Looney, was the first Counterparty wallet to be specifically geared for use with the Rare Pepe collection. Joe explains in an interview with ZeroG that this UI was somewhat of a base layer clone of the Book of Orbs wallet, but re-skinned to be used for Rare Pepes. Originally this was hosted on 'RarePepeWallet.com', but was later moved to the URL: 'RarePepeWallet.wtf'. The new version of this wallet also supports ease of use on a mobile device, minting tokens within the wallet using the Inter-Planetary File System (IPFS), and even was used in the Fest Rares collection to give users an in-person free mint pass to create custom pepe art. Traders using this wallet can use simple Bitcoin functionality, card for card trading using the Counterparty Decentralized Exchange, as well as buying and selling assets using PEPECASH/XCP (which was the most common way to trade Rare Pepe's in 2016-2019). This wallet is also very known for labeling all 'non-RarePepe' assets as 'Fake Rares' as was a cultural custom in the Rare Pepe community, though access to all types of Counterparty tokens owned is supported within the user interface. This wallet also historically had a 'gift-card' feature to easily gift new users a card by redeeming a one-time-use code. These codes were also commonly hidden within Rare Pepe submission art as well as image metadata. To learn more about Joe Looney and Rare Pepe Wallet, check out Episode 4 of Art on the Blockchain, Joe's interview on the Unconfirmed Transactions podcast, his ZeroG interview, or his interview on HODLCast with Sasha Hodder.",
     "links": [
       {
         "label": "browser-based mobile-friendly wallet",
         "href": "https://rarepepewallet.wtf/"
       },
       {
-        "label": "in an interview with ZeroG",
-        "href": "https://youtu.be/fh54uwX8sKc?si=cUqx7bv78lDTAbAB"
+        "label": "interview on the Unconfirmed Transactions podcast",
+        "href": "https://soundcloud.com/unconfirmed-transactions/bitsesh-joe-looney"
+      },
+      {
+        "label": "his ZeroG interview",
+        "href": "https://youtu.be/fh54uwX8sKc?si=ee5KbbH69WlWNVSA"
+      },
+      {
+        "label": "his interview on HODLCast with Sasha Hodder",
+        "href": "https://youtu.be/SOJbyK9SkKA?si=vhXJ9qhmS1vnxrbg"
+      },
+      {
+        "label": "Episode 4 of Art on the Blockchain",
+        "href": "https://soundcloud.com/artontheblockchain/aotb-episode-4-featuring-joe-looney"
       }
     ]
   },
