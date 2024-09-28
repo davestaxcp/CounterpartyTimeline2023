@@ -1095,11 +1095,15 @@
     },
     "Wallet": true,
     "Event": "Freeport",
-    "Significance": "This is an open-source browser-based wallet created by Joe Looney and functions as a Google Chrome extension. Freeport supports Bitcoin functionality as well as Counterparty token functionality such as trading on the Counterparty DEX and creating tokens within the application. While this wallet is avaliable in the Chrome Web Store, it has not been updated since 2022 and Joe will commonly focus on updating RarePepeWallet before updating Freeport.",
+    "Significance": "This is an open-source browser-based wallet created by Joe Looney and functions as a Google Chrome extension. Freeport supports Bitcoin functionality as well as Counterparty token functionality such as trading on the Counterparty DEX and creating tokens within the application. While this wallet is avaliable in the Chrome Web Store, it has not been updated since 2022 and Joe will commonly focus on updating RarePepeWallet before updating Freeport. To learn more about Joe Looney and Freeport, check out his interview on HODLCast with Sasha Hodder.",
     "links": [
       {
         "label": "open-source browser-based wallet",
         "href": "https://github.com/loon3/Freeport-extension"
+      },
+      {
+        "label": "his interview on HODLCast with Sasha Hodder",
+        "href": "https://youtu.be/SOJbyK9SkKA?si=vhXJ9qhmS1vnxrbg"
       },
       {
         "label": "is avaliable in the Chrome Web Store",
