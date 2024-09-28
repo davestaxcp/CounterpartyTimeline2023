@@ -157,7 +157,7 @@ Next ones to research:
 
 --- 
 
-- An entire [Bibliography](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/Bibliography.md) is included of all works cited in a modified version of the APA style. 
+- An entire [Bibliography](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/Bibliography.md) is included of all works cited. 
 
 ---
 
