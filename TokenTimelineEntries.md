@@ -1448,9 +1448,13 @@ Date: **Sep 23, 2021**
 
 Timeline Asset/Project: **FAKEASF**
 
-Significance: This is the official token to enter a submission into the Fake Rares project. The requirements for this project is to burn a single [FAKEASF](https://xchain.io/asset/FAKEASF) card after you have successfully been accepted into the directory. The [Fake Rares](https://fakeraredirectory.com/) project was started to continue on the legacy of the Rare Pepe Project and invite new artists to engage in a similar curating process as was done with Rare Pepes. This project was originally started by Scrilla, artist of DJPEPE. It has since become a thriving ecosystem of artists, collectors and enthusiasts who are interested in bitcoin-native NFTs and have a deep appreciation for this homage to [Rare Pepe](http://rarepepedirectory.com/). Since its inception the project has also opened a 'Fake Rare Commons' collection that requires the Rare Pepe asset PEPECASH to be burned for submission. This project also invites certain members who hold the FAKETORCH asset to bring in rejected assets that were once submitted to the original Rare Pepe Collection to be included in Series 0 of Fake Rares.
+Significance: This is the official token to enter a submission into the Fake Rares project. The requirements for this project is to burn a single [FAKEASF](https://xchain.io/asset/FAKEASF) card after you have successfully been accepted into the directory. The [Fake Rares](https://fakeraredirectory.com/) project was started to continue on the legacy of the Rare Pepe Project and invite new artists to engage in a similar curating process as was done with Rare Pepes. This project was originally started by Scrilla, artist of DJPEPE. It has since become a thriving ecosystem of artists, collectors and enthusiasts who are interested in bitcoin-native NFTs and have a deep appreciation for this homage to [Rare Pepe](http://rarepepedirectory.com/). Since its inception the project has also opened a 'Fake Rare Commons' collection that requires the Rare Pepe asset PEPECASH to be burned for submission. This project also invites certain members who hold the FAKETORCH asset to bring in rejected assets that were once submitted to the original Rare Pepe Collection to be included in Series 0 of Fake Rares. To learn more about Scrilla and Fake Rares, check out his interview on HODLCast with Sasha Hodder and his ZeroG interview.
 
-Related Links: https://fakeraredirectory.com/ https://xchain.io/asset/FAKEASF http://rarepepedirectory.com/
+Related Links: https://fakeraredirectory.com/ 
+https://xchain.io/asset/FAKEASF 
+http://rarepepedirectory.com/
+https://podcasts.apple.com/us/podcast/hodlcast-ep-121-rare-scrilla/id1436249038?i=1000552477208
+https://youtu.be/5tqjhmfLlow?si=_MgoVblQEfxRF6S7
 
 Issuer: 165RSk13jh4hTaJCYj93GFS3c4nQdimRr9
 
