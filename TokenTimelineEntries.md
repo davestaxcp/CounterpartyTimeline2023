@@ -2063,7 +2063,7 @@ Date: **Jun 11, 2021**
 
 Timeline Asset/Project: **THING**
 
-Significance: As with BITCORN.GLASSES, in general the Counterparty community generally destroyed token supply by sending tokens to a burn address. After the Destroy Function was enabled in 2018, it would not be until THING was destroyed by Joe Looney down to a single non-divisible token unit that a named asset was destroyed into an 'NFT'. It was not uncommon for artists in previous projects like Rare Pepe to reduce circulating supply by sending to burn counterparty addresses, but THING was the first named asset to specifically use the destroy function to create an NFT after destroy was enabled on the protocol. Joe included a memo in the burn transaction on June 11 of 2021 which stated 'there can only be one'.
+Significance: As with the example set by BITCORN.GLASSES, it was common with the Counterparty community to destroy token supply by sending tokens to a burn address. After the Destroy Function was enabled in 2018, it would not be until THING was destroyed by Joe Looney down to a single non-divisible token unit that a named asset was 'destroyed' into an 'NFT'. It was not uncommon for artists in previous projects like Rare Pepe to reduce circulating supply by sending to 'burn counterparty addresses', but THING was the first named asset to specifically use the protocol level destroy function to create an NFT after the destroy was enabled on the protocol. Joe included a memo in the burn transaction on June 11 of 2021 which stated 'there can only be one'.
 
 Related Links: https://tokenscan.io/tx/bf9be3cf843738726148c98fd2ace42111981989dae88f9ba259bd510c3c8622 https://tokenscan.io/asset/THING
 
