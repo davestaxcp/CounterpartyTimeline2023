@@ -570,11 +570,16 @@ Date: **Feb 6, 2015**
 
 Timeline Asset/Project: **BITCRYSTALS**
 
-Significance: [BITCRYSTALS](https://crystalsuite.com/bitcrystals/) was used for one of the first successful ICOs back in 2015 and is used in the game [Spells of Genesis](https://spellsofgenesis.com/). From the initial supply of 100,000,000 units, 30% were kept by EverdreamSoft, the token issuer, and the remaining 70% were offered on sale during the “BitCrystals Token Sale”. As stated on the official website "BitCrystals (BCY) is the official currency of Crystal Suite. They are distributed for users’ engagement in the Crystal Suite products, but also in partners’ games." This asset's supply would eventually be partially burned and released on the ERC-20 contract on Ethereum as well. The company stated they did this "in order to adapt the coin to our current multi-chain product strategy." This asset also historically became one of the 12 cryptocurrencies officially [approved of by the Japanese government in 2017](https://www.techinasia.com/japan-approved-crypto-exchanges). At the end of each month, the equivalent of 50% of the cards and in-game sales income in BCY is burnt.
+Significance: BITCRYSTALS was used for one of the first successful ICOs back in 2015 and is used in the game Spells of Genesis. From the initial supply of 100,000,000 units, 30% were kept by EverdreamSoft, the token issuer, and the remaining 70% were offered on sale during the “BitCrystals Token Sale”. As stated on the official website 'BitCrystals (BCY) is the official currency of Crystal Suite. They are distributed for users’ engagement in the Crystal Suite products, but also in partners’ games.' This asset's supply would eventually be partially burned and released on the ERC-20 contract on Ethereum as well. The company stated they did this 'in order to adapt the coin to our current multi-chain product strategy.' This asset also historically became one of the 12 cryptocurrencies officially approved of by the Japanese government in 2017. At the end of each month, the equivalent of 50% of the cards and in-game sales income in BCY is burnt. BITCRYSTALS would become the centerpiece currency for almost all interactions with Spells of Genesis. To learn more about Spells of Genesis, check out Shaban Shaame's interview with Adam McBride, Shaban's interview with ZeroG, The Birth of the Metaverse interview with Adam McBride, Nicolas Sierro's interview with ZeroG, and a joint recorded twitter space with Shaban, Christian Moss and Koji Higashi. 
 
 Related Links: https://xchain.io/asset/BITCRYSTALS
 https://crystalsuite.com/bitcrystals/
 https://spellsofgenesis.com/
+https://youtu.be/uJ9fWd8eZkw?si=vLJ1rfYAldlnmSxM
+https://podcasters.spotify.com/pod/show/costarica/episodes/NFT-Legends-Christian-Moss--Koji-Higashi--and-Shaban-Shaame-e19eur0
+https://podcasters.spotify.com/pod/show/costarica/episodes/Birth-of-the-Metaverse---The-Founders-of-Spells-of-Genesis-and-SaruTobi-e1ae3nv
+https://youtu.be/0AVioHs_arc
+https://podcasters.spotify.com/pod/show/costarica/episodes/Spells-of-Genesis---Shaban-Shaame-e1b6uav
 
 Issuer: 1MSu9tdgzo4eNLFUYAEQEEwppMNimqHGFC
 
