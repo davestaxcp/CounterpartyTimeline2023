@@ -3275,7 +3275,7 @@
         "Time": "1502064000",
         "imageURL": "https://user-images.githubusercontent.com/136373423/279544793-dfd7ce99-7db0-48dc-a5c4-374962665553.png",
         "Event": "COVALC",
-        "Significance": "Despite the Counterparty community being so intertwined with Emblem Vault in the modern day, this project, which looked to 'combine different blockchain wallets into a single tradable NFT token' was started many years before on the Counterparty protocol. Their token, COVAL was traded on Bittrex and experienced many times of high volume trading and interest. The historical token here to look at on Counterparty is specifically COVALC. When XCP and similar projects were delisted off the major exchanges during 2017-2018, this project was exchangeless for 6-18 months and then re-emerged on the ETH blockchain using smart contracts to wrap XCP tokens (and many other chains) into a single 'vault' to store digital assets. This project is now centerfold and a staple in the ecosystem with users exchanging not only historical XCP assets, but many types of tokens across many different blockchains.",
+        "Significance": "Despite the Counterparty community being so intertwined with Emblem Vault in the modern day, this project, which looked to 'combine different blockchain wallets into a single tradable NFT token' was started many years before on the Counterparty protocol. Their token, COVAL was traded on Bittrex and experienced many times of high volume trading and interest. The historical token here to look at on Counterparty is specifically COVALC. When XCP and similar projects were delisted off the major exchanges during 2017-2018, this project was exchangeless for 6-18 months and then re-emerged on the ETH blockchain using smart contracts to wrap XCP tokens (and many other chains) into a single 'vault' to store digital assets. This project is now centerfold and a staple in the ecosystem with users exchanging not only historical XCP assets, but many types of tokens across many different blockchains. To learn more about the story and background of COVALC, check out the Shannon Code interview on The Adam McBride Show.",
         "links": [
             {
                 "label": "Emblem Vault",
@@ -3288,6 +3288,10 @@
             {
                 "label": "COVAL",
                 "href": "https://coinmarketcap.com/currencies/circuits-of-value/"
+            },
+            {
+                "label": "Shannon Code interview on The Adam McBride Show",
+                "href": "https://podcasters.spotify.com/pod/show/costarica/episodes/Cross-Chain-NFTs---Shannon-Code-from-Emblem-Vault-e18a8gr"
             },
             {
                 "label": "COVALC",
