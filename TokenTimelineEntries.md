@@ -1999,7 +1999,7 @@ Date: **Nov 21, 2021**
 
 Timeline Asset/Project: **PunkFrens**
 
-Significance: Punkfrens, created by Fabrique, is a project that includes the first generative pfp collection on XCP. The tokens in the collection were manually issued as 1/1 locked named assets in November 2021 starting at block 710,754. The art for the tokens was created by a generative seed to determine random attributes with various rarity. Some of these attributes include subtle tributes to XCP history, such as the 'pepekachu hat' and 'pepe' attributes. During the initial distribution, these assets were sold for 0.0001 BTC each.
+Significance: Punkfrens, created by Fabrique, is a project that includes the first generative pfp collection on XCP. The tokens in the collection were manually issued as 1/1 locked named assets in November 2021 starting at block 710,754. The art for the tokens was created by a generative seed to determine random attributes with various rarity. Some of these attributes include subtle tributes to XCP history, such as the 'pepekachu hat' and 'pepe' attributes. During the initial distribution, these assets were sold for 0.0001 BTC each. At this time they are actively priced much higher.
 
 Related Links: https://punkfrens.com/
 
