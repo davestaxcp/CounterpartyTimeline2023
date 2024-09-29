@@ -1815,7 +1815,7 @@ Date: **Apr 27, 2022**
 
 Timeline Asset/Project: **Rare Bobo**
 
-Significance: Rare Bobo is a Counterparty collection created by Neo and is dedicated to memes of 'Bobo the Bear'. The use of this meme generally came out of the bear market of cryptocurrency from 2018, but most of these tokens in this specific collection originated in the Dank Rare Directory first before being organized into the Rare Bobo directory. Much of the art in the directory include digital art but also include gifs, stamps and video. The tokens are reminiscent of the art from Rare Pepe and the Dank Rare Directory, but includes the Bobo meme instead of Pepe. 
+Significance: Rare Bobo is a Counterparty collection created by Neo and is dedicated to memes of 'Bobo the Bear'. The use of this meme generally came out of the bear market of cryptocurrency from 2018, but most of these tokens in this specific collection originated in the Dank Rare Directory first before being organized into the Rare Bobo directory. Much of the art in the directory includes digital art but also includes gifs, stamps and video. The tokens are reminiscent of the art from Rare Pepe and the Dank Rare Directory, but includes the Bobo meme instead of Pepe.
 
 Related Links: https://rarebobo.com/
 
