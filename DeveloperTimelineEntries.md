@@ -309,6 +309,57 @@ Related Links: https://github.com/CounterpartyXCP/cips/blob/master/cip-0003.md
 Author: JP Janssen
 
 ---
+
+Date: **May 31, 2024**
+
+Timeline Topic: **Fair Minting**
+
+Significance: This proposal looks to add a 'fair minting' function in a decentralized manner to the Counterparty protocol. In a gist proposal by Ouziel, he references the Joe Looney 'XCP-20 Fair Mint model' written in 2023 regarding setting up a dispenser on a burn address to distribute tokens without the deployer involved. This proposal suggests it is 'desirable to create a native mechanism' so that 'a burn address isn't used'. This update would open the doors to minting, pre-minting and free-minting in a similar manner to how Ethereum, Runes, Ordinals and BRC-20 projects offer this mechanism to deployers and users. This proposal also invites functions like a 'soft cap' mechanism to establish a minimum amount of token to be issued, an optional start and end date at Bitcoin block heights and a 'commission' function sent to the creator for 'each mint operation'.
+
+Related Links: https://github.com/CounterpartyXCP/counterparty-core/issues/1843
+https://gist.github.com/ouziel-slama/9eb05ff9890eb402cd9adb4e166a5469
+https://xcp20.wtf/
+
+Author: Adam Krellenstein, Ouziel Slama and MikeInSpace
+
+---
+
+Date: **May 31, 2024**
+
+Timeline Topic: **Eliminate Fee on Subasset Registration**
+
+Significance: This protocol change looks to eliminate the XCP fee associated with creating a subasset. Since many of early arguments for having an XCP on named asset creation was centered on an 'anti-squatting' mechanism, the community argues that this is not needed for subasset registrations since the creator already owns the main named asset used. This update also pairs well with the introduction of subasset creation with numeric tokens as well as the Glyphs proposal by MikeInSpace.
+
+Related Links: https://github.com/CounterpartyXCP/counterparty-core/issues/1840
+
+Author: Adam Krellenstein
+
+---
+
+Date: **May 31, 2024**
+
+Timeline Topic: **Subassets on Numerics**
+
+Significance: This proposal invites the Counterparty protocol to introduce subassets on numeric tokens. While this is already possible with named assets and is somewhat of a simple upgrade, this proposal also includes documentation for using this new functionality for 'Glyphs'. Issuing subassets on Numerics, MikeInSpace proposes, incorporates a new token 'meta-protocol' that can introduce a 'runes-like' functionality with subassets on numerics. This means these numeric subassets 'can be leveraged to create a Runes-like, but better, tokenization standard'. This proposal brings together the Fair Mint proposal, Elimination of Fees on Subassets and this much simpler Subassets on Numerics porposal to introduce an new contemporary token standard using Counterparty.
+
+Related Links: https://github.com/CounterpartyXCP/counterparty-core/issues/1842
+https://github.com/CounterpartyXCP/counterparty-core/pull/2195
+https://github.com/mikeinspace/Glyphs/blob/main/README.md
+
+Author: MikeInSpace
+
+---
+
+Date: **Jan 26, 2024**
+
+Timeline Topic: **PSBT Support via attaching assets to UTXOs**
+
+Significance: This CIP is intends to add new functionality to the Counterparty send function that allows assets to be bound to and unbound from UTXOs. Derp explains in the CIP style Github Discussion post, 'This functionality will allow for interoperability of counterparty assets in the ordinals ecosystem' which means the main marketplaces and wallets that facilitate trading ordinals will be compatible with Counterparty assets bound to UTXOs. As stated in the discussion: 'These browser based wallets that are commonly used with ordinals rely on PSBTs with single transaction finality.' This upgrade would allow 'Counterparty assets to be compliant with the ordinals trading transactional structure, allowing the large players in the ordinals ecosystem to seamlessly integrate counterparty assets.'
+
+Related Links: https://github.com/CounterpartyXCP/Forum/discussions/134
+
+Author: Derp Herpenstein
+
 ---
 
 # **Drafted Developments**
@@ -585,18 +636,6 @@ Author: Devon Weller
 
 ---
 
-Date: **Not Active Yet - Drafted: Jan 26, 2024**
-
-Timeline Topic: **PSBT Support via attaching assets to UTXOs**
-
-Significance: This CIP is intends to add new functionality to the Counterparty send function that allows assets to be bound to and unbound from UTXOs. Derp explains in the CIP style Github Discussion post, 'This functionality will allow for interoperability of counterparty assets in the ordinals ecosystem' which means the main marketplaces and wallets that facilitate trading ordinals will be compatible with Counterparty assets bound to UTXOs. As stated in the discussion: 'These browser based wallets that are commonly used with ordinals rely on PSBTs with single transaction finality.' This upgrade would allow 'Counterparty assets to be compliant with the ordinals trading transactional structure, allowing the large players in the ordinals ecosystem to seamlessly integrate counterparty assets.'
-
-Related Links: https://github.com/CounterpartyXCP/Forum/discussions/134
-
-Author: Derp Herpenstein
-
----
-
 Date: **Not Active Yet - Drafted: May 11, 2023**
 
 Timeline Topic: **Taproot Address Support**
@@ -608,47 +647,6 @@ https://github.com/CounterpartyXCP/counterparty-core/issues/1241
 
 Author: Javier Varona and JP Janssen
 
----
-
-Date: **Not Active Yet - Drafted: May 31, 2024**
-
-Timeline Topic: **Fair Minting**
-
-Significance: This proposal looks to add a 'fair minting' function in a decentralized manner to the Counterparty protocol. In a gist proposal by Ouziel, he references the Joe Looney 'XCP-20 Fair Mint model' written in 2023 regarding setting up a dispenser on a burn address to distribute tokens without the deployer involved. This proposal suggests it is 'desirable to create a native mechanism' so that 'a burn address isn't used'. This update would open the doors to minting, pre-minting and free-minting in a similar manner to how Ethereum, Runes, Ordinals and BRC-20 projects offer this mechanism to deployers and users. This proposal also invites functions like a 'soft cap' mechanism to establish a minimum amount of token to be issued, an optional start and end date at Bitcoin block heights and a 'commission' function sent to the creator for 'each mint operation'.
-
-Related Links: https://github.com/CounterpartyXCP/counterparty-core/issues/1843
-https://gist.github.com/ouziel-slama/9eb05ff9890eb402cd9adb4e166a5469
-https://xcp20.wtf/
-
-Author: Adam Krellenstein, Ouziel Slama and MikeInSpace
-
----
-
-Date: **Not Active Yet - Drafted: May 31, 2024**
-
-Timeline Topic: **Eliminate Fee on Subasset Registration**
-
-Significance: This protocol change looks to eliminate the XCP fee associated with creating a subasset. Since many of early arguments for having an XCP on named asset creation was centered on an 'anti-squatting' mechanism, the community argues that this is not needed for subasset registrations since the creator already owns the main named asset used. This update also pairs well with the introduction of subasset creation with numeric tokens as well as the Glyphs proposal by MikeInSpace.
-
-Related Links: https://github.com/CounterpartyXCP/counterparty-core/issues/1840
-
-Author: Adam Krellenstein
-
----
-
-Date: **Not Active Yet - Drafted: May 31, 2024**
-
-Timeline Topic: **Subassets on Numerics**
-
-Significance: This proposal invites the Counterparty protocol to introduce subassets on numeric tokens. While this is already possible with named assets and is somewhat of a simple upgrade, this proposal also includes documentation for using this new functionality for 'Glyphs'. Issuing subassets on Numerics, MikeInSpace proposes, incorporates a new token 'meta-protocol' that can introduce a 'runes-like' functionality with subassets on numerics. This means these numeric subassets 'can be leveraged to create a Runes-like, but better, tokenization standard'. This proposal brings together the Fair Mint proposal, Elimination of Fees on Subassets and this much simpler Subassets on Numerics porposal to introduce an new contemporary token standard using Counterparty.
-
-Related Links: https://github.com/CounterpartyXCP/counterparty-core/issues/1842
-https://github.com/CounterpartyXCP/counterparty-core/pull/2195
-https://github.com/mikeinspace/Glyphs/blob/main/README.md
-
-Author: MikeInSpace
-
----
 ---
 
 ## Developers Involved in the Protocol
