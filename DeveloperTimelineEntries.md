@@ -690,6 +690,16 @@ other coders who contributed: kanzure - 2014, Rippler - 2014, cjcole 2014, Froze
 
 ---
 
+counterparty-core v10.4.0 (2024-09-18)
+
+This is a major release with numerous protocol upgrades that will dramatically increase the functionality of the Counterparty protocol as well as resolve some long-standing security issues, in addition to a number of bugfixes and quality-of-life improvements. These protocol updates include: Requiring Dispensers to be created only from a Source Address, Making Dispenses Normal Counterparty Transactions, Being Able to Lock Descriptions, a Fair Minting Protocol similar to other protocols, UTXO Support for tokens (similar to Ordinals) with a Gas System, Expiring order matches then orders, Adding Free Subassets, Adding Subassets on Numeric Assets, and Fixing the minimum BTC amount in order contracts.
+
+Ouziel Slama, Adam Krellenstein and Warren Puffett
+
+https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v10.4.0
+
+---
+
 counterparty-core v10.3.0 (2024-07-12)
 
 This version most notably introduced a major performance optimization for node API access which includes: an additional SQLite3 database that was added which tracks the current state of all Counterparty objects (in addition to the primary database that is purely log-structured). Other major changes for this version include the removal of the 'kickstart' functionality, which is possible now that 'start' is performant, and numerous tweaks and improvements to the v2 API.
