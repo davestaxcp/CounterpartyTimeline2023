@@ -2663,7 +2663,7 @@
         "Time": "1462492800",
         "imageURL": "https://user-images.githubusercontent.com/136373423/279544132-daa00f7c-e37c-41bc-925c-6f1a272a34c1.gif",
         "Event": "NINJASUIT",
-        "Significance": "NINJASUIT is the first Counterparty asset specifically native to the game SaruTobi and would eventually be realized as the first NFT gaming 'skin', the first NFT power-up and it marked the first instance of an NFT being used in a play-to-earn game. Christian Moss realized that he could 'link a user's Counterparty mobile wallet to SaruTobi and the app would be able to read what tokens they had in their wallet. Based on their token inventory NINJASUIT could grant access to various features in the game.' The art on the token represented the power-up that could be used in game which was involved a double-jump where the in game character, 'instead of falling will jump mid-air giving you another chance'.",
+        "Significance": "NINJASUIT is the first Counterparty asset specifically native to the game SaruTobi (created by Christian Moss) and would eventually be realized as the first NFT gaming 'skin', one of the first 'NFT power-ups' and also marked one of the first instances of an NFT being used in a play-to-earn mobile game. While SATOSHICARD, SARUTOBICARD and others were already used in the Sarutobi game by this time, those assets were originally intended for use with Spells of Genesis. NINJASUIT particularly was native only to Sarutobi and was the first to offer not only a cosmetic addition for the user, but also a significant powerup to be used in the game. The power-up involved a double-jump where the in game character, 'instead of falling will jump mid-air giving you another chance'. Since the game centered around the longest distance the character could travel, this was a huge addition for players to have to progress their scores even higher. Gaming 'skins' have been around since RuneScape, Team Fortress 2 and Counter Strike. Many parents also know they are commonly bought for games like Fortnite, but these developers do not always set a fixed immutable supply nor limit continued distribution of these digital assets. What makes NINJASUIT so historic is the fact it is (and was) backed by a locked, immutable and very rare token supply on Counterparty. This token could be traded at any time using the Counterparty Decentralized Exchange, giving users an opportunity to not only instantly collect this gaming skin, but also sell it later and possibly for a decent profit. All within the IndieSquare Wallet that Sarutobi linked to! To learn more about Christian Moss, Sarutobi and NINJASUIT, check out his interview on The Adam McBride Show, Episode 23 of Art on the Blockchain, his interview with ZeroG, The Birth of the Metaverse with Adam McBride, and a recorded twitter space with Christian, Shaban Shaame (of Spells of Genesis) and Koji Higashi.",
         "links": [
             {
                 "label": "NINJASUIT",
@@ -2672,6 +2672,26 @@
             {
                 "label": "SaruTobi",
                 "href": "https://mandelduck.com/sarutobi/ninja/"
+            },
+            {
+                "label": "his interview on The Adam McBride Show",
+                "href": "https://podcasters.spotify.com/pod/show/costarica/episodes/NFT-Play-to-Earn-and-Interoperability-Pioneer---Christian-Moss-e18pg83"
+            },
+            {
+                "label": "Episode 23 of Art on the Blockchain",
+                "href": "https://soundcloud.com/artontheblockchain/episode-23-a-conversation-w-christian-moss-of-indie-square-mandel-duck"
+            },
+            {
+                "label": "his interview with ZeroG",
+                "href": "https://youtu.be/7QPXSrcEu0E?si=yAZFGI9ONwfLuXR3"
+            },
+            {
+                "label": "The Birth of the Metaverse with Adam McBride",
+                "href": "https://podcasters.spotify.com/pod/show/costarica/episodes/Birth-of-the-Metaverse---The-Founders-of-Spells-of-Genesis-and-SaruTobi-e1ae3nv"
+            },
+            {
+                "label": "a recorded twitter space",
+                "href": "https://podcasters.spotify.com/pod/show/costarica/episodes/NFT-Legends-Christian-Moss--Koji-Higashi--and-Shaban-Shaame-e19eur0"
             },
             {
                 "label": "Christian Moss",
