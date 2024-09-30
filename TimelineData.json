@@ -2555,7 +2555,7 @@
         "Time": "1450483200",
         "imageURL": "https://user-images.githubusercontent.com/136373423/279544117-cbdf00b7-1a23-4d65-bf42-a5272132230a.jpg",
         "Event": "SARUTOBICARD",
-        "Significance": "A young iOS developer in Australia by the name of Christian Moss released a game on the App Store called SaruTobi where players tapped the screen to spin a monkey to see how far they could get him to fly. Christian wanted to let SaruTobi players purchase in-game items with Bitcoin but Apple’s iOS App Store terms didn't allow it. Instead he let players collect small amounts of Bitcoin as they played. At the time, Christian was working with IndieSquare on wallet implementation and helping with the development of Book of Orbs. In June of 2016, Christian implemented this blockchain functionality by making the Spells of Genesis assets CNPCARD, SARUTOBICARD and SHUMAICARD playable in Sarutobi. These first three assets, though, marked the first instances of a Counterparty tokenized asset becoming interoperable between two independent games. SARUTOBICARD in this circumstance would be singled out to be a cultural and tokenized representation of SaruTobi. This card would also be incorporated into a separate game called SaruTobi's Island which allowed players to use proof of ownership of Counterparty assets to generate playable characters in SaruTobi's Island. Christian noted about the developing decision of Sarutobi's Island saying, 'Koji mentioned a japanese game called Monster Farmer, where you could generate monsters by putting any CD in your game system', which inspired Christian to 'give some utility to any token a user may have'.",
+        "Significance": "A young iOS developer in Australia by the name of Christian Moss released a game on the App Store called SaruTobi where players tapped the screen to spin a monkey to see how far they could get him to fly. This game was historic not only because it was the first mobile app to offer users who played a bitcoin prize in satoshis, but historic as well by eventually including Counterparty assets as well. Christian wanted to let SaruTobi players purchase in-game items with Bitcoin but Apple’s iOS App Store terms didn't allow it. Instead he let players collect small amounts of Bitcoin as they played. At the time, Christian was working with IndieSquare on wallet implementation and helping with the development of Book of Orbs. On May 18, 2016, Christian implemented this blockchain functionality by making the Spells of Genesis assets CNPCARD, SARUTOBICARD and SHUMAICARD playable in Sarutobi. These  three assets would eventually mark the first instance of Counterparty tokenized assets becoming included in a mobile game, though SATOSHICARD and CNPCARD ownership also offered incentives in the game. It should be noted here that the functionality of the Spells of Genesis cards (and CNPCARD) was added to Sarutobi before the official Spells of Genesis game was released on April 20th, 2017. SARUTOBICARD in this circumstance would be singled out to be a cultural and tokenized representation of SaruTobi's influence on Spells of Genesis and cryptocurrency culture in general at the time. Christian even mentions in his interview with ZeroG that employees at Coinbase were playing Sarutobi. This card would also be incorporated into a separate game called SaruTobi's Island which allowed players to use proof of ownership of Counterparty assets to generate playable characters in SaruTobi's Island. Christian noted about the developing decision, 'Koji mentioned a japanese game called Monster Farmer, where you could generate monsters by putting any CD in your game system', which inspired Christian to 'give some utility to any token a user may have'. These events would put SARUTOBICARD into three separate blockchain games (Spells of Genesis, Sarutobi and Sarutobi's Island) and could be considered the most 'included metaverse Counterparty asset' of its time. To learn more about SARUTOBICARD, check out Episode 23 of Art on the Blockchain, Christians interview on The Adam McBride Show, Christians interview with ZeroG, The Birth of the Metaverse with Adam McBride and a recorded twitter conversation with Christian, Shaban Shaame of Spells of Genesis and Koji.",
         "links": [
             {
                 "label": "Christian Moss",
@@ -2584,6 +2584,26 @@
             {
                 "label": "implemented this blockchain functionality",
                 "href": "https://blog.indiesquare.me/sarutobi-android-release-and-cross-game-promotion-through-tokens-59a1c58cc7b1"
+            },
+            {
+                "label": "Christians interview on The Adam McBride Show",
+                "href": "https://podcasters.spotify.com/pod/show/costarica/episodes/NFT-Play-to-Earn-and-Interoperability-Pioneer---Christian-Moss-e18pg83"
+            },
+            {
+                "label": "Episode 23 of Art on the Blockchain",
+                "href": "https://soundcloud.com/artontheblockchain/episode-23-a-conversation-w-christian-moss-of-indie-square-mandel-duck"
+            },
+            {
+                "label": "Christians interview with ZeroG",
+                "href": "https://youtu.be/7QPXSrcEu0E?si=yAZFGI9ONwfLuXR3"
+            },
+            {
+                "label": "The Birth of the Metaverse with Adam McBride",
+                "href": "https://podcasters.spotify.com/pod/show/costarica/episodes/Birth-of-the-Metaverse---The-Founders-of-Spells-of-Genesis-and-SaruTobi-e1ae3nv"
+            },
+            {
+                "label": "recorded twitter conversation",
+                "href": "https://podcasters.spotify.com/pod/show/costarica/episodes/NFT-Legends-Christian-Moss--Koji-Higashi--and-Shaban-Shaame-e19eur0"
             },
             {
                 "label": "SaruTobi's Island",
