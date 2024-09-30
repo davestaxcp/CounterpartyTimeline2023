@@ -2753,7 +2753,7 @@
         "Time": "1469491200",
         "imageURL": "https://user-images.githubusercontent.com/136373423/279544254-fa652abe-cd67-40e1-8bac-e6ca4e1aedf1.jpg",
         "Event": "Takara",
-        "Significance": "Takara was launched in the summer of 2016 and was Bitcoin's first ever 'geocatching App'. It used the Counterparty Protocol and the IndieSquare API to 'drop' Counterparty user created tokens and Bitcoin anywhere in the world. This means if a user went to the location the asset was dropped, they could 'find' the asset and it would be delivered to their account. This app was very popular and had many downloads on IOS as well as Android and at its peak it included assets from many Counterparty projects including Spells of Genesis, Rare Pepe and many others.",
+        "Significance": "Takara was launched in the summer of 2016 and was Bitcoin's first ever 'geocatching App'. It used the Counterparty Protocol and the IndieSquare API to 'drop' Counterparty user created tokens and Bitcoin anywhere in the world. This means if a user went to the location the asset was dropped, they could 'find' the asset and it would be delivered to their Counterparty address. This app was very popular and had many downloads on IOS as well as Android and at its peak it included assets from many Counterparty projects including Spells of Genesis, Rare Pepe and many others. This app was even used by the popular Japanese exchange Zaif to drop company related tokens for curious and interested users of Takara. A great anecdote about this app is the story of how a user dropped the legendary RAREPEPE asset for Christian Moss to pick up in Tokyo, but Shaban Shaame (of Spells of Genesis) and Koji Higashi (of IndieSquare Wallet) simply happened to be there first to 'pick it up' with the Takara app. After some deliberations, Koji mentioned to Shaban he could go ahead and pick up as it was slightly out of the way from their travels at the time. Something he (and Christian) mention later as 'quite a big mistake' to miss the opportunity to pick up this asset up at the time. To learn more about Takara, Christian Moss, IndieSquare, Koji, Zaif and this missed RAREPEPE opportunity, check out The Birth of the Metaverse with Adam McBride and a recorded twitter space with Christian, Shaban and Koji on The Adam McBride show.",
         "links": [
             {
                 "label": "Takara",
@@ -2762,6 +2762,14 @@
             {
                 "label": "IndieSquare",
                 "href": "https://indiesquare.co.jp/"
+            },
+            {
+                "label": "The Birth of the Metaverse with Adam McBride",
+                "href": "https://podcasters.spotify.com/pod/show/costarica/episodes/Birth-of-the-Metaverse---The-Founders-of-Spells-of-Genesis-and-SaruTobi-e1ae3nv"
+            },
+            {
+                "label": "recorded twitter space",
+                "href": "https://podcasters.spotify.com/pod/show/costarica/episodes/NFT-Legends-Christian-Moss--Koji-Higashi--and-Shaban-Shaame-e19eur0"
             },
             {
                 "label": "very popular",
