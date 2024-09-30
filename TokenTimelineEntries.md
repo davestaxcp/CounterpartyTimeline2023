@@ -1073,12 +1073,14 @@ Date: **Dec 20, 2016**
 
 Timeline Asset/Project: **BITGIRLS**
 
-Significance: In 2016 and 2017 there was a [Japanese TV Show that aired in Tokyo](https://bitcoinmagazine.com/culture/japanese-tv-show-bitgirls-brings-bitcoin-and-digital-currencies-to-the-masses-1476209323) and the surrounding area (14.3 million households) featuring Japanese women known as [‘BitGirls’](https://rarejapanesenfts.com/collection/bitgirls/). Episodes aired on a weekly basis, and participants could use Torekabu-nushi (Trading-share-card holders) to cast votes after each episode. The voting included having the girls wear different costumes and change standing positions during each show. Each girl’s performance on TV would affect her popularity, thus increasing or decreasing the value of her token, and influencing viewers’ trading behaviors. Investors could then trade the BitGirls currency on the Zaif exchange. This [early innovative approach](https://cointelegraph.com/news/bitcoin-rebranding-in-japan-bitgirls-tv-show-to-sugarcoat-mtgox-drama) was effectively one of the earliest forms of ICOs or 'governance tokens' before a name had been given to that approach.
+Significance: In 2016 and 2017 there was a Japanese TV Show that aired in Tokyo and the surrounding area (14.3 million households) featuring Japanese women known as ‘BitGirls’. Episodes aired on a weekly basis, and participants could use Torekabu-nushi (Trading-share-card holders) to cast votes after each episode. The voting included having the girls wear different costumes and change standing positions during each show. Each girl’s performance on TV would affect her popularity, thus increasing or decreasing the value of her token, and influencing viewers’ trading behaviors. Investors could then trade the BitGirls on the Zaif exchange and tokens for each individual 'BitGirl' could be traded on the Counterparty Decentralized Exchange for assets like XCP. This early innovative approach was effectively one of the earliest forms of ICOs or 'governance tokens' before a name had been given to that approach. To learn a little bit more about BitGirls, Zaif and how Counterparty fit in to all of this, check out The Birth of the Metaverse with Adam McBride and a recorded twitter space with Christian Moss, Shaban Shaame and Koji Higashi on The Adam McBride Show.
 
 Related Links: https://bitcoinmagazine.com/culture/japanese-tv-show-bitgirls-brings-bitcoin-and-digital-currencies-to-the-masses-1476209323
 https://news.bitcoin.com/cryptocurrency-tv-show-bitgirls/
 https://cointelegraph.com/news/bitcoin-rebranding-in-japan-bitgirls-tv-show-to-sugarcoat-mtgox-drama
 https://rarejapanesenfts.com/collection/bitgirls/
+https://podcasters.spotify.com/pod/show/costarica/episodes/Birth-of-the-Metaverse---The-Founders-of-Spells-of-Genesis-and-SaruTobi-e1ae3nv
+https://podcasters.spotify.com/pod/show/costarica/episodes/NFT-Legends-Christian-Moss--Koji-Higashi--and-Shaban-Shaame-e19eur0
 
 Issuer: 1PH4KzJ7VpwPZR3VnP8anmcMTjJEGt73Gz
 
