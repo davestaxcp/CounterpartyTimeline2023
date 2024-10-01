@@ -824,7 +824,7 @@ Book of Orbs - Oct 12, 2016 to May 31, 2021
 
 This wallet, built by EverdreamSoft in collaboration with IndieSqaure, was one of the most popular mobile Counterparty wallets of its time. Book of Orbs offered client-side encryption and decentralized trading using the Counterparty DEx. Early on, this wallet supported an organized and collection specific trading interface of the most popular Counterparty projects such as Spells of Genesis, Age of Chains, Force of Will, DieCast, Sarutobi, Bitgirls, Memory Chain, Rare Pepe and more. This wallet application referred to assets/tokens/cards on Counterparty as 'Orbs' and many users in the community mention the Book of Orbs interface as their favorite user interface designs overall to trade Counterparty assets.
 
-Sadly this wallet was discontinued and the EverdreamSoft team mentioned in a Medium article that 'its dependencies on third-part services made it very difficult to maintain the application up to date and working correctly.' The team goes on to invite users to use the new EverdreamSoft wallet 'Casa Tookan' or Freewallet to continue using Counterparty functionality into the future.
+Sadly this wallet was discontinued and the EverdreamSoft team mentioned in a Medium article that 'its dependencies on third-party services made it very difficult to maintain the application up to date and working correctly.' The team goes on to invite users to use the new EverdreamSoft wallet 'Casa Tookan' or Freewallet to continue using Counterparty functionality into the future.
 
 Related Links: https://www.bookoforbs.com/index_eng.html 
 https://medium.com/book-of-orbs/project-orb-announces-the-official-launch-of-book-of-orbs-52659c88e81b https://everdreamsoft.medium.com/book-of-orbs-says-good-bye-452f5c8843ea
