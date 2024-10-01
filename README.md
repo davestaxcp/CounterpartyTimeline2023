@@ -192,6 +192,8 @@ These Podcasts:
 
 [unconfirmed transactions](https://soundcloud.com/unconfirmed-transactions)
 
+[Let's Talk Bitcoin](https://www.youtube.com/playlist?list=PLrlE6PNrkms0iftWNi8lE11baPCjFXGwz)
+
 ---
 
 These Interviews:
