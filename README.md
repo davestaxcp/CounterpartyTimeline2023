@@ -107,9 +107,9 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - overlay XCP Price above mid line
 
-- overlay Commits graphic below mid line: ![Untitled](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/1dd41766-f0ee-427c-a708-297b2e350cc0)
-
 - overlay Number of XCP transactions below mid line
+
+- overlay Commits graphic below mid line: ![Untitled](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/1dd41766-f0ee-427c-a708-297b2e350cc0)
 
 ---
 ---
