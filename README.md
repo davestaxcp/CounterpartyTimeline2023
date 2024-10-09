@@ -159,7 +159,7 @@ Next ones to research:
 
 --- 
 
-- An entire [Bibliography](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/Bibliography.md) is included of all works cited. 
+- An entire [bibliography](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/Bibliography.md) is included of all works cited. 
 
 ---
 
