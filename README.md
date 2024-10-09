@@ -122,7 +122,7 @@ Next ones to research:
 - lots of tokens not mentioned related to Lets Talk Bitcoin - https://tokenscan.io/asset/BOOKKEEPER
 - Tokenly wallet by Adam Levine- 'Tokenly Pockets' - included dispensers, DEx etc etc
 - Token FM
-- FLOONIES collectionL https://flooney.wordpress.com/
+- FLOONIES collection : https://flooney.wordpress.com/
 - other Rare Pepe cards with token access content (full list: DJPEPE, DROPPEPE, EGGPLANTPEPE, HIPPIEPEPE, JUNSETHPEPE, MAUIPEPE, PAWNTHELAMBO, PEPEAUCTIOND, PEPEBALT, PEPEINTRO, PEPENATION, PEPETANGCLAN, PEPLACE, PEPLACERESLT, RELAXPEPE, THREERARE, YAMAPEPE)
 
 ---
