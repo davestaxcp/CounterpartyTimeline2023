@@ -123,6 +123,7 @@ Next ones to research:
 - Tokenly wallet by Adam Levine- 'Tokenly Pockets' - included dispensers, DEx etc etc
 - Token FM
 - FLOONIES collection
+- other Rare Pepe cards with token access content (full list: DJPEPE, DROPPEPE, EGGPLANTPEPE, HIPPIEPEPE, JUNSETHPEPE, MAUIPEPE, PAWNTHELAMBO, PEPEAUCTIOND, PEPEBALT, PEPEINTRO, PEPENATION, PEPETANGCLAN, PEPLACE, PEPLACERESLT, RELAXPEPE, THREERARE, YAMAPEPE)
 
 ---
 
