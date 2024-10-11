@@ -413,7 +413,7 @@
     {
         "Date": "2023-07-19",
         "Time": "1689724800",
-        "Proposal": true,
+        "Proposal": false,
         "Event": "Atomic Swaps",
         "Significance": "This Counterparty Improvement Proposal suggests adding Atomic Swaps. Which enable direct peer-to-peer asset exchange by utilizing Hash Time Locked Contracts to ensure secure and trustless transactions. The proposal suggests using Atomic Swaps to eliminate vulnerabilities of dispensers and XCP DEx limitations.",
         "links": [
