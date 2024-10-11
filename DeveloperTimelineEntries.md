@@ -416,7 +416,7 @@ Author: Jeremy Johnson
 
 ---
 
-Date: **Not Active Yet - Drafted: 2023-07-19**
+Date: **2024-09-18**
 
 Timeline Topic: **Atomic Swaps**
 
