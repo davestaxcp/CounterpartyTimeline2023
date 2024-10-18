@@ -114,7 +114,11 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 ---
 ---
 
-### Tokens that need further research:
+### Entries that need further research:
+
+---
+
+- add Unspendable Labs 'Horizon' wallet
 
 ---
 
