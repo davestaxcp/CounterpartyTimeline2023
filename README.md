@@ -118,6 +118,11 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 ---
 
+add Robby Dermody Interview: https://youtu.be/FUZJ0QRjVUI
+add John Villar interview: https://youtu.be/f7p4izksjxo
+
+---
+
 - add Unspendable Labs 'Horizon' wallet
 
 ---
