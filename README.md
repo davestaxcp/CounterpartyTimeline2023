@@ -123,7 +123,7 @@ add John Villar interview: https://youtu.be/f7p4izksjxo
 
 ---
 
-- add Unspendable Labs 'Horizon' wallet
+- add Unspendable Labs 'Horizon' wallet - Sept 24, 2024 - https://x.com/UnspendableLabs/status/1838708329440248022 (https://wallet.unspendablelabs.com/)
 
 ---
 
