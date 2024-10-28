@@ -133,6 +133,7 @@ Next ones to research:
 - Token FM
 - FLOONIES collection : https://flooney.wordpress.com/
 - other Rare Pepe cards with token access content (full list: DJPEPE, DROPPEPE, EGGPLANTPEPE, HIPPIEPEPE, JUNSETHPEPE, MAUIPEPE, PAWNTHELAMBO, PEPEAUCTIOND, PEPEBALT, PEPEINTRO, PEPENATION, PEPETANGCLAN, PEPLACE, PEPLACERESLT, RELAXPEPE, THREERARE, YAMAPEPE)
+- another token by weex? KETF - https://www.reddit.com/r/Bitcoin/comments/2x09wb/steal_this_art_crack_its_key/ - https://tokenscan.io/asset/KETF
 
 ---
 
