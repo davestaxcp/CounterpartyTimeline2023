@@ -286,7 +286,7 @@ Timeline Asset/Project: **FLDC**
 
 Significance: The [FoldingCoin initiative](https://foldingcoin.net/) was created by Stanford University and allowed individuals to contribute their spare processing power to simulate complex protein folding. The project rewards contributors in the token [FLDC](https://xchain.io/asset/FLDC) to keep track for their contributions to research which can potentially lead to the creation of life saving drugs and treatments for an array of diseases and illnesses. In order to mine FoldingCoin, a user has to download FoldingCoin client over Folding@Home network and configure accordingly.
 
-Related Links: https://foldingcoin.net/
+Related Links: https://web.archive.org/web/20231203113510/https://foldingcoin.net/
 https://xchain.io/asset/FLDC
 
 Issuer: Robert Ross
