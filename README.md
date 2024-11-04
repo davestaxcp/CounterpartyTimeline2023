@@ -134,6 +134,8 @@ Next ones to research:
 - FLOONIES collection : https://flooney.wordpress.com/
 - other Rare Pepe cards with token access content (full list: DJPEPE, DROPPEPE, EGGPLANTPEPE, HIPPIEPEPE, JUNSETHPEPE, MAUIPEPE, PAWNTHELAMBO, PEPEAUCTIOND, PEPEBALT, PEPEINTRO, PEPENATION, PEPETANGCLAN, PEPLACE, PEPLACERESLT, RELAXPEPE, THREERARE, YAMAPEPE)
 - another token by weex? KETF - https://www.reddit.com/r/Bitcoin/comments/2x09wb/steal_this_art_crack_its_key/ - https://tokenscan.io/asset/KETF
+- more info on Swarm and early tokens: https://bitcointalk.org/index.php?topic=664071.msg7487628#msg7487628 - https://tokenscan.io/asset/SWARMPRE - https://tokenscan.io/asset/GOLDTICKET - https://tokenscan.io/asset/SWARM - https://youtu.be/LBBvay6n5kc
+- vennd.io ? ^ related to Swarm?
 
 ---
 
