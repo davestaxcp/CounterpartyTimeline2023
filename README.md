@@ -84,15 +84,10 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 ---
 
 - Namecoin Protocol Begins - April 18, 2011
-
 - Ethereum Protocol Begins -  July 30, 2015
-
 - Dogeparty Protocol Begins - August 13, 2014
-
 - Ordinal Protocol Begins - January 21, 2023
-
 - Mastercoin (Colored Coins with Omni Protocol) - July 31, 2013
-
 - First DNS names on Emercoin - July 26, 2014
 
 
@@ -104,17 +99,14 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 ---
 
 - overlay Bitcoin Price above mid line
-
 - overlay XCP Price above mid line
-
 - overlay Number of XCP transactions below mid line
-
 - overlay Commits graphic below mid line: ![Untitled](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/1dd41766-f0ee-427c-a708-297b2e350cc0)
 
 ---
 ---
 
-### Entries that need further research:
+### Entries Up Next:
 
 ---
 
@@ -124,6 +116,10 @@ add John Villar interview: https://youtu.be/f7p4izksjxo
 ---
 
 - add Unspendable Labs 'Horizon' wallet - Sept 25, 2024 - https://x.com/UnspendableLabs/status/1838708329440248022 (https://wallet.unspendablelabs.com/) - https://github.com/UnspendableLabs/Horizon-Wallet
+
+---
+
+- add TESTGALLERY by JL - https://github.com/davestaxcp/CounterpartyTimeline2023/issues/1
 
 ---
 
@@ -151,6 +147,11 @@ Next ones to research:
 - First Augmented Reality token? Before Fake Rare?
 - Firsts in Fake Rare? FakeDust (music player/multi layered token) - others?
 - First 3D designed art on an XCP token?
+- | The Nakamotos | thenakamotos.club | Unique PFPs tied to each of the Nakamotos cards (RAREPEPE) - instance of "Serialized XCP Tokens"
+- | Phunchkins | https://phunchkins.com/ | https://web.archive.org/web/20231208182144/https://phunchkins.com/
+- | Pepemon | https://pepemon.net/ |
+- | Wojak NPC | https://wojaknpc.com/ |
+- | PepeVote | needmoney90? | https://soundcloud.com/unconfirmed-transactions/xcp-on-blast-pepe-vote
 - https://xchain.io/asset/TITFORTAT
 - https://xchain.io/asset/BLINGZ
 - https://xchain.io/asset/DIAMONDBOND
@@ -159,12 +160,8 @@ Next ones to research:
 - https://xchain.io/asset/HQLEADERS
 - https://xchain.io/asset/KEVCOIN
 - https://xchain.io/asset/NOVATOKEN
-- | The Nakamotos | thenakamotos.club | Unique PFPs tied to each of the Nakamotos cards (RAREPEPE) - instance of "Serialized XCP Tokens"
-- | Phunchkins | https://phunchkins.com/ | https://web.archive.org/web/20231208182144/https://phunchkins.com/
-- | Pepemon | https://pepemon.net/ |
-- | Wojak NPC | https://wojaknpc.com/ |
-- | PepeVote | needmoney90? | https://soundcloud.com/unconfirmed-transactions/xcp-on-blast-pepe-vote
 
+---
 ---
 
 # Acknowledgments
