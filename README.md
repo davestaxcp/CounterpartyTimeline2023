@@ -172,7 +172,7 @@ Next ones to research:
 
 ---
 
-I'd like to give a huge shoutout to digital archaeological digging done by [JP Janssen](https://twitter.com/jp_janssen).
+I'd like to give a huge shoutout to the digital cryptographic archaeological work done by [JP Janssen](https://twitter.com/jp_janssen).
 
 Furthermore I would like to thank so many individuals for the help and influence along the way: [Whiterabbit1111](https://twitter.com/WRabbit1111), [Doggfather](https://twitter.com/DoggfatherCrew), [Blackstar](https://twitter.com/BlackstarXXI), [Jake Gallen](https://www.jakegallen.com/), [Shannon Code](https://www.linkedin.com/in/shannoncode/), [RarePepeNews](https://twitter.com/rarepepenews), [Scrilla](https://twitter.com/ScrillaVentura), [Theo Goodman](https://twitter.com/theog__), [Joe Looney](https://twitter.com/wasthatawolf), [Nutildah/dogermint](https://twitter.com/dogermint), [Jdog](https://twitter.com/jdogresorg), [LiteBit](https://twitter.com/LiteBitCo), [Sebuh](https://twitter.com/Sebuh_com), [ZeroG](https://twitter.com/g0barry), Helene, Rob Mitchell, Dan Anderson, [Indelible Trade](https://twitter.com/SuperRareRares), [Christian Moss](https://twitter.com/MandelDuck), [Nicolas Sierro](https://twitter.com/NicolasSierro), [Shaban Shaame](https://x.com/shaban_shaame) and so many more that I have a hard time keeping track of all of the beautiful people who have helped compile this information... the list could go on and on
 
