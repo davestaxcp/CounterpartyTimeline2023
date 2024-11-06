@@ -139,6 +139,8 @@ Next ones to research:
 
 ---
 
+- https://tokenscan.io/asset/PERMACREDITS - https://x.com/i/status/1854158581735780463
+- https://tokenscan.io/asset/NICEPLUM - https://x.com/i/status/1854158581735780463
 - XCPTORCH.Chiguireitor - 2019-03-02 - https://xchain.io/asset/XCPTORCH - related to Lightning Torch? Predated by DUTCHIE? - (1/1 NFT's passing between people who add content to the token) - influenced FAKETORCH in Fake Rares
 - Bitcoin Comic https://bitcoincomic.org/ - https://x.com/BitcoinComic - https://tokenscan.io/asset/COMICBOOK - https://tokenscan.io/asset/COMICCOIN - relation to SWARM..??... seems there are a few more tokens connected to this as well as SWARM
 - 2019-03-11 – GESAMTKUNSTW.ERK – https://medium.com/chain-of-thoughts/must-we-all-become-a-gesamtkunstwerk-b72fa6098930 - tokenized article with a Nathan copymint on XCP
