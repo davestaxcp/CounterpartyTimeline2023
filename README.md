@@ -134,7 +134,7 @@ Next ones to research:
 - vennd.io ? ^ related to Swarm? - VENND - "ICO token dispenser"
 - DTT - physical gold tokens before it was a thing
 - XBET-IO and BETXCP - on-chain betting (DEX)
-- "BlockTT" - institutional (B2B) stablecoin with DEX for settlement on Counterparty, by Matthew Tan et al (DBS Hackathon, Singapore, 2015) - https://x.com/i/status/1854158581735780463
+- "BlockTT" - institutional (B2B) stablecoin with DEX for settlement on Counterparty, by Matthew Tan et al (DBS Hackathon, Singapore, 2015) - https://x.com/i/status/1854158581735780463 - https://x.com/armchairancap/status/1854433068393877756
 - Coinify? app coin ico crowd sales?
 
 ---
