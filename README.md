@@ -166,6 +166,7 @@ Next ones to research:
 - https://xchain.io/asset/HQLEADERS
 - https://xchain.io/asset/KEVCOIN
 - https://xchain.io/asset/NOVATOKEN
+- when it all settles down... the 9.6 + 10.4+ protocol fork drama - https://tokenscan.io/asset/UNITYXCP
 
 ---
 ---
