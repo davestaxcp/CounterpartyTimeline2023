@@ -123,6 +123,10 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 ---
 
+- change Atomic Swaps developer entry to infer Keyuno's proposal as proposed and (include entry of and..) show Derp Herpenstein's proposal as developed
+
+---
+
 Next ones to research:
 - lots of tokens not mentioned related to Lets Talk Bitcoin - https://tokenscan.io/asset/BOOKKEEPER
 - Tokenly wallet by Adam Levine- 'Tokenly Pockets' - included dispensers, DEx etc etc
