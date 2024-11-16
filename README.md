@@ -140,6 +140,8 @@ Next ones to research:
 - XBET-IO and BETXCP - on-chain betting (DEX)
 - "BlockTT" - institutional (B2B) stablecoin with DEX for settlement on Counterparty, by Matthew Tan et al (DBS Hackathon, Singapore, 2015) - https://x.com/i/status/1854158581735780463 - https://x.com/armchairancap/status/1854433068393877756
 - Coinify? app coin ico crowd sales?
+- Topcoin? - https://www.counterparty.io/news/counterparty-update-080316/
+- Dogeparty fork? when?
 
 ---
 
