@@ -127,6 +127,10 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 ---
 
+- revise story of Joe Hamilton's Monegraph mint with information from Kevin McCoy - https://x.com/mccoyspace/status/1867095532390285768
+
+---
+
 Next ones to research:
 - lots of tokens not mentioned related to Lets Talk Bitcoin - https://tokenscan.io/asset/BOOKKEEPER
 - Tokenly wallet by Adam Levine- 'Tokenly Pockets' - included dispensers, DEx etc etc
