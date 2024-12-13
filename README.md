@@ -128,6 +128,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 ---
 
 - revise story of Joe Hamilton's Monegraph mint with information from Kevin McCoy - https://x.com/mccoyspace/status/1867095532390285768
+- MONEGRAPH token 2014 - and 'Silicon Flats' 2015 by Kevin McCoy
 
 ---
 
