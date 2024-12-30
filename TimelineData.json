@@ -1246,16 +1246,29 @@
   "LeadDevelopers": [
   {
     "dateRange": {
-      "start": "2013-12-15",
+      "start": "2016-01-01",
       "end": "2018-01-01"
     },
     "timeRange": {
-      "start": "1387065600",
+      "start": "1451606400",
       "end": "1514764800"
     },
     "Leaddev": true,
     "Event": "Devon Weller",
-    "Significance": "Devon Weller was the Lead Maintainer for Counterparty Protocol and Github from 2013-2018"
+    "Significance": "Devon Weller was the Lead Maintainer for Counterparty Protocol and Github from 2016-2018"
+  },
+  {
+    "dateRange": {
+      "start": "2014-12-12",
+      "end": "2016-01-01"
+    },
+    "timeRange": {
+      "start": "1418428799",
+      "end": "1451606400"
+    },
+    "Leaddev": true,
+    "Event": "Robby Dermody",
+    "Significance": "Robby Dermody was the Lead Maintainer for Counterparty Protocol and Github from 2014-2016"
   },
   {
     "dateRange": {
@@ -1285,6 +1298,19 @@
   },
   {
     "dateRange": {
+      "start": "2014-01-01",
+      "end": "2014-12-12"
+    },
+    "timeRange": {
+      "start": "1388534400",
+      "end": "1418428799"
+    },
+    "Leaddev": true,
+    "Event": "Adam Krellenstein First Lead Time Period",
+    "Significance": "Adam Krellenstein was the Lead Maintainer for Counterparty Github from 2014-2015"
+  },
+  {
+    "dateRange": {
       "start": "2024-01-01",
       "end": null
     },
@@ -1293,8 +1319,8 @@
       "end": null
     },
     "Leaddev": true,
-    "Event": "Adam Krellenstein",
-    "Significance": "Adam Krellenstein is the Lead Maintainer for Counterparty Protocol/Github from 2024 till the present."
+    "Event": "Adam Krellenstein Second Lead Time Period",
+    "Significance": "Adam Krellenstein was the Lead Maintainer for Counterparty Github from 2014-2015 & and is currently the Lead Maintainter from 2024-present"
   }
   ],
   "ProjectEntries": [
