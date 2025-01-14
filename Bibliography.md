@@ -504,7 +504,10 @@
   - Monacoin GitHub: https://github.com/monacoinproject/monacoin
 
 ## Lead Developers
-- Devon Weller. (2013, December 15 - 2018, January 1).
+- Adam Krellenstein. (2013, December 15 - 2014, December 12).
+- Robby Dermody. (2014, December 12 = 2015 December 15)
+- Devon Weller. (2015, December 15 - 2018, January 2).
 - John Villar. (2018, January 2 - 2019, December 13).
 - Jeremy Johnson. (2019, December 14 - 2024, January 1).
 - Adam Krellenstein. (2024, January 1 - Present).
+
