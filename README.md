@@ -148,6 +148,7 @@ Next ones to research:
 - Coinify? app coin ico crowd sales?
 - Topcoin? - https://www.counterparty.io/news/counterparty-update-080316/
 - Dogeparty fork? when?
+- more documentation and info on Rare Pepe: https://bitcointalk.org/index.php?topic=1617264.0
 
 ---
 
