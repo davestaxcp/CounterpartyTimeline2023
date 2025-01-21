@@ -130,6 +130,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 - revise story of Joe Hamilton's Monegraph mint with information from Kevin McCoy - https://x.com/mccoyspace/status/1867095532390285768
 - MONEGRAPH token 2014 - and 'Silicon Flats' 2015 by Kevin McCoy - https://eyes-towards-the-dove.com/2015/03/where-did-you-go-for-springbreak-2015/ - show with Monegraph influence and the 2015 mint
 - early Monegraph presentation: https://vimeo.com/96131398
+- Wojack Way ended submissions end of 2024
 
 ---
 
