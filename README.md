@@ -134,7 +134,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 ---
 
 Next ones to research:
-- JPBULL & JPBEAR + CPNEWS by JPJA
+- JPBULL & JPBEAR + CPNEWS by JPJA ... RIGA issued by JPJA
 - firsts in fairmints (MINTS, first music + video etc)
 - lots of tokens not mentioned related to Lets Talk Bitcoin - https://tokenscan.io/asset/BOOKKEEPER
 - Tokenly wallet by Adam Levine- 'Tokenly Pockets' - included dispensers, DEx etc etc
