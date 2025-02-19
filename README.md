@@ -156,7 +156,7 @@ Next ones to research:
 ---
 
 - Leftist Tears project? http://bitcoin-takeover.com/bitcoin-nfts-on-counterparty-and-how-to-get-or-create-your-first-one/
-- Bitcoin Heads project? http://bitcoin-takeover.com/bitcoin-nfts-on-counterparty-and-how-to-get-or-create-your-first-one/ - VLADHEAD, JOSHUAHEAD etc - https://btcheads.com/
+- Bitcoin Heads project? http://bitcoin-takeover.com/bitcoin-nfts-on-counterparty-and-how-to-get-or-create-your-first-one/ - VLADHEAD, JOSHUAHEAD etc - https://btcheads.com/ - Ordinal versions + "created some physical cards with Satochip"
 - https://tokenscan.io/asset/PERMACREDITS - https://x.com/i/status/1854158581735780463
 - https://tokenscan.io/asset/NICEPLUM - https://x.com/i/status/1854158581735780463
 - XCPTORCH.Chiguireitor - 2019-03-02 - https://xchain.io/asset/XCPTORCH - related to Lightning Torch? Predated by DUTCHIE? - (1/1 NFT's passing between people who add content to the token) - influenced FAKETORCH in Fake Rares
