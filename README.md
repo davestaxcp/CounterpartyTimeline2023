@@ -131,6 +131,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 - MONEGRAPH token 2014 - and 'Silicon Flats' 2015 by Kevin McCoy - https://eyes-towards-the-dove.com/2015/03/where-did-you-go-for-springbreak-2015/ - show with Monegraph influence and the 2015 mint
 - early Monegraph presentation: https://vimeo.com/96131398
 - Wojack Way ended submissions end of 2024
+- incorporate following data for hashes and on-chain data where applicable: https://cybe.com/early-nfts/timelines/first-onchain-bitcoin-nfts/ + https://cybe.com/early-nfts/timelines/first-hashed-bitcoin-nfts/
 
 ---
 
