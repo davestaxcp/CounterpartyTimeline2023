@@ -132,6 +132,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 - early Monegraph presentation: https://vimeo.com/96131398
 - Wojack Way ended submissions end of 2024
 - incorporate following data for hashes and on-chain data where applicable: https://cybe.com/early-nfts/timelines/first-onchain-bitcoin-nfts/ + https://cybe.com/early-nfts/timelines/first-hashed-bitcoin-nfts/
+- rework EARLY token description from LTB - https://web.archive.org/web/20140921005001/https://letstalkbitcoin.com/blog/post/tcv
 
 ---
 
