@@ -154,6 +154,7 @@ Next ones to research:
 - Topcoin? - https://www.counterparty.io/news/counterparty-update-080316/
 - Dogeparty fork? when?
 - more documentation and info on Rare Pepe: https://bitcointalk.org/index.php?topic=1617264.0
+- HOURCONSULT Adam B Levine more info - https://x.com/AdamBLevine/status/1894600439649505519 - https://x.com/AdamBLevine/status/1894600202541265189 - https://web.archive.org/web/20180104191618/https://tokenmarkets.com/
 
 ---
 
