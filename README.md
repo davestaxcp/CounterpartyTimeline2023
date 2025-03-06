@@ -156,6 +156,7 @@ Next ones to research:
 - Dogeparty fork? when?
 - more documentation and info on Rare Pepe: https://bitcointalk.org/index.php?topic=1617264.0
 - HOURCONSULT Adam B Levine more info - https://x.com/AdamBLevine/status/1894600439649505519 - https://x.com/AdamBLevine/status/1894600202541265189 - https://web.archive.org/web/20180104191618/https://tokenmarkets.com/ - https://x.com/AdamBLevine/status/1894616702501228919
+- earlier XCP history... include Delisting events from CEX's for XCP (and other historic coins?)... "dark ages" ... why the btc fees chart and historical btc protocol debates should probably be included - https://www.youtube.com/watch?v=bl30m31d_zs&t=3437s
 
 ---
 
