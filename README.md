@@ -126,6 +126,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 - change Atomic Swaps developer entry to infer Keyuno's proposal as proposed and (include entry of and..) show Derp Herpenstein's proposal as developed
 - include xcp.dev fork by Juan
 - when it all settles down (it didnt)... the 9.6 + 10.4+ protocol fork drama - https://tokenscan.io/asset/UNITYXCP
+- Dogeparty fork
 
 ---
 
@@ -156,7 +157,6 @@ Next ones to research:
 - "BlockTT" - institutional (B2B) stablecoin with DEX for settlement on Counterparty, by Matthew Tan et al (DBS Hackathon, Singapore, 2015) - https://x.com/i/status/1854158581735780463 - https://x.com/armchairancap/status/1854433068393877756
 - Coinify? app coin ico crowd sales?
 - Topcoin? - https://www.counterparty.io/news/counterparty-update-080316/
-- Dogeparty fork? when?
 - more documentation and info on Rare Pepe: https://bitcointalk.org/index.php?topic=1617264.0
 - HOURCONSULT Adam B Levine more info - https://x.com/AdamBLevine/status/1894600439649505519 - https://x.com/AdamBLevine/status/1894600202541265189 - https://web.archive.org/web/20180104191618/https://tokenmarkets.com/ - https://x.com/AdamBLevine/status/1894616702501228919
 - earlier XCP history... include Delisting events from CEX's for XCP (and other historic coins?)... "dark ages" ... why the btc fees chart and historical btc protocol debates should probably be included - https://www.youtube.com/watch?v=bl30m31d_zs&t=3437s
