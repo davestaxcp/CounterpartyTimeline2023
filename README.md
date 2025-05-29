@@ -124,6 +124,8 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 ---
 
 - change Atomic Swaps developer entry to infer Keyuno's proposal as proposed and (include entry of and..) show Derp Herpenstein's proposal as developed
+- include xcp.dev fork by Juan
+- when it all settles down (it didnt)... the 9.6 + 10.4+ protocol fork drama - https://tokenscan.io/asset/UNITYXCP
 
 ---
 
@@ -190,8 +192,7 @@ Next ones to research:
 - https://xchain.io/asset/HQLEADERS
 - https://xchain.io/asset/KEVCOIN
 - https://xchain.io/asset/NOVATOKEN
-- when it all settles down... the 9.6 + 10.4+ protocol fork drama - https://tokenscan.io/asset/UNITYXCP
-- eventually add TIMELINEXCP (research + documentary in a token) after adding all others ;)
+- eventually add TIMELINEXCP (research + documentary in a token) after adding most of the others ;)
 
 ---
 ---
