@@ -138,6 +138,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 - rework EARLY token description from LTB - https://web.archive.org/web/20140921005001/https://letstalkbitcoin.com/blog/post/tcv
 - Period of time between Jdog Lead Maintainer and Adam K (group of people with github access)
 - add image to MININGPEPEL 
+- Coindaddy article from a decade ago (Grumpycat) - https://cointelegraph.com/news/assets-remove-barriers-that-prevent-people-from-experimenting-says-coindaddy-dev
 
 ---
 
