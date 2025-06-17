@@ -193,6 +193,7 @@ Next ones to research:
 - https://xchain.io/asset/HQLEADERS
 - https://xchain.io/asset/KEVCOIN
 - https://xchain.io/asset/NOVATOKEN
+- V11 drama and TOOFUNNYPEPE https://web.archive.org/web/20250617184350/https://counterparty.com/
 - eventually add TIMELINEXCP (research + documentary in a token) after adding most of the others ;)
 
 ---
