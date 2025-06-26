@@ -139,6 +139,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 - Period of time between Jdog Lead Maintainer and Adam K (group of people with github access)
 - add image to MININGPEPEL 
 - Coindaddy article from a decade ago (Grumpycat) - https://cointelegraph.com/news/assets-remove-barriers-that-prevent-people-from-experimenting-says-coindaddy-dev
+- LTB Companion Multi Token wallet - https://www.youtube.com/watch?v=zPye-5ZF4i4
 
 ---
 
