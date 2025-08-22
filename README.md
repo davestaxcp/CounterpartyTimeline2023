@@ -269,9 +269,9 @@ https://news.bitcoin.com/top-nine-counterparty-projects/
 
 These Blockchain Tools:
 
-https://xchain.io/
+https://tokenscan.io/
 
-https://xcp.dev/
+https://www.xcp.io/
 
 [This Counterparty Asset API call](https://codepen.io/ndlbl/pen/yLQVERj?editors=1111)
 
