@@ -197,6 +197,7 @@ Next ones to research:
 - V11 drama and TOOFUNNYPEPE https://web.archive.org/web/20250617184350/https://counterparty.com/
 - eventually add TIMELINEXCP (research + documentary in a token) after adding most of the others ;)
 - add PEPEFLAGS (Kekert) project in 2022
+- Rare Skull and Bones https://www.rareskulls.com/
 
 ---
 ---
