@@ -124,7 +124,6 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 ---
 
 - change Atomic Swaps developer entry to infer Keyuno's proposal as proposed and (include entry of and..) show Derp Herpenstein's proposal as developed
-- include xcp.dev fork by Juan
 - when it all settles down (it didnt)... the 9.6 + 10.4+ protocol fork drama - https://tokenscan.io/asset/UNITYXCP
 - Dogeparty fork
 
@@ -134,7 +133,6 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 - MONEGRAPH token 2014 - and 'Silicon Flats' 2015 by Kevin McCoy - https://eyes-towards-the-dove.com/2015/03/where-did-you-go-for-springbreak-2015/ - show with Monegraph influence and the 2015 mint
 - early Monegraph presentation: https://vimeo.com/96131398
 - Wojack Way ended submissions end of 2024
-- incorporate following data for hashes and on-chain data where applicable: https://cybe.com/early-nfts/timelines/first-onchain-bitcoin-nfts/ + https://cybe.com/early-nfts/timelines/first-hashed-bitcoin-nfts/
 - rework EARLY token description from LTB - https://web.archive.org/web/20140921005001/https://letstalkbitcoin.com/blog/post/tcv
 - Period of time between Jdog Lead Maintainer and Adam K (group of people with github access)
 - add image to MININGPEPEL 
@@ -158,7 +156,7 @@ Next ones to research:
 - XBET-IO and BETXCP - on-chain betting (DEX)
 - "BlockTT" - institutional (B2B) stablecoin with DEX for settlement on Counterparty, by Matthew Tan et al (DBS Hackathon, Singapore, 2015) - https://x.com/i/status/1854158581735780463 - https://x.com/armchairancap/status/1854433068393877756
 - Coinify? app coin ico crowd sales?
-- Topcoin? - https://www.counterparty.io/news/counterparty-update-080316/
+- More Topcoin info? - https://www.counterparty.io/news/counterparty-update-080316/
 - more documentation and info on Rare Pepe: https://bitcointalk.org/index.php?topic=1617264.0
 - HOURCONSULT Adam B Levine more info - https://x.com/AdamBLevine/status/1894600439649505519 - https://x.com/AdamBLevine/status/1894600202541265189 - https://web.archive.org/web/20180104191618/https://tokenmarkets.com/ - https://x.com/AdamBLevine/status/1894616702501228919
 - earlier XCP history... include Delisting events from CEX's for XCP (and other historic coins?)... "dark ages" ... why the btc fees chart and historical btc protocol debates should probably be included - https://www.youtube.com/watch?v=bl30m31d_zs&t=3437s
