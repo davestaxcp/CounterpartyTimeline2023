@@ -1073,6 +1073,37 @@
   },
   {
     "dateRange": {
+      "start": "2024-09-25",
+      "end": null
+    },
+    "timeRange": {
+      "start": 1727222400,
+      "end": null
+    },
+    "Wallet": true,
+    "Event": "Horizon Wallet",
+    "Significance": "Horizon is an open-source web wallet developed by Adam Krellenstein, 'Dime-Squanderer' and Matt Marcello of Unspendable Labs.  This wallet was developed after the return of Adam Krellenstein taking over the Lead Developer role of Counterparty, it supports Bitcoin/Counterparty functionality and even is available in the Chrome web store. This wallet also specifically integrates with the Horizon Market, which is a more recently developed block explorer for Counterparty functionality created by Unspendable Labs. This market/wallet was one of the first to integrate the new 'Atomic Swap' functionality from a recent Counterparty protocol upgrade as well as 'attaching' Counterparty assets to UTXO's in a similar manner to Ordinals and Runes. Though frequent use of some of this new functionality features using Horizon requires 'credits' to be bought or a subscription service to be purchased to use these functions in bulk amounts. In more recent updates, Horizon even offers royalty percentages to creators for atomic swaps done on their platform. To learn more check out the Unspendable Labs website, the Horizon Wallet Github and the Horizon Market Counterparty block explorer.",
+    "links": [
+      {
+        "label": "open-source web wallet",
+        "href": "https://github.com/UnspendableLabs/Horizon-Wallet"
+      },
+      {
+        "label": "Unspendable Labs",
+        "href": "https://www.unspendablelabs.com/"
+      },
+      {
+        "label": "Horizon Market",
+        "href": "https://horizon.market/?sort=btc_volume%3Adesc"
+      },
+      {
+        "label": "Chrome web store",
+        "href": "https://chromewebstore.google.com/detail/horizon-wallet/bnmgkjlaommgappfckljlelgahnbngme"
+      }
+    ]
+  },
+  {
+    "dateRange": {
       "start": "2016-10-03",
       "end": null
     },
