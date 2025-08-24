@@ -1276,6 +1276,39 @@
         ]
     },
     {
+        "Date": "2014-08-13",
+        "Time": "1407888000",
+        "Fork": true,
+        "Event": "Dogeparty",
+        "Significance": "Dogeparty is a fork of Counterparty that functions on the Doge cryptocurrency rather than Bitcoin. It is very similar to Counterparty but has confirmation times that are 10 times faster than Bitcoin and involves much lower transaction fees for all functionality. It started in a very similar way with a 'proof of burn' of Doge for 'XDP' similar to how 'XCP' was created on Counterparty. The platform was officially launched in August of 2014 involving early contributors such as Adam B. Levine, Rob Mitchell, Daniel Spiller and others. This platform includes some of the earliest tokenized artworks and early cryptographic experimentations like BACKPACK, JOLLYROGER, MILKYWAY, DOGECAR, BITBEG and many others. Though it should be noted that due to various factors and limited usage, Dogeparty (and the supported wallets) was not maintained after 2016 until it was revived again in August of 2021 by Jeremy Johnson and other core die-hard members. The social structure of Dogeparty, especially after the 2021 reboot is quite different than Counterparty and involes the still active and well funded 'Dogeparty Foundation' with elected representatives from the community. Since the 2021 revival, many Dogeparty Improvement Proposals (DIP's) have been proposed and implemented. Even 'Dogecoin STAMPs' were introduced on this platform and are very similar in theory to Counterparty STAMPs. The main wallet used by the community is 'Dogewallet' and has almost identical functionality as 'Freewallet' used with Counterparty. In recent years, many new artists, curators and developers have taken interest in the platform with projects such as the Rare Doge Directory (similar to Rare Pepe), KingKet, Dogepunks and many other projects that are consistently traded and very active to this day. While many prominent Counterparty artists are also active on Dogeparty, it is definitively a quite a different space, aesthetic and autonomous community that has survived completely separate from the Counterparty environment. To learn more about Dogeparty and historical assets that were issued there check out the original Dogeparty website (.io), the reboot website (.net), JPJA's dogeparty timeline, the nfthistory.org Dogeparty section, as well as Doggfather and Jake Gallen's medium articles linked below.",
+        "links": [
+            {
+                "label": "original Dogeparty website",
+                "href": "https://dogeparty.io/"
+            },
+            {
+                "label": "reboot website",
+                "href": "https://dogeparty.net/"
+            },
+            {
+                "label": "JPJA's dogeparty timeline",
+                "href": "https://jpjanssen.com/timeline/dogeparty.html"
+            },
+            {
+                "label": "nfthistory.org Dogeparty section",
+                "href": "https://www.nfthistory.org/wiki/Dogeparty"
+            },
+            {
+                "label": "Doggfather",
+                "href": "https://doggfather.medium.com/dogeparty-nft-meta-layer-on-top-of-dogecoin-part-1-3105d7b24abf"
+            },
+            {
+                "label": "Jake Gallen's medium",
+                "href": "https://medium.com/@jakegallen/dogeparty-directory-88c949b21072"
+            }
+        ]
+    },
+    {
         "Date": "2014-10-07",
         "Time": "1412640000",
         "Fork": true,
