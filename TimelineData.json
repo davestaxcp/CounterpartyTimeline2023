@@ -1046,6 +1046,33 @@
   },
   {
     "dateRange": {
+      "start": "2016-09-15",
+      "end": "2018-10-03"
+    },
+    "timeRange": {
+      "start": 1473033600,
+      "end": 1538524800
+    },
+    "Wallet": true,
+    "Event": "Tokenly Pockets",
+    "Significance": "Tokenly Pockets was a multisignature, open-source Chrome plugin wallet for Bitcoin and Counterparty. It was developed as a fork of Bitcoin's 'Copay' and the succesor of the branded 'Let's Talk Bitcoin Companion Wallet'. It supported the sending and receiving of Bitcoin and all Counterparty tokens, local passphrase store while also offering support for P2SH addresses and multi-signature support for shared wallet configurations. Tokenly Pockets included support for issuing new Counterparty assets, support for Bitcoin Value-Added Metadata as well as 'enhanced asset support' for issued tokens. This wallet was a popular wallet at the time that expanded functionality compared to the simpler 'Counterwallet'. This was especially true for users affiliated with Tokenly and Let's Talk Bitcoin functionalities. The roadmap for this wallet included a monthly fee service for deeper functionality such as: 'User's / Company's ability to embed its own branding on tokens or projects, renting 'Bots' and 'Slots' to people who want to sell and redeem tokens, renting Blogs and Front Pages that utilize their collaborative content creation engine, providing custom installations, consulting, and integrations for enterprise or white-label customers, offering value-added services like in-wallet directory listings (i.e Classifieds), simplified token registration or custom token branding within the wallet and their other application environments.' As mentioned within the Tokenly entry, the Counterparty token 'TOKENLY' was sold as a gift certificate that was directly redeemable for at least $5 of hosted services mentioned above. To learn more, check out the Tokenly Pockets github, an included Youtube explanation video going over the features and the Brave New Coin article that mentions the included features as they were tied with Tokenly services.",
+    "links": [
+      {
+        "label": "Tokenly Pockets",
+        "href": "https://github.com/tokenly/pockets"
+      },
+      {
+        "label": "a popular wallet at the time",
+        "href": "https://youtu.be/G_cMwkPGeJw"
+      },
+      {
+        "label": "the Brave New Coin article",
+        "href": "https://bravenewcoin.com/insights/tokenly-limitless-tokens-for-a-tokenless-world"
+      }
+    ]
+  },
+  {
+    "dateRange": {
       "start": "2016-10-03",
       "end": null
     },
