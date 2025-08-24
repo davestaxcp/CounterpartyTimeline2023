@@ -1882,6 +1882,22 @@
             {
                 "label": "HOURCONSULT",
                 "href": "https://xchain.io/asset/HOURCONSULT"
+            },
+            {
+                "label": "recently mentioned on Twitter",
+                "href": "https://x.com/AdamBLevine/status/1894600439649505519"
+            },
+            {
+                "label": "goes on to mention",
+                "href": "https://x.com/AdamBLevine/status/1894600202541265189"
+            },
+            {
+                "label": "to this day",
+                "href": "https://x.com/AdamBLevine/status/1894616702501228919"
+            },
+            {
+                "label": "precursor store system",
+                "href": "https://web.archive.org/web/20180104191618/https://tokenmarkets.com/"
             }
         ],
         "Issuer": "Adam B Levine"
@@ -2435,14 +2451,14 @@
         "Time": "1427760000",
         "imageURL": "https://user-images.githubusercontent.com/136373423/279544063-f4597c23-8ec3-4dab-893a-ffc0591a0187.jpeg",
         "Event": "RIGA",
-        "Significance": "The first ever video associated with a Counterparty asset is RIGA. This token included the description 'youtu.be/HOTLkZCCqaI - EU's Greatest City' when it was originally issued. It is unclear the meaning of minting this asset, but points to simply showing the viewer 'EU's Greatest City'.",
+        "Significance": "The first ever video associated with a Counterparty asset is RIGA. It was issued by JP Janssen. This token included the description 'youtu.be/HOTLkZCCqaI - EU's Greatest City' when it was originally issued. It is unclear the meaning of minting this asset, but points to simply showing the viewer 'EU's Greatest City'.",
         "links": [
             {
                 "label": "This token",
                 "href": "https://xchain.io/asset/RIGA"
             }
         ],
-        "Issuer": "1K2eXP3wsX4W5HjnkNKsqX1fgRPhFA5RNv"
+        "Issuer": "JP Janssen"
     },
 {
         "Date": "2015-06-23",
