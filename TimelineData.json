@@ -1,4 +1,36 @@
 {
+  "NotableBlockchainEvents": [
+    {
+        "Date": "2011-04-08",
+        "Time": "1302220800",
+        "Event": "Namecoin Protocol Begins"
+    },
+    {
+        "Date": "2015-07-30",
+        "Time": "1438214400",
+        "Event": "Ethereum Protocol Begins"
+    },
+    {
+        "Date": "2014-08-13",
+        "Time": "1407888000",
+        "Event": "Dogeparty Protocol Begins"
+    },
+    {
+        "Date": "2023-01-21",
+        "Time": "1674259200",
+        "Event": "Ordinal Protocol Begins"
+    },
+    {
+        "Date": "2013-07-31",
+        "Time": "1375228800",
+        "Event": "Mastercoin (Colored Coins with Omni Protocol) Protocol Begins"
+    },
+    {
+        "Date": "2014-07-26",
+        "Time": "1406332800",
+        "Event": "First DNS names on Emercoin Protocol"
+    }
+],
   "IntegratedDevelopments": [
     {
         "Date": "2014-01-02",
