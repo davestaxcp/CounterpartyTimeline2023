@@ -2268,6 +2268,312 @@
         "Issuer": "Rhea Myers"
     },
 {
+        "Date": "2014-09-05",
+        "Time": "1409875200",
+        "imageURL": "",
+        "Event": "JPBULL & JPBEAR",
+        "Significance": "These two tokens by JP Janssen (JPBULL and JPBEAR) are the first on-chain experiments for tokenized bitcoin derivatives using Counterparty. Attaining these tokens were a basic way of buying 'put' and 'call' options against the bitcoin price at the time. The descriptions of these tokens published the options as 'BULL $500 14/09/18' and 'BEAR $500 14/09/18' giving users some time to make a prediction. In this case, JPBEAR holders recieved a payout due to the price action of Bitcoin at the time. While no users other than JPJA participated in this experiment, the on-chain record of the payout and usage of these tokens were conducted as a proof that fully transparent contracts were possible using Counterparty. JPJA states on his website that 'trading on the [Counterparty] DEX' was simply 'too slow for a real life application'. Also noted is that both tokens were issued as divisible and the original supply's issuance for both tokens were later locked in 2021. He also documented and notorized this idea within the same PDF as he did for JPGOLD.",
+        "links": [
+            {
+                "label": "states on his website",
+                "href": "https://jpjanssen.com/jpja-2014-book-nft-defi-pioneer/"
+            },
+            {
+                "label": "the same PDF",
+                "href": "https://jpjanssen.com/jpja/pdf/Value-of-XCP.pdf"
+            },
+            {
+                "label": "JPBULL",
+                "href": "https://tokenscan.io/asset/JPBULL"
+            },
+            {
+                "label": "JPBEAR",
+                "href": "https://tokenscan.io/asset/JPBEAR"
+            }
+        ],
+        "Issuer": "JP Janssen"
+    },
+{
+        "Date": "2014-09-15",
+        "Time": "1410739200",
+        "imageURL": "",
+        "Event": "CPNEWS",
+        "Significance": "CPNEWS was an experiment by JP Janssen that represented a blog at the URL 'counterpartynews.com' where contributors to the blog 'received CPNEWS tokens at a pre-defined monthly schedule'. JPJA stated that he 'wanted to show how tokens can make it possible for multiple individuals to cooperate on a startup without any funding'. This experiment is similar to the token-gated access forums that were created on Tokenly (Let's Talk Bitcoin and Adam B. Levine affiliation) and also would eventually influence future users and websites like 'RarePepeNews'. JPJA states that this project lasted from September to December 2014 and that 'unfortunately the experiment failed' because very little contributors were attracted. JPJA explains the process, the distribution of tokens, and the one user that contributed in his 'Value-of-XCP' PDF notorized using a Counterparty broadcast in October 2014. ",
+        "links": [
+            {
+                "label": "experiment by JP Janssen",
+                "href": "https://jpjanssen.com/counterparty-news-2014-rewards-token/"
+            },
+            {
+                "label": "Value-of-XCP",
+                "href": "https://jpjanssen.com/jpja/pdf/Value-of-XCP.pdf"
+            },
+            {
+                "label": "CPNEWS",
+                "href": "https://tokenscan.io/asset/CPNEWS"
+            }
+        ],
+        "Issuer": "JP Janssen"
+    },
+{
+        "Date": "2014-09-15",
+        "Time": "1398902400",
+        "imageURL": "https://image.pitchbook.com/F7k5rHdyVlWeNvdht4pWBKjIXPu1667578537203_200x200",
+        "Event": "Tokenly",
+        "Significance": "Tokenly was a blockchain company created by Adam B. Levine (including Nick Rathman, Devon Weller and Steven Levine) that focused on developing applications to utilize Counterparty tokens for users, businesses and communities. Tokenly built software that conducted 'Swapbot' services which included buying, selling and swapping tokens without using an exchange. They also developed 'Tend' services with the TokenSlot API that allowed users to create customizable redemption forms for goods, services and even custom forum access. This also supported collecting information, confirming payments, notifying merchants and even paved the path for websites and apps to support credit cards and various altcoins. Tokenly even included services like auctions and 'multi-asset sends' which would predate the MPMA protocol function developed later by John Villar as well as 'Enhanced Token Data' that would be considered very similar to CoinDaddy services as well as the CIP25 structure that were released later by Jeremy Johnson. A significant amount of the business model was tied around renting these services out for flat monthly fees without taking percentage costs of the transactions. Tokenly offered the open-source 'Tokenly Pockets' wallet that allowed for custom branding and even 'in-wallet' directory listings. Just one historic token linked to Tokenly would be the 'TOKENLY' Counterparty asset which was sold as a gift certificate that was directly redeemable for at least $5 of hosted services. This company was also the forefront centerpiece for the LTBCOIN rewards program and various LTBCOIN related assets used on the Let's Talk Bitcoin podcast, website and forums. In addition to rewards systems, crowdfunding, digital rights management and even token eCommerce, Tokenly was at the forefront of 'token access control' experimentation and real world application for personal and business usage. So much so that Adam B. Levine wrote a paper titled 'Token Controlled Viewpoint (TCV) Genesis, Characteristics and Early Use Cases' that outlined a philosophy that goes beyond just 'Token Controlled Access'. Tokenly is one of the most documented early companies and truly an experimental cornerstone within the Counterparty ecosystem that would go on to create Token.fm, help crowdfund Tatiana Moroz's 'Keep The Faith' album, link active projects at the time like Augmentors and Spells of Genesis to their ecosystem and pave the way for free usage of tokenized systems using Counterparty. Sadly Let's Talk Bitcoin, Tokenly, Tokenly Pockets and many of the functions, extensions and features they offered are out of service or not supported actively at this time. To learn more, check out the Tokenly Tools and Services github, the Token Slot API github, the various versions of the Tokenly website archived on the Wayback Machine, articles from publications like Brave New Coin, various video records of Adam B. Levine lectures, and a plethora of interviews published on Youtube throughout the years since its inception.",
+        "links": [
+            {
+                "label": "'Swapbot' services",
+                "href": "https://github.com/tokenly/Tokenly-Tools-and-Services"
+            },
+            {
+                "label": "without using an exchange",
+                "href": "https://github.com/tokenly/token-slot"
+            },
+            {
+                "label": "a blockchain company",
+                "href": "https://web.archive.org/web/20150929141223/https://tokenly.com/"
+            },
+            {
+                "label": "not supported actively at this time",
+                "href": "https://web.archive.org/web/20170803070052/http://tokenly.com/"
+            },
+            {
+                "label": "Brave New Coin",
+                "href": "https://bravenewcoin.com/insights/tokenly-limitless-tokens-for-a-tokenless-world"
+            },
+            {
+                "label": "various video records",
+                "href": "https://www.youtube.com/watch?v=-7n6WGckrCI"
+            },
+            {
+                "label": "Adam B. Levine lectures",
+                "href": "https://www.youtube.com/watch?v=v3gxOrOmXSk"
+            },
+            {
+                "label": "plethora of interviews",
+                "href": "https://youtu.be/o5gA63UiV-o"
+            },
+            {
+                "label": "Token Controlled Viewpoint",
+                "href": "https://web.archive.org/web/20191202082517/https://letstalkbitcoin.com/blog/post/tcv"
+            },
+            {
+                "label": "articles",
+                "href": "https://www.mtmseries.io/history"
+            }
+        ],
+        "Issuer": "Adam B. Levine"
+    },
+{
+        "Date": "2015-10-28",
+        "Time": "1445990400",
+        "imageURL": "",
+        "Event": "GUERILLA",
+        "Significance": "GUERILLA was an early 'spam token' that had a very specific purpose to acquire information about the early Counterparty community and active holders. While it was common in the early days to send out tokens to active addresses to promote or distribute assets, Dan Anderson sent this token out with an anonymous survey. This survey can be seen in transaction '346361' and Dan reported about 200 responses were given in response to acquire some early info on the types of users, gender, age, etc. of Counterparty users.",
+        "links": [
+            {
+                "label": "GUERILLA",
+                "href": "https://tokenscan.io/asset/GUERILLA"
+            },
+            {
+                "label": "346361",
+                "href": "https://tokenscan.io/tx/346361"
+            }
+        ],
+        "Issuer": "Dan Anderson"
+    },
+{
+        "Date": "2015-03-03",
+        "Time": "1425340800",
+        "imageURL": "",
+        "Event": "Silicon Flats (A1028163271339900500)",
+        "Significance": "This numeric token was the second tokenized art experiment by Kevin McCoy using the Counterparty protocol. It represented an art piece by Jennifer and Kevin titled 'Silicon Flats', included a vimeo link to the digital video art, a sha256 hash, the text 'monegraph 0.2' and a statement in the JSON that expressed this token was the asserted ownership of the media described by the file and hash. While the MONEGRAPH token was issued on Counterparty before Regular Division (MGAAAAAAAAAAA) and Silicon Flats (A1028163271339900500), the MONEGRAPH token itself was intended to be used for 'a way to access artworks on the monegraph website -- maybe something like a points system.' Kevin went on to mention 'Obviously it didn't get past the initial issuance! But its a very early artist coin in any case.' While the MONEGRAPH token itself did not get off the ground as intended, the earlier MGAAAAAAAAAAA and later A1028163271339900500 token very much lasted and persisted for over a decade since their issuance. Kevin express this 2015 token for Silicon Flats was 'part of a curatorial project my wife and I did as part of the Spring Break Art Fair in NYC. We organized a dozen or so digital and media artists as part of a larger art fair. We announced that we would be putting all of the works on the blockchain with Monegraph ownership registrations. It was so hectic getting everything organized and installed that I only managed to make a token for our piece in the show -- an 8-minute collage video called 'Silicon Flats'. We made the artwork the previous summer at an art residency in the Bay Area. We drove around and filmed the campuses of a bunch of different big tech companies (Apple, eBay, Facebook, Oracle, Google) and remixed that footage with landscape images to create a before and after contrast.' One of the main publications to mention the art show that Silicon Flats was shown at is from Eyes Towards the Dove in an article written by Katy Diamond Hamer titled 'Where did you go for SPRING/BREAK, 2015?'. Another great presentation going over the theory and early days of Monegraph can be seen in the Seven on Seven 2014 presentation linked below. Kevin mentions about that presentation that 'although Quantum didn't ultimately make an appearance in this presentation, [Quantum] was made during this hackathon. The video does show the two other original works, including the first ever sale.'",
+        "links": [
+            {
+                "label": "Silicon Flats",
+                "href": "https://vimeo.com/119389281"
+            },
+            {
+                "label": "article written by Katy Diamond Hamer",
+                "href": "https://eyes-towards-the-dove.com/2015/03/where-did-you-go-for-springbreak-2015/"
+            },
+            {
+                "label": "Seven on Seven 2014 presentation",
+                "href": "https://vimeo.com/96131398"
+            },
+            {
+                "label": "MONEGRAPH",
+                "href": "https://tokenscan.io/asset/MONEGRAPH"
+            },
+            {
+                "label": "described by the file and hash",
+                "href": "https://static.mccoyspace.com/A1028163271339.json"
+            },
+            {
+                "label": "A1028163271339900500",
+                "href": "https://tokenscan.io/asset/A1028163271339900500"
+            },
+            {
+                "label": "went on to mention",
+                "href": "https://x.com/mccoyspace/status/1888023594804068710"
+            }
+        ],
+        "Issuer": "Kevin and Jennifer McCoy"
+    },
+{
+        "Date": "2024-10-09",
+        "Time": "1728432000",
+        "imageURL": "https://www.xcp.io/img/mints.jpeg",
+        "Event": "MINTS",
+        "Significance": "MINTS is the first token distributed on Counterparty using the 'Fair Minting' protocol functionality released in v11.0.0. This process invited users to 'mint' tokens in a decentralized manner where the creator can specifiy a hard token issuance cap (max mint), an optional 'pre-mint' supply amount, a pre-determined amount of token recieved per mint and even more protocol level features like start blocks, end blocks, commissions, soft cap deadlines and more. The process of minting is 'free' minus the regular bitcoin transaction fee that is already prevalent in all Counterparty transactions. This minting theory in relation to Counterparty was previously introduced by Joe Looney with what he coined as the 'XCP-20 Fair Mint model' in 2023. Those earlier mints included tokens like FLOCK, FLOON, SEAGULLS, JPMCHASE and others, but there is quite a technical difference between XCP-20 mints and the Fairmints released in v11.0.0. The XCP-20 model was based on creating a dispenser on a burn address with 100% of the token's supply in the burn address dispenser. This meant that all BTC sent to 'claim' or 'mint' these tokens was burned indefinetely. This 2023 experiment seemed to be heavily inspired by Counterparty's 'proof-of-burn' model and 3.3154 BTC was burned for various XCP-20 assets. In the case of the newer protocol level model, MINTS was the first fairmint under the v11.0.0 protocol upgrade with 100 million tokens total minted into existence and 1000 tokens per minting transaction. The MINTS description was updated about a month after minting to include a JSON hosted by xcp.io that pointed an AI stylized image of Roman ruins being explored by 18th century humans. Other very interesting 'Fairmint firsts' like PEPEEMBRYO.FAIRSTAMP, NANOFAIR, PEPEFAIR, A10015080875092566828, FAIRSOUND and many others would be the first tokens to use a subasset to mint, add an image to a fairmint, the first pepe mint, the first numeric asset mint and even the first audio attached mints. Many first in Fairmints happened quite fast in relation to the bigger Counterparty historical picture and even company's like EverdreamSoft used the function for new Spells of Genesis related memorabilia. This functionality was eventually supported by existing wallets like Freewallet and Horizon, but MINTS in particular was very much restricted to only node operators at the time minting was live.  Soon after this protocol upgrade, entire marketplaces such as firemints.xyz and fairmints.io started offering the functionality and in-depth explorers for users to interact with the new feature.",
+        "links": [
+            {
+                "label": "Fair Minting",
+                "href": "https://docs.counterparty.io/docs/advanced/specifications/fairminter/"
+            },
+            {
+                "label": "MINTS",
+                "href": "https://tokenscan.io/asset/MINTS"
+            },
+            {
+                "label": "XCP-20 Fair Mint model",
+                "href": "https://web.archive.org/web/20250429182441/https://xcp20.wtf/"
+            },
+            {
+                "label": "firemints.xyz",
+                "href": "https://firemints.xyz/"
+            },
+            {
+                "label": "fairmints.io",
+                "href": "https://fairmints.io/"
+            },
+            {
+                "label": "released in v11.0.0",
+                "href": "https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v11.0.0-beta.1"
+            }
+        ],
+        "Issuer": "1FairPYzS6MJJq5fPQqf3M58ZxJEpkiGfX"
+    },
+{
+        "Date": "2022-02-04",
+        "Time": "1643932800",
+        "imageURL": "https://pepeflags.art/wp-content/uploads/2022/02/pepe_flags_art_wyoming.jpg",
+        "Event": "Pepe Flags",
+        "Significance": "Pepe Flags, created by Kekert, is a unique project that reimagines all 50 US state flags as versions of Pepe The Frog and his fellow frens. These reinterpretations blend political iconography with internet culture, creating a series of vibrant, meme-inspired artworks. The resulting images, capture both the essence of the original state flags and the playful, satirical nature of Pepe The Frog. Tokens were issued starting at block 721797 on the Bitcoin blockchain, with initial artwork uploaded through the Kaleidoscope platform. All 50 art tokens currently have unlocked issuance, with 100 editions per flag as the starting supply. While many of the original flags were issued in the same block, some of the first include the Arizona, New York, Ohio and manys others. The first flag to sell on the Counterparty DEX was the Wyoming flag. While the project began as a conceptual art piece, the art serves as both a playful homage to the internet subculture and a commentary on the intersection of digital art and political iconography with a mix of esoteric cult vibes. For more information on this project, check out the official project website linked below. ",
+        "links": [
+            {
+                "label": "block 721797",
+                "href": "https://tokenscan.io/block/721797"
+            },
+            {
+                "label": "first flag to sell",
+                "href": "https://tokenscan.io/tx/1895713"
+            },
+            {
+                "label": "https://pepeflags.art/",
+                "href": "official project website"
+            }
+        ],
+        "Issuer": "Kekert"
+    },
+{
+        "Date": "2021-11-06",
+        "Time": "1636156800",
+        "imageURL": "https://app.xcp.io/img/full/SMOKINGWEED",
+        "Event": "Test Gallery",
+        "Significance": "Test Gallery, created by Jeremiah Long (JL), is an AI GAN Art Project. All of the art in Test Gallery was produced using the Runway ML AttnGAN experiment to paint pictures by analyzing a series of words and phrases in real-time. The art is a journey through the life and studies of the artist JL. Some pieces are purely abstract visualizations of memories, while others have obvious or hidden meanings related to the artist’s loves and life in the film industry. Test Gallery was launched November 6th, 2021 (starting at Bitcoin block 708,450) and includes 20 art tokens, locked, with 40 editions each. This collection also includes 1 bonus completionist token, locked, with 40 editions that are Airdropped to the first 40 to complete the set and 1 TESTGALLERY token, locked, with 400 editions, which acts as an homage to the circulating supply of the old TEST asset. Owners of the TEST asset were airdropped TESTGALLERY tokens upon project launch and the collectors of all 20 main tokens could claim the completionist 21st bonus token, SMOKINGWEED. Dispensers were set at 0.0019 BTC each, as an homage to the first TEST asset dispenser price.",
+        "links": [
+            {
+                "label": "official project website",
+                "href": "https://testgalleryart.wordpress.com/"
+            },
+            {
+                "label": "Jeremiah Long",
+                "href": "https://www.xcp.io/collect/jl"
+            },
+            {
+                "label": "Runway ML AttnGAN",
+                "href": "https://experiments.runwayml.com/generative_engine/"
+            }
+        ],
+        "Issuer": "Jeremiah Long (JL)"
+    },
+{
+        "Date": "2021-12-19",
+        "Time": "1639872000",
+        "imageURL": "",
+        "Event": "Bitcoin Heads",
+        "Significance": "Bitcoin Heads is a project created by Vlad Costea that commemorates individuals in the Bitcoin and Counterparty space with scarce digital trading cards. Vlad is well known in the Bitcoin space for his work in creating The Bitcoin Takeover Podcast, Bitcoin Takeover Website and BTCTKVR magazine. The collection starts with VLADHEAD representing Vlad himself but also prominent figures in the community such as Theo Goodman, Chris DeRose, Mike in Space, Casey and many more. The collection even pokes fun at characters with historical bad press like SBF, Mark Karpeles and others. Vlad mentioned the precursor to this series was something called 'Leftist Tears' with assets such as A11114413083988935324, FRAGILETEARS and KARENTEARS to name a few. Vlad wrote, 'it was my earliest experiment with creating a collection' and 'at the time, the American left really hated Bitcoin'. Many of the archetypes were made fun of with these tokens such as people who didn't hate NFT's on 'green' Proof of Stake networks (Ethereum). This same card template and similar criticism was used in the Bitcoin Heads collection. Vlad goes on to mention that 'at the time, Pepe was seeing a resurgence with Fake Rares. But I had no original idea for creating Pepes, the original collection is amazing and the new artists are much better than me. So I created my own weird digital cards. The supply was purposely low to create scarcity and give the few collectors the feeling that they're holding onto something special.' Bitcoin Heads art would also be inscribed using Ordinals within the first month of the Ordinals launch. These Ordinals are plainly labeled on the Bitcoin Heads website. Vlad explained, 'It was just a way to make them permanent on the Bitcoin blockchain, so the art never goes away.' Recently even the description of the Counterparty token VLADHEAD was updated with the inscribed Ordinal ID from what was mentioned above and is shown in the commonly used CIP25 Ordinal format to describe Counterparty tokens.",
+        "links": [
+            {
+                "label": "Bitcoin Takeover Website",
+                "href": "https://bitcoin-takeover.com/bitcoin-nfts-on-counterparty-and-how-to-get-or-create-your-first-one/"
+            },
+            {
+                "label": "Bitcoin Heads",
+                "href": "https://btcheads.com/"
+            },
+            {
+                "label": "BTCTKVR magazine",
+                "href": "https://bitcoin-takeover.com/about-us/"
+            },
+            {
+                "label": "Vlad Costea",
+                "href": "https://x.com/TheVladCostea"
+            },
+            {
+                "label": "'Leftist Tears",
+                "href": "https://tokenscan.io/search?query=LEFTIST"
+            },
+            {
+                "label": "A11114413083988935324",
+                "href": "https://tokenscan.io/asset/A11114413083988935324"
+            },
+            {
+                "label": "was updated",
+                "href": "https://tokenscan.io/tx/b10c860e776cb8ec215b5ea3b332187067476a3896d42a3900456443aebdaa02"
+            },
+            {
+                "label": "VLADHEAD",
+                "href": "https://tokenscan.io/asset/VLADHEAD"
+            }
+        ],
+        "Issuer": "Vlad Costea"
+    },
+{
+        "Date": "2021-11-11",
+        "Time": "1636588800",
+        "imageURL": "https://tokenscan.io/img/cards/JOELOONEYBIN.png",
+        "Event": "Flooneys",
+        "Significance": "Flooneys (or FlooneyBins) is a Counterparty collection of art centered around Joe Looney. Flooneys are split up into groups including the 'Pre-FlooneyBin Era', 'The FlooneyBin Collection', 'The FLOONEYBIN.MAKE_YOUR_OWN Collection', 'The Mike In Space Collection' and 'Various Floons from across the Flooneyverse'. The collection stems from the original Rare Pepe card 'JOEFLOONEYBIN' by Dan Darkpill which used a picture of Joe Looney's face replacing Osama Bin Laden and includes various Rare Pepe references like 'JONGPEPE Whale', 'WalletMaster' and 'Rare Code Skillz'. Various pieces after this original card built off of this idea which used this type of form and content to either exalt Joe Looney or make fun of him in some way. This includes topics like disc golf, renaissance art, Kim Jong Un, Lord of the Rings, Dune, The Shining and many many more. While some of the pieces are from the Rare Pepe Collection, some are curated pieces from Fake Rare, Fake Commons, Kaleidoscope, Pepe Fest Rares and a few others. At one point a simple picture creator tool was offered to draw with disc golf frisbees and 'green-faced' pictures of Joe to create the 'FLOONEYBIN.MAKE_YOUR_OWN Collection' where any individual was invited to make a Flooney. Many prominent artists and community members works are included in this collection such as Scrilla, Darky, Norman Comics, Fake Annie, Carsonated, Arwyn, Mike in Space, NathanSonic and many more.",
+        "links": [
+            {
+                "label": "art centered around Joe Looney",
+                "href": "https://flooney.wordpress.com/"
+            }
+        ],
+        "Issuer": "1LxW4z23GF3sG9tWhaUtTJd1UHcKu7UiY7"
+    },
+{
+        "Date": "2022-08-23",
+        "Time": "1661212800",
+        "imageURL": "",
+        "Event": "Rare Skull and Bones",
+        "Significance": "Rare Skull and Bones is a Counterparty curated art project created by Daveartnft. The collection centers around the theme of human skull art with many pieces referencing Bitcoin, Counterparty culture, esoteric symbolism as well as darker concepts like death and decay. Daveartnft mentioned that the collection was started 'to create art tokens that could contrast with other directories at the moment' and offer an alternative. With many projects like Fake Rare and Dank Rare focusing on pepe art at the time, Daveartnft mentioned he wanted somehting a little more 'exclusive'. The submissions in the 3 current published series range from a minimum of 55 tokens to a maximum of 300 total tokens for each individual piece. Daveartnft mentioned there are unreleased pieces in queue for a 4th series and submissions are still open at this time.",
+        "links": [
+            {
+                "label": "Rare Skull and Bones",
+                "href": "https://www.rareskulls.com/"
+            },
+            {
+                "label": "theme of human skull art",
+                "href": "https://tokenscan.io/asset/SKULLSRARE"
+            }
+        ],
+        "Issuer": "Daveartnft"
+    },
+{
         "Date": "2014-12-09",
         "Time": "1418083200",
         "imageURL": "",
