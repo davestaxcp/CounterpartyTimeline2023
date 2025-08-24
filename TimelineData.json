@@ -415,7 +415,7 @@
         "Time": "1689724800",
         "Proposal": false,
         "Event": "Atomic Swaps",
-        "Significance": "This Counterparty Improvement Proposal suggests adding Atomic Swaps. Which enable direct peer-to-peer asset exchange by utilizing Hash Time Locked Contracts to ensure secure and trustless transactions. The proposal suggests using Atomic Swaps to eliminate vulnerabilities of dispensers and XCP DEx limitations.",
+        "Significance": "This Counterparty Improvement Proposal suggests adding Atomic Swaps. Which enable direct peer-to-peer asset exchange by utilizing Hash Time Locked Contracts to ensure secure and trustless transactions. The proposal suggests using Atomic Swaps to eliminate vulnerabilities of dispensers and XCP DEx limitations. While this update is marked as developed, take note that a proposal by Dime Squanderer was implemented in counterparty-core v10.4.0 and not Keyuno's proposal",
         "links": [
             {
                 "label": "This Counterparty Improvement Proposal",
@@ -3679,7 +3679,7 @@
         "Time": "1522972800",
         "imageURL": "https://user-images.githubusercontent.com/136373423/279544962-62014b35-2a65-4124-8897-902a759d9a2a.png",
         "Event": "MAFIACASH",
-        "Significance": "Mafia Wars is a decentralized blockchain based mafia themed idle game of accumulation which utilizes the Counterparty platform. The only objective of the game is to accumulate the MAFIACASH reward token. MAFIACASH is distributed each month to players proportional to their share of total Mafia Wars family tokens and their families in-game performance.",
+        "Significance": "Mafia Wars is a decentralized blockchain based mafia themed idle game of accumulation which utilizes the Counterparty platform and was created by Jdog (Jeremy Johnson). The only objective of the game is to accumulate the MAFIACASH reward token. MAFIACASH is distributed each month to players proportional to their share of total Mafia Wars family tokens and their families in-game performance.",
         "links": [
             {
                 "label": "Mafia Wars",
@@ -3690,7 +3690,7 @@
                 "href": "https://xchain.io/asset/MAFIACASH"
             }
         ],
-        "Issuer": "1MafiamRRxzhUH5errEEJK2G4Q1ZjXoEgE"
+        "Issuer": "Jdog"
     },
 {
         "Date": "2018-06-09",
@@ -4483,7 +4483,7 @@
     "Time": "1528588800",
     "imageURL": "https://github.com/user-attachments/assets/7dc4b05c-322d-4f52-b9ff-3b7f51375c15",
     "Event": "The Wojak Way",
-    "Significance": "The Wojak Way is an open-invitation art collection created by Abstrast Mirror that centers around the well known 'Wojak' meme character. The project states on their website they hope to see 'creative interpretations of Wojak in the form of memes, fine art, political satire, video GIFs and more'. This project aims to be 'an organic NFT collection' and that 'curation is essential'. At this time there are 6 total series with a total of 260 separate art pieces from very well-known artists, many of which from the Counterparty community. Some of the art simply includes the Wojak character similar to how it is expressed in common internet memes, but other pieces are incredible artistic endeavors with intricate content and form. Many of the pieces and artists also came together for an in-person gallery event in London during 2023. At this time submissions for this project are still open, but not many spots in the collection remain.",
+    "Significance": "The Wojak Way is an open-invitation art collection created by Abstrast Mirror that centers around the well known 'Wojak' meme character. The project states on their website they hope to see 'creative interpretations of Wojak in the form of memes, fine art, political satire, video GIFs and more'. This project aims to be 'an organic NFT collection' and that 'curation is essential'. At this time there are 6 total series with a total of 260 separate art pieces from very well-known artists, many of which from the Counterparty community. Some of the art simply includes the Wojak character similar to how it is expressed in common internet memes, but other pieces are incredible artistic endeavors with intricate content and form. Many of the pieces and artists also came together for an in-person gallery event in London during 2023. At this time, all submissions for this project have been closed.",
     "links": [
       {
         "label": "The Wojak Way Website",
