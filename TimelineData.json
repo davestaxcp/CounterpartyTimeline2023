@@ -2578,11 +2578,19 @@
         "Time": "1636588800",
         "imageURL": "https://tokenscan.io/img/cards/JOELOONEYBIN.png",
         "Event": "Flooneys",
-        "Significance": "Flooneys (or FlooneyBins) is a Counterparty collection of art centered around Joe Looney. Flooneys are split up into groups including the 'Pre-FlooneyBin Era', 'The FlooneyBin Collection', 'The FLOONEYBIN.MAKE_YOUR_OWN Collection', 'The Mike In Space Collection' and 'Various Floons from across the Flooneyverse'. The collection stems from the original Rare Pepe card 'JOEFLOONEYBIN' by Dan Darkpill which used a picture of Joe Looney's face replacing Osama Bin Laden and includes various Rare Pepe references like 'JONGPEPE Whale', 'WalletMaster' and 'Rare Code Skillz'. Various pieces after this original card built off of this idea which used this type of form and content to either exalt Joe Looney or make fun of him in some way. This includes topics like disc golf, renaissance art, Kim Jong Un, Lord of the Rings, Dune, The Shining and many many more. While some of the pieces are from the Rare Pepe Collection, some are curated pieces from Fake Rare, Fake Commons, Kaleidoscope, Pepe Fest Rares and a few others. At one point a simple picture creator tool was offered to draw with disc golf frisbees and 'green-faced' pictures of Joe to create the 'FLOONEYBIN.MAKE_YOUR_OWN Collection' where any individual was invited to make a Flooney. Many prominent artists and community members works are included in this collection such as Scrilla, Darky, Norman Comics, Fake Annie, Carsonated, Arwyn, Mike in Space, NathanSonic and many more.",
+        "Significance": "Flooneys are a collection of digital art on the Counterparty platform, primarily centered around Joe Looney, a key figure in the Rare Pepe community. The collection spans multiple series, including the 'Pre-FlooneyBin Era', 'The FlooneyBin Collection', and 'The Mike In Space Collection', as well as various one-off pieces from the 'Flooneyverse'. The collection begins as an homage to original Rare Pepe card, 'JOELOONEYBIN,' created by artist Dan Darkpill. This card humorously featured a picture of Joe Looney’s face replacing Osama Bin Laden and included references to community members and crypto culture, such as 'JONGPEPE Whale' and 'Rare Code Skillz' relating to his massive pepe collection and his previous coding of the Rare Pepe Wallet. This creative concept evolved into a wide range of art pieces that either celebrated or playfully poked fun at Joe Looney. The 'Flooneyverse' touches on a variety of themes, including disc golf, renaissance art, Lord of the Rings, The Shining and many other cultural references. While many pieces are part of the main Rare Pepe Collection, others are curated from related projects like Fake Rare, Fake Commons, Kaleidoscope, and Pepe Fest Rares. The project also invited community participation through the 'FLOONEYBIN.MAKE_YOUR_OWN Collection,' a simple tool that allowed anyone to create their own Flooney using disc golf frisbees, 'green-faced' Joe Looney images and other 'paint' inspired tooling. The broader collection features art from a number of prominent artists and community members, including Scrilla, Darky, Norman Comics, Booo Urns, Fake Annie, Carsonated, Arwyn, Mike in Space, and NathanSonic. The collection is defined by the 'FLOONEYBIN' card by Booo Urnz, which stands out as the only fake rare with sub-assets that are also included in the collection.",
         "links": [
             {
                 "label": "art centered around Joe Looney",
                 "href": "https://flooney.wordpress.com/"
+            },
+            {
+                "label": "JOELOONEYBIN",
+                "href": "https://tokenscan.io/asset/JOELOONEYBIN"
+            },
+            {
+                "label": "FLOONEYBIN",
+                "href": "https://tokenscan.io/asset/FLOONEYBIN"
             }
         ],
         "Issuer": "1LxW4z23GF3sG9tWhaUtTJd1UHcKu7UiY7"
