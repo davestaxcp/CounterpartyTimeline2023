@@ -127,6 +127,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 - V11 drama and TOOFUNNYPEPE https://web.archive.org/web/20250617184350/https://counterparty.com/
 - eventually add TIMELINEXCP (research + documentary in a token) after adding most of the others ;)
 - when it all settles down (it didnt)... the 9.6 + 10.4+ protocol fork drama - https://tokenscan.io/asset/UNITYXCP
+- CPOAPEPE? - https://x.com/punk3606/status/1956348682053296590
 
 
 ---
