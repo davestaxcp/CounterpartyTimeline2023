@@ -20,7 +20,8 @@ The markdown files include the information shown on the Time.Graphics timeline i
 
 [Counterparty Developer/Token Timeline Visual Infographic](https://time.graphics/line/858561)
 
-![screenshotoftimeline9 15 24_v2](https://github.com/user-attachments/assets/e09803c2-41d2-4bc3-8202-153cc2ff839c)
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9df2527e-8259-47ec-aecb-9b29869d1091" />
+
 
 
 ---
@@ -67,31 +68,13 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 ---
 
-## Add Other Notable Blockchain Events
-
----
-
-- Namecoin Protocol Begins - April 18, 2011
-- Ethereum Protocol Begins -  July 30, 2015
-- Dogeparty Protocol Begins - August 13, 2014
-- Ordinal Protocol Begins - January 21, 2023
-- Mastercoin (Colored Coins with Omni Protocol) - July 31, 2013
-- First DNS names on Emercoin - July 26, 2014
-
-
----
----
-
 ### Blockchain/Github Data to be Shown Visually
-
----
 
 - overlay Bitcoin Price above mid line
 - overlay XCP Price above mid line
 - overlay Number of XCP transactions below mid line
 - overlay Commits graphic below mid line: ![Untitled](https://github.com/davestaxcp/CounterpartyTimeline2023/assets/136373423/1dd41766-f0ee-427c-a708-297b2e350cc0)
 
----
 ---
 
 ### Entries Up Next:
@@ -100,42 +83,11 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 
 - add Robby Dermody Interview: https://youtu.be/FUZJ0QRjVUI
 - add John Villar interview: https://youtu.be/f7p4izksjxo
-
----
-
-- add Unspendable Labs 'Horizon' wallet - Sept 25, 2024 - https://x.com/UnspendableLabs/status/1838708329440248022 (https://wallet.unspendablelabs.com/) - https://github.com/UnspendableLabs/Horizon-Wallet
-
----
-
-- add TESTGALLERY by JL - https://github.com/davestaxcp/CounterpartyTimeline2023/issues/1
-
----
-
-- change Atomic Swaps developer entry to infer Keyuno's proposal as proposed and (include entry of and..) show Derp Herpenstein's proposal as developed
-- when it all settles down (it didnt)... the 9.6 + 10.4+ protocol fork drama - https://tokenscan.io/asset/UNITYXCP
-- Dogeparty fork
-
----
-
-- revise story of Joe Hamilton's Monegraph mint with information from Kevin McCoy - https://x.com/mccoyspace/status/1867095532390285768 - https://x.com/mccoyspace/status/1888023594804068710
-- MONEGRAPH token 2014 - and 'Silicon Flats' 2015 by Kevin McCoy - https://eyes-towards-the-dove.com/2015/03/where-did-you-go-for-springbreak-2015/ - show with Monegraph influence and the 2015 mint
-- early Monegraph presentation: https://vimeo.com/96131398
-- Wojack Way ended submissions end of 2024
 - rework EARLY token description from LTB - https://web.archive.org/web/20140921005001/https://letstalkbitcoin.com/blog/post/tcv
 - Period of time between Jdog Lead Maintainer and Adam K (group of people with github access)
-- add image to MININGPEPEL 
-- Coindaddy article from a decade ago (Grumpycat) - https://cointelegraph.com/news/assets-remove-barriers-that-prevent-people-from-experimenting-says-coindaddy-dev
 - LTB Companion Multi Token wallet - https://www.youtube.com/watch?v=zPye-5ZF4i4
-
----
-
-Next ones to research:
-- JPBULL & JPBEAR + CPNEWS by JPJA ... RIGA issued by JPJA
-- firsts in fairmints (MINTS, first music + video etc)
 - lots of tokens not mentioned related to Lets Talk Bitcoin - https://tokenscan.io/asset/BOOKKEEPER
-- Tokenly wallet by Adam Levine- 'Tokenly Pockets' - included dispensers, DEx etc etc
 - Token FM
-- FLOONIES collection : https://flooney.wordpress.com/
 - other Rare Pepe cards with token access content (full list: DJPEPE, DROPPEPE, EGGPLANTPEPE, HIPPIEPEPE, JUNSETHPEPE, MAUIPEPE, PAWNTHELAMBO, PEPEAUCTIOND, PEPEBALT, PEPEINTRO, PEPENATION, PEPETANGCLAN, PEPLACE, PEPLACERESLT, RELAXPEPE, THREERARE, YAMAPEPE)
 - another token by weex? KETF - https://www.reddit.com/r/Bitcoin/comments/2x09wb/steal_this_art_crack_its_key/ - https://tokenscan.io/asset/KETF
 - more info on Swarm and early tokens: https://bitcointalk.org/index.php?topic=664071.msg7487628#msg7487628 - https://tokenscan.io/asset/SWARMPRE - https://tokenscan.io/asset/GOLDTICKET - https://tokenscan.io/asset/SWARM - https://youtu.be/LBBvay6n5kc
@@ -145,14 +97,7 @@ Next ones to research:
 - "BlockTT" - institutional (B2B) stablecoin with DEX for settlement on Counterparty, by Matthew Tan et al (DBS Hackathon, Singapore, 2015) - https://x.com/i/status/1854158581735780463 - https://x.com/armchairancap/status/1854433068393877756
 - Coinify? app coin ico crowd sales?
 - More Topcoin info? - https://www.counterparty.io/news/counterparty-update-080316/
-- more documentation and info on Rare Pepe: https://bitcointalk.org/index.php?topic=1617264.0
-- HOURCONSULT Adam B Levine more info - https://x.com/AdamBLevine/status/1894600439649505519 - https://x.com/AdamBLevine/status/1894600202541265189 - https://web.archive.org/web/20180104191618/https://tokenmarkets.com/ - https://x.com/AdamBLevine/status/1894616702501228919
 - earlier XCP history... include Delisting events from CEX's for XCP (and other historic coins?)... "dark ages" ... why the btc fees chart and historical btc protocol debates should probably be included - https://www.youtube.com/watch?v=bl30m31d_zs&t=3437s
-
----
-
-- Leftist Tears project? http://bitcoin-takeover.com/bitcoin-nfts-on-counterparty-and-how-to-get-or-create-your-first-one/
-- Bitcoin Heads project? http://bitcoin-takeover.com/bitcoin-nfts-on-counterparty-and-how-to-get-or-create-your-first-one/ - VLADHEAD, JOSHUAHEAD etc - https://btcheads.com/ - Ordinal versions + "created some physical cards with Satochip"
 - https://tokenscan.io/asset/PERMACREDITS - https://x.com/i/status/1854158581735780463
 - https://tokenscan.io/asset/NICEPLUM - https://x.com/i/status/1854158581735780463
 - XCPTORCH.Chiguireitor - 2019-03-02 - https://xchain.io/asset/XCPTORCH - related to Lightning Torch? Predated by DUTCHIE? - (1/1 NFT's passing between people who add content to the token) - influenced FAKETORCH in Fake Rares
@@ -167,7 +112,6 @@ Next ones to research:
 - First Augmented Reality token? Before Fake Rare?
 - Firsts in Fake Rare? FakeDust (music player/multi layered token) - others?
 - First 3D designed art on an XCP token?
-- | The Nakamotos | thenakamotos.club | Unique PFPs tied to each of the Nakamotos cards (RAREPEPE) - instance of "Serialized XCP Tokens"
 - | Phunchkins | https://phunchkins.com/ | https://web.archive.org/web/20231208182144/https://phunchkins.com/
 - | Pepemon | https://pepemon.net/ |
 - | Wojak NPC | https://wojaknpc.com/ |
@@ -182,8 +126,8 @@ Next ones to research:
 - https://xchain.io/asset/NOVATOKEN
 - V11 drama and TOOFUNNYPEPE https://web.archive.org/web/20250617184350/https://counterparty.com/
 - eventually add TIMELINEXCP (research + documentary in a token) after adding most of the others ;)
-- add PEPEFLAGS (Kekert) project in 2022
-- Rare Skull and Bones https://www.rareskulls.com/
+- when it all settles down (it didnt)... the 9.6 + 10.4+ protocol fork drama - https://tokenscan.io/asset/UNITYXCP
+
 
 ---
 ---
