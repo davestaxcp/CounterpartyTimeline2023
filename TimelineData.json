@@ -989,6 +989,76 @@
         "Author": "John Villar"
     },
     {
+        "Date": "2024-11-11",
+        "Time": "1704931200",
+        "Release": true,
+        "Event": "Counterparty Core v10.7.0",
+        "Significance": "This is a protocol upgrade that includes a refactor of the UTXO Support feature that fixes some bugs in the original design and simplifies the implementation significantly. It also includes bugfixes for the fair minting functionality in addition to the usual set of miscellaneous improvements to the node API.",
+        "links": [
+            {
+                "label": "protocol upgrade",
+                "href": "https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v10.7.0"
+            }
+        ],
+        "Author": "OpenStamp, DerpHerpenstein, Ouziel Slama, Wilfred Denton and Adam Krellenstein"
+    },
+    {
+        "Date": "2025-01-15",
+        "Time": "1736899200",
+        "Release": true,
+        "Event": "Counterparty Core v10.9.0",
+        "Significance": "This release represents a major technical milestone in the development of Counterparty Core: Counterparty no longer has AddrIndexRs as an external dependency. Originally, AddrIndexRs was used for transaction construction, and at the end of 2023 it was accidentally turned into a consensus-critical dependency (causing a number of subsequent consensus breaks and reliability issues). As of today, the only external dependency for a Counterparty node is Bitcoin Core itself. Counterparty Core will rely on Bitcoin Core by default to provide all of the information it needs for transaction construction (which is not consensus-critical). However this operation will only succeed if the source address for the transaction is present in the Bitcoin Core wallet. If it isn't, then Counterparty Core will use some service (either local or remote) which implements the Electrum server API to gather the information it needs. If the address isn't in Bitcoin Core, Counterparty will by default connect to the Blockstream public API. This server is configurable using the --electrs-url CLI argument, however, and users can run their own instance of this service locally if they like. A public instance of Electrs is also available at https://api.counterparty.io:3000. This service does not need to be trusted in any way, and no private information is ever sent to it. As a consequence of the removal of the AddrIndexRs dependency, the node storage requirements have effectively decreased from ~300 GB to ~30 GB, dramatically decreasing the cost of node operation. Nodes should also be more reliable and performant generally. This upgrade notably includes support for testnet4, since testnet3 is no longer usable for testing purposes. A public server is available at https://testnet4.counterparty.io:44000. Finally, this upgrade includes a completely rewritten transaction composition module in preparation for future testing work. The new composer API is fully backwards-compatible, but it now includes additional parameters which make constructing a transaction much more natural. Transactions composed with the new API will use a version byte of 2 instead of 1.",
+        "links": [
+            {
+                "label": "major technical milestone",
+                "href": "https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v10.9.0"
+            }
+        ],
+        "Author": "Ouziel Slama, Warren Puffet and Adam Krellenstein"
+    },
+    {
+        "Date": "2025-02-14",
+        "Time": "1739491200",
+        "Release": true,
+        "Event": "Counterparty Core v10.10.0",
+        "Significance": "This release includes a complete rewrite of the entire test harness for Counterparty Core, as well as both restored and all-new integration tests and GitHub workflows for continuous integration. This release also adds support for Python 3.12 and 3.13, which means significantly improved performance overall. There are of course a number of bugfixes, especially for node stability when Bitcoin Core is overloaded..",
+        "links": [
+            {
+                "label": "This release",
+                "href": "https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v10.10.0"
+            }
+        ],
+        "Author": "Ouziel Slama and Adam Krellenstein"
+    },
+    {
+        "Date": "2025-02-14",
+        "Time": "1739491200",
+        "Release": true,
+        "Event": "Counterparty Core v10.10.0",
+        "Significance": "This release includes a complete rewrite of the entire test harness for Counterparty Core, as well as both restored and all-new integration tests and GitHub workflows for continuous integration. This release also adds support for Python 3.12 and 3.13, which means significantly improved performance overall. There are of course a number of bugfixes, especially for node stability when Bitcoin Core is overloaded..",
+        "links": [
+            {
+                "label": "This release",
+                "href": "https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v10.10.0"
+            }
+        ],
+        "Author": "Ouziel Slama and Adam Krellenstein"
+    },
+    {
+        "Date": "2025-05-27",
+        "Time": "1748304000",
+        "Release": true,
+        "Event": "Counterparty Core v11.0.0",
+        "Significance": "Counterparty Core v11.0.0 is a large release with numerous protocol upgrades and many miscellaneous improvements to the API, CLI and codebase, including significantly increased test coverage. Protocol Upgrades: Fix Bech32 address handling—now support P2WSH and P2TR, Support for Taproot envelope data encoding, which will significantly reduce transaction fees for larger transactions (and removal of support for P2SH data encoding, which is strictly worse than Taproot), Support for Ordinals Inscription creation when composing an Issuance, Fairminter or Broadcast (API parameters: inscription, mime_type), Allow soft_cap to be equal to hard_cap with Fairminters, Add max_mint_per_address parameter to Fairminters (API parameter: max_mint_per_address)",
+        "links": [
+            {
+                "label": "This release",
+                "href": "https://github.com/CounterpartyXCP/counterparty-core/releases/tag/v11.0.0"
+            }
+        ],
+        "Author": "Ouziel Slama and Adam Krellenstein"
+    },
+    {
         "Date": "2017-09-28",
         "Time": "1506556800",
         "Release": true,
