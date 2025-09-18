@@ -130,6 +130,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 - CPOAPEPE? - https://x.com/punk3606/status/1956348682053296590
 - EVAS , https://tokenscan.io/asset/EVAS
 - Nakamotos 1/1 PFP's onchain? https://tokenscan.io/asset/THENAKAMOTOS
+- add ancientrelics link
 
 
 ---
