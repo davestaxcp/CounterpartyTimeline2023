@@ -131,6 +131,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 - EVAS , https://tokenscan.io/asset/EVAS
 - Nakamotos 1/1 PFP's onchain? https://tokenscan.io/asset/THENAKAMOTOS
 - add ancientrelics link to dogeparty fork, and others
+- HomerPepe Socks subasset: https://x.com/ScrillaVentura/status/2035761899153899769
 
 
 ---
