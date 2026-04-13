@@ -110,7 +110,7 @@ Feel free to reach out to me on [Telegram](https://t.me/davesta) or on [Twitter]
 - SEIMEI - 2018
 - The Augmentor's Game - seen on SharkTank? - https://steemit.com/games/@tonylondon/the-augmentor-s-game - GENOFLIGHT as Augmentor card but also in SOG - playable in SOG! - issued by? https://xchain.io/address/1Rjkk2nrfmFbYN3fvxkdsEQi6QtJPnWKS
 - First Augmented Reality token? Before Fake Rare?
-- Firsts in Fake Rare? PEPERMANENT (onchain permanent), FAKEDUST (music player/multi layered token)..... - others? + FAKETORCH, FAKEASF, GHOSTFAKE.... - new "Historic Fake Rares" section, but how to 'judge' all? 
+- Firsts in Fake Rare? PEPERMANENT (onchain permanent), FAKEDUST (music player/multi layered token)..... - others? + FAKETORCH, FAKEASF, GHOSTFAKE, PEPECREATURE!!.... - new "Historic Fake Rares" section, but how to 'judge' all? 
 - First 3D designed art on an XCP token?
 - | Phunchkins | https://phunchkins.com/ | https://web.archive.org/web/20231208182144/https://phunchkins.com/
 - | Pepemon | https://pepemon.net/ |
